@@ -61,21 +61,10 @@ function App() {
               <div className="column is-8-desktop is-offset-2-desktop">
                 <p>
                   <strong className="has-text-weight-semibold">
-                    <a href="https://www.npmjs.com/package/bulma-start">
-                      bulma-start@0.0.3
+                    <a href="https://github.com/peterbe/mdn-nottranslated">
+                      mdn-nottranslated
                     </a>
                   </strong>
-                </p>
-                <p>
-                  <small>
-                    Source code licensed{" "}
-                    <a href="http://opensource.org/licenses/mit-license.php">
-                      MIT
-                    </a>
-                  </small>
-                </p>
-                <p style={{ marginTop: "1rem" }}>
-                  <a href="http://bulma.io">P</a>
                 </p>
               </div>
             </div>
