@@ -1,0 +1,210 @@
+[
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Installing basic software",
+      "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Learning HTML: Guides and tutorials",
+      "slug": "Learn/HTML",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML forms",
+      "slug": "Learn/HTML/Forms",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN at 10",
+      "slug": "MDN_at_ten",
+      "locale": "el",
+      "parent": {
+        "slug": "MDN_at_ten",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Localizing MDN",
+      "slug": "Project:MDN/Localizing",
+      "locale": "el",
+      "parent": {
+        "slug": "MDN/Contribute/Localize",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology for developers",
+      "slug": "Web",
+      "locale": "el",
+      "parent": {
+        "slug": "Web",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web API Interfaces",
+      "slug": "Web/API",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CanvasRenderingContext2D",
+      "slug": "Web/API/CanvasRenderingContext2D",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocation",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "patra",
+      "slug": "Web/API/Geolocation/Using_geolocation",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/Geolocation_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web developer guide",
+      "slug": "Web/Guide",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.every()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

@@ -1,0 +1,7621 @@
+[
+  {
+    "metadata": {
+      "title": "Code snippets",
+      "slug": "Code_snippets",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM Levels",
+      "slug": "DOM_Levels",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "DOM_Levels",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 DOM 檔案 API 再FireFox外觀代碼上",
+      "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 3.1 技術資訊",
+      "slug": "Firefox_3.1_技術資訊",
+      "locale": "zh-TW"
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 3 Animated PNG support",
+      "slug": "Firefox_3_Animated_PNG_support",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Tech/APNG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "fr",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 3 ping attribute support for anchor element",
+      "slug": "Firefox_3_ping_attribute_support_for_anchor_element",
+      "locale": "zh-TW"
+    },
+    "probably": "ca",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "遊戲開發",
+      "slug": "Games",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Publishing games",
+      "slug": "Games/Publishing_games",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games/Publishing_games",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Techniques for game development",
+      "slug": "Games/Techniques",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games/Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "2D 碰撞偵測",
+      "slug": "Games/Techniques/2D_collision_detection",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games/Techniques/2D_collision_detection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Workflows for different game types",
+      "slug": "Games/Tutorials",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "球拍和鍵盤控制",
+      "slug": "Games/Tutorials/2D_Breakout_game_pure_JavaScript/Paddle_and_keyboard_controls",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Games/Tutorials/2D_Breakout_game_pure_JavaScript/Paddle_and_keyboard_controls",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "元素",
+      "slug": "Glossary/Element",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "位元組順序",
+      "slug": "Glossary/Endianness",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/Endianness",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IIFE",
+      "slug": "Glossary/IIFE",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/IIFE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "參數",
+      "slug": "Glossary/Parameter",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/Parameter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Primitive",
+      "slug": "Glossary/Primitive",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/Primitive",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Routers",
+      "slug": "Glossary/routers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/routers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mobile accessibility",
+      "slug": "Learn/Accessibility/Mobile",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Accessibility/Mobile",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "文字樣式",
+      "slug": "Learn/CSS/Styling_text",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/CSS/Styling_text",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "學習 HTML ：指南與教學",
+      "slug": "Learn/HTML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用HTML解決日常問題",
+      "slug": "Learn/HTML/Howto",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Advanced text formatting",
+      "slug": "Learn/HTML/Introduction_to_HTML/Advanced_text_formatting",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/Advanced_text_formatting",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "基本 HTML 文字",
+      "slug": "Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What’s in the head? Metadata in HTML",
+      "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Multimedia and Embedding",
+      "slug": "Learn/HTML/Multimedia_and_embedding",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript building blocks",
+      "slug": "Learn/JavaScript/Building_blocks",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "建立自己的功能函數",
+      "slug": "Learn/JavaScript/Building_blocks/Build_your_own_function",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Build_your_own_function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "在代碼中做出決定 - 條件",
+      "slug": "Learn/JavaScript/Building_blocks/conditionals",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/conditionals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "函數 - 可重複使用的代碼塊",
+      "slug": "Learn/JavaScript/Building_blocks/Functions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "影像圖庫",
+      "slug": "Learn/JavaScript/Building_blocks/Image_gallery",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Image_gallery",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "循環代碼",
+      "slug": "Learn/JavaScript/Building_blocks/Looping_code",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Looping_code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "函數回傳值",
+      "slug": "Learn/JavaScript/Building_blocks/Return_values",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Return_values",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "客戶端 web APIs",
+      "slug": "Learn/JavaScript/Client-side_web_APIs",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Client-side_web_APIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "文檔操作(文件操作)",
+      "slug": "Learn/JavaScript/Client-side_web_APIs/Manipulating_documents",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Client-side_web_APIs/Manipulating_documents",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript中的基本數學 - 數字和運算符",
+      "slug": "Learn/JavaScript/First_steps/Math",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/Math",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "傻故事產生器",
+      "slug": "Learn/JavaScript/First_steps/Silly_story_generator",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/Silly_story_generator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "有用的字符串方法",
+      "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "出了什麼問題？JavaScript 疑難排解",
+      "slug": "Learn/JavaScript/First_steps/What_went_wrong",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/What_went_wrong",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 解決常見的問題",
+      "slug": "Learn/JavaScript/Howto",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/JavaScript/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web performance",
+      "slug": "Learn/Performance",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Learn/Server-side",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 8: User authentication and permissions",
+      "slug": "Learn/Server-side/Django/Authentication",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Authentication",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 11: Deploying Django to production",
+      "slug": "Learn/Server-side/Django/Deployment",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Deployment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 9: Working with forms",
+      "slug": "Learn/Server-side/Django/Forms",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 5: Creating our home page",
+      "slug": "Learn/Server-side/Django/Home_page",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Home_page",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 7: Sessions framework",
+      "slug": "Learn/Server-side/Django/Sessions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Sessions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial Part 10: Testing a Django web application",
+      "slug": "Learn/Server-side/Django/Testing",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django web application security",
+      "slug": "Learn/Server-side/Django/web_application_security",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Django/web_application_security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Author list page and Genre list page challenge",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Author_list_page",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Author_list_page",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 async 進行非同步流控制",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Genre detail page",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Genre_detail_page",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Genre_detail_page",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "主頁",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Home_page",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Home_page",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "模板入門",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Template_primer",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data/Template_primer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Create Author form",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Create_author_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Create_author_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Create Book form",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Create_book_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Create_book_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Create BookInstance form",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Create_BookInstance_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Create_BookInstance_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "創建種類表單",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Create_genre_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Create_genre_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Delete Author form",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Delete_author_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Delete_author_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Update Book form",
+      "slug": "Learn/Server-side/Express_Nodejs/forms/Update_Book_form",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/forms/Update_Book_form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "伺服器端的介紹",
+      "slug": "Learn/Server-side/First_steps/介紹",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Learn/Server-side/First_steps/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Localization quick start guide",
+      "slug": "Localization_Quick_Start_Guide",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Localization/Quick_start_guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Initial setup",
+      "slug": "Localization_Quick_Start_Guide/Initial_setup",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Localization/Quick_start_guide/Initial_setup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mercurial",
+      "slug": "Mercurial",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Mercurial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Prism",
+      "slug": "Prism",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/Mozilla/Prism",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "主視窗",
+      "slug": "Prism/主視窗",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/Mozilla/Prism/HostWindow",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Profile Manager",
+      "slug": "Profile_Manager",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Profile_Manager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "The MDN project",
+      "slug": "Project:MDN",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Project:MDN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Area of Interest",
+      "slug": "Project:tw/Area_of_Interest",
+      "locale": "zh-TW"
+    },
+    "probably": "ro",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Project:站外連結轉向",
+      "slug": "Project:站外連結轉向",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/Meta_docs/External_redirects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Python",
+      "slug": "Python",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Python",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Sandbox 沙盒",
+      "slug": "Sandbox",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Sandbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "fr",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "3D view",
+      "slug": "Tools/3D_View",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/3D_View",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Browser Toolbox",
+      "slug": "Tools/Browser_Toolbox",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Browser_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "除錯器",
+      "slug": "Tools/Debugger",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Debugger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Open the debugger",
+      "slug": "Tools/Debugger/How_to/Open_the_debugger",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Debugger/How_to/Open_the_debugger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the Debugger map scopes feature",
+      "slug": "Tools/Debugger/Using_the_Debugger_map_scopes_feature",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Debugger/Using_the_Debugger_map_scopes_feature",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Network Monitor",
+      "slug": "Tools/Network_Monitor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Network_Monitor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "頁面檢測器",
+      "slug": "Tools/Page_Inspector",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Page_Inspector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Allocations",
+      "slug": "Tools/Performance/Allocations",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Performance/Allocations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remotely debugging Firefox for Android",
+      "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Settings",
+      "slug": "Tools/Settings",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Settings",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "樣式編輯器",
+      "slug": "Tools/Style_Editor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Style_Editor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Audio Editor",
+      "slug": "Tools/Web_Audio_Editor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Web_Audio_Editor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "主控台訊息",
+      "slug": "Tools/Web_Console/Console_messages",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Web_Console/Console_messages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "鍵盤快捷鍵",
+      "slug": "Tools/Web_Console/Keyboard_shortcuts",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Web_Console/Keyboard_shortcuts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "豐富的輸出對象",
+      "slug": "Tools/Web_Console/Rich_output",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Web_Console/Rich_output",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "命令行解釋器",
+      "slug": "Tools/Web_Console/The_command_line_interpreter",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Tools/Web_Console/The_command_line_interpreter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE 錯誤排除",
+      "slug": "Tools/WebIDE/Troubleshooting",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/WebIDE/Troubleshooting",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ARIA",
+      "slug": "Web/Accessibility/ARIA",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using ARIA",
+      "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "基本表單應用",
+      "slug": "Web/Accessibility/ARIA/forms/Basic_form_hints",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/forms/Basic_form_hints",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用光線事件",
+      "slug": "Web/API/Ambient_Light_Events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Ambient_Light_Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnalyserNode",
+      "slug": "Web/API/AnalyserNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/AnalyserNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnalyserNode.getByteFrequencyData()",
+      "slug": "Web/API/AnalyserNode/getByteFrequencyData",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/AnalyserNode/getByteFrequencyData",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnimationEvent",
+      "slug": "Web/API/AnimationEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/AnimationEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnimationEvent.initAnimationEvent()",
+      "slug": "Web/API/AnimationEvent/initAnimationEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/AnimationEvent/initAnimationEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Attr",
+      "slug": "Web/API/Attr",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Attr",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blob()",
+      "slug": "Web/API/Blob/Blob",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Blob/Blob",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blob.size",
+      "slug": "Web/API/Blob/size",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Blob/size",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blob.type",
+      "slug": "Web/API/Blob/type",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Blob/type",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Body",
+      "slug": "Web/API/Body",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Drawing graphics with canvas",
+      "slug": "Web/API/Canvas_API/Drawing_graphics_with_canvas",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Drawing_graphics_with_canvas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Pixel manipulation with canvas",
+      "slug": "Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CanvasRenderingContext2D",
+      "slug": "Web/API/CanvasRenderingContext2D",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CanvasRenderingContext2D.clearRect()",
+      "slug": "Web/API/CanvasRenderingContext2D/clearRect",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D/clearRect",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CanvasRenderingContext2D.lineWidth",
+      "slug": "Web/API/CanvasRenderingContext2D/lineWidth",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D/lineWidth",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Channel Messaging API",
+      "slug": "Web/API/Channel_Messaging_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Channel_Messaging_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CharacterData",
+      "slug": "Web/API/CharacterData",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CharacterData",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Clients",
+      "slug": "Web/API/Clients",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Clients",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ClipboardEvent",
+      "slug": "Web/API/ClipboardEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ClipboardEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console",
+      "slug": "Web/API/Console",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console.assert()",
+      "slug": "Web/API/console/assert",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/console/assert",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Object Model",
+      "slug": "Web/API/CSS_Object_Model",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSS_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Determining the dimensions of elements",
+      "slug": "Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSS_Object_Model/Determining_the_dimensions_of_elements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用動態樣式資訊",
+      "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSStyleDeclaration",
+      "slug": "Web/API/CSSStyleDeclaration",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSSStyleDeclaration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSStyleSheet",
+      "slug": "Web/API/CSSStyleSheet",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSSStyleSheet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSStyleSheet.insertRule()",
+      "slug": "Web/API/CSSStyleSheet/insertRule",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CSSStyleSheet/insertRule",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CustomEvent",
+      "slug": "Web/API/CustomEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CustomEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CustomEvent()",
+      "slug": "Web/API/CustomEvent/CustomEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CustomEvent/CustomEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DataTransfer",
+      "slug": "Web/API/DataTransfer",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DataTransfer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DeviceMotionEvent",
+      "slug": "Web/API/DeviceMotionEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DeviceMotionEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DeviceOrientationEvent",
+      "slug": "Web/API/DeviceOrientationEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DeviceOrientationEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document",
+      "slug": "Web/API/Document",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.body",
+      "slug": "Web/API/Document/body",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.createDocumentFragment()",
+      "slug": "Web/API/Document/createDocumentFragment",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/createDocumentFragment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.createElement()",
+      "slug": "Web/API/Document/createElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/createElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.createTextNode()",
+      "slug": "Web/API/Document/createTextNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/createTextNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.defaultView",
+      "slug": "Web/API/Document/defaultView",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/defaultView",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.designMode",
+      "slug": "Web/API/Document/designMode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/designMode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.getElementsByClassName()",
+      "slug": "Web/API/Document/getElementsByClassName",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/getElementsByClassName",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.head",
+      "slug": "Web/API/Document/head",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/head",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "document.querySelector",
+      "slug": "Web/API/Document/querySelector",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/querySelector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.registerElement()",
+      "slug": "Web/API/Document/registerElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/registerElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "scroll",
+      "slug": "Web/API/Document/scroll_event",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/scroll_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.width",
+      "slug": "Web/API/Document/width",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.createTreeWalker()",
+      "slug": "Web/API/document.createTreeWalker",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document/createTreeWalker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "如何建立 DOM 樹",
+      "slug": "Web/API/Document_Object_Model/How_to_create_a_DOM_tree",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document_object_model/How_to_create_a_DOM_tree",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introduction",
+      "slug": "Web/API/Document_Object_Model/Introduction",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "事件與DOM",
+      "slug": "Web/API/Document_Object_Model/事件",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DocumentFragment",
+      "slug": "Web/API/DocumentFragment",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DocumentFragment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DocumentType",
+      "slug": "Web/API/DocumentType",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DocumentType",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMParser",
+      "slug": "Web/API/DOMParser",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DOMParser",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMTokenList",
+      "slug": "Web/API/DOMTokenList",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DOMTokenList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DragEvent",
+      "slug": "Web/API/DragEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DragEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DragEvent.dataTransfer",
+      "slug": "Web/API/DragEvent/dataTransfer",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DragEvent/dataTransfer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.attributes",
+      "slug": "Web/API/Element/attributes",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.classList",
+      "slug": "Web/API/Element/classList",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/classList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "click",
+      "slug": "Web/API/Element/click_event",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/click_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.getAttribute()",
+      "slug": "Web/API/Element/getAttribute",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/getAttribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.innerHTML",
+      "slug": "Web/API/Element/innerHTML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/innerHTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.insertAdjacentHTML()",
+      "slug": "Web/API/Element/insertAdjacentHTML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/insertAdjacentHTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.querySelectorAll()",
+      "slug": "Web/API/Element/querySelectorAll",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/querySelectorAll",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.scrollHeight",
+      "slug": "Web/API/Element/scrollHeight",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/scrollHeight",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.scrollTop",
+      "slug": "Web/API/Element/scrollTop",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/scrollTop",
+        "locale": "en-US"
+      }
+    },
+    "probably": "ca",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "touchcancel",
+      "slug": "Web/API/Element/touchcancel_event",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/touchcancel_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ErrorEvent",
+      "slug": "Web/API/ErrorEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ErrorEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event",
+      "slug": "Web/API/Event",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.cancelable",
+      "slug": "Web/API/Event/cancelable",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/cancelable",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Comparison of Event Targets",
+      "slug": "Web/API/Event/Comparison_of_Event_Targets",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/Comparison_of_Event_Targets",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.currentTarget",
+      "slug": "Web/API/Event/currentTarget",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/currentTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.defaultPrevented",
+      "slug": "Web/API/Event/defaultPrevented",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/defaultPrevented",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.eventPhase",
+      "slug": "Web/API/Event/eventPhase",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/eventPhase",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.isTrusted",
+      "slug": "Web/API/Event/isTrusted",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/isTrusted",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.preventDefault()",
+      "slug": "Web/API/Event/preventDefault",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/preventDefault",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.stopImmediatePropagation()",
+      "slug": "Web/API/Event/stopImmediatePropagation",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/stopImmediatePropagation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.stopPropagation()",
+      "slug": "Web/API/Event/stopPropagation",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/stopPropagation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.target",
+      "slug": "Web/API/Event/target",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/target",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget",
+      "slug": "Web/API/EventTarget",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/EventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget.addEventListener()",
+      "slug": "Web/API/EventTarget/addEventListener",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/EventTarget/addEventListener",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget.removeEventListener()",
+      "slug": "Web/API/EventTarget/removeEventListener",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/EventTarget/removeEventListener",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using Fetch",
+      "slug": "Web/API/Fetch_API/Using_Fetch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Fetch_API/Using_Fetch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File",
+      "slug": "Web/API/File",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/File",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File.File()",
+      "slug": "Web/API/File/File",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/File/File",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File.fileName",
+      "slug": "Web/API/File/fileName",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/File/fileName",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileReader.error",
+      "slug": "Web/API/FileReader/error",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FileReader/error",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileReader.readyState",
+      "slug": "Web/API/FileReader/readyState",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FileReader/readyState",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileSystem",
+      "slug": "Web/API/FileSystem",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FileSystem",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FormData",
+      "slug": "Web/API/FormData",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FormData",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FormData.get()",
+      "slug": "Web/API/FormData/get",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FormData/get",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using FormData Objects",
+      "slug": "Web/API/FormData/Using_FormData_Objects",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FormData/Using_FormData_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GainNode",
+      "slug": "Web/API/GainNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GainNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GainNode.gain",
+      "slug": "Web/API/GainNode/gain",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GainNode/gain",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocation",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation.clearWatch()",
+      "slug": "Web/API/Geolocation/clearWatch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Geolocation/clearWatch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation.getCurrentPosition()",
+      "slug": "Web/API/Geolocation/getCurrentPosition",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Geolocation/getCurrentPosition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation.watchPosition()",
+      "slug": "Web/API/Geolocation/watchPosition",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Geolocation/watchPosition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates",
+      "slug": "Web/API/GeolocationCoordinates",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.accuracy",
+      "slug": "Web/API/GeolocationCoordinates/accuracy",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/accuracy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.altitude",
+      "slug": "Web/API/GeolocationCoordinates/altitude",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/altitude",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.altitudeAccuracy",
+      "slug": "Web/API/GeolocationCoordinates/altitudeAccuracy",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/altitudeAccuracy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.heading",
+      "slug": "Web/API/GeolocationCoordinates/heading",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/heading",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.latitude",
+      "slug": "Web/API/GeolocationCoordinates/latitude",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/latitude",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.longitude",
+      "slug": "Web/API/GeolocationCoordinates/longitude",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/longitude",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coordinates.speed",
+      "slug": "Web/API/GeolocationCoordinates/speed",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationCoordinates/speed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Position",
+      "slug": "Web/API/GeolocationPosition",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPosition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Position.coords",
+      "slug": "Web/API/GeolocationPosition/coords",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPosition/coords",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Position.timestamp",
+      "slug": "Web/API/GeolocationPosition/timestamp",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPosition/timestamp",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionError",
+      "slug": "Web/API/GeolocationPositionError",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPositionError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionError.code",
+      "slug": "Web/API/GeolocationPositionError/code",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPositionError/code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionError.message",
+      "slug": "Web/API/GeolocationPositionError/message",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPositionError/message",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers",
+      "slug": "Web/API/GlobalEventHandlers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers.onclick",
+      "slug": "Web/API/GlobalEventHandlers/onclick",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers/onclick",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers.onclose",
+      "slug": "Web/API/GlobalEventHandlers/onclose",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers/onclose",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "History",
+      "slug": "Web/API/History",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/History",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML 拖放 API",
+      "slug": "Web/API/HTML_Drag_and_Drop_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTML_Drag_and_Drop_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement",
+      "slug": "Web/API/HTMLCanvasElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement.toDataURL()",
+      "slug": "Web/API/HTMLCanvasElement/toDataURL",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement/toDataURL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCollection",
+      "slug": "Web/API/HTMLCollection",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLCollection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLDataElement",
+      "slug": "Web/API/HTMLDataElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLDataElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.click()",
+      "slug": "Web/API/HTMLElement/click",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLElement/click",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.dataset",
+      "slug": "Web/API/HTMLElement/dataset",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLOrForeignElement/dataset",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.lang",
+      "slug": "Web/API/HTMLElement/lang",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLElement/lang",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.style",
+      "slug": "Web/API/HTMLElement/style",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLElement/style",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLFormElement",
+      "slug": "Web/API/HTMLFormElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLFormElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLImageElement",
+      "slug": "Web/API/HTMLImageElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLImageElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLInputElement",
+      "slug": "Web/API/HTMLInputElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLInputElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLMediaElement",
+      "slug": "Web/API/HTMLMediaElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLMediaElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSelectElement",
+      "slug": "Web/API/HTMLSelectElement",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSelectElement.checkValidity()",
+      "slug": "Web/API/HTMLSelectElement/checkValidity",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement/checkValidity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IDBDatabase",
+      "slug": "Web/API/IDBDatabase",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/IDBDatabase",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "KeyboardEvent",
+      "slug": "Web/API/KeyboardEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/KeyboardEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "KeyboardEvent()",
+      "slug": "Web/API/KeyboardEvent/KeyboardEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/KeyboardEvent/KeyboardEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaQueryList",
+      "slug": "Web/API/MediaQueryList",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaQueryList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaSource",
+      "slug": "Web/API/MediaSource",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaSource.activeSourceBuffers",
+      "slug": "Web/API/MediaSource/activeSourceBuffers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaSource/activeSourceBuffers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaSource.duration",
+      "slug": "Web/API/MediaSource/duration",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaSource/duration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaSource.MediaSource()",
+      "slug": "Web/API/MediaSource/MediaSource",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaSource/MediaSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaSource.readyState",
+      "slug": "Web/API/MediaSource/readyState",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MediaSource/readyState",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MouseEvent",
+      "slug": "Web/API/MouseEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MouseEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MutationObserver",
+      "slug": "Web/API/MutationObserver",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MutationObserver",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NamedNodeMap",
+      "slug": "Web/API/NamedNodeMap",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/NamedNodeMap",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator.geolocation",
+      "slug": "Web/API/Navigator/geolocation",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Navigator/geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator.registerProtocolHandler()",
+      "slug": "Web/API/Navigator/registerProtocolHandler",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Navigator/registerProtocolHandler",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 3 Web-based protocol handler",
+      "slug": "Web/API/Navigator/registerProtocolHandler/Web-based_protocol_handlers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Navigator/registerProtocolHandler/Web-based_protocol_handlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "da",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorOnLine",
+      "slug": "Web/API/NavigatorOnLine",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/NavigatorOnLine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 3 Online and Offline Events",
+      "slug": "Web/API/NavigatorOnLine/Online_and_offline_events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/NavigatorOnLine/Online_and_offline_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.childNodes",
+      "slug": "Web/API/Node/childNodes",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/childNodes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.cloneNode()",
+      "slug": "Web/API/Node/cloneNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/cloneNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.innerText",
+      "slug": "Web/API/Node/innerText",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/HTMLElement/innerText",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.insertBefore()",
+      "slug": "Web/API/Node/insertBefore",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/insertBefore",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.nodeName",
+      "slug": "Web/API/Node/nodeName",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/nodeName",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.nodeType",
+      "slug": "Web/API/Node/nodeType",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/nodeType",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.ownerDocument",
+      "slug": "Web/API/Node/ownerDocument",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/ownerDocument",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.textContent",
+      "slug": "Web/API/Node/textContent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Node/textContent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NodeList",
+      "slug": "Web/API/NodeList",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/NodeList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NonDocumentTypeChildNode",
+      "slug": "Web/API/NonDocumentTypeChildNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/NonDocumentTypeChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification",
+      "slug": "Web/API/notification",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/notification",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notifications API",
+      "slug": "Web/API/Notifications_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Notifications_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ParentNode",
+      "slug": "Web/API/ParentNode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ParentNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ParentNode.children",
+      "slug": "Web/API/ParentNode/children",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ParentNode/children",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ParentNode.firstElementChild",
+      "slug": "Web/API/ParentNode/firstElementChild",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ParentNode/firstElementChild",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance",
+      "slug": "Web/API/Performance",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionOptions.enableHighAccuracy",
+      "slug": "Web/API/PositionOptions/enableHighAccuracy",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/PositionOptions/enableHighAccuracy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionOptions.maximumAge",
+      "slug": "Web/API/PositionOptions/maximumAge",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/PositionOptions/maximumAge",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionOptions.timeout",
+      "slug": "Web/API/PositionOptions/timeout",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/PositionOptions/timeout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ProgressEvent",
+      "slug": "Web/API/ProgressEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ProgressEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Proximity",
+      "slug": "Web/API/Proximity_Events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Proximity_Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Range",
+      "slug": "Web/API/Range",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Range",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Response",
+      "slug": "Web/API/Response",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Response",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Screen",
+      "slug": "Web/API/Screen",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Screen",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Screen.orientation",
+      "slug": "Web/API/Screen/orientation",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Screen/orientation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-sent events",
+      "slug": "Web/API/Server-sent_events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Server-sent_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 server-sent 事件",
+      "slug": "Web/API/Server-sent_events/Using_server-sent_events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Server-sent_events/Using_server-sent_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SpeechRecognition",
+      "slug": "Web/API/SpeechRecognition",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/SpeechRecognition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Touch",
+      "slug": "Web/API/Touch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Touch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "觸控事件",
+      "slug": "Web/API/Touch_events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Touch_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TouchEvent",
+      "slug": "Web/API/TouchEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/TouchEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TouchList",
+      "slug": "Web/API/TouchList",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/TouchList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TreeWalker",
+      "slug": "Web/API/TreeWalker",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/TreeWalker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "UIEvent",
+      "slug": "Web/API/UIEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/UIEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "UIEvent()",
+      "slug": "Web/API/UIEvent/UIEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/UIEvent/UIEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URL",
+      "slug": "Web/API/URL",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/URL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URL.createObjectURL()",
+      "slug": "Web/API/URL/createObjectURL",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/URL/createObjectURL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ValidityState",
+      "slug": "Web/API/ValidityState",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/ValidityState",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Audio API",
+      "slug": "Web/API/Web_Audio_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Web_Audio_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Workers API",
+      "slug": "Web/API/Web_Workers_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Web_Workers_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL",
+      "slug": "Web/API/WebGL_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebGL_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "利用 WebGL 產生動畫",
+      "slug": "Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 shaders 在 WebGL 上色",
+      "slug": "Web/API/WebGL_API/Tutorial/Using_shaders_to_apply_color_in_WebGL",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Using_shaders_to_apply_color_in_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebRTC API",
+      "slug": "Web/API/WebRTC_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebRTC_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebVR API",
+      "slug": "Web/API/WebVR_API",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebVR_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.getComputedStyle()",
+      "slug": "Web/API/Window/getComputedStyle",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/getComputedStyle",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.localStorage",
+      "slug": "Web/API/Window/localStorage",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/localStorage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window.location",
+      "slug": "Web/API/Window/location",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/location",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window.requestIdleCallback()",
+      "slug": "Web/API/Window/requestIdleCallback",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/requestIdleCallback",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.sidebar",
+      "slug": "Web/API/Window/sidebar",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/sidebar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.history",
+      "slug": "Web/API/Window.history",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/history",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowBase64",
+      "slug": "Web/API/WindowBase64",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WindowBase64",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowEventHandlers",
+      "slug": "Web/API/WindowEventHandlers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowEventHandlers.onbeforeunload",
+      "slug": "Web/API/WindowEventHandlers/onbeforeunload",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers/onbeforeunload",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowTimers",
+      "slug": "Web/API/WindowTimers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WindowTimers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.onreadystatechange",
+      "slug": "Web/API/XMLHttpRequest/onreadystatechange",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/onreadystatechange",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.readyState",
+      "slug": "Web/API/XMLHttpRequest/readyState",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/readyState",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.responseType",
+      "slug": "Web/API/XMLHttpRequest/responseType",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/responseType",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.status",
+      "slug": "Web/API/XMLHttpRequest/status",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Synchronous and asynchronous requests",
+      "slug": "Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.withCredentials",
+      "slug": "Web/API/XMLHttpRequest/withCredentials",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/withCredentials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequestEventTarget",
+      "slug": "Web/API/XMLHttpRequestEventTarget",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequestEventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@font-face",
+      "slug": "Web/CSS/@font-face",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/@font-face",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@media",
+      "slug": "Web/CSS/@media",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/@media",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "height",
+      "slug": "Web/CSS/@media/height",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/@media/height",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@viewport",
+      "slug": "Web/CSS/@viewport",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/@viewport",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "height",
+      "slug": "Web/CSS/@viewport/height",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/@viewport/height",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":active",
+      "slug": "Web/CSS/:active",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/:active",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "attr",
+      "slug": "Web/CSS/attr",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/attr",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-attachment",
+      "slug": "Web/CSS/background-attachment",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/background-attachment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-color",
+      "slug": "Web/CSS/background-color",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/background-color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border",
+      "slug": "Web/CSS/border",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/border",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "box-shadow",
+      "slug": "Web/CSS/box-shadow",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/box-shadow",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "box-sizing",
+      "slug": "Web/CSS/box-sizing",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/box-sizing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "clip",
+      "slug": "Web/CSS/clip",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/clip",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Animations",
+      "slug": "Web/CSS/CSS_Animations",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Background and Borders",
+      "slug": "Web/CSS/CSS_Background_and_Borders",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Background_and_Borders",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Box Model",
+      "slug": "Web/CSS/CSS_Box_Model",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Box_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Colors",
+      "slug": "Web/CSS/CSS_Colors",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "色彩選擇工具",
+      "slug": "Web/CSS/CSS_Colors/Color_picker_tool",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Colors/Color_picker_tool",
+        "locale": "en-US"
+      }
+    },
+    "probably": "fr",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS 彈性盒子布局",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Lists and Counters",
+      "slug": "Web/CSS/CSS_Lists_and_Counters",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Lists_and_Counters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Positioning",
+      "slug": "Web/CSS/CSS_Positioning",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Understanding CSS z-index",
+      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS 屬性參考",
+      "slug": "Web/CSS/CSS_Properties_Reference",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Properties_Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Selectors",
+      "slug": "Web/CSS/CSS_Selectors",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Selectors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 :target",
+      "slug": "Web/CSS/CSS_Selectors/Using_the_:target_pseudo-class_in_selectors",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Selectors/Using_the_:target_pseudo-class_in_selectors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transitions",
+      "slug": "Web/CSS/CSS_Transitions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transitions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "cursor",
+      "slug": "Web/CSS/cursor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/cursor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "後裔選擇器",
+      "slug": "Web/CSS/Descendant_combinator",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Descendant_combinator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":first-child",
+      "slug": "Web/CSS/:first-child",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/:first-child",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::first-letter (:first-letter)",
+      "slug": "Web/CSS/::first-letter",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/::first-letter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":first-of-type",
+      "slug": "Web/CSS/:first-of-type",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/:first-of-type",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "grid-row",
+      "slug": "Web/CSS/grid-row",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/grid-row",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "网格模板列",
+      "slug": "Web/CSS/grid-template-columns",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/grid-template-columns",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "height",
+      "slug": "Web/CSS/height",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/height",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "繼承",
+      "slug": "Web/CSS/inheritance",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/inheritance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "line-break",
+      "slug": "Web/CSS/line-break",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/line-break",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Media queries",
+      "slug": "Web/CSS/Media_Queries",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "測試 media queries",
+      "slug": "Web/CSS/Media_Queries/Testing_media_queries",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries/Testing_media_queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "使用 media queries",
+      "slug": "Web/CSS/Media_Queries/Using_media_queries",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries/Using_media_queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "object-fit",
+      "slug": "Web/CSS/object-fit",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/object-fit",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS 參考文件",
+      "slug": "Web/CSS/Reference",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ruby-position",
+      "slug": "Web/CSS/ruby-position",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/ruby-position",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "語法",
+      "slug": "Web/CSS/Syntax",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/Syntax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":target",
+      "slug": "Web/CSS/:target",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/:target",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transform",
+      "slug": "Web/CSS/transform",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transform",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transform-function",
+      "slug": "Web/CSS/transform-function",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transform-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "translate3d()",
+      "slug": "Web/CSS/transform-function/translate3d",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transform-function/translate3d",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transform-origin",
+      "slug": "Web/CSS/transform-origin",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transform-origin",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transition",
+      "slug": "Web/CSS/transition",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transition-duration",
+      "slug": "Web/CSS/transition-duration",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/transition-duration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "white-space",
+      "slug": "Web/CSS/white-space",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/white-space",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "width",
+      "slug": "Web/CSS/width",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/CSS/width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Demos of open web technologies",
+      "slug": "Web/Demos_of_open_web_technologies",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Demos_of_open_web_technologies",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMContentLoaded",
+      "slug": "Web/Events/DOMContentLoaded",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/DOMContentLoaded_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "unload",
+      "slug": "Web/Events/unload",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Window/unload_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web 開發者指引",
+      "slug": "Web/Guide",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ajax",
+      "slug": "Web/Guide/AJAX",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/AJAX",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM developer guide",
+      "slug": "Web/Guide/DOM",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event developer guide",
+      "slug": "Web/Guide/Events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "建立或觸發事件",
+      "slug": "Web/Guide/Events/Creating_and_triggering_events",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/Events/Creating_and_triggering_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM on-event 處理器",
+      "slug": "Web/Guide/Events/Event_handlers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/Events/Event_handlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event attributes",
+      "slug": "Web/Guide/HTML/Event_attributes",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/HTML/Event_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introduction to HTML5",
+      "slug": "Web/Guide/HTML/HTML5/Introduction_to_HTML5",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5/Introduction_to_HTML5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Optimization and performance",
+      "slug": "Web/Guide/Performance",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Guide/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML：超文本標記語言",
+      "slug": "Web/HTML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Applying color to HTML elements using CSS",
+      "slug": "Web/HTML/Applying_color",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Applying_color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "區塊級元素",
+      "slug": "Web/HTML/Block-level_elements",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Block-level_elements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML 元素",
+      "slug": "Web/HTML/Element",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/HTML/Element/a",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<blink>：文字閃爍元素（已過時）",
+      "slug": "Web/HTML/Element/blink",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/blink",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<blockquote>",
+      "slug": "Web/HTML/Element/blockquote",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/blockquote",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<button>",
+      "slug": "Web/HTML/Element/button",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/button",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<canvas>",
+      "slug": "Web/HTML/Element/canvas",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/canvas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<code>",
+      "slug": "Web/HTML/Element/code",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<font>",
+      "slug": "Web/HTML/Element/font",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/font",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<frameset>",
+      "slug": "Web/HTML/Element/frameset",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/frameset",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<hr>",
+      "slug": "Web/HTML/Element/hr",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/hr",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<input>",
+      "slug": "Web/HTML/Element/input",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/input",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<meter>",
+      "slug": "Web/HTML/Element/meter",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/meter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<optgroup>",
+      "slug": "Web/HTML/Element/optgroup",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/optgroup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<ruby>",
+      "slug": "Web/HTML/Element/ruby",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/ruby",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<script>",
+      "slug": "Web/HTML/Element/script",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/script",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<summary>",
+      "slug": "Web/HTML/Element/summary",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/summary",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<time>",
+      "slug": "Web/HTML/Element/time",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Element/time",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "全域屬性",
+      "slug": "Web/HTML/Global_attributes",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "data-*",
+      "slug": "Web/HTML/Global_attributes/data-*",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/data-*",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML 參考",
+      "slug": "Web/HTML/Reference",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Media formats supported by the HTML audio and video elements",
+      "slug": "Web/HTML/Supported_media_formats",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Supported_media_formats",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Offline resources on Firefox",
+      "slug": "Web/HTML/Using_the_application_cache",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTML/Using_the_application_cache",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP authentication",
+      "slug": "Web/HTTP/Authentication",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Authentication",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "原因：缺少 CORS 標頭 'Access-Control-Allow-Origin'",
+      "slug": "Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "原因：CORS 'Access-Control-Allow-Origin' 設定為「*」時不支援使用帳號密碼",
+      "slug": "Web/HTTP/CORS/Errors/CORSNotSupportingCredentials",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors/CORSNotSupportingCredentials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "data URIs",
+      "slug": "Web/HTTP/data_URIs",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Basics_of_HTTP/Data_URIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DNT",
+      "slug": "Web/HTTP/Headers/DNT",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers/DNT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server",
+      "slug": "Web/HTTP/Headers/Server",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Server",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Strict-Transport-Security",
+      "slug": "Web/HTTP/Headers/Strict-Transport-Security",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Strict-Transport-Security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "用戶代理",
+      "slug": "Web/HTTP/Headers/User-Agent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers/User-Agent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "X-Frame-Options 回應標頭",
+      "slug": "Web/HTTP/Headers/X-Frame-Options",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Headers/X-Frame-Options",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP 請求方法",
+      "slug": "Web/HTTP/Methods",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Methods",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CONNECT",
+      "slug": "Web/HTTP/Methods/CONNECT",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Methods/CONNECT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GET",
+      "slug": "Web/HTTP/Methods/GET",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Methods/GET",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "POST",
+      "slug": "Web/HTTP/Methods/POST",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Methods/POST",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "協議升級機制",
+      "slug": "Web/HTTP/Protocol_upgrade_mechanism",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Protocol_upgrade_mechanism",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP 狀態碼",
+      "slug": "Web/HTTP/Status",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "100 Continue",
+      "slug": "Web/HTTP/Status/100",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/100",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "200 OK",
+      "slug": "Web/HTTP/Status/200",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/200",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "201 Created",
+      "slug": "Web/HTTP/Status/201",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/201",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "206 Partial Content",
+      "slug": "Web/HTTP/Status/206",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/206",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "403 Forbidden",
+      "slug": "Web/HTTP/Status/403",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/403",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "411 Length Required",
+      "slug": "Web/HTTP/Status/411",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/411",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "418 I'm a teapot",
+      "slug": "Web/HTTP/Status/418_I_m_a_teapot",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/418",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "451 Unavailable For Legal Reasons",
+      "slug": "Web/HTTP/Status/451",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/451",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "502 Bad Gateway",
+      "slug": "Web/HTTP/Status/502",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/502",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "504 Gateway Timeout",
+      "slug": "Web/HTTP/Status/504",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/504",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 的資料型別與資料結構",
+      "slug": "Web/JavaScript/Data_structures",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Data_structures",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "屬性的可列舉性及所有權",
+      "slug": "Web/JavaScript/Enumerability_and_ownership_of_properties",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Enumerability_and_ownership_of_properties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "函式",
+      "slug": "Web/JavaScript/Guide/Functions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "索引集合",
+      "slug": "Web/JavaScript/Guide/Indexed_collections",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Indexed_collections",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Iterators and generators",
+      "slug": "Web/JavaScript/Guide/Iterators_and_Generators",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Iterators_and_Generators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "鍵值集合",
+      "slug": "Web/JavaScript/Guide/Keyed_collections",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Keyed_collections",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "數字與日期",
+      "slug": "Web/JavaScript/Guide/Numbers_and_dates",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Numbers_and_dates",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "正規表達式",
+      "slug": "Web/JavaScript/Guide/Regular_Expressions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Regular_Expressions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "物件的使用",
+      "slug": "Web/JavaScript/Guide/Working_with_Objects",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Working_with_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 語言的資源",
+      "slug": "Web/JavaScript/Language_Resources",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Language_Resources",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 新鮮事",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.1",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.1",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.1",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.2",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.2",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.2",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.3",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.3",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.3",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.4",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.4",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.4",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.5",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.5",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 1.8 新鮮事",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.8",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 1.8.1 新鮮事",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.8.1",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8.1",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.8.5",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.8.5",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8.5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "從 Java 到 JavaScript 的轉換",
+      "slug": "Web/JavaScript/Obsolete_Pages/Obsolete_Pages/Obsolete_Pages/LiveConnect_概要/資料類型的轉換/從_Java_到_JavaScript_的轉換",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Obsolete_Pages/Data_Type_Conversions/Java_to_JavaScript_Conversions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "no",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 參考文件",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "建構子",
+      "slug": "Web/JavaScript/Reference/Classes/constructor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/constructor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "extends",
+      "slug": "Web/JavaScript/Reference/Classes/extends",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/extends",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "static",
+      "slug": "Web/JavaScript/Reference/Classes/static",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/static",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript 錯誤參考資料",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RangeError: invalid array length",
+      "slug": "Web/JavaScript/Reference/Errors/Invalid_array_length",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Invalid_array_length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ReferenceError: \"x\" is not defined",
+      "slug": "Web/JavaScript/Reference/Errors/Not_defined",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_defined",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SyntaxError: redeclaration of formal parameter \"x\"",
+      "slug": "Web/JavaScript/Reference/Errors/Redeclared_parameter",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Redeclared_parameter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Arguments 物件",
+      "slug": "Web/JavaScript/Reference/Functions/arguments",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/arguments",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "arguments.callee",
+      "slug": "Web/JavaScript/Reference/Functions/arguments/callee",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/arguments/callee",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "預設參數( Default parameters )",
+      "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "方法定義",
+      "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "標準內建物件",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.copyWithin()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/copyWithin",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/copyWithin",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.entries()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.every()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.find()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.flat()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/flat",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/flat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.includes()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.indexOf()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.keys()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/keys",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/keys",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.lastIndexOf()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.length",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/length",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.map()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reduceRight()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/ReduceRight",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/ReduceRight",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reverse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.slice()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/slice",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/slice",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.some()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ArrayBuffer",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ArrayBuffer.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AsyncFunction",
+      "slug": "Web/JavaScript/Reference/Global_Objects/AsyncFunction",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/AsyncFunction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Boolean",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Boolean",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DataView",
+      "slug": "Web/JavaScript/Reference/Global_Objects/DataView",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/DataView",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.now()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/now",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/now",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Error",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype.columnNumber",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.prototype.apply()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.prototype.bind()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/bind",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/bind",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.length",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/length",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JSON",
+      "slug": "Web/JavaScript/Reference/Global_Objects/JSON",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/JSON",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JSON.stringify()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.abs()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.ceil()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.floor()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/floor",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/floor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.max()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/max",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/max",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.pow()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/pow",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/pow",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.round()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/round",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/round",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "null",
+      "slug": "Web/JavaScript/Reference/Global_Objects/null",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/null",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.isFinite()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.isNaN()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/isNaN",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isNaN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.prototype.toExponential()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/toExponential",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/toExponential",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.prototype.toFixed()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/toFixed",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/toFixed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.create()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/create",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/create",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperties()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.getPrototypeOf()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.hasOwnProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.preventExtensions()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/preventExtensions",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/preventExtensions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.__proto__",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/proto",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/proto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.watch()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/watch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/watch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "parseInt()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.all()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype.catch()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype.finally()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/finally",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/finally",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.race()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/race",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/race",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.resolve()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/resolve",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/resolve",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Proxy",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RangeError",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RangeError",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RangeError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Reflect",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Reflect",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Reflect",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.add()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set/add",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/add",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.delete()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set/delete",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/delete",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.entries()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set/entries",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.has()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set/has",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/has",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.values()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set/values",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/values",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.match()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.padStart()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/padStart",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/padStart",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.replace()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/replace",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/replace",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.toLowerCase()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TypedArray",
+      "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "undefined",
+      "slug": "Web/JavaScript/Reference/Global_Objects/undefined",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/undefined",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URIError",
+      "slug": "Web/JavaScript/Reference/Global_Objects/URIError",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/URIError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "算術運算子",
+      "slug": "Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "async function expression",
+      "slug": "Web/JavaScript/Reference/Operators/async_function",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/async_function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "await",
+      "slug": "Web/JavaScript/Reference/Operators/await",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/await",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "逗號運算子",
+      "slug": "Web/JavaScript/Reference/Operators/Comma_Operator",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Comma_Operator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "比較運算子",
+      "slug": "Web/JavaScript/Reference/Operators/Comparison_Operators",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Comparison_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "解構賦值",
+      "slug": "Web/JavaScript/Reference/Operators/Destructuring_assignment",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Destructuring_assignment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Logical operators",
+      "slug": "Web/JavaScript/Reference/Operators/Logical_Operators",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Logical_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object initializer",
+      "slug": "Web/JavaScript/Reference/Operators/Object_initializer",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Object_initializer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "運算子優先序",
+      "slug": "Web/JavaScript/Reference/Operators/Operator_Precedence",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Operator_Precedence",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "陳述式與宣告",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "break",
+      "slug": "Web/JavaScript/Reference/Statements/break",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/break",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...in",
+      "slug": "Web/JavaScript/Reference/Statements/for...in",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "function*",
+      "slug": "Web/JavaScript/Reference/Statements/function*",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/function*",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "if...else",
+      "slug": "Web/JavaScript/Reference/Statements/if...else",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/if...else",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "import",
+      "slug": "Web/JavaScript/Reference/Statements/import",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/import",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "let",
+      "slug": "Web/JavaScript/Reference/Statements/let",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/let",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "return",
+      "slug": "Web/JavaScript/Reference/Statements/return",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/return",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "switch",
+      "slug": "Web/JavaScript/Reference/Statements/switch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/switch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "throw",
+      "slug": "Web/JavaScript/Reference/Statements/throw",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/throw",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "var",
+      "slug": "Web/JavaScript/Reference/Statements/var",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/var",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Strict mode",
+      "slug": "Web/JavaScript/Reference/Strict_mode",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Strict_mode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "樣板字面值",
+      "slug": "Web/JavaScript/Reference/Template_literals",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Template_literals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MathML",
+      "slug": "Web/MathML",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/MathML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Authoring MathML",
+      "slug": "Web/MathML/Authoring",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/MathML/Authoring",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web media technologies",
+      "slug": "Web/Media",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Media",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "製作 OpenSearch 搜尋模組",
+      "slug": "Web/OpenSearch",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/OpenSearch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "漸進式網絡應用程式",
+      "slug": "Web/Progressive_web_apps",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Progressive_web_apps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "響應式設計",
+      "slug": "Web/Progressive_web_apps/Responsive",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Progressive_web_apps/Responsive",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "網頁技術參考資料",
+      "slug": "Web/Reference",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Attribute reference",
+      "slug": "Web/SVG/Attribute",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/SVG/Attribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "fill-rule",
+      "slug": "Web/SVG/Attribute/fill-rule",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/SVG/Attribute/fill-rule",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "路徑",
+      "slug": "Web/SVG/Tutorial/路径",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/SVG/Tutorial/Paths",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Camera API",
+      "slug": "WebAPI/Camera",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Camera_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Idle",
+      "slug": "WebAPI/Idle",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Idle_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Time and Clock API",
+      "slug": "WebAPI/Time_and_Clock",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Time_and_Clock_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSMS",
+      "slug": "WebAPI/WebSMS",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Mobile_Messaging_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebAssembly",
+      "slug": "WebAssembly",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "WebAssembly",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebAssembly Concepts",
+      "slug": "WebAssembly/Concepts",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "WebAssembly/Concepts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSockets",
+      "slug": "WebSockets",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/WebSockets_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CloseEvent",
+      "slug": "WebSockets/WebSockets_reference/CloseEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/CloseEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MessageEvent",
+      "slug": "WebSockets/WebSockets_reference/MessageEvent",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/MessageEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPCOM",
+      "slug": "XPCOM",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XUL 教學",
+      "slug": "XUL_教學",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Archive/Mozilla/XUL/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zones",
+      "slug": "Zones",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Zones",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

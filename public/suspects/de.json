@@ -1,0 +1,1740 @@
+[
+  {
+    "metadata": {
+      "title": "Accessibility/AT-SPI Support",
+      "slug": "Accessibility_AT-SPI_Support",
+      "locale": "de",
+      "parent": {
+        "slug": "Accessibility_AT-SPI_Support",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Quick setup",
+      "slug": "BrowserID/Quick_Setup",
+      "locale": "de",
+      "parent": {
+        "slug": "BrowserID/Quick_Setup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Lesezeichen",
+      "slug": "Codeschnipsel/Lesezeichen",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets/Bookmarks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tabbed browser",
+      "slug": "Codeschnipsel/Tabbed_browser",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Add-ons/Tabbed_browser",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "E4X",
+      "slug": "E4X",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Web/E4X",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XInclude",
+      "slug": "Glossary/XInclude",
+      "locale": "de",
+      "parent": {
+        "slug": "Glossary/XInclude",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Installing Mercurial",
+      "slug": "Installing_Mercurial",
+      "locale": "de",
+      "parent": {
+        "slug": "Mozilla/Mercurial/Installing_Mercurial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "de",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Wie das Internet funktioniert",
+      "slug": "Learn/Common_questions/Wie_das_Internet_funktioniert",
+      "locale": "de",
+      "parent": {
+        "slug": "Learn/Common_questions/How_does_the_Internet_work",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cross browser testing",
+      "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+      "locale": "de",
+      "parent": {
+        "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "List of Mozilla-Based Applications",
+      "slug": "List_of_Mozilla-Based_Applications",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/List_of_Mozilla-Based_Applications",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Making sure your theme works with RTL locales",
+      "slug": "Making_Sure_Your_Theme_Works_with_RTL_Locales",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Themes/Making_sure_your_theme_works_with_RTL_locales",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mercurial",
+      "slug": "Mercurial",
+      "locale": "de",
+      "parent": {
+        "slug": "Mozilla/Mercurial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "de",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Rhino Dokumentation",
+      "slug": "Rhino_documentation",
+      "locale": "de",
+      "parent": {
+        "slug": "Mozilla/Projects/Rhino/Documentation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Weak Signature Algorithmus",
+      "slug": "Sicherheit/Weak_Signature_Algorithm",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Security/Weak_Signature_Algorithm",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "about:debugging",
+      "slug": "Tools/about:debugging",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/about:debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Browser Console",
+      "slug": "Tools/Browser_Console",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Browser_Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use a source map",
+      "slug": "Tools/Debugger/How_to/Use_a_source_map",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Debugger/How_to/Use_a_source_map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Eyedropper",
+      "slug": "Tools/Eyedropper",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Eyedropper",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Network monitor toolbar",
+      "slug": "Tools/netzwerkanalyse/toolbar",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Network_Monitor/toolbar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Schriftarten Bearbeitung",
+      "slug": "Tools/Page_Inspector/How_to/Schriftarten_Bearbeitung",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Edit_fonts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Paint Flashing Tool",
+      "slug": "Tools/Paint_Flashing_Tool",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Paint_Flashing_Tool",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript Profiler",
+      "slug": "Tools/Profiler",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Profiler",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Debugging Firefox for Android with WebIDE",
+      "slug": "Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE_clone",
+      "locale": "de"
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tastenkombinationen",
+      "slug": "Tools/Seiten_Inspektor/Tastenkombinationen",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Page_Inspector/Keyboard_shortcuts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Style Editor",
+      "slug": "Tools/Style_Editor",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Style_Editor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox - Toolbox",
+      "slug": "Tools/Tools_Toolbox",
+      "locale": "de",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Venkman",
+      "slug": "Venkman",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Mozilla/Venkman",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnimationEvent",
+      "slug": "Web/API/AnimationEvent",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/AnimationEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnimationEvent()",
+      "slug": "Web/API/AnimationEvent/AnimationEvent",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/AnimationEvent/AnimationEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AudioContext.createAnalyser()",
+      "slug": "Web/API/AudioContext/createAnalyser",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/BaseAudioContext/createAnalyser",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AudioContext.createMediaElementSource()",
+      "slug": "Web/API/AudioContext/createMediaElementSource",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/AudioContext/createMediaElementSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Body",
+      "slug": "Web/API/Body",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "BroadcastChannel",
+      "slug": "Web/API/BroadcastChannel",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/BroadcastChannel",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cache",
+      "slug": "Web/API/Cache",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Cache",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CanvasRenderingContext2D.setLineDash()",
+      "slug": "Web/API/CanvasRenderingContext2D/setLineDash",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D/setLineDash",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode.replaceWith()",
+      "slug": "Web/API/ChildNode/replaceWith",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/ChildNode/replaceWith",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSRule",
+      "slug": "Web/API/CSSRule",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/CSSRule",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CustomElementRegistry",
+      "slug": "Web/API/CustomElementRegistry",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/CustomElementRegistry",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DataTransfer",
+      "slug": "Web/API/DataTransfer",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/DataTransfer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document",
+      "slug": "Web/API/Document",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Document",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.execCommand()",
+      "slug": "Web/API/Document/execCommand",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Document/execCommand",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event",
+      "slug": "Web/API/Event",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget",
+      "slug": "Web/API/EventTarget",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/EventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLFormElement",
+      "slug": "Web/API/HTMLFormElement",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/HTMLFormElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLInputElement",
+      "slug": "Web/API/HTMLInputElement",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/HTMLInputElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSlotElement",
+      "slug": "Web/API/HTMLSlotElement",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/HTMLSlotElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator.registerProtocolHandler()",
+      "slug": "Web/API/Navigator/registerProtocolHandler",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Navigator/registerProtocolHandler",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorOnLine",
+      "slug": "Web/API/NavigatorOnLine",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/NavigatorOnLine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance",
+      "slug": "Web/API/Performance",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PushManager",
+      "slug": "Web/API/PushManager",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/PushManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Range",
+      "slug": "Web/API/Range",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Range",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection",
+      "slug": "Web/API/RTCPeerConnection",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection.createOffer()",
+      "slug": "Web/API/RTCPeerConnection/createOffer",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection/createOffer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCRtpTransceiver",
+      "slug": "Web/API/RTCRtpTransceiver",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/RTCRtpTransceiver",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ServiceWorkerContainer",
+      "slug": "Web/API/ServiceWorkerContainer",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/ServiceWorkerContainer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URL",
+      "slug": "Web/API/URL",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/URL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the Web Storage API",
+      "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGLRenderingContext",
+      "slug": "Web/API/WebGLRenderingContext",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/WebGLRenderingContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebVR API",
+      "slug": "Web/API/WebVR_API",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/WebVR_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.scrollY",
+      "slug": "Web/API/Window/scrollY",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Window/scrollY",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.showModalDialog()",
+      "slug": "Web/API/Window/showModalDialog",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/Window/showModalDialog",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowBase64",
+      "slug": "Web/API/WindowBase64",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/WindowBase64",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowEventHandlers",
+      "slug": "Web/API/WindowEventHandlers",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowTimers",
+      "slug": "Web/API/WindowTimers",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/WindowTimers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Barrierefreiheit",
+      "slug": "Web/Barrierefreiheit",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "How to file ARIA-related bugs",
+      "slug": "Web/Barrierefreiheit/ARIA/How_to_file_ARIA-related_bugs",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/How_to_file_ARIA-related_bugs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@media",
+      "slug": "Web/CSS/@media",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/@media",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cascade",
+      "slug": "Web/CSS/Cascade",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/Cascade",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Animations",
+      "slug": "Web/CSS/CSS_Animations",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/CSS_Animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Background and Borders",
+      "slug": "Web/CSS/CSS_Background_and_Borders",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/CSS_Background_and_Borders",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Flexible Box Layout",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transforms",
+      "slug": "Web/CSS/CSS_Transforms",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transforms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Media queries",
+      "slug": "Web/CSS/Media_Queries",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using media queries",
+      "slug": "Web/CSS/Media_Queries/Using_media_queries",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries/Using_media_queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "overscroll-behavior",
+      "slug": "Web/CSS/overscroll-behavior",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/overscroll-behavior",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::placeholder",
+      "slug": "Web/CSS/::placeholder",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/::placeholder",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "will-change",
+      "slug": "Web/CSS/will-change",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/CSS/will-change",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM developer guide",
+      "slug": "Web/Guide/DOM",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML attribute reference",
+      "slug": "Web/HTML/Attributes",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<input type=\"image\">",
+      "slug": "Web/HTML/Element/Input/image",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/input/image",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<label>",
+      "slug": "Web/HTML/Element/label",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/label",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<meta>",
+      "slug": "Web/HTML/Element/meta",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<th>",
+      "slug": "Web/HTML/Element/th",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/th",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<wbr>",
+      "slug": "Web/HTML/Element/wbr",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/wbr",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "data-*",
+      "slug": "Web/HTML/Globale_Attribute/data-*",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/data-*",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "is",
+      "slug": "Web/HTML/Globale_Attribute/is",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/is",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using HTML5 audio and video",
+      "slug": "Web/HTML/Using_HTML5_audio_and_video",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Guide/HTML/Using_HTML5_audio_and_video",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Basics of HTTP",
+      "slug": "Web/HTTP/Basics_of_HTTP",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Basics_of_HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Content negotiation",
+      "slug": "Web/HTTP/Content_negotiation",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Content_negotiation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "User-Agent",
+      "slug": "Web/HTTP/Headers/User-Agent",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Headers/User-Agent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP request methods",
+      "slug": "Web/HTTP/Methods",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Methods",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "402 Payment Required",
+      "slug": "Web/HTTP/Status/402",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTTP/Status/402",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Aufzählbarkeit und Zugehörigkeit von Eigenschaften",
+      "slug": "Web/JavaScript/Aufzählbarkeit_und_Zugehörigkeit_von_Eigenschaften",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Enumerability_and_ownership_of_properties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promises benutzen",
+      "slug": "Web/JavaScript/Guide/Using_promises",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Using_promises",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Neu in JavaScript",
+      "slug": "Web/JavaScript/Neu_in_JavaScript",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Neu in JavaScript 1.5",
+      "slug": "Web/JavaScript/Neu_in_JavaScript/1.5",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Neu in JavaScript 1.6",
+      "slug": "Web/JavaScript/Neu_in_JavaScript/1.6",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.6",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Neu in JavaScript 1.7",
+      "slug": "Web/JavaScript/Neu_in_JavaScript/1.7",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.7",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.8",
+      "slug": "Web/JavaScript/Neu_in_JavaScript/1.8",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript 1.8.1",
+      "slug": "Web/JavaScript/Neu_in_JavaScript/1.8.1",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8.1",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.entries()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.keys()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/keys",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/keys",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ArrayBuffer.isView()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.getDate()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype[@@iterator]()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/@@iterator",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/@@iterator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.clear()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/clear",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.delete()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/delete",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/delete",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.entries()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/entries",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.keys()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/keys",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/keys",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.values()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/values",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/values",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperties()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.propertyIsEnumerable()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.toString()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Intl.PluralRules",
+      "slug": "Web/JavaScript/Reference/Global_Objects/PluralRules",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/PluralRules",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype.finally()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/finally",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/finally",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Proxy",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RangeError",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RangeError",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RangeError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ReferenceError",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ReferenceError",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ReferenceError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Einführung in Progressive Web Apps",
+      "slug": "Web/Progressive_web_apps/Introduction",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Progressive_web_apps/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Technologie Referenz",
+      "slug": "Web/Reference",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Attribute reference",
+      "slug": "Web/SVG/Attribute",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/SVG/Attribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG In HTML Introduction",
+      "slug": "Web/SVG/Tutorial/SVG_In_HTML_Introduction",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/SVG/Tutorial/SVG_In_HTML_Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XML: Extensible Markup Language",
+      "slug": "Web/XML",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/XML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Responsive Design",
+      "slug": "Web_Development/Mobile/Responsive_design",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/Guide/Responsive_design",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPCOM ABI",
+      "slug": "XPCOM/XPCOM_ABI",
+      "locale": "de",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/XPCOM_ABI",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XUL Explorer",
+      "slug": "XUL_Explorer",
+      "locale": "de",
+      "parent": {
+        "slug": "Archive/Mozilla/XUL_Explorer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

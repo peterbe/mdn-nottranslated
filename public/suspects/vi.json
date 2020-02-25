@@ -1,0 +1,1818 @@
+[
+  {
+    "metadata": {
+      "title": "Building an extension",
+      "slug": "Building_an_Extension",
+      "locale": "vi",
+      "parent": {
+        "slug": "Building_an_Extension",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Bản Kê Khai Cài Đặt",
+      "slug": "Bản_Kê_Khai_Cài_Đặt",
+      "locale": "vi"
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Khả năng truy cập",
+      "slug": "Learn/Accessibility",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Làm sao để thiết lập web mạng nội bộ?",
+      "slug": "Learn/Common_questions/thiet_lap_web_mang_noi_bo",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Common_questions/set_up_a_local_testing_server",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Learn to style HTML using CSS",
+      "slug": "Learn/CSS",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS first steps",
+      "slug": "Learn/CSS/First_steps",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/CSS/First_steps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cách đóng góp cho Khu vực học tập trên MDN",
+      "slug": "Learn/Dong_gop_cho_khu_vuc_hoc_tap_tren_MDN",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/How_to_contribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML forms",
+      "slug": "Learn/HTML/Forms",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Form data validation",
+      "slug": "Learn/HTML/Forms/Form_validation",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Forms/Form_validation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Multimedia and embedding",
+      "slug": "Learn/HTML/Multimedia_and_embedding",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Nền tảng của JavaScript",
+      "slug": "Learn/JavaScript/Building_blocks",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Giới thiệu về sự kiện",
+      "slug": "Learn/JavaScript/Building_blocks/Events",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Handling text — strings in JavaScript",
+      "slug": "Learn/JavaScript/First_steps/Strings",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/Strings",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introducing JavaScript objects",
+      "slug": "Learn/JavaScript/Objects",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/JavaScript/Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Express Tutorial Part 5: Displaying library data",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tools and testing",
+      "slug": "Learn/Tools_and_testing",
+      "locale": "vi",
+      "parent": {
+        "slug": "Learn/Tools_and_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Bảng Tương thích Mới Thử nghiệm",
+      "slug": "New_Compatibility_Tables_Beta",
+      "locale": "vi",
+      "parent": {
+        "slug": "Archive/MDN/New_Compatibility_Tables_Beta",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN:Làm giúp như thế nào?",
+      "slug": "Project:Lam_giup_nhu_the_nao",
+      "locale": "vi",
+      "parent": {
+        "slug": "Project:How_to_Help",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Plans and status",
+      "slug": "Project:MDN/Plans_and_status",
+      "locale": "vi",
+      "parent": {
+        "slug": "Project:MDN/Plans_and_status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web platform documentation hierarchy",
+      "slug": "Project:MDN/Plans_and_status/Web_platform",
+      "locale": "vi",
+      "parent": {
+        "slug": "Project:MDN/Plans_and_status/Web_platform",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Security/MixedContent",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Công cụ",
+      "slug": "Tools",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Browser Toolbox",
+      "slug": "Tools/Browser_Toolbox",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools/Browser_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Network Monitor",
+      "slug": "Tools/Network_Monitor",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools/Network_Monitor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance Analysis",
+      "slug": "Tools/Network_Monitor/Performance_Analysis",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools/Network_Monitor/Performance_Analysis",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "0Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Hộp Dụng Cụ",
+      "slug": "Tools/Tools_Toolbox",
+      "locale": "vi",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE",
+      "locale": "vi",
+      "parent": {
+        "slug": "Archive/WebIDE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE/Troubleshooting",
+      "locale": "vi",
+      "parent": {
+        "slug": "Archive/WebIDE/Troubleshooting",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Thuật Toán",
+      "slug": "Tu-dien-thuat-ngu/Algorithm",
+      "locale": "vi",
+      "parent": {
+        "slug": "Glossary/Algorithm",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML",
+      "slug": "Tu-dien-thuat-ngu/HTML",
+      "locale": "vi",
+      "parent": {
+        "slug": "Glossary/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Metadata",
+      "slug": "Tu-dien-thuat-ngu/Metadata",
+      "locale": "vi",
+      "parent": {
+        "slug": "Glossary/Metadata",
+        "locale": "en-US"
+      }
+    },
+    "probably": "ilo",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AudioContext",
+      "slug": "Web/API/AudioContext",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/AudioContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AudioContext.createOscillator()",
+      "slug": "Web/API/AudioContext/createOscillator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/BaseAudioContext/createOscillator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode.remove()",
+      "slug": "Web/API/ChildNode/remove",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/ChildNode/remove",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "Web/API/Document_Object_Model",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventSource",
+      "slug": "Web/API/EventSource",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/EventSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "The HTML DOM API",
+      "slug": "Web/API/HTML_DOM",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTML_DOM_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement",
+      "slug": "Web/API/HTMLCanvasElement",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement.getContext()",
+      "slug": "Web/API/HTMLCanvasElement/getContext",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement/getContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.dataset",
+      "slug": "Web/API/HTMLElement/dataset",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLOrForeignElement/dataset",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLFormElement",
+      "slug": "Web/API/HTMLFormElement",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLFormElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.appendChild()",
+      "slug": "Web/API/Node/appendChild",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Node/appendChild",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification",
+      "slug": "Web/API/notification",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/notification",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Touch events",
+      "slug": "Web/API/Touch_events",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Touch_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URL",
+      "slug": "Web/API/URL",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/URL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Writing a WebSocket server in Java",
+      "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Video Text Tracks Format (WebVTT)",
+      "slug": "Web/API/WebVTT_API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/WebVTT_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-ms-scroll-snap-points-y",
+      "slug": "Web/CSS/-ms-scroll-snap-points-y",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/-ms-scroll-snap-points-y",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "At-rule",
+      "slug": "Web/CSS/At-rule",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/At-rule",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-color",
+      "slug": "Web/CSS/background-color",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/background-color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tổng quan về Bố cục Lưới",
+      "slug": "Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transitions",
+      "slug": "Web/CSS/CSS_Transitions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transitions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<filter-function>",
+      "slug": "Web/CSS/filter-function",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/filter-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":first-child",
+      "slug": "Web/CSS/:first-child",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/:first-child",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "flex",
+      "slug": "Web/CSS/flex",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/flex",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "flex-wrap",
+      "slug": "Web/CSS/flex-wrap",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/flex-wrap",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":last-of-type",
+      "slug": "Web/CSS/:last-of-type",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/:last-of-type",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<length>",
+      "slug": "Web/CSS/length",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "letter-spacing",
+      "slug": "Web/CSS/letter-spacing",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/letter-spacing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "perspective",
+      "slug": "Web/CSS/perspective",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/perspective",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Getting started with CSS",
+      "slug": "Web/Guide/CSS/Getting_started",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What is CSS",
+      "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Content  categories",
+      "slug": "Web/Guide/HTML/Content_categories",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/HTML/Content_categories",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML5",
+      "slug": "Web/Guide/HTML/HTML5",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML",
+      "slug": "Web/HTML",
+      "locale": "vi",
+      "parent": {
+        "slug": "HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Phần tử HTML",
+      "slug": "Web/HTML/Element",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<header>",
+      "slug": "Web/HTML/Element/header",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/header",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<html>",
+      "slug": "Web/HTML/Element/html",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/html",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<meta>: The Document-level Metadata element",
+      "slug": "Web/HTML/Element/meta",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP access control (CORS)",
+      "slug": "Web/HTTP/Access_control_CORS",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/CORS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accept-Encoding",
+      "slug": "Web/HTTP/Headers/Accept-Encoding",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Accept-Encoding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "About JavaScript",
+      "slug": "Web/JavaScript/About_JavaScript",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/About_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cú pháp lập trình",
+      "slug": "Web/JavaScript/Guide/cu-phap-lap-trinh",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Grammar_and_types",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Guide/Functions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "constructor",
+      "slug": "Web/JavaScript/Reference/Classes/constructor",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/constructor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "extends(Thừa kế)",
+      "slug": "Web/JavaScript/Reference/Classes/extends",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/extends",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Default parameters",
+      "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.fill()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.find()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.findIndex()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.includes()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.indexOf()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.join()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/join",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/join",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.pop()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reverse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.shift()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.some()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.unshift()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ArrayBuffer",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.parse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.prototype.toSource()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/toSource",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Generator",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.abs()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.ceil()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.sqrt()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.NaN",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperties()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.values()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype.catch()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp.prototype.test()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.normalize()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/normalize",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/normalize",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.repeat()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/repeat",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/repeat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.startsWith()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/startsWith",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/startsWith",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.substring()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Toán tử gán",
+      "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Conditional (ternary) operator",
+      "slug": "Web/JavaScript/Reference/Operators/Conditional_Operator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Conditional_Operator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "function* expression",
+      "slug": "Web/JavaScript/Reference/Operators/function*",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/function*",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "typeof",
+      "slug": "Web/JavaScript/Reference/Operators/typeof",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/typeof",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "do...while",
+      "slug": "Web/JavaScript/Reference/Statements/do...while",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/do...while",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "function*",
+      "slug": "Web/JavaScript/Reference/Statements/function*",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/function*",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Tutorial",
+      "slug": "Web/SVG/Tutorial",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/SVG/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Hướng dẫn",
+      "slug": "Web/Tutorials",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zones",
+      "slug": "Zones",
+      "locale": "vi",
+      "parent": {
+        "slug": "Zones",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "metadata": {
+      "title": "CSS building blocks",
+      "slug": "Learn/CSS/Building_blocks",
+      "locale": "ca",
+      "parent": {
+        "slug": "Learn/CSS/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use CSS to solve common problems",
+      "slug": "Learn/CSS/Howto",
+      "locale": "ca",
+      "parent": {
+        "slug": "Learn/CSS/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "ca",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "The MDN project",
+      "slug": "Project:MDN",
+      "locale": "ca",
+      "parent": {
+        "slug": "Project:MDN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Contributing to MDN",
+      "slug": "Project:MDN/Contributing",
+      "locale": "ca",
+      "parent": {
+        "slug": "Project:MDN/Contributing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Rhino",
+      "slug": "Rhino",
+      "locale": "ca",
+      "parent": {
+        "slug": "Mozilla/Projects/Rhino",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Security",
+      "slug": "Security",
+      "locale": "ca",
+      "parent": {
+        "slug": "Security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mixued Content",
+      "slug": "Security/MixejdContent",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remotely debugging Firefox for Android",
+      "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+      "locale": "ca",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas tutorial",
+      "slug": "Web/API/Canvas_API/Tutorial",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.sidebar",
+      "slug": "Web/API/Window/sidebar",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/API/Window/sidebar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-progress-bar",
+      "slug": "Web/CSS/::-moz-progress-bar",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/CSS/::-moz-progress-bar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Flexible Box Layout",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/HTML/Element/a",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/HTML/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<noembed>",
+      "slug": "Web/HTML/Element/noembed",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/HTML/Element/noembed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global attributes",
+      "slug": "Web/HTML/Global_attributes",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ECMAScript 6 support in Mozilla",
+      "slug": "Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Arguments object",
+      "slug": "Web/JavaScript/Reference/Functions/arguments",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/arguments",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DataView",
+      "slug": "Web/JavaScript/Reference/Global_Objects/DataView",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/DataView",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EvalError",
+      "slug": "Web/JavaScript/Reference/Global_Objects/EvalError",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/EvalError",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.arity",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/arity",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/arity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Referencia/Classes",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype.columnNumber",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/Error/columnNumber",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JSON.stringify()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/JSON/stringify",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.clear()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/Map/clear",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.clear()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/Set/clear",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.blink()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/blink",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/blink",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.bold()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/bold",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/bold",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.fixed()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/fixed",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/fixed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.italics()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/italics",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/italics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.small()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/small",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/small",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.strike()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/strike",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/strike",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.sub()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/sub",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/sub",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.sup()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/sup",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/sup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.trimLeft()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/TrimLeft",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/trimStart",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.trimRight()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/TrimRight",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/trimEnd",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Assignment operators",
+      "slug": "Web/JavaScript/Referencia/Operadors/Assignment_Operators",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

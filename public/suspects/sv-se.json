@@ -1,0 +1,236 @@
+[
+  {
+    "metadata": {
+      "title": "Robots.txt",
+      "slug": "Glossary/Robots.txt",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Glossary/Robots.txt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introducing JavaScript objects",
+      "slug": "Learn/JavaScript/Objects",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Learn/JavaScript/Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox Developer Tools",
+      "slug": "Tools",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileReader",
+      "slug": "Web/API/FileReader",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/FileReader",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SubtleCrypto",
+      "slug": "Web/API/SubtleCrypto",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/SubtleCrypto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global attributes",
+      "slug": "Web/HTML/Global_attributes",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Method definitions",
+      "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "parseInt",
+      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "instanceof",
+      "slug": "Web/JavaScript/Reference/Operators/instanceof",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/instanceof",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

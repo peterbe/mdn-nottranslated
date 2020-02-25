@@ -1,0 +1,1896 @@
+[
+  {
+    "metadata": {
+      "title": "Anatomia de uma página web",
+      "slug": "Aprender/Anatomy_of_a_web_page",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Common_questions/Common_web_layouts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Estruturando uma página de conteúdo",
+      "slug": "Aprender/HTML/Introducao_ao_HTML/Estruturando_uma_pagina_de_conteudo",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Marcando uma carta",
+      "slug": "Aprender/HTML/Introducao_ao_HTML/Marcando_uma_carta",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/Marking_up_a_letter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tabelas HTML",
+      "slug": "Aprender/HTML/Tabelas",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/HTML/Tables",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Buscando dados no servidor",
+      "slug": "Aprender/JavaScript/Client-side_web_APIs/Buscando_dados",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/JavaScript/Client-side_web_APIs/Fetching_data",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance na web",
+      "slug": "Aprender/Performance",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Construindo um complemento",
+      "slug": "Construindo_um_complemento",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Building_an_Extension",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Creating a dynamic status bar extension",
+      "slug": "Creating_a_dynamic_status_bar_extension",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/Creating_a_dynamic_status_bar_extension",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "DOM",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Técnicas para desenvolvimento de jogos",
+      "slug": "Games/Techniques",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Games/Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Async scripts for asm.js",
+      "slug": "Games/Techniques/Async_scripts",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Games/Techniques/Async_scripts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Implementing game control mechanisms",
+      "slug": "Games/Techniques/Control_mechanisms",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Games/Techniques/Control_mechanisms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cacheável",
+      "slug": "Glossario/cacheável",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Glossary/cacheable",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SGML",
+      "slug": "Glossario/SGML",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Glossary/SGML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Learn/Accessibility",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Como você hospeda seu site no Google App Engine?",
+      "slug": "Learn/Common_questions/Como_voce_hospeda_seu_site_Google_App_Engine",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Common_questions/How_do_you_host_your_website_on_Google_App_Engine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "O que são hiperlinks?",
+      "slug": "Learn/Common_questions/o_que_sao_hyperlinks",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Common_questions/What_are_hyperlinks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Quanto custa fazer algo na Web?",
+      "slug": "Learn/Common_questions/Quanto_custa_fazer_algo_web",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Common_questions/How_much_does_it_cost",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "How do I use GitHub Pages?",
+      "slug": "Learn/Common_questions/Using_Github_pages",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Common_questions/Using_Github_pages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS first steps",
+      "slug": "Learn/CSS/First_steps",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/CSS/First_steps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use CSS to solve common problems",
+      "slug": "Learn/CSS/Howto",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/CSS/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Asynchronous JavaScript",
+      "slug": "Learn/JavaScript/Asynchronous",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/JavaScript/Asynchronous",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Express Tutorial Part 7: Deploying to production",
+      "slug": "Learn/Server-side/Express_Nodejs/deployment",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/deployment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Express Tutorial Part 5: Displaying library data",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Segurança do site",
+      "slug": "Learn/Server-side/First_steps/Seguranca_site",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Server-side/First_steps/Website_security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cross Browser Teste",
+      "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introduction to cross browser testing",
+      "slug": "Learn/Tools_and_testing/Cross_browser_testing/Introduction",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Tools_and_testing/Cross_browser_testing/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Security preferences",
+      "slug": "Midas/Security_preferences",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas/Security_preferences",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NSPR",
+      "slug": "NSPR",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Projects/NSPR",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Estruturas de um Pacote de Instalação",
+      "slug": "Pacotes",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/Mozilla/Bundles",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Exemplo de Orientação para Codificação de Aplicativos",
+      "slug": "Project:MDN/Style_guide/Sample_app_coding_guidelines",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "MDN/Contribute/Guidelines/Code_guidelines",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSP (Content Security Policy)",
+      "slug": "Security/CSP",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Security/CSP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Debugger (before Firefox 52)",
+      "slug": "Tools/Debugger_(before_Firefox_52)",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Tools/Debugger_(before_Firefox_52)",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DevTools API",
+      "slug": "Tools/DevToolsAPI",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Tools/DevToolsAPI",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notas de lançamento",
+      "slug": "Tools/Notas_de_lancamento",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Tools/Release_notes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Trabalho Com Animações",
+      "slug": "Tools/Page_Inspector/How_to/Trabalho_Com_Animaçoes",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Work_with_animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ferramentas",
+      "slug": "Tools/Tools_Toolbox",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ARIA techniques",
+      "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Alerts",
+      "slug": "Web/Accessibility/ARIA/forms/alerts",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/forms/alerts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ARIA: Navigation Role",
+      "slug": "Web/Accessibility/ARIA/Roles/Navigation_Role",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/Roles/Navigation_Role",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AT APIs Support",
+      "slug": "Web/Accessibility/AT-APIs",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Tech/Accessibility/AT-APIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Gecko Roles",
+      "slug": "Web/Accessibility/AT-APIs/Gecko/Roles",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Tech/Accessibility/AT-APIs/Gecko/Roles",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XForms Accessibility",
+      "slug": "Web/Accessibility/XForms",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Mozilla/Tech/Accessibility/XForms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Background Tasks API",
+      "slug": "Web/API/Background_Tasks_API",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Background_Tasks_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CameraControl",
+      "slug": "Web/API/CameraControl",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/CameraControl",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CameraControl.autoFocus()",
+      "slug": "Web/API/CameraControl/autoFocus",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/CameraControl/autoFocus",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.getElementsByTagName()",
+      "slug": "Web/API/Document/getElementsByTagName",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Document/getElementsByTagName",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.importNode()",
+      "slug": "Web/API/Document/importNode",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Document/importNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "scroll",
+      "slug": "Web/API/Document/scroll_event",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Document/scroll_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMImplementation",
+      "slug": "Web/API/DOMImplementation",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/DOMImplementation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.scrollTopMax",
+      "slug": "Web/API/Element/scrollTopMax",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Element/scrollTopMax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers",
+      "slug": "Web/API/GlobalEventHandlers",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers.onabort",
+      "slug": "Web/API/GlobalEventHandlers/onabort",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers/onabort",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "History",
+      "slug": "Web/API/History",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/History",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement",
+      "slug": "Web/API/HTMLCanvasElement",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.lang",
+      "slug": "Web/API/HTMLElement/lang",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/HTMLElement/lang",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLOptionElement",
+      "slug": "Web/API/HTMLOptionElement",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/HTMLOptionElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSelectElement",
+      "slug": "Web/API/HTMLSelectElement",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaStreamTrack",
+      "slug": "Web/API/MediaStreamTrack",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/MediaStreamTrack",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MouseEvent",
+      "slug": "Web/API/MouseEvent",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/MouseEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.replaceChild",
+      "slug": "Web/API/Node/replaceChild",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Node/replaceChild",
+        "locale": "en-US"
+      }
+    },
+    "probably": "gl",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification.onclick",
+      "slug": "Web/API/notificacoes/onclick",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Notification/onclick",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance",
+      "slug": "Web/API/Performance",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection.canTrickleIceCandidates",
+      "slug": "Web/API/RTCPeerConnection/canTrickleIceCandidates",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection/canTrickleIceCandidates",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection()",
+      "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ServiceWorkerGlobalScope",
+      "slug": "Web/API/ServiceWorkerGlobalScope",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/ServiceWorkerGlobalScope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SharedWorker",
+      "slug": "Web/API/SharedWorker",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/SharedWorker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Streams API",
+      "slug": "Web/API/Streams_API",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Streams_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL tutorial",
+      "slug": "Web/API/WebGL_API/Tutorial",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Criando objetos em 3D usando o WebGL",
+      "slug": "Web/API/WebGL_API/Tutorial/Criando_objetos_em_3D_usando_o_WebGL",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Creating_3D_objects_using_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.scrollByPages()",
+      "slug": "Web/API/Window/scrollByPages",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/Window/scrollByPages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowBase64",
+      "slug": "Web/API/WindowBase64",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/WindowBase64",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowOrWorkerGlobalScope",
+      "slug": "Web/API/WindowOrWorkerGlobalScope",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/WindowOrWorkerGlobalScope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.async",
+      "slug": "Web/API/XMLDocument/async",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/XMLDocument/async",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML no XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest/HTML_in_XMLHttpRequest",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/HTML_in_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-binding",
+      "slug": "Web/CSS/-moz-binding",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/-moz-binding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-cell",
+      "slug": "Web/CSS/-moz-cell",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/-moz-cell",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-ms-tooltip",
+      "slug": "Web/CSS/::-ms-tooltip",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/::-ms-tooltip",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@keyframes",
+      "slug": "Web/CSS/@keyframes",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/@keyframes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@media",
+      "slug": "Web/CSS/@media",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/@media",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-image",
+      "slug": "Web/CSS/background-image",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/background-image",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "break-after",
+      "slug": "Web/CSS/break-after",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/break-after",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Comentário",
+      "slug": "Web/CSS/Comentário",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/Comments",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using CSS multi-column layouts",
+      "slug": "Web/CSS/CSS_Columns/Using_multi-column_layouts",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/CSS_Columns/Using_multi-column_layouts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transitions",
+      "slug": "Web/CSS/CSS_Transitions",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transitions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Elemento substituído",
+      "slug": "Web/CSS/Elemento_substituido",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/Replaced_element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<filter-function>",
+      "slug": "Web/CSS/filter-function",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/filter-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::first-letter (:first-letter)",
+      "slug": "Web/CSS/::first-letter",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/::first-letter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "flex-direction",
+      "slug": "Web/CSS/flex-direction",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/flex-direction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "flex-flow",
+      "slug": "Web/CSS/flex-flow",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/flex-flow",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "font-size",
+      "slug": "Web/CSS/font-size",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/font-size",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "grid-template-columns",
+      "slug": "Web/CSS/grid-template-columns",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/grid-template-columns",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Modelo de layout",
+      "slug": "Web/CSS/Modelo_layout",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/Layout_mode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Modelo de formatação visual",
+      "slug": "Web/CSS/Modelo_Visual",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/Visual_formatting_model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Sintexe do valor",
+      "slug": "Web/CSS/Sintexe_valor",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/Value_definition_syntax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "text-transform",
+      "slug": "Web/CSS/text-transform",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/text-transform",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "touch-action",
+      "slug": "Web/CSS/touch-action",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/touch-action",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<transform-function>",
+      "slug": "Web/CSS/transform-function",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/transform-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "user-select",
+      "slug": "Web/CSS/user-select",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/user-select",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using CSS gradients",
+      "slug": "Web/CSS/Using_CSS_gradients",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/CSS_Images/Using_CSS_gradients",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor atual",
+      "slug": "Web/CSS/Valor_atual",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/actual_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor Computado",
+      "slug": "Web/CSS/valor_computado",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/computed_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor Especifícado",
+      "slug": "Web/CSS/valor_espeficifco",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/specified_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor inicial",
+      "slug": "Web/CSS/valor_inicial",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/initial_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor Resolvido",
+      "slug": "Web/CSS/Valor_resolvido",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/resolved_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Valor usado",
+      "slug": "Web/CSS/Valor_usado",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/used_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebRTC",
+      "slug": "Web/Guide/API/WebRTC",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Guide/API/WebRTC",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "O Contexto de Empilhamento",
+      "slug": "Web/Guide/CSS/Understanding_z_index/O_contexto_de_empilhamento",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event developer guide",
+      "slug": "Web/Guide/Events",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Guide/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Uma visão geral sobre Events e Handlers",
+      "slug": "Web/Guide/Events/Overview_of_Events_and_Handlers",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Guide/Events/Overview_of_Events_and_Handlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "How to build custom form widgets",
+      "slug": "Web/Guide/HTML/Forms/How_to_build_custom_form_widgets",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Learn/Forms/How_to_build_custom_form_controls",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<applet>",
+      "slug": "Web/HTML/Element/applet",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTML/Element/applet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<big>: Elemento para deixar o texto maio",
+      "slug": "Web/HTML/Element/big",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTML/Element/big",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<content>: The Shadow DOM Content Placeholder element (obsolete)",
+      "slug": "Web/HTML/Element/conteúdo",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTML/Element/content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<td>",
+      "slug": "Web/HTML/Element/td",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTML/Element/td",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Optimizing your pages for speculative parsing",
+      "slug": "Web/HTML/Optimizing_your_pages_for_speculative_parsing",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Glossary/speculative_parsing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "If-Unmodified-Since",
+      "slug": "Web/HTTP/Headers/If-Unmodified-Since",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/HTTP/Headers/If-Unmodified-Since",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Coleções chaveadas",
+      "slug": "Web/JavaScript/Guide/Coleções_chaveadas",
+      "locale": "pt-BR"
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Erro de sintaxe: Faltando } depois da função body",
+      "slug": "Web/JavaScript/Reference/Errors/Faltando_chave_depois_função_body",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Missing_curly_after_function_body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SyntaxError: missing ; before statement",
+      "slug": "Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "get Array[@@species]",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/@@species",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/@@species",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ArrayBuffer",
+      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.tanh()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/tanh",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/tanh",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.__count__",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/count",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/count",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.allSettled()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/allSettled",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/allSettled",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Reflect.construct()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Reflect/construct",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Reflect/construct",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TypedArray",
+      "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expression closures",
+      "slug": "Web/JavaScript/Reference/Operators/Expression_closures",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Expression_closures",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "empty",
+      "slug": "Web/JavaScript/Reference/Statements/Empty",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/Empty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<math>",
+      "slug": "Web/MathML/Element/math",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/MathML/Element/math",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Performance",
+      "slug": "Web/Performance",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Caminho de renderização crítico",
+      "slug": "Web/Performance/caminho_de_renderizacao_critico",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Performance/Critical_rendering_path",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Progressive web apps",
+      "slug": "Web/Progressive_web_apps",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Progressive_web_apps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Controles de Segurança",
+      "slug": "Web/Security/Básico_de_Segurança_da_Informação/Controle_Seguranca",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Security/Information_Security_Basics/Security_Controls",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Segurança TCP/IP",
+      "slug": "Web/Security/Básico_de_Segurança_da_Informação/Seguranca_TCP_IP",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Security/Information_Security_Basics/TCP_IP_Security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Content type",
+      "slug": "Web/SVG/Content_type",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/SVG/Content_type",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Usando elementos customizados",
+      "slug": "Web/Web_Components/Usando_elementos_customizados",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Web_Components/Using_custom_elements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XSLT",
+      "slug": "Web/XSLT",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/XSLT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Site Móvel Amigável",
+      "slug": "Web_Development/Mobile/Mobile-friendliness",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Guide/Mobile/Mobile-friendliness",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Sites separados para celular e desktop",
+      "slug": "Web_Development/Mobile/Sites_separados",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/Guide/Mobile/Separate_sites",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TCP Socket",
+      "slug": "WebAPI/TCP_Socket",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/TPC_Socket_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Activities",
+      "slug": "WebAPI/Web_Activities",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Web_Activities",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Escrevendo aplicações cliente WebSocket",
+      "slug": "WebSockets/Escrevendo_aplicacoes_cliente_WebSocket",
+      "locale": "pt-BR",
+      "parent": {
+        "slug": "Web/API/WebSockets_API/Writing_WebSocket_client_applications",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

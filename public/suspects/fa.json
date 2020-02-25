@@ -1,0 +1,990 @@
+[
+  {
+    "metadata": {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "locale": "fa",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "جاوااسکریپت",
+      "slug": "Glossary/جاوااسکریپت",
+      "locale": "fa",
+      "parent": {
+        "slug": "Glossary/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "مرجع صفت‌های HTML",
+      "slug": "HTML/Attributes",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "آموزش استایل‌دهی به HTML با استفاده از CSS",
+      "slug": "Learn/CSS",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML basics",
+      "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "منتشر کردن وبسایت شما",
+      "slug": "Learn/Getting_started_with_the_web/منتشر_کردن_وبسایت_شما",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What’s in the head? Metadata in HTML",
+      "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Learn/Server-side",
+      "locale": "fa",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN at 10",
+      "slug": "MDN_at_ten",
+      "locale": "fa",
+      "parent": {
+        "slug": "MDN_at_ten",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "fa",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Security preferences",
+      "slug": "Midas/Security_preferences",
+      "locale": "fa",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas/Security_preferences",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-sent events",
+      "slug": "Server-sent_events",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Server-sent_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using server-sent events",
+      "slug": "Server-sent_events/Using_server-sent_events",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Server-sent_events/Using_server-sent_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ابزارهای توسعه فایرفاکس",
+      "slug": "Tools",
+      "locale": "fa",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blob",
+      "slug": "Web/API/Blob",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Blob",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blob()",
+      "slug": "Web/API/Blob/Blob",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Blob/Blob",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.getBoundingClientRect()",
+      "slug": "Web/API/Element/getBoundingClientRect",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Element/getBoundingClientRect",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaTrackConstraints",
+      "slug": "Web/API/MediaTrackConstraints",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/MediaTrackConstraints",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.innerText",
+      "slug": "Web/API/Node/innerText",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/HTMLElement/innerText",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node.insertBefore()",
+      "slug": "Web/API/Node/insertBefore",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Node/insertBefore",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification",
+      "slug": "Web/API/notification",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/notification",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification.requestPermission()",
+      "slug": "Web/API/Notification/requestPermission",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/API/Notification/requestPermission",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::after (:after)",
+      "slug": "Web/CSS/::after",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/::after",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "all",
+      "slug": "Web/CSS/all",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/all",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::before (:before)",
+      "slug": "Web/CSS/::before",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/::before",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Flexible Box Layout",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "مفاهیم اولیه فلکس باکس",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::cue (:cue)",
+      "slug": "Web/CSS/::cue",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/::cue",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "margin",
+      "slug": "Web/CSS/margin",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/margin-new",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Media queries",
+      "slug": "Web/CSS/Media_Queries",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":not()",
+      "slug": "Web/CSS/:not",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/:not",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Pseudo-elements",
+      "slug": "Web/CSS/Pseudo-elements",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/Pseudo-elements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Specificity",
+      "slug": "Web/CSS/Specificity",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/Specificity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<transform-function>",
+      "slug": "Web/CSS/transform-function",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/transform-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "انتخابگر ویژگی",
+      "slug": "Web/CSS/انتخابگرـویژگی",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/Attribute_selectors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "بزرگنمایی",
+      "slug": "Web/CSS/بزرگنمایی",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/zoom",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "وراثت",
+      "slug": "Web/CSS/وراثت",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/CSS/inheritance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "راهنمای توسعه دهنده وب",
+      "slug": "Web/Guide",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<abbr>",
+      "slug": "Web/HTML/Element/abbr",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Element/abbr",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<data>",
+      "slug": "Web/HTML/Element/data",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Element/data",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<html>: The HTML Document / Root element",
+      "slug": "Web/HTML/Element/html",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Element/html",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<textarea>",
+      "slug": "Web/HTML/Element/textarea",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Element/textarea",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "اضافه کردن رنگ به عناصر با استفاده از سی اس اس",
+      "slug": "Web/HTML/افزودن_رنگ",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTML/Applying_color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "مرجع جاوا اسکریپت",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TypeError: \"x\" is not a function",
+      "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Default parameters",
+      "slug": "Web/JavaScript/Reference/Functions/پارامترهای_پیش_فرض",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reduce()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.caller",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "null",
+      "slug": "Web/JavaScript/Reference/Global_Objects/null",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/null",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "نماد",
+      "slug": "Web/JavaScript/Reference/Global_Objects/نماد",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Symbol",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "عملگرهای محاسباتی در جاوا اسکریپت",
+      "slug": "Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "عملگر new در جاوا اسکریپت",
+      "slug": "Web/JavaScript/Reference/Operators/new",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/new",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "نوشتار Spread",
+      "slug": "Web/JavaScript/Reference/Operators/Spread_syntax",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Spread_syntax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...in",
+      "slug": "Web/JavaScript/Reference/Statements/for...in",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for each...in",
+      "slug": "Web/JavaScript/Reference/Statements/for_each...in",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for_each...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "شکستن",
+      "slug": "Web/JavaScript/Reference/Statements/شکستن",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/break",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Control flow and error handling",
+      "slug": "Web/JavaScript/راهنما/Control_flow_and_error_handling",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/راهنما/Functions",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "گرامر و انواع",
+      "slug": "Web/JavaScript/راهنما/Grammar_and_types",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Grammar_and_types",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Tutorial",
+      "slug": "Web/SVG/Tutorial",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/SVG/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "معرفی SVG",
+      "slug": "Web/SVG/Tutorial/Introduction",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web/SVG/Tutorial/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Development",
+      "slug": "Web_Development",
+      "locale": "fa",
+      "parent": {
+        "slug": "Web_Development",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "پروژه:حق‌نشر",
+      "slug": "پروژه:حق‌نشر",
+      "locale": "fa",
+      "parent": {
+        "slug": "Project:Copyrights",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

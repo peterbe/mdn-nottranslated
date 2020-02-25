@@ -1,0 +1,1029 @@
+[
+  {
+    "metadata": {
+      "title": "MDN Web Docs Glossary: Definitions of Web-related terms",
+      "slug": "Glossary",
+      "locale": "he",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS",
+      "slug": "Learn/CSS",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS layout",
+      "slug": "Learn/CSS/CSS_layout",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/CSS/CSS_layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "תחילת הדרך עם ה-Web",
+      "slug": "Learn/Getting_started_with_the_web",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML למתחילים",
+      "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "התקנת תוכנות בסיסיות",
+      "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "מושגים בסיסיים",
+      "slug": "Learn/Getting_started_with_the_web/מושגים_בסיסיים",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/JavaScript_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Learning HTML: Guides and tutorials",
+      "slug": "Learn/HTML",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "הטמעת מולטימדיה",
+      "slug": "Learn/HTML/הטמעת_מולטימדיה",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "טבלאות HTML",
+      "slug": "Learn/HTML/טבלאות",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/HTML/Tables",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "טפסי HTML",
+      "slug": "Learn/HTML/טפסים",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "מבוא לשפת HTML",
+      "slug": "Learn/HTML/מבוא_לשפת_HTML",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "השתמש ב-HTML כדי לפתור בעיות נפוצות",
+      "slug": "Learn/HTML/פתרון_בעיות",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/HTML/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming - פיתוח צד שרת",
+      "slug": "Learn/Server-side",
+      "locale": "he",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mozilla MathML Project",
+      "slug": "Mozilla_MathML_Project",
+      "locale": "he",
+      "parent": {
+        "slug": "Mozilla/MathML_Project",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Security",
+      "slug": "Security",
+      "locale": "he",
+      "parent": {
+        "slug": "Security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "InsecurePasswords",
+      "slug": "Security/InsecurePasswords",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/Security/Insecure_passwords",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console",
+      "slug": "Web/API/Console",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document",
+      "slug": "Web/API/Document",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Document",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.getElementById()",
+      "slug": "Web/API/Document/getElementById",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Document/getElementById",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.querySelector()",
+      "slug": "Web/API/Element/querySelector",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Element/querySelector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventListener",
+      "slug": "Web/API/EventListener",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/EventListener",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocation",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IndexedDB API",
+      "slug": "Web/API/IndexedDB_API",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/IndexedDB_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Storage",
+      "slug": "Web/API/Storage",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Storage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML in XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest/HTML_in_XMLHttpRequest",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/HTML_in_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest()",
+      "slug": "Web/API/XMLHttpRequest/XMLHttpRequest",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS: גיליונות סגנון מדורגים",
+      "slug": "Web/CSS",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "מדריך למפתח אינטרנט",
+      "slug": "Web/Guide",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML5",
+      "slug": "Web/Guide/HTML/HTML5",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "רשימת האלמנטים של HTML5",
+      "slug": "Web/Guide/HTML/HTML5/HTML5_element_list",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5/HTML5_element_list",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "קטגוריות תוכן",
+      "slug": "Web/Guide/HTML/קטגוריות_תוכן",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/Guide/HTML/Content_categories",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<center>: תגית למרכוז טקסט",
+      "slug": "Web/HTML/Element/center",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/center",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<form>: תגית להגדרת טופס",
+      "slug": "Web/HTML/Element/form",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/form",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<main>: תגית לציון תוכן המאמר",
+      "slug": "Web/HTML/Element/main",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/main",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<mark>: תגית לסימון טקסט",
+      "slug": "Web/HTML/Element/mark",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/mark",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<section>: תגית לסימון איזור כללי",
+      "slug": "Web/HTML/Element/section",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/section",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<span>:",
+      "slug": "Web/HTML/Element/span",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/HTML/Element/span",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "יסודות השפה",
+      "slug": "Web/JavaScript/Guide/Grammar_and_types",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Grammar_and_types",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "הקדמה",
+      "slug": "Web/JavaScript/Guide/הקדמה",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "פונקציות",
+      "slug": "Web/JavaScript/Guide/פונקציות",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TypeError: \"x\" is not a function",
+      "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.concat()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/concat",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/concat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.filter()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/filter",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/filter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "()Array.from",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.includes()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.isArray()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/isArray",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/isArray",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.length",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/length",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.unshift()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "parseInt()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String: מחרוזת",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "()string.length: אורך מחרוזת",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/length",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "אינדקס מתודות של ג'אווה סקריפט",
+      "slug": "Web/JavaScript/Reference/Methods_Index",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Methods_Index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "this",
+      "slug": "Web/JavaScript/Reference/Operators/this",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/this",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "typeof",
+      "slug": "Web/JavaScript/Reference/Operators/typeof",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/typeof",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...of",
+      "slug": "Web/JavaScript/Reference/Statements/for...of",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...of",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for each...in",
+      "slug": "Web/JavaScript/Reference/Statements/for_each...in",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for_each...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "let",
+      "slug": "Web/JavaScript/Reference/Statements/let",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/let",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Template strings",
+      "slug": "Web/JavaScript/Reference/template_strings",
+      "locale": "he",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Template_literals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

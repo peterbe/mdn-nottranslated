@@ -1,0 +1,600 @@
+[
+  {
+    "metadata": {
+      "title": "CSS",
+      "slug": "Learn/CSS",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML",
+      "slug": "Learn/HTML",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Multimedia and embedding",
+      "slug": "Learn/HTML/Multimedia_and_embedding",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Изображения в  HTML",
+      "slug": "Learn/HTML/Multimedia_and_embedding/изображения_в_HTML",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Въведение в HTML",
+      "slug": "Learn/HTML/Въведение_в_HTML",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript building blocks",
+      "slug": "Learn/JavaScript/Building_blocks",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Looping code",
+      "slug": "Learn/JavaScript/Building_blocks/Looping_code",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/JavaScript/Building_blocks/Looping_code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Client-side web APIs",
+      "slug": "Learn/JavaScript/Client-side_web_APIs",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/JavaScript/Client-side_web_APIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Първи стъпки с JavaScript",
+      "slug": "Learn/JavaScript/Първи_стъпки_с_JavaScript",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Learn/Server-side",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Първи стъпки в програмирането от страната на сървъра",
+      "slug": "Learn/Server-side/Първи_стъпки_сървър",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Server-side/First_steps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Публикуване на вашия сайт",
+      "slug": "Learn/Да_започнем_с_Мрежата/Publishing_your_website",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Как работи световната мрежа",
+      "slug": "Learn/Да_започнем_с_Мрежата/Как_работи_световната_мрежа",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/How_the_Web_works",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Как ще изглежда новият ви сайт",
+      "slug": "Learn/Да_започнем_с_Мрежата/Как_ще_изглежда_новият_ви_сайт",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Основи на CSS",
+      "slug": "Learn/Да_започнем_с_Мрежата/Основи_на_CSS",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/CSS_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Основи на JavaScript",
+      "slug": "Learn/Да_започнем_с_Мрежата/Основи_на_JavaScript",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/JavaScript_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Работа с файлове",
+      "slug": "Learn/Да_започнем_с_Мрежата/Работа_с_файлове",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Общи въпроси",
+      "slug": "Learn/Общи_въпроси",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox Developer Tools",
+      "slug": "Tools",
+      "locale": "bg",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "bg",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web APIs",
+      "slug": "Web/API",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS",
+      "slug": "Web/CSS",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Изчислена стойност",
+      "slug": "Web/CSS/computed_value",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/computed_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Positioning",
+      "slug": "Web/CSS/CSS_Positioning",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Да разберем CSS z-index",
+      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "position",
+      "slug": "Web/CSS/position",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/position",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web developer guides",
+      "slug": "Web/Guide",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<button>: The Button element",
+      "slug": "Web/HTML/Element/button",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTML/Element/button",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "302 Found",
+      "slug": "Web/HTTP/Status/302",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status/302",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "404 Not Found",
+      "slug": "Web/HTTP/Status/404",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status/404",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Справочник за JavaScript",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG: Scalable Vector Graphics",
+      "slug": "Web/SVG",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG element reference",
+      "slug": "Web/SVG/Element",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/SVG/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

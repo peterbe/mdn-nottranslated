@@ -1,0 +1,1393 @@
+[
+  {
+    "metadata": {
+      "title": "DOM Reference",
+      "slug": "DOM/DOM_Reference",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "First-class Function",
+      "slug": "Glossary/First-class_Function",
+      "locale": "bn",
+      "parent": {
+        "slug": "Glossary/First-class_Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Learn to style HTML using CSS",
+      "slug": "Learn/CSS",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use CSS to solve common problems",
+      "slug": "Learn/CSS/Howto",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/CSS/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Getting started with the Web",
+      "slug": "Learn/Getting_started_with_the_web",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "এইচটিএমএল এর মূলসূত্র",
+      "slug": "Learn/Getting_started_with_the_web/এইচটিএমএল_এর_মূলসূত্র",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "কিভাবে MDN এর শিক্ষণীয় বিষয় অংশে অবদান রাখা যায়",
+      "slug": "Learn/How_to_contribute",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/How_to_contribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML",
+      "slug": "Learn/HTML",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use HTML to solve common problems",
+      "slug": "Learn/HTML/Howto",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/HTML/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use JavaScript within a webpage",
+      "slug": "Learn/HTML/Howto/Use_JavaScript_within_a_webpage",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/HTML/Howto/Use_JavaScript_within_a_webpage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Infrastructure",
+      "slug": "Learn/Infrastructure",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/Infrastructure",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "মজিলা ডেভেলপার নেটওয়ার্কের ১০ বছরে পদার্পণ ।",
+      "slug": "MDN_at_ten",
+      "locale": "bn",
+      "parent": {
+        "slug": "MDN_at_ten",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN:কিভাবে সাহায্য করবো",
+      "slug": "Project:en/Project:How_to_Help",
+      "locale": "bn",
+      "parent": {
+        "slug": "Project:How_to_Help",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "লোকালাইজেশন প্রজেক্টস",
+      "slug": "Project:Localization_Projects",
+      "locale": "bn",
+      "parent": {
+        "slug": "MDN/Contribute/Localize/Localization_projects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN style guide",
+      "slug": "Project:MDN/Style_guide",
+      "locale": "bn",
+      "parent": {
+        "slug": "Project:MDN/Style_guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "অ্যাপ লেখার নমুনা নির্দেশিকা",
+      "slug": "Project:MDN/Style_guide/Sample_app_coding_guidelines",
+      "locale": "bn",
+      "parent": {
+        "slug": "MDN/Contribute/Guidelines/Code_guidelines",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ডকুমেন্টেশন, পরিকল্পনা এবং ট্র্যাকিং",
+      "slug": "Project:MDN/অবদান/Planning",
+      "locale": "bn",
+      "parent": {
+        "slug": "Archive/Meta_docs/Planning",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN এ ট্যাগ করার আদর্শরীতি",
+      "slug": "Project:MDN/অবদান/Tagging_standards",
+      "locale": "bn",
+      "parent": {
+        "slug": "MDN/Contribute/Howto/Tag",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ডিবাগার",
+      "slug": "Tools/Debugger",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Debugger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "পারফরম্যান্স",
+      "slug": "Tools/Performance",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remotely debugging Firefox for Android",
+      "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ওয়েব কনসোল",
+      "slug": "Tools/Web_Console",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Web_Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE",
+      "locale": "bn",
+      "parent": {
+        "slug": "Archive/WebIDE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "টুলবক্স",
+      "slug": "Tools/টুলস_টুলবক্স",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ত্রিমাত্রিক দর্শন",
+      "slug": "Tools/ত্রিমাত্রিক_দর্শন",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/3D_View",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "স্ক্র্যাচপ্যাড",
+      "slug": "Tools/স্ক্র্যাচপ্যাড",
+      "locale": "bn",
+      "parent": {
+        "slug": "Tools/Scratchpad",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AbstractWorker",
+      "slug": "Web/API/AbstractWorker",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/AbstractWorker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Object Model",
+      "slug": "Web/API/CSS_Object_Model",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/CSS_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ডায়নামিক স্টাইলিং তথ্য ব্যবহার",
+      "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator.mozCamera",
+      "slug": "Web/API/Navigator.mozCameras",
+      "locale": "bn",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Navigator/mozCameras",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL",
+      "slug": "Web/API/WebGL_API",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/WebGL_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Animations",
+      "slug": "Web/CSS/CSS_Animations",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/CSS_Animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Flexible Box Layout",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using CSS flexible boxes",
+      "slug": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transforms",
+      "slug": "Web/CSS/CSS_Transforms",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transforms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "লিস্ট",
+      "slug": "Web/CSS/Getting_Started/লিস্ত",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/Lists",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "লাইন-হাইট",
+      "slug": "Web/CSS/line-height",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/line-height",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Syntax",
+      "slug": "Web/CSS/Syntax",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/Syntax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "লিখন-বিন্যাস",
+      "slug": "Web/CSS/লিখন-বিন্যাস",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/CSS/text-align",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "mouseover",
+      "slug": "Web/Events/mouseover",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/Element/mouseover_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM developer guide",
+      "slug": "Web/Guide/API/DOM",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM Storage guide",
+      "slug": "Web/Guide/API/DOM/Storage",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/API/DOM/Storage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event developer guide",
+      "slug": "Web/Guide/Events",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ইভেন্ট তৈরি এবং ট্রিগার করা",
+      "slug": "Web/Guide/Events/Creating_and_triggering_events",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/Events/Creating_and_triggering_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML forms guide",
+      "slug": "Web/Guide/HTML/Forms",
+      "locale": "bn",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML অ্যাট্রিবিউট রেফারেন্স",
+      "slug": "Web/HTML/Attributes",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ক্যানভাস ব্যবহার করে গ্রাফিক্স আঁকা",
+      "slug": "Web/HTML/Canvas/Drawing_graphics_with_canvas",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Drawing_graphics_with_canvas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "এইচ টি এম এল এ স্পেল চেকিং কন্ট্রোলিং",
+      "slug": "Web/HTML/Controlling_spell_checking_in_HTML_forms",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Controlling_spell_checking_in_HTML_forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS enabled image",
+      "slug": "Web/HTML/CORS_enabled_image",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/CORS_enabled_image",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML এলিমেন্ট রেফারেন্স",
+      "slug": "Web/HTML/Element",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/HTML/Element/a",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<audio>",
+      "slug": "Web/HTML/Element/audio",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/audio",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "সামারি",
+      "slug": "Web/HTML/Element/b",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/b",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<bdi>",
+      "slug": "Web/HTML/Element/bdi",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/bdi",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<bgsound>",
+      "slug": "Web/HTML/Element/bgsound",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/bgsound",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<blockquote>",
+      "slug": "Web/HTML/Element/blockquote",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/blockquote",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<br>",
+      "slug": "Web/HTML/Element/br",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/br",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "উপাদান শীর্ষক",
+      "slug": "Web/HTML/Element/Heading_Elements",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/Heading_Elements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<img>",
+      "slug": "Web/HTML/Element/Img",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/img",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<input>",
+      "slug": "Web/HTML/Element/Input",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/input",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<mark>",
+      "slug": "Web/HTML/Element/mark",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/mark",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<style>",
+      "slug": "Web/HTML/Element/style",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/style",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<summary>",
+      "slug": "Web/HTML/Element/summary",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/summary",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<title>",
+      "slug": "Web/HTML/Element/title",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/title",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global attributes",
+      "slug": "Web/HTML/Global_attributes",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ক্লাস",
+      "slug": "Web/HTML/Global_attributes/class",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/class",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "contextmenu",
+      "slug": "Web/HTML/Global_attributes/contextmenu",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/contextmenu",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "dir",
+      "slug": "Web/HTML/Global_attributes/dir",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/dir",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ড্রপজোন",
+      "slug": "Web/HTML/Global_attributes/dropzone",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/dropzone",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "id",
+      "slug": "Web/HTML/Global_attributes/id",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/id",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "lang",
+      "slug": "Web/HTML/Global_attributes/lang",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/lang",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "স্টাইল",
+      "slug": "Web/HTML/Global_attributes/style",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/style",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "টাইটেল",
+      "slug": "Web/HTML/Global_attributes/title",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/title",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "অনুবাদ করা",
+      "slug": "Web/HTML/Global_attributes/translate",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/translate",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Microformats",
+      "slug": "Web/HTML/microformats",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/microformats",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "About JavaScript",
+      "slug": "Web/JavaScript/About_JavaScript",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/About_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Control flow এবং error handling",
+      "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Loops and iteration",
+      "slug": "Web/JavaScript/Guide/Loops_and_iteration",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Loops_and_iteration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট প্রযুক্তির সংক্ষিপ্ত বিবরণ",
+      "slug": "Web/JavaScript/JavaScript_technologies_overview",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/JavaScript_technologies_overview",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্টে নতুন",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট ১.২ এ নতুন",
+      "slug": "Web/JavaScript/New_in_JavaScript/1.2",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.2",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট ১.৩ এ নতুন",
+      "slug": "Web/JavaScript/New_in_JavaScript/১.৩",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.3",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট ১.৮.৫ এ যা নতুন",
+      "slug": "Web/JavaScript/New_in_JavaScript/১.৮.৫",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript/1.8.5",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট রেফারেন্স",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "এই রেফারেন্স সম্পর্কে",
+      "slug": "Web/JavaScript/Reference/About",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/About",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global Objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.isFinite",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Symbol",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Symbol",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Symbol",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট অপারেটর সমুহ",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "new.target (নিউ.টার্গেট )",
+      "slug": "Web/JavaScript/Reference/Operators/new.target",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/new.target",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "this",
+      "slug": "Web/JavaScript/Reference/Operators/this",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/this",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "জাভাস্ক্রিপ্ট স্টেটমেন্ট সমুহ",
+      "slug": "Web/JavaScript/Reference/statements",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MathML",
+      "slug": "Web/MathML",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/MathML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ওয়েব এপিআই রেফারেন্স",
+      "slug": "Web/Reference/API",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Reference/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "টিউটোরিয়াল",
+      "slug": "Web/Tutorials",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Development",
+      "slug": "Web_Development",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web_Development",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ওয়েব ডেভেলপমেন্ট পরিচিতি",
+      "slug": "Web_Development/Introduction_to_Web_development",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/Guide/Introduction_to_Web_development",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "বাগজিলায় কি করা যাবে এবং কি করা যাবে না",
+      "slug": "What_to_do_and_what_not_to_do_in_Bugzilla",
+      "locale": "bn",
+      "parent": {
+        "slug": "Mozilla/Bugzilla/What_to_do_and_what_not_to_do_in_Bugzilla",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MDN অঞ্চল",
+      "slug": "Zones",
+      "locale": "bn",
+      "parent": {
+        "slug": "Zones",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ওয়েব এপিআই",
+      "slug": "ওয়েবএপিআই",
+      "locale": "bn",
+      "parent": {
+        "slug": "WebAPI",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

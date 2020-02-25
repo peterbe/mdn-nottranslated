@@ -1,0 +1,1159 @@
+[
+  {
+    "metadata": {
+      "title": "DOM",
+      "slug": "DOM",
+      "locale": "nl",
+      "parent": {
+        "slug": "DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Block",
+      "slug": "Glossary/Block",
+      "locale": "nl",
+      "parent": {
+        "slug": "Glossary/Block",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Learn/Accessibility",
+      "locale": "nl",
+      "parent": {
+        "slug": "Learn/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS",
+      "slug": "Learn/CSS",
+      "locale": "nl",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML forms guide",
+      "slug": "Learn/HTML/Forms",
+      "locale": "nl",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Video- en audio-inhoud",
+      "slug": "Learn/HTML/Multimedia_inbedden/Video_en_audio_content",
+      "locale": "nl",
+      "parent": {
+        "slug": "Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Client-side web APIs",
+      "slug": "Learn/JavaScript/Client-side_web_APIs",
+      "locale": "nl",
+      "parent": {
+        "slug": "Learn/JavaScript/Client-side_web_APIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "nl",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Plugins",
+      "slug": "Plugins",
+      "locale": "nl",
+      "parent": {
+        "slug": "Archive/Plugins",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Een website met geblokkeerde gemengde inhoud in orde maken",
+      "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Browser Toolbox",
+      "slug": "Tools/Browser_Toolbox",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Browser_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Debugger",
+      "slug": "Tools/Debugger",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Debugger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Sneltoetsen",
+      "slug": "Tools/Page_Inspector/sneltoetsen",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Page_Inspector/Keyboard_shortcuts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Prestaties",
+      "slug": "Tools/Prestaties",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Release notes",
+      "slug": "Tools/Release_notes",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Release_notes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Scratchpad",
+      "slug": "Tools/Scratchpad",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Scratchpad",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Toolbox",
+      "slug": "Tools/Tools_Toolbox",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Console Helpers",
+      "slug": "Tools/Web_Console/Helpers",
+      "locale": "nl",
+      "parent": {
+        "slug": "Tools/Web_Console/Helpers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE",
+      "locale": "nl",
+      "parent": {
+        "slug": "Archive/WebIDE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Probleemoplossing voor WebIDE",
+      "slug": "Tools/WebIDE/Probleemoplossingen",
+      "locale": "nl",
+      "parent": {
+        "slug": "Archive/WebIDE/Troubleshooting",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the W3C DOM Level 1 Core",
+      "slug": "Using_the_W3C_DOM_Level_1_Core",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Clipboard",
+      "slug": "Web/API/Clipboard",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Clipboard",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS",
+      "slug": "Web/API/CSS",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSStyleSheet",
+      "slug": "Web/API/CSSStyleSheet",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/CSSStyleSheet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document",
+      "slug": "Web/API/Document",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Document",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocatie",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "LocalFileSystem",
+      "slug": "Web/API/LocalFileSystem",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/LocalFileSystem",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVGAnimatedString",
+      "slug": "Web/API/SVGAnimatedString",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/SVGAnimatedString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Storage API",
+      "slug": "Web/API/Web_Storage_API",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Web_Storage_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL tutorial",
+      "slug": "Web/API/WebGL_API/Tutorial",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Lighting in WebGL",
+      "slug": "Web/API/WebGL_API/Tutorial/Lighting_in_WebGL",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Lighting_in_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowEventHandlers",
+      "slug": "Web/API/WindowEventHandlers",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Worker",
+      "slug": "Web/API/Worker",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Worker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Worker.postMessage()",
+      "slug": "Web/API/Worker/postMessage",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Worker/postMessage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLDocument",
+      "slug": "Web/API/XMLDocument",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/XMLDocument",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Gebruik maken van XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Colors",
+      "slug": "Web/CSS/CSS_Colors",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/CSS/CSS_Colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Images",
+      "slug": "Web/CSS/CSS_Images",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/CSS/CSS_Images",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Understanding CSS z-index",
+      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<color>",
+      "slug": "Web/CSS/kleur_waarde",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/CSS/color_value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "transform-function",
+      "slug": "Web/CSS/transform-function",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/CSS/transform-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Selectors",
+      "slug": "Web/CSS/Voor_Beginners/Selectors",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/Selectors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event referentie",
+      "slug": "Web/Events",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Klik",
+      "slug": "Web/Events/klik",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/Element/click_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web developer guide",
+      "slug": "Web/Guide",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Blok opmaakcontext",
+      "slug": "Web/Guide/CSS/Blok_opmaak_context",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Guide/CSS/Block_formatting_context",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the application cache",
+      "slug": "Web/HTML/Applicatie_cache_gebruiken",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTML/Using_the_application_cache",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/HTML/Element/a",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTML/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Basics of HTTP",
+      "slug": "Web/HTTP/Basics_of_HTTP",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTTP/Basics_of_HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cross-Origin Resource Sharing (CORS)",
+      "slug": "Web/HTTP/CORS",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTTP/CORS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Een herintroductie van Javascript",
+      "slug": "Web/JavaScript/A_re-introduction_to_JavaScript",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/A_re-introduction_to_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Equality comparisons and sameness",
+      "slug": "Web/JavaScript/Equality_comparisons_and_sameness",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Equality_comparisons_and_sameness",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Control flow and error handling",
+      "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Guide/Functions",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Over JavaScript",
+      "slug": "Web/JavaScript/Over_JavaScript",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/About_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead",
+      "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "eval()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.toString()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "extends",
+      "slug": "Web/JavaScript/Reference/Klasses/extends",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/extends",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript methoden inhoudsopgave",
+      "slug": "Web/JavaScript/Reference/Methods_Index",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Methods_Index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Destructuring assignment",
+      "slug": "Web/JavaScript/Reference/Operatoren/Destructuring_assignment",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Destructuring_assignment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...in",
+      "slug": "Web/JavaScript/Reference/Statements/for...in",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "if...else",
+      "slug": "Web/JavaScript/Reference/Statements/if...else",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/if...else",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript shells",
+      "slug": "Web/JavaScript/Shells",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Shells",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Progressive web apps",
+      "slug": "Web/Progressive_web_apps",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Progressive_web_apps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Attribute reference",
+      "slug": "Web/SVG/Attribute",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/SVG/Attribute",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG Tutorial",
+      "slug": "Web/SVG/Tutorial",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/SVG/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tutorials",
+      "slug": "Web/Tutorials",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zones",
+      "slug": "Zones",
+      "locale": "nl",
+      "parent": {
+        "slug": "Zones",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

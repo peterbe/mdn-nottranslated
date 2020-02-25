@@ -1,0 +1,886 @@
+[
+  {
+    "metadata": {
+      "title": "ARIA Test Cases",
+      "slug": "Accessibilité/ARIA/ARIA_Test_Cases",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/ARIA_Test_Cases",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Résoudre des problèmes communs dans vos codes Javascript",
+      "slug": "Apprendre/JavaScript/Howto",
+      "locale": "fr",
+      "parent": {
+        "slug": "Learn/JavaScript/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Compilation de TransforMiiX",
+      "slug": "Compilation_de_TransforMiiX",
+      "locale": "fr",
+      "parent": {
+        "slug": "Archive/Mozilla/Building_TransforMiiX_standalone",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM Levels",
+      "slug": "DOM_Levels",
+      "locale": "fr",
+      "parent": {
+        "slug": "DOM_Levels",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tools for game development",
+      "slug": "Games/Tools",
+      "locale": "fr",
+      "parent": {
+        "slug": "Games/Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "marquage",
+      "slug": "Glossaire/marquage",
+      "locale": "fr",
+      "parent": {
+        "slug": "Glossary/markup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web performance",
+      "slug": "Learn/Performance",
+      "locale": "fr",
+      "parent": {
+        "slug": "Learn/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cross browser testing",
+      "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+      "locale": "fr",
+      "parent": {
+        "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Microsummary topics",
+      "slug": "Microsummary_topics",
+      "locale": "fr",
+      "parent": {
+        "slug": "Archive/Mozilla/Microsummary_topics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NPWindow",
+      "slug": "NPWindow",
+      "locale": "fr",
+      "parent": {
+        "slug": "Archive/Plugins/Reference/NPWindow",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NSPR build instructions",
+      "slug": "NSPR_build_instructions",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Projects/NSPR/NSPR_build_instructions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Introduction to Network Security Services",
+      "slug": "NSS/Introduction_to_Network_Security_Services",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Projects/NSS/Introduction_to_Network_Security_Services",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NSS 3.16.3 release notes",
+      "slug": "NSS/NSS_3.16.3_release_notes",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Projects/NSS/NSS_3.16.3_release_notes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remotely debugging Firefox <36 for Android",
+      "slug": "Outils/Débogage_distant/Firefox_for_Android",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Firefox_for_Android",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Éditer les formes CSS",
+      "slug": "Outils/Inspecteur/Comment/Edit_CSS_shapes",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Edit_CSS_shapes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Voir les polices",
+      "slug": "Outils/Inspecteur/Comment/Voir_les_polices",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Edit_fonts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "travailler avec les animations",
+      "slug": "Outils/Inspecteur/Comment/Work_with_animations",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Work_with_animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Inspecteur de stockage",
+      "slug": "Outils/Inspecteur_de_stockage",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Storage_Inspector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notes de version",
+      "slug": "Outils/Release_notes",
+      "locale": "fr",
+      "parent": {
+        "slug": "Tools/Release_notes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance",
+      "slug": "Performance",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Social API",
+      "slug": "Social_API",
+      "locale": "fr",
+      "parent": {
+        "slug": "Archive/Social_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Sécurité/MixedContent",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AT APIs Support",
+      "slug": "Web/Accessibility/AT-APIs",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/Accessibility/AT-APIs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Rôles Gecko",
+      "slug": "Web/Accessibility/AT-APIs/Gecko/Roles",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/Accessibility/AT-APIs/Gecko/Roles",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "BaseAudioContext",
+      "slug": "Web/API/BaseAudioContext",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/BaseAudioContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Body",
+      "slug": "Web/API/Body",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "BroadcastChannel",
+      "slug": "Web/API/BroadcastChannel",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/BroadcastChannel",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DeviceMotionEvent.acceleration",
+      "slug": "Web/API/DeviceMotionEvent.acceleration",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/DeviceMotionEvent/acceleration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "document.namespaceURI",
+      "slug": "Web/API/Document/namespaceURI",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Document/namespaceURI",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DocumentOrShadowRoot",
+      "slug": "Web/API/DocumentOrShadowRoot",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/DocumentOrShadowRoot",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.getClientRects",
+      "slug": "Web/API/Element/getClientRects",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Element/getClientRects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "wheel",
+      "slug": "Web/API/Element/wheel_event",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Element/wheel_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ExtendableEvent.waitUntil()",
+      "slug": "Web/API/ExtendableEvent/waitUntil",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/ExtendableEvent/waitUntil",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Fetch : concepts de départ",
+      "slug": "Web/API/Fetch_API/Basic_concepts",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Fetch_API/Basic_concepts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLDataElement",
+      "slug": "Web/API/HTMLDataElement",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/HTMLDataElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLInputElement",
+      "slug": "Web/API/HTMLInputElement",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/HTMLInputElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLTableRowElement",
+      "slug": "Web/API/HTMLTableRowElement",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/HTMLTableRowElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IdentityManager",
+      "slug": "Web/API/IdentityManager",
+      "locale": "fr",
+      "parent": {
+        "slug": "Archive/IdentityManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorStorage",
+      "slug": "Web/API/NavigatorStorage",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/NavigatorStorage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NonDocumentTypeChildNode",
+      "slug": "Web/API/NonDocumentTypeChildNode",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/NonDocumentTypeChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notifications d'API",
+      "slug": "Web/API/Notifications_API",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Notifications_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection()",
+      "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Screen",
+      "slug": "Web/API/Screen",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Screen",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Touch",
+      "slug": "Web/API/Touch",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Touch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "VideoTrack",
+      "slug": "Web/API/VideoTrack",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/VideoTrack",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGLRenderingContext",
+      "slug": "Web/API/WebGLRenderingContext",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/WebGLRenderingContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "L'API WebRTC",
+      "slug": "Web/API/WebRTC_API",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/WebRTC_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowOrWorkerGlobalScope",
+      "slug": "Web/API/WindowOrWorkerGlobalScope",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/WindowOrWorkerGlobalScope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WorkerGlobalScope",
+      "slug": "Web/API/WorkerGlobalScope",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/WorkerGlobalScope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "max",
+      "slug": "Web/EXSLT/math/max",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/EXSLT/math/max",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "match",
+      "slug": "Web/EXSLT/regexp/match",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/EXSLT/regexp/match",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "replace",
+      "slug": "Web/EXSLT/regexp/replace",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/EXSLT/regexp/replace",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "test",
+      "slug": "Web/EXSLT/regexp/test",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/EXSLT/regexp/test",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Guides DOM pour développeurs",
+      "slug": "Web/Guide/DOM",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Manipulateurs d'événements DOM",
+      "slug": "Web/Guide/DOM/Events/Event_handlers",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Guide/Events/Event_handlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox user agent string reference",
+      "slug": "Web/HTTP/Gecko_user_agent_string_reference",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/HTTP/Headers/User-Agent/Firefox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Access-Control-Allow-Credentials",
+      "slug": "Web/HTTP/Headers/Access-Control-Allow-Credentials",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Access-Control-Allow-Credentials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set-Cookie",
+      "slug": "Web/HTTP/Headers/Set-Cookie",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Set-Cookie",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Technologies media Web",
+      "slug": "Web/Media",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Media",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Performance",
+      "slug": "Web/Performance",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Les avantages des applications web progressive",
+      "slug": "Web/Progressive_web_apps/Advantages",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Progressive_web_apps/Advantages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Namespaces Crash Course",
+      "slug": "Web/SVG/Namespaces_Crash_Course",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/SVG/Namespaces_Crash_Course",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XML: Extensible Markup Language",
+      "slug": "Web/XML",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/XML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Components.classes",
+      "slug": "XPCOM/Liaisons_de_langage/Components.classes",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Language_Bindings/Components.classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Components.Constructor",
+      "slug": "XPCOM/Liaisons_de_langage/Components.Constructor",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Language_Bindings/Components.Constructor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsILoginManager",
+      "slug": "XPCOM_Interface_Reference/nsILoginManager",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsILoginManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsIWebBrowserPersist",
+      "slug": "XPCOM_Interface_Reference/nsIWebBrowserPersist",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsIWebBrowserPersist",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XSLT 2.0",
+      "slug": "XSLT_2.0",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/XSLT_2.0",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "metadata": {
+      "title": "Block",
+      "slug": "Glossary/Block",
+      "locale": "uk",
+      "parent": {
+        "slug": "Glossary/Block",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS building blocks",
+      "slug": "Learn/CSS/Building_blocks",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/CSS/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Styling text",
+      "slug": "Learn/CSS/Styling_text",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/CSS/Styling_text",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What is JavaScript?",
+      "slug": "Learn/JavaScript/First_steps/What_is_JavaScript",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/What_is_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Learn/Server-side",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Express web framework (Node.js/JavaScript)",
+      "slug": "Learn/Server-side/Express_Nodejs",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Express Tutorial Part 4: Routes and controllers",
+      "slug": "Learn/Server-side/Express_Nodejs/routes",
+      "locale": "uk",
+      "parent": {
+        "slug": "Learn/Server-side/Express_Nodejs/routes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Page Inspector",
+      "slug": "Tools/Page_Inspector",
+      "locale": "uk",
+      "parent": {
+        "slug": "Tools/Page_Inspector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Grid Inspector: Examine grid layouts",
+      "slug": "Tools/Page_Inspector/How_to/Examine_grid_layouts",
+      "locale": "uk",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Examine_grid_layouts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Web/Accessibility",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Canvas tutorial",
+      "slug": "Web/API/Canvas_API/Tutorial",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console",
+      "slug": "Web/API/Console",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console.dir()",
+      "slug": "Web/API/Console/dir",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Console/dir",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CustomEvent",
+      "slug": "Web/API/CustomEvent",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/CustomEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element",
+      "slug": "Web/API/Element",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.getClientRects()",
+      "slug": "Web/API/Element/getClientRects",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Element/getClientRects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement",
+      "slug": "Web/API/HTMLCanvasElement",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLCanvasElement.getContext()",
+      "slug": "Web/API/HTMLCanvasElement/getContext",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement/getContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.offsetTop",
+      "slug": "Web/API/HTMLElement/offsetTop",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/HTMLElement/offsetTop",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLImageElement",
+      "slug": "Web/API/HTMLImageElement",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/HTMLImageElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaQueryList",
+      "slug": "Web/API/MediaQueryList",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/MediaQueryList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVGAnimatedString",
+      "slug": "Web/API/SVGAnimatedString",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/SVGAnimatedString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URLSearchParams",
+      "slug": "Web/API/URLSearchParams",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/URLSearchParams",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSocket",
+      "slug": "Web/API/WebSocket",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/WebSocket",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSockets",
+      "slug": "Web/API/WebSockets_API",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/WebSockets_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowOrWorkerGlobalScope",
+      "slug": "Web/API/WindowOrWorkerGlobalScope",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/WindowOrWorkerGlobalScope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowTimers",
+      "slug": "Web/API/WindowTimers",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/WindowTimers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Подія",
+      "slug": "Web/API/Подія",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.target",
+      "slug": "Web/API/Подія/target",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Event/target",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-orient",
+      "slug": "Web/CSS/-moz-orient",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/-moz-orient",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "animation-name",
+      "slug": "Web/CSS/animation-name",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/animation-name",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Згортання відступів",
+      "slug": "Web/CSS/CSS_Box_Model/Згортання_відступів",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/CSS_Box_Model/Mastering_margin_collapsing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Relationship of grid layout to other layout methods",
+      "slug": "Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "flex-basis",
+      "slug": "Web/CSS/flex-basis",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/flex-basis",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "font-weight",
+      "slug": "Web/CSS/font-weight",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/font-weight",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "justify-content",
+      "slug": "Web/CSS/justify-content",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/justify-content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "resize",
+      "slug": "Web/CSS/resize",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/resize",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Альтернативні таблиці стилів",
+      "slug": "Web/CSS/Альтернативні_таблиці_стилів",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/Alternative_style_sheets",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS довідник",
+      "slug": "Web/CSS/Довідник",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/CSS/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Контекстне меню",
+      "slug": "Web/Events/contextmenu",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Element/contextmenu_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What is CSS?",
+      "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML attribute reference",
+      "slug": "Web/HTML/Attributes",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<input>: The Input (Form Input) element",
+      "slug": "Web/HTML/Element/input",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element/input",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML довідник",
+      "slug": "Web/HTML/Довідник",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Опис HTML елементів",
+      "slug": "Web/HTML/Елемент",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/HTML/Елемент/a",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<script>: Елементи тега Script",
+      "slug": "Web/HTML/Елемент/script",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element/script",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<video>: Вбудований елемент Відео",
+      "slug": "Web/HTML/Елемент/video",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element/video",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<header>",
+      "slug": "Web/HTML/Елемент/Заголовок",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Element/header",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Загальні атрибути",
+      "slug": "Web/HTML/Загальні_атрибути",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "itemscope",
+      "slug": "Web/HTML/Загальні_атрибути/itemscope",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/itemscope",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Режим сумісності й стандартний режим",
+      "slug": "Web/HTML/Режим_сумісності_й_стандартний_режим",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTML/Quirks_Mode_and_Standards_Mode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Basics of HTTP",
+      "slug": "Web/HTTP/Basics_of_HTTP",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Basics_of_HTTP",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "A typical HTTP session",
+      "slug": "Web/HTTP/Session",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Session",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accept",
+      "slug": "Web/HTTP/Заголовки/Accept",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Accept",
+        "locale": "en-US"
+      }
+    },
+    "probably": "zh",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Content-Length",
+      "slug": "Web/HTTP/Заголовки/Content-Length",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Content-Length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "User-Agent",
+      "slug": "Web/HTTP/Заголовки/User-Agent",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/HTTP/Headers/User-Agent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Повторне введення в JavaScript (JS-підручник)",
+      "slug": "Web/JavaScript/A_re-introduction_to_JavaScript",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/A_re-introduction_to_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Microsoft JavaScript extensions",
+      "slug": "Web/JavaScript/Microsoft_Extensions",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Microsoft_Extensions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Нове у JavaScript",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Огляд технологій JavaScript",
+      "slug": "Web/JavaScript/oglyad_tehnologiy_JavaScript",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/JavaScript_technologies_overview",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Довідник з JavaScript",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Deprecated and obsolete features",
+      "slug": "Web/JavaScript/Reference/Deprecated_and_obsolete_features",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Deprecated_and_obsolete_features",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Типові параметри",
+      "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Стрілкові функції",
+      "slug": "Web/JavaScript/Reference/Functions/Стрілкові_функції",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.setTime()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/setTime",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/setTime",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype.columnNumber",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.arity",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/arity",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/arity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "isNaN()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/isNaN",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/isNaN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.__count__",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/count",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/count",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.__parent__",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/Parent",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/Parent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Проксі",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Proxy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype[@@iterator]()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/@@iterator",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/@@iterator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.anchor()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/anchor",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/anchor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "undefined",
+      "slug": "Web/JavaScript/Reference/Global_Objects/undefined",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/undefined",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Intl.Collator",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Порівняльник",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Collator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.isInteger()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Число/isInteger",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isInteger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ініціалізація об’єктів",
+      "slug": "Web/JavaScript/Reference/Operators/Ініціалізація_об’єктів",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Object_initializer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "const",
+      "slug": "Web/JavaScript/Reference/Statements/const",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/const",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Перелічуваність та належність властивостей",
+      "slug": "Web/JavaScript/Перелічуваність_та_належність_властивостей",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Enumerability_and_ownership_of_properties",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Новітні web-застосунки",
+      "slug": "Web/Progressive_web_apps",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Progressive_web_apps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web API reference",
+      "slug": "Web/Reference/API",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Reference/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XML: Extensible Markup Language",
+      "slug": "Web/XML",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/XML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XSLT",
+      "slug": "Web/XSLT",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/XSLT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Перетворення XML за допомогою XSLT",
+      "slug": "Web/XSLT/Перетворення_XML_за_допомогою_XSLT",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/XSLT/Transforming_XML_with_XSLT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Чернетка - Scratchpad",
+      "slug": "Інструменти/chernetka-Scratchpad",
+      "locale": "uk",
+      "parent": {
+        "slug": "Tools/Scratchpad",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Повідомлення консолі",
+      "slug": "Інструменти/Web_Console/Console_messages",
+      "locale": "uk",
+      "parent": {
+        "slug": "Tools/Web_Console/Console_messages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

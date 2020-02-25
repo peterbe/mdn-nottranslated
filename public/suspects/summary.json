@@ -1,0 +1,299 @@
+[
+  {
+    "code": "ar",
+    "language": {
+      "English": "Arabic",
+      "native": "عربي"
+    },
+    "count": 125,
+    "file": "ar.json"
+  },
+  {
+    "code": "bm",
+    "language": {
+      "English": "Bambara",
+      "native": "Bamanankan"
+    },
+    "count": 6,
+    "file": "bm.json"
+  },
+  {
+    "code": "bn",
+    "language": {
+      "English": "Bengali",
+      "native": "বাংলা"
+    },
+    "count": 107,
+    "file": "bn.json"
+  },
+  {
+    "code": "bg",
+    "language": {
+      "English": "Bulgarian",
+      "native": "Български"
+    },
+    "count": 46,
+    "file": "bg.json"
+  },
+  {
+    "code": "my",
+    "language": {
+      "English": "Burmese",
+      "native": "မြန်မာဘာသာ"
+    },
+    "count": 16,
+    "file": "my.json"
+  },
+  {
+    "code": "ca",
+    "language": {
+      "English": "Catalan",
+      "native": "Català"
+    },
+    "count": 41,
+    "file": "ca.json"
+  },
+  {
+    "code": "zh-cn",
+    "language": {
+      "English": "Chinese (Simplified)",
+      "native": "中文 (简体)"
+    },
+    "count": 2177,
+    "file": "zh-cn.json"
+  },
+  {
+    "code": "zh-tw",
+    "language": {
+      "English": "Chinese (Traditional)",
+      "native": "正體中文 (繁體)"
+    },
+    "count": 587,
+    "file": "zh-tw.json"
+  },
+  {
+    "code": "nl",
+    "language": {
+      "English": "Dutch",
+      "native": "Nederlands"
+    },
+    "count": 89,
+    "file": "nl.json"
+  },
+  {
+    "code": "fi",
+    "language": {
+      "English": "Finnish",
+      "native": "suomi"
+    },
+    "count": 18,
+    "file": "fi.json"
+  },
+  {
+    "code": "fr",
+    "language": {
+      "English": "French",
+      "native": "Français"
+    },
+    "count": 68,
+    "file": "fr.json"
+  },
+  {
+    "code": "de",
+    "language": {
+      "English": "German",
+      "native": "Deutsch"
+    },
+    "count": 134,
+    "file": "de.json"
+  },
+  {
+    "code": "el",
+    "language": {
+      "English": "Greek",
+      "native": "Ελληνικά"
+    },
+    "count": 16,
+    "file": "el.json"
+  },
+  {
+    "code": "he",
+    "language": {
+      "English": "Hebrew",
+      "native": "עברית"
+    },
+    "count": 79,
+    "file": "he.json"
+  },
+  {
+    "code": "hi-in",
+    "language": {
+      "English": "Hindi (India)",
+      "native": "हिन्दी (भारत)"
+    },
+    "count": 6,
+    "file": "hi-in.json"
+  },
+  {
+    "code": "hu",
+    "language": {
+      "English": "Hungarian",
+      "native": "magyar"
+    },
+    "count": 32,
+    "file": "hu.json"
+  },
+  {
+    "code": "id",
+    "language": {
+      "English": "Indonesian",
+      "native": "Bahasa Indonesia"
+    },
+    "count": 324,
+    "file": "id.json"
+  },
+  {
+    "code": "it",
+    "language": {
+      "English": "Italian",
+      "native": "Italiano"
+    },
+    "count": 96,
+    "file": "it.json"
+  },
+  {
+    "code": "ja",
+    "language": {
+      "English": "Japanese",
+      "native": "日本語"
+    },
+    "count": 513,
+    "file": "ja.json"
+  },
+  {
+    "code": "kab",
+    "language": {
+      "English": "Kabyle",
+      "native": "Taqbaylit"
+    },
+    "count": 49,
+    "file": "kab.json"
+  },
+  {
+    "code": "ko",
+    "language": {
+      "English": "Korean",
+      "native": "한국어"
+    },
+    "count": 760,
+    "file": "ko.json"
+  },
+  {
+    "code": "ms",
+    "language": {
+      "English": "Malay",
+      "native": "Melayu"
+    },
+    "count": 16,
+    "file": "ms.json"
+  },
+  {
+    "code": "fa",
+    "language": {
+      "English": "Persian",
+      "native": "فارسی"
+    },
+    "count": 76,
+    "file": "fa.json"
+  },
+  {
+    "code": "pl",
+    "language": {
+      "English": "Polish",
+      "native": "Polski"
+    },
+    "count": 235,
+    "file": "pl.json"
+  },
+  {
+    "code": "pt-br",
+    "language": {
+      "English": "Portuguese (Brazilian)",
+      "native": "Português (do Brasil)"
+    },
+    "count": 146,
+    "file": "pt-br.json"
+  },
+  {
+    "code": "pt-pt",
+    "language": {
+      "English": "Portuguese (Portugal)",
+      "native": "Português (Europeu)"
+    },
+    "count": 183,
+    "file": "pt-pt.json"
+  },
+  {
+    "code": "ru",
+    "language": {
+      "English": "Russian",
+      "native": "Русский"
+    },
+    "count": 343,
+    "file": "ru.json"
+  },
+  {
+    "code": "es",
+    "language": {
+      "English": "Spanish",
+      "native": "Español"
+    },
+    "count": 200,
+    "file": "es.json"
+  },
+  {
+    "code": "sv-se",
+    "language": {
+      "English": "Swedish",
+      "native": "Svenska"
+    },
+    "count": 18,
+    "file": "sv-se.json"
+  },
+  {
+    "code": "th",
+    "language": {
+      "English": "Thai",
+      "native": "ไทย"
+    },
+    "count": 73,
+    "file": "th.json"
+  },
+  {
+    "code": "tr",
+    "language": {
+      "English": "Turkish",
+      "native": "Türkçe"
+    },
+    "count": 100,
+    "file": "tr.json"
+  },
+  {
+    "code": "uk",
+    "language": {
+      "English": "Ukrainian",
+      "native": "Українська"
+    },
+    "count": 100,
+    "file": "uk.json"
+  },
+  {
+    "code": "vi",
+    "language": {
+      "English": "Vietnamese",
+      "native": "Tiếng Việt"
+    },
+    "count": 140,
+    "file": "vi.json"
+  }
+]

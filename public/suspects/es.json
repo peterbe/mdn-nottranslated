@@ -1,0 +1,2594 @@
+[
+  {
+    "metadata": {
+      "title": "Funciones Avanzadas",
+      "slug": "BrowserID/Funciones_Avanzadas",
+      "locale": "es"
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Creación de Componentes XPCOM",
+      "slug": "Creación_de_Componentes_XPCOM",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Guide/Creating_components",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Crear un módulo de Administrador de Cuentas almacenadas",
+      "slug": "Crear_un_módulo_de_Administrador_de_Cuentas_almacenadas",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Creating_a_login_manager_storage_module",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Eventos táctiles",
+      "slug": "DOM/Eventos_táctiles",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/Guide/Events/Touch_events_(Mozilla_experimental)",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ejemplo de Navegación usando Ajax",
+      "slug": "DOM/Manipulando_el_historial_del_navegador/Ejemplo",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/History_API/Example",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Bootstrapped extensions",
+      "slug": "Extensions/Bootstrapped_extensions",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Add-ons/Bootstrapped_extensions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox 19 para Desarrolladores",
+      "slug": "Firefox_19_para_desarrolladores",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Firefox/Releases/19",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Hola Mundo",
+      "slug": "Games/Examples",
+      "locale": "es",
+      "parent": {
+        "slug": "Games/Examples",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Techniques for game development",
+      "slug": "Games/Techniques",
+      "locale": "es",
+      "parent": {
+        "slug": "Games/Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "3D games on the Web",
+      "slug": "Games/Techniques/3D_on_the_web",
+      "locale": "es",
+      "parent": {
+        "slug": "Games/Techniques/3D_on_the_web",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "2D breakout game using Phaser",
+      "slug": "Games/Tutorials/2D_breakout_game_Phaser",
+      "locale": "es",
+      "parent": {
+        "slug": "Games/Tutorials/2D_breakout_game_Phaser",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Workflows for different game types",
+      "slug": "Games/Workflows",
+      "locale": "es",
+      "parent": {
+        "slug": "Games/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Certified",
+      "slug": "Glossary/Certified",
+      "locale": "es",
+      "parent": {
+        "slug": "Glossary/Certified",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DTD",
+      "slug": "Glossary/DTD",
+      "locale": "es",
+      "parent": {
+        "slug": "Glossary/DTD",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Falsy",
+      "slug": "Glossary/Falsy",
+      "locale": "es",
+      "parent": {
+        "slug": "Glossary/Falsy",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Interactuar con el colector de ciclos de XPCOM",
+      "slug": "Interactuar_con_el_colector_de_ciclos_de_XPCOM",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Interfacing_with_the_XPCOM_cycle_collector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML: Una buena base para la accesibilidad",
+      "slug": "Learn/Accessibility/HTML",
+      "locale": "es",
+      "parent": {
+        "slug": "Learn/Accessibility/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS building blocks",
+      "slug": "Learn/CSS/Building_blocks",
+      "locale": "es",
+      "parent": {
+        "slug": "Learn/CSS/Building_blocks",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Floats",
+      "slug": "Learn/CSS/CSS_layout/Floats",
+      "locale": "es",
+      "parent": {
+        "slug": "Learn/CSS/CSS_layout/Floats",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Servidor Node sin framework",
+      "slug": "Learn/Server-side/Node_server_without_framework",
+      "locale": "es",
+      "parent": {
+        "slug": "Learn/Server-side/Node_server_without_framework",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Guía para migración con lugares",
+      "slug": "Lugares/Guía_para_migración_con_lugares",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Places/Places_Developer_Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Manipular marcadores usando el catálogo",
+      "slug": "Manipular_marcadores_usando_el_catálogo",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Places/Manipulating_bookmarks_using_Places",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Microsummary topics",
+      "slug": "Microsummary_topics",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Mozilla/Microsummary_topics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Móvil",
+      "slug": "Móvil",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Mobile",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsIDragService",
+      "slug": "nsIDragService",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsIDragService",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsIIdleService",
+      "slug": "nsIIdleService",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsIIdleService",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsIZipWriter",
+      "slug": "NsIZipWriter",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsIZipWriter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NSPR",
+      "slug": "NSPR",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Projects/NSPR",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Supporting private browsing in plugins",
+      "slug": "Plugins/Supporting_private_browsing_in_plugins",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Plugins/Supporting_private_browsing_in_plugins",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-sent events",
+      "slug": "Server-sent_events",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Server-sent_events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SpiderMonkey",
+      "slug": "SpiderMonkey",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Projects/SpiderMonkey",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "3D view",
+      "slug": "Tools/3D_View",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/3D_View",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility Inspector",
+      "slug": "Tools/Accessibility_inspector",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Accessibility_inspector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set a breakpoint",
+      "slug": "Tools/Debugger/How_to/Set_a_breakpoint",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Debugger/How_to/Set_a_breakpoint",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox OS 1.1 Simulator",
+      "slug": "Tools/Firefox_OS_1.1_Simulator",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Firefox_OS_1.1_Simulator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Atajos de teclado del Inspector de página",
+      "slug": "Tools/Page_Inspector/Atajos_teclado",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Page_Inspector/Keyboard_shortcuts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Trabajar con animaciones",
+      "slug": "Tools/Page_Inspector/How_to/Work_with_animations",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Page_Inspector/How_to/Work_with_animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Depurado Remoto",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Debugging Firefox for Android with WebIDE",
+      "slug": "Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE",
+      "locale": "es",
+      "parent": {
+        "slug": "User:rafespanol",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ayuda Consola Web",
+      "slug": "Tools/Web_Console/Ayuda",
+      "locale": "es",
+      "parent": {
+        "slug": "Tools/Web_Console/Helpers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the W3C DOM Level 1 Core",
+      "slug": "Using_the_W3C_DOM_Level_1_Core",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Uso de nsILoginManager",
+      "slug": "Uso_de_nsILoginManager",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsILoginManager/Using_nsILoginManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ARIA techniques",
+      "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AnalyserNode.fftSize",
+      "slug": "Web/API/AnalyserNode/fftSize",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/AnalyserNode/fftSize",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "BaseAudioContext",
+      "slug": "Web/API/BaseAudioContext",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/BaseAudioContext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Body",
+      "slug": "Web/API/Body",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CameraCapabilities",
+      "slug": "Web/API/CameraCapabilities",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/CameraCapabilities",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Compositing and clipping",
+      "slug": "Web/API/Canvas_API/Tutorial/Compositing",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Canvas_API/Tutorial/Compositing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Channel Messaging API",
+      "slug": "Web/API/Channel_Messaging_API",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Channel_Messaging_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ClipboardEvent",
+      "slug": "Web/API/ClipboardEvent",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ClipboardEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console.trace()",
+      "slug": "Web/API/Console/trace",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Console/trace",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Constraint validation API",
+      "slug": "Web/API/Constraint_validation",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Constraint_validation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "cssRule.parentStyleSheet",
+      "slug": "Web/API/CSSRule/parentStyleSheet",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/CSSRule/parentStyleSheet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CssRule.selectorText",
+      "slug": "Web/API/CSSStyleRule/selectorText",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/CSSStyleRule/selectorText",
+        "locale": "en-US"
+      }
+    },
+    "probably": "gl",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSSStyleSheet",
+      "slug": "Web/API/CSSStyleSheet",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/CSSStyleSheet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.clear()",
+      "slug": "Web/API/Document/clear",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Document/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "dragover",
+      "slug": "Web/API/Document/dragover_event",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Document/dragover_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document.evaluate()",
+      "slug": "Web/API/Document/evaluate",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Document/evaluate",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Apps.install",
+      "slug": "Web/API/DOMApplicationsRegistry/install",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Marketplace/API/DOMApplicationsRegistry/install",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.onwheel",
+      "slug": "Web/API/Element/onwheel",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers/onwheel",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.scrollTopMax",
+      "slug": "Web/API/Element/scrollTopMax",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Element/scrollTopMax",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.shadowRoot",
+      "slug": "Web/API/Element/shadowRoot",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Element/shadowRoot",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "wheel",
+      "slug": "Web/API/Element/wheel_event",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Element/wheel_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget",
+      "slug": "Web/API/EventTarget",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/EventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget.attachEvent()",
+      "slug": "Web/API/EventTarget/attachEvent",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/EventTarget/attachEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File.mozFullPath",
+      "slug": "Web/API/File/mozFullPath",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/File/mozFullPath",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileList",
+      "slug": "Web/API/FileList",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/FileList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers",
+      "slug": "Web/API/GlobalEventHandlers",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window.onunload",
+      "slug": "Web/API/GlobalEventHandlers/onunload",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers/onunload",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLContentElement",
+      "slug": "Web/API/HTMLContentElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLContentElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLContentElement.getDistributedNodes()",
+      "slug": "Web/API/HTMLContentElement/getDistributedNodes",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLContentElement/getDistributedNodes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLContentElement.select",
+      "slug": "Web/API/HTMLContentElement/select",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLContentElement/select",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLHtmlElement",
+      "slug": "Web/API/HTMLHtmlElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLHtmlElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLInputElement",
+      "slug": "Web/API/HTMLInputElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLInputElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSelectElement",
+      "slug": "Web/API/HTMLSelectElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLSelectElement.checkValidity()",
+      "slug": "Web/API/HTMLSelectElement/checkValidity",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement/checkValidity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLShadowElement",
+      "slug": "Web/API/HTMLShadowElement",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLShadowElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLShadowElement.getDistributedNodes()",
+      "slug": "Web/API/HTMLShadowElement/getDistributedNodes",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLShadowElement/getDistributedNodes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLTableElement.align",
+      "slug": "Web/API/HTMLTableElement/align",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLTableElement/align",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IDBDatabase",
+      "slug": "Web/API/IDBDatabase",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/IDBDatabase",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IDBObjectStore",
+      "slug": "Web/API/IDBObjectStore",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/IDBObjectStore",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ImageBitmap",
+      "slug": "Web/API/ImageBitmap",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ImageBitmap",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaDevices",
+      "slug": "Web/API/MediaDevices",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/MediaDevices",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaQueryList.matches",
+      "slug": "Web/API/MediaQueryList/matches",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/MediaQueryList/matches",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MediaRecorder",
+      "slug": "Web/API/MediaRecorder",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/MediaRecorder",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MouseEvent",
+      "slug": "Web/API/MouseEvent",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/MouseEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MozSocial",
+      "slug": "Web/API/MozSocial",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Social_API/MozSocial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MozSocial.closePanel",
+      "slug": "Web/API/MozSocial/closePanel",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Social_API/MozSocial/closePanel",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MozSocial.isVisible",
+      "slug": "Web/API/MozSocial/isVisible",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/Social_API/MozSocial/isVisible",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorConcurrentHardware",
+      "slug": "Web/API/NavigatorConcurrentHardware",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/NavigatorConcurrentHardware",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorGeolocation",
+      "slug": "Web/API/NavigatorGeolocation",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/NavigatorGeolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorLanguage",
+      "slug": "Web/API/NavigatorLanguage",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/NavigatorLanguage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorOnLine",
+      "slug": "Web/API/NavigatorOnLine",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/NavigatorOnLine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Nodo.nodoPrincipal",
+      "slug": "Web/API/Node/nodoPrincipal",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Node/nodePrincipal",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NonDocumentTypeChildNode",
+      "slug": "Web/API/NonDocumentTypeChildNode",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/NonDocumentTypeChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notification.Notification()",
+      "slug": "Web/API/notification/Notification",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/notification/Notification",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Notifications API",
+      "slug": "Web/API/Notifications_API",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Notifications_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ParentNode",
+      "slug": "Web/API/ParentNode",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ParentNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PushManager",
+      "slug": "Web/API/PushManager",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/PushManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RandomSource",
+      "slug": "Web/API/RandomSource",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/RandomSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "range.intersectsNode",
+      "slug": "Web/API/Range/intersectsNode",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Range/intersectsNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCPeerConnection()",
+      "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ServiceWorkerContainer",
+      "slug": "Web/API/ServiceWorkerContainer",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ServiceWorkerContainer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ServiceWorkerRegistration",
+      "slug": "Web/API/ServiceWorkerRegistration",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/ServiceWorkerRegistration",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "StorageManager",
+      "slug": "Web/API/StorageManager",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/StorageManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "UIEvent",
+      "slug": "Web/API/UIEvent",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/UIEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "URL",
+      "slug": "Web/API/URL",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/URL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the browser API",
+      "slug": "Web/API/Using_the_Browser_API",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/API/Browser_API/Using",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "VideoPlaybackQuality",
+      "slug": "Web/API/VideoPlaybackQuality",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/VideoPlaybackQuality",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tutoral de WebGL",
+      "slug": "Web/API/WebGL_API/Tutorial",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Animación de Objetos con  WebGL",
+      "slug": "Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Animating_objects_with_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL best practices",
+      "slug": "Web/API/WebGL_API/WebGL_best_practices",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WebGL_API/WebGL_best_practices",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebRTC protocols",
+      "slug": "Web/API/WebRTC_API/Protocols",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WebRTC_API/Protocols",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.sidebar",
+      "slug": "Web/API/Window/sidebar",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Window/sidebar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowBase64",
+      "slug": "Web/API/WindowBase64",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WindowBase64",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowEventHandlers",
+      "slug": "Web/API/WindowEventHandlers",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WindowEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowTimers",
+      "slug": "Web/API/WindowTimers",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/WindowTimers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Worker",
+      "slug": "Web/API/Worker",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Worker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Worker.postMessage()",
+      "slug": "Web/API/Worker/postMessage",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Worker/postMessage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequestEventTarget",
+      "slug": "Web/API/XMLHttpRequestEventTarget",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequestEventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-broken",
+      "slug": "Web/CSS/:-moz-broken",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-broken",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-drag-over",
+      "slug": "Web/CSS/:-moz-drag-over",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-drag-over",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-handler-blocked",
+      "slug": "Web/CSS/:-moz-handler-blocked",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-handler-blocked",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-handler-disabled",
+      "slug": "Web/CSS/:-moz-handler-disabled",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-handler-disabled",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-list-bullet",
+      "slug": "Web/CSS/:-moz-list-bullet",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-list-bullet",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-list-number",
+      "slug": "Web/CSS/:-moz-list-number",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-list-number",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-lwtheme",
+      "slug": "Web/CSS/:-moz-lwtheme",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/:-moz-lwtheme",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-lwtheme-brighttext",
+      "slug": "Web/CSS/:-moz-lwtheme-brighttext",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/:-moz-lwtheme-brighttext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-lwtheme-darktext",
+      "slug": "Web/CSS/:-moz-lwtheme-darktext",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/:-moz-lwtheme-darktext",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-outline-radius-bottomleft",
+      "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-page",
+      "slug": "Web/CSS/::-moz-page",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/::-moz-page",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-page-sequence",
+      "slug": "Web/CSS/::-moz-page-sequence",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/::-moz-page-sequence",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-progress-bar",
+      "slug": "Web/CSS/::-moz-progress-bar",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/::-moz-progress-bar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-moz-scrolled-page-sequence",
+      "slug": "Web/CSS/::-moz-scrolled-page-sequence",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/::-moz-scrolled-page-sequence",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-system-metric(images-in-menus)",
+      "slug": "Web/CSS/:-moz-system-metric(images-in-menus)",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-system-metric/images-in-menus",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-cell",
+      "slug": "Web/CSS/:-moz-tree-cell",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-cell",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-cell-text",
+      "slug": "Web/CSS/:-moz-tree-cell-text",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-cell-text",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-cell-text(hover)",
+      "slug": "Web/CSS/:-moz-tree-cell-text(hover)",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-cell-text(hover)",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-column",
+      "slug": "Web/CSS/:-moz-tree-column",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-column",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-drop-feedback",
+      "slug": "Web/CSS/:-moz-tree-drop-feedback",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-drop-feedback",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-image",
+      "slug": "Web/CSS/:-moz-tree-image",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/:-moz-tree-image",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-indentation",
+      "slug": "Web/CSS/:-moz-tree-indentation",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-indentation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-line",
+      "slug": "Web/CSS/:-moz-tree-line",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-line",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-progressmeter",
+      "slug": "Web/CSS/:-moz-tree-progressmeter",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-progressmeter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-row",
+      "slug": "Web/CSS/:-moz-tree-row",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-row",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-row(hover)",
+      "slug": "Web/CSS/:-moz-tree-row(hover)",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-row(hover)",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-separator",
+      "slug": "Web/CSS/:-moz-tree-separator",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-separator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-twisty",
+      "slug": "Web/CSS/:-moz-tree-twisty",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-twisty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-webkit-mask-clip",
+      "slug": "Web/CSS/-webkit-mask-clip",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-mask-clip",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "::-webkit-meter-even-less-good-value",
+      "slug": "Web/CSS/::-webkit-meter-even-less-good-value",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/::-webkit-meter-even-less-good-value",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-webkit-text-fill-color",
+      "slug": "Web/CSS/-webkit-text-fill-color",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-text-fill-color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-webkit-text-stroke-width",
+      "slug": "Web/CSS/-webkit-text-stroke-width",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-text-stroke-width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@counter-style",
+      "slug": "Web/CSS/@counter-style",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/@counter-style",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@document",
+      "slug": "Web/CSS/@document",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/@document",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@viewport",
+      "slug": "Web/CSS/@viewport",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/@viewport",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border-style",
+      "slug": "Web/CSS/border-style",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/border-style",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Animations",
+      "slug": "Web/CSS/CSS_Animations",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/CSS_Animations",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Background and Borders",
+      "slug": "Web/CSS/CSS_Background_and_Borders",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/CSS_Background_and_Borders",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Grid Layout y accesibilidad",
+      "slug": "Web/CSS/CSS_Grid_Layout/CSS_Grid_Layout_and_Accessibility",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout/CSS_Grid_Layout_and_Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Transforms",
+      "slug": "Web/CSS/CSS_Transforms",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transforms",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "image-set()",
+      "slug": "Web/CSS/image-set",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/image-set",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "max-width",
+      "slug": "Web/CSS/max-width",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/max-width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM developer guide",
+      "slug": "Web/Guide/DOM",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mobile-friendliness",
+      "slug": "Web/Guide/Movil/Mobile-friendliness",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/Guide/Mobile/Mobile-friendliness",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Aplicar color a elementos HTML usando CSS",
+      "slug": "Web/HTML/Aplicar_Color",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/HTML/Applying_color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "itemtype",
+      "slug": "Web/HTML/Atributos_Globales/itemtype",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/itemtype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "301 Movido Permanentemente",
+      "slug": "Web/HTTP/Status/301",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/HTTP/Status/301",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RangeError: argument is not a valid code point",
+      "slug": "Web/JavaScript/Reference/Errors/Not_a_codepoint",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_a_codepoint",
+        "locale": "en-US"
+      }
+    },
+    "probably": "gl",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Proxy handler",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Proxy/handler",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Proxy/handler",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "The legacy Iterator protocol",
+      "slug": "Web/JavaScript/Referencia/Características_Desaprobadas/The_legacy_Iterator_protocol",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Deprecated_and_obsolete_features/The_legacy_Iterator_protocol",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Class fields",
+      "slug": "Web/JavaScript/Referencia/Classes/Class_fields",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes/Class_fields",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Esp JavaScript methods indexs",
+      "slug": "Web/JavaScript/Referencia/Methods_Index",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Methods_Index",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.getUTCHours()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Date/getUTCHours",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/getUTCHours",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.clear()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Map/clear",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.has()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Map/has",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/has",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.asin()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Math/asin",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/asin",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.fround()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Math/fround",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/fround",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Math.log()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Math/log",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/log",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.__lookupGetter__()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/__lookupGetter__",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/__lookupGetter__",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.eval()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/eval",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/eval",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.getNotifier()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/getNotifier",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/getNotifier",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.isSealed()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/isSealed",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/isSealed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "gl",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.add()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Set/add",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/add",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.clear()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Set/clear",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.codePointAt()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/String/codePointAt",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/codePointAt",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.fromCodePoint()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/String/fromCodePoint",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/fromCodePoint",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.trimEnd()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/String/trimEnd",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/trimEnd",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TypedArray.prototype.subarray()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/TypedArray/subarray",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray/subarray",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Examples",
+      "slug": "Web/MathML/Examples",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/MathML/Examples",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Securing your site",
+      "slug": "Web/Security/Securing_your_site",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/Security/Securing_your_site",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG In HTML Introduction",
+      "slug": "Web/SVG/Tutorial/SVG_In_HTML_Introduction",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/SVG/Tutorial/SVG_In_HTML_Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Localizability",
+      "slug": "Web_Localizability",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Localization/Web_Localizability",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "API de la Cámara",
+      "slug": "WebAPI/Cámara",
+      "locale": "es",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Camera_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "nsILoginManager",
+      "slug": "XPCOM_Interface_Reference/nsILoginManager",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Reference/Interface/nsILoginManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPCOMUtils.jsm",
+      "slug": "XPCOMUtils.jsm",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/JavaScript_code_modules/XPCOMUtils.jsm",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPInstall API Reference",
+      "slug": "XPInstall_API_Reference",
+      "locale": "es"
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

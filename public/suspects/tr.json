@@ -1,0 +1,1302 @@
+[
+  {
+    "metadata": {
+      "title": "about:debugging",
+      "slug": "Araclar/about:debugging",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/about:debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Araclar/Remote_Debugging",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Debugging over USB",
+      "slug": "Araclar/Remote_Debugging/Debugging_over_USB",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Debugging_over_USB",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using the DOM File API in chrome code",
+      "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+      "locale": "tr",
+      "parent": {
+        "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "locale": "tr",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<li>",
+      "slug": "HTML/Element/li",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTML/Element/li",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Oyun geliştirme",
+      "slug": "Oyunlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Games",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Security/MixedContent",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE",
+      "locale": "tr",
+      "parent": {
+        "slug": "Archive/WebIDE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE Troubleshooting",
+      "slug": "Tools/WebIDE/Troubleshooting",
+      "locale": "tr",
+      "parent": {
+        "slug": "Archive/WebIDE/Troubleshooting",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Web/Accessibility",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "Web/API/Document_Object_Model",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM'a Giriş",
+      "slug": "Web/API/Document_Object_Model/Giriş",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event",
+      "slug": "Web/API/Event",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event.preventDefault()",
+      "slug": "Web/API/Event/preventDefault",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Event/preventDefault",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "EventTarget",
+      "slug": "Web/API/EventTarget",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/EventTarget",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileReader",
+      "slug": "Web/API/FileReader",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/FileReader",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileReader.readAsDataURL()",
+      "slug": "Web/API/FileReader/readAsDataURL",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/FileReader/readAsDataURL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLImageElement",
+      "slug": "Web/API/HTMLImageElement",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/HTMLImageElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IDBIndex",
+      "slug": "Web/API/IDBIndex",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/IDBIndex",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "IDBIndex.getAll()",
+      "slug": "Web/API/IDBIndex/getAll",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/IDBIndex/getAll",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PositionOptions",
+      "slug": "Web/API/PositionOptions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/PositionOptions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RTCNetworkType",
+      "slug": "Web/API/RTCNetworkType",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/RTCNetworkType",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL_API: Web için 2D ve 3D grafikler",
+      "slug": "Web/API/WebGL_API",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/WebGL_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.localStorage",
+      "slug": "Web/API/Window/localStorage",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Window/localStorage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "@import",
+      "slug": "Web/CSS/@import",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/@import",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background",
+      "slug": "Web/CSS/background",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/background",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "box-sizing",
+      "slug": "Web/CSS/box-sizing",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/box-sizing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":link",
+      "slug": "Web/CSS/:link",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/:link",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Demos of open web technologies",
+      "slug": "Web/Demos_of_open_web_technologies",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Demos_of_open_web_technologies",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web developer guide",
+      "slug": "Web/Guide",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ajax",
+      "slug": "Web/Guide/AJAX",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Guide/AJAX",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Sayaçlarını Kullanmak",
+      "slug": "Web/Guide/CSS/Sayaçlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP'ye genel bakış",
+      "slug": "Web/HTTP/Genel_Bakis",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Overview",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP Mesajları",
+      "slug": "Web/HTTP/Mesajlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Messages",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP önbelleği",
+      "slug": "Web/HTTP/Onbellek",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Caching",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Details of the object model",
+      "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Ex and op",
+      "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "New in JavaScript",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript Referansı",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Referans Hatası: \"x\" tanımlanmamış",
+      "slug": "Web/JavaScript/Reference/Errors/Tanımlanmamış",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_defined",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SyntaxError: Unexpected token",
+      "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global Objeler",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.entries()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.every()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.findIndex()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.from()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.pop()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reduce()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.reverse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Boolean.prototype.toSource()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "eval()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JSON.stringify()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.prototype.toString()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.all()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Promise.prototype.catch()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.match()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.substring()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Bu Referans Hakkında",
+      "slug": "Web/JavaScript/Reference/Hakkinda",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/About",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Lexical grammar",
+      "slug": "Web/JavaScript/Reference/Lexical_grammar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Lexical_grammar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "İfadeler ve operatörler",
+      "slug": "Web/JavaScript/Reference/Operatörler",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Bitwise operators",
+      "slug": "Web/JavaScript/Reference/Operatörler/Bitwise_Operators",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Bitwise_Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "function expression",
+      "slug": "Web/JavaScript/Reference/Operatörler/function",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "typeof",
+      "slug": "Web/JavaScript/Reference/Operatörler/typeof",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/typeof",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "break",
+      "slug": "Web/JavaScript/Reference/Statements/break",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/break",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Sınıf",
+      "slug": "Web/JavaScript/Reference/Statements/siniflar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/class",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript typed arrays",
+      "slug": "Web/JavaScript/Typed_arrays",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Typed_arrays",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web API Referansı",
+      "slug": "Web/Reference/API",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Reference/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Yerelleştirme",
+      "slug": "Yerelleştirme",
+      "locale": "tr",
+      "parent": {
+        "slug": "Glossary/Localization",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zones",
+      "slug": "Zones",
+      "locale": "tr",
+      "parent": {
+        "slug": "Zones",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS layout",
+      "slug": "Öğren/CSS/CSS_layout",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/CSS/CSS_layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Kılavuzlar (Izgaralar, Karelere bölme sistemleri)",
+      "slug": "Öğren/CSS/CSS_layout/Kılavuzlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/CSS/CSS_layout/Grids",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Dealing with files",
+      "slug": "Öğren/Getting_started_with_the_web/Dealing_with_files",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Websitenizi Yayımlamak",
+      "slug": "Öğren/Getting_started_with_the_web/Publishing_your_website",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML'e Giriş",
+      "slug": "Öğren/HTML/Introduction_to_HTML",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML Tables",
+      "slug": "Öğren/HTML/Tables",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/HTML/Tables",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript'e İlk Adımlar",
+      "slug": "Öğren/JavaScript/İlk_adımlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript object basics",
+      "slug": "Öğren/JavaScript/Objeler/Basics",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/JavaScript/Objects/Basics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Öğren/Server-side",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Web Framework (Python)",
+      "slug": "Öğren/Server-side/Django",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Server-side/Django",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial - 8. Bölüm: Kullanıcı doğrulama ve izinler",
+      "slug": "Öğren/Server-side/Django/Authentication",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Server-side/Django/Authentication",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Django Tutorial 2. Bölüm: Websitesi İskeleti Oluşturmak",
+      "slug": "Öğren/Server-side/Django/website_iskeleti",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Server-side/Django/skeleton_website",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

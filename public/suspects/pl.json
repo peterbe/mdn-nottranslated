@@ -1,0 +1,3057 @@
+[
+  {
+    "metadata": {
+      "title": "Bezpieczeństwo",
+      "slug": "Bezpieczeństwo",
+      "locale": "pl",
+      "parent": {
+        "slug": "Security",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Dodawanie preferencji do rozszerzenia",
+      "slug": "Dodawanie_preferencji_do_rozszerzenia",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Adding_preferences_to_an_extension",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Okna",
+      "slug": "Fragmenty_kodu/Okna",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets/Windows",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Różne",
+      "slug": "Fragmenty_kodu/Różne",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets/Miscellaneous",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Uruchamianie aplikacji",
+      "slug": "Fragmenty_kodu/Uruchamianie_aplikacji",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets/Running_applications",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Wczytywanie strony",
+      "slug": "Fragmenty_kodu/Wczytywanie_strony",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Add-ons/Code_snippets/Page_Loading",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Gecko",
+      "slug": "Gecko",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Git",
+      "slug": "Git",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Git",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Wyszukiwarka internetowa",
+      "slug": "Glossary/wyszukiwarka_internetowa",
+      "locale": "pl",
+      "parent": {
+        "slug": "Glossary/Search_engine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaXPCOM",
+      "slug": "JavaXPCOM",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Language_bindings/JavaXPCOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Learn/Accessibility",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "What is a web server?",
+      "slug": "Learn/Common_questions/What_is_a_web_server",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Common_questions/What_is_a_web_server",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS layout",
+      "slug": "Learn/CSS/CSS_layout",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/CSS/CSS_layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use CSS to solve common problems",
+      "slug": "Learn/CSS/Howto",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/CSS/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "How the Web works",
+      "slug": "Learn/Getting_started_with_the_web/How_the_Web_works",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/How_the_Web_works",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Use HTML to solve common problems",
+      "slug": "Learn/HTML/Howto",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/HTML/Howto",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Podstawy tekstu w HTML",
+      "slug": "Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Server-side website programming",
+      "slug": "Learn/Server-side",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Server-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tools and testing",
+      "slug": "Learn/Tools_and_testing",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Tools_and_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cross browser testing",
+      "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+      "locale": "pl",
+      "parent": {
+        "slug": "Learn/Tools_and_testing/Cross_browser_testing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Midas",
+      "slug": "Midas",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Security preferences",
+      "slug": "Midas/Security_preferences",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Projects/Midas/Security_preferences",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using The Driver",
+      "slug": "Mozmill/Using_The_Driver",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Projects/Mozmill/Using_The_Driver",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Narzędzia dla programistów Firefox",
+      "slug": "Narzędzia",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Browser Toolbox",
+      "slug": "Narzędzia/Browser_Toolbox",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Browser_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Access debugging in add-ons",
+      "slug": "Narzędzia/Debugger/How_to/Access_debugging_in_add-ons",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Debugger/How_to/Access_debugging_in_add-ons",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Skróty klawiaturowe",
+      "slug": "Narzędzia/Page_Inspector/Skroty_klawiaturowe",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Page_Inspector/Keyboard_shortcuts",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Performance",
+      "slug": "Narzędzia/Performance",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Performance",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Flame Chart",
+      "slug": "Narzędzia/Performance/Flame_Chart",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Performance/Flame_Chart",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript Profiler",
+      "slug": "Narzędzia/Profiler",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Profiler",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Storage Inspector",
+      "slug": "Narzędzia/Storage_Inspector",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Storage_Inspector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Style Editor",
+      "slug": "Narzędzia/Style_Editor",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Style_Editor",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Toolbox",
+      "slug": "Narzędzia/Tools_Toolbox",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Konsola www",
+      "slug": "Narzędzia/Web_Console",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Web_Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Pomocnik Konsoli WWW",
+      "slug": "Narzędzia/Web_Console/Pomocnik",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Web_Console/Helpers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebIDE",
+      "slug": "Narzędzia/WebIDE",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/WebIDE",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ustawienia",
+      "slug": "Narzędzia/ślimak",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Settings",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Responsive Web design",
+      "slug": "Programowanie_WWW/Responsive_Web_design",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Responsive_Web_design",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "The MDN project",
+      "slug": "Project:MDN",
+      "locale": "pl",
+      "parent": {
+        "slug": "Project:MDN",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "PyXPCOM",
+      "slug": "PyXPCOM",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM/Language_bindings/PyXPCOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Rhino",
+      "slug": "Rhino",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Projects/Rhino",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG w Firefoksie",
+      "slug": "SVG_w_Firefoksie",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/SVG_1.1_Support_in_Firefox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "System preferencji",
+      "slug": "System_preferencji",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Preferences/Preferences_system",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
+      "locale": "pl",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tworzenie rozszerzenia dynamicznego paska stanu",
+      "slug": "Tworzenie_rozszerzenia_dynamicznego_paska_stanu",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Creating_a_dynamic_status_bar_extension",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "AudioParam",
+      "slug": "Web/API/AudioParam",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/AudioParam",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console",
+      "slug": "Web/API/Console",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Console",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Console.log()",
+      "slug": "Web/API/Console/log",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Console/log",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "drag",
+      "slug": "Web/API/Document/drag_event",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Document/drag_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMApplicationsManager",
+      "slug": "Web/API/DOMApplicationsManager",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Marketplace/API/DOMApplicationsManager",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOMApplicationsManager.getAll()",
+      "slug": "Web/API/DomApplicationsManager/getAll",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Marketplace/API/DOMApplicationsManager/getAll",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DynamicsCompressorNode",
+      "slug": "Web/API/DynamicsCompressorNode",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/DynamicsCompressorNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.clientHeight",
+      "slug": "Web/API/Element/clientHeight",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Element/clientHeight",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.clientWidth",
+      "slug": "Web/API/Element/clientWidth",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Element/clientWidth",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.getAttributeNodeNS",
+      "slug": "Web/API/Element/getAttributeNodeNS",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Element/getAttributeNodeNS",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.insertAdjacentHTML()",
+      "slug": "Web/API/Element/insertAdjacentHTML",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Element/insertAdjacentHTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.offsetHeight",
+      "slug": "Web/API/Element/offsetHeight",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/HTMLElement/offsetHeight",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.offsetLeft",
+      "slug": "Web/API/Element/offsetLeft",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/HTMLElement/offsetLeft",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "element.offsetWidth",
+      "slug": "Web/API/Element/offsetWidth",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/HTMLElement/offsetWidth",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Element.querySelector()",
+      "slug": "Web/API/Element/querySelector",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Element/querySelector",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File",
+      "slug": "Web/API/File",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/File",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "FileList",
+      "slug": "Web/API/FileList",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/FileList",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolokalizacja",
+      "slug": "Web/API/Geolocation",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "GlobalEventHandlers",
+      "slug": "Web/API/GlobalEventHandlers",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTMLElement.dataset",
+      "slug": "Web/API/HTMLElement/dataset",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/HTMLOrForeignElement/dataset",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Location",
+      "slug": "Web/API/Location",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Location",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "MouseScrollEvent",
+      "slug": "Web/API/MouseScrollEvent",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/MouseScrollEvent",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Navigator.mozPermissionSettings",
+      "slug": "Web/API/Navigator/mozPermissionSettings",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/B2G_OS/API/Navigator/mozPermissionSettings",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorLanguage",
+      "slug": "Web/API/NavigatorLanguage",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/NavigatorLanguage",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorOnLine",
+      "slug": "Web/API/NavigatorOnLine",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/NavigatorOnLine",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "NavigatorPlugins",
+      "slug": "Web/API/NavigatorPlugins",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/NavigatorPlugins",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "ParentNode",
+      "slug": "Web/API/ParentNode",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/ParentNode",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Push API",
+      "slug": "Web/API/Push_API",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Push_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "range",
+      "slug": "Web/API/Range",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Range",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Screen",
+      "slug": "Web/API/Screen",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Screen",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Screen.width",
+      "slug": "Web/API/Screen/width",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Screen/width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SpeechRecognition",
+      "slug": "Web/API/SpeechRecognition",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/SpeechRecognition",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "stylesheet.insertRule",
+      "slug": "Web/API/Stylesheet/insertRule",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/CSSStyleSheet/insertRule",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "TreeWalker",
+      "slug": "Web/API/TreeWalker",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/TreeWalker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web Audio API",
+      "slug": "Web/API/Web_Audio_API",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Web_Audio_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebGL tutorial",
+      "slug": "Web/API/WebGL_API/Tutorial",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Getting started with WebGL",
+      "slug": "Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window",
+      "slug": "Web/API/Window",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window.content",
+      "slug": "Web/API/Window/content",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Window/content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "languagechange",
+      "slug": "Web/API/Window/languagechange_event",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Window/languagechange_event",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "window.openDialog",
+      "slug": "Web/API/Window/openDialog",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Window/openDialog",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window.sidebar",
+      "slug": "Web/API/Window/sidebar",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/Window/sidebar",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WindowBase64",
+      "slug": "Web/API/WindowBase64",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/WindowBase64",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-binding",
+      "slug": "Web/CSS/-moz-binding",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-binding",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-border-left-colors",
+      "slug": "Web/CSS/-moz-border-left-colors",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-border-left-colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-border-right-colors",
+      "slug": "Web/CSS/-moz-border-right-colors",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-border-right-colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-border-top-colors",
+      "slug": "Web/CSS/-moz-border-top-colors",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-border-top-colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-outline-radius-bottomleft",
+      "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-outline-radius-topleft",
+      "slug": "Web/CSS/-moz-outline-radius-topleft",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-outline-radius-topleft",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "-moz-outline-radius-topright",
+      "slug": "Web/CSS/-moz-outline-radius-topright",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/-moz-outline-radius-topright",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-cell",
+      "slug": "Web/CSS/:-moz-tree-cell",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-cell",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-cell-text",
+      "slug": "Web/CSS/:-moz-tree-cell-text",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-cell-text",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-column",
+      "slug": "Web/CSS/:-moz-tree-column",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-column",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-drop-feedback",
+      "slug": "Web/CSS/:-moz-tree-drop-feedback",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-drop-feedback",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-image",
+      "slug": "Web/CSS/:-moz-tree-image",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/:-moz-tree-image",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-indentation",
+      "slug": "Web/CSS/:-moz-tree-indentation",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-indentation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-line",
+      "slug": "Web/CSS/:-moz-tree-line",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-line",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-progressmeter",
+      "slug": "Web/CSS/:-moz-tree-progressmeter",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-progressmeter",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-row",
+      "slug": "Web/CSS/:-moz-tree-row",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-row",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-separator",
+      "slug": "Web/CSS/:-moz-tree-separator",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-separator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": ":-moz-tree-twisty",
+      "slug": "Web/CSS/:-moz-tree-twisty",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-twisty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-attachment",
+      "slug": "Web/CSS/background-attachment",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/background-attachment",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "background-repeat",
+      "slug": "Web/CSS/background-repeat",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/background-repeat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border-bottom-width",
+      "slug": "Web/CSS/border-bottom-width",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/border-bottom-width",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border-left",
+      "slug": "Web/CSS/border-left",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/border-left",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border-right",
+      "slug": "Web/CSS/border-right",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/border-right",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "border-top",
+      "slug": "Web/CSS/border-top",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/border-top",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "box-decoration-break",
+      "slug": "Web/CSS/box-decoration-break",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/box-decoration-break",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "caption-side",
+      "slug": "Web/CSS/caption-side",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/caption-side",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Colors",
+      "slug": "Web/CSS/CSS_Colors",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/CSS_Colors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "CSS Grid Layout",
+      "slug": "Web/CSS/CSS_Grid_Layout",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "font-size",
+      "slug": "Web/CSS/font-size",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/font-size",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "left",
+      "slug": "Web/CSS/left",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/left",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "letter-spacing",
+      "slug": "Web/CSS/letter-spacing",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/letter-spacing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "line-height",
+      "slug": "Web/CSS/line-height",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/line-height",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Media queries",
+      "slug": "Web/CSS/Media_Queries",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/Media_Queries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Rozszerzenia Mozilli",
+      "slug": "Web/CSS/Mozilla_Extensions",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/Mozilla_Extensions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "outline",
+      "slug": "Web/CSS/outline",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/outline",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "outline-color",
+      "slug": "Web/CSS/outline-color",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/outline-color",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "right",
+      "slug": "Web/CSS/right",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/right",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<transform-function>",
+      "slug": "Web/CSS/transform-function",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/transform-function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "word-spacing",
+      "slug": "Web/CSS/word-spacing",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/word-spacing",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Keyboard-navigable JavaScript widgets",
+      "slug": "Web/Dostępność/Keyboard-navigable_JavaScript_widgets",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/Accessibility/Keyboard-navigable_JavaScript_widgets",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DOM developer guide",
+      "slug": "Web/Guide/API/DOM",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/Guide/API/DOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Making content editable",
+      "slug": "Web/Guide/HTML/Editable_content",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/Guide/HTML/Editable_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "area",
+      "slug": "Web/HTML/Element/area",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/area",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<aside>",
+      "slug": "Web/HTML/Element/aside",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/aside",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<audio>",
+      "slug": "Web/HTML/Element/audio",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/audio",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "big",
+      "slug": "Web/HTML/Element/big",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/big",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "blink",
+      "slug": "Web/HTML/Element/blink",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/blink",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<body>: The Document Body element",
+      "slug": "Web/HTML/Element/body",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/body",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "col",
+      "slug": "Web/HTML/Element/col",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/col",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<input>",
+      "slug": "Web/HTML/Element/Input",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/input",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<meta>: Element metadanych na poziomie dokumentu",
+      "slug": "Web/HTML/Element/meta",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<span>",
+      "slug": "Web/HTML/Element/span",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/span",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<video>",
+      "slug": "Web/HTML/Element/video",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Element/video",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Global attributes",
+      "slug": "Web/HTML/Global_attributes",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Cache-Control",
+      "slug": "Web/HTTP/Headers/Cache-Control",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Cache-Control",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Dokumentacja referencyjna JavaScript",
+      "slug": "Web/JavaScript/Referencje",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.entries()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/entries",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.flat()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/flat",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/flat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.from()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/from",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.isArray()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/isArray",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/isArray",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.keys()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/keys",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/keys",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.toLocaleString()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/toLocaleString",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/toLocaleString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Array/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Boolean.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Boolean/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "DataView",
+      "slug": "Web/JavaScript/Referencje/Obiekty/DataView",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/DataView",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.toJSON()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Date/toJSON",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/toJSON",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.toLocaleDateString()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Date/toLocaleDateString",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.toLocaleString()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Date/toLocaleString",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/toLocaleString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.toLocaleTimeString()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Date/toLocaleTimeString",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Date.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Date/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype.columnNumber",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Error/columnNumber",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype.name",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Error/name",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/name",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Error.prototype",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Error/prototype",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/prototype",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "escape()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/escape",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/escape",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.arguments",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function/arguments",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/arguments",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.arity",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function/arity",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/arity",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.caller",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function/caller",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.displayName",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function/displayName",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/displayName",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Function.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Function/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Generator",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Generator",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.entries()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/entries",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/entries",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.get()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/get",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/get",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.has()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/has",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/has",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.keys()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/keys",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/keys",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.set()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/set",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/set",
+        "locale": "en-US"
+      }
+    },
+    "probably": "gl",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Map.prototype.values()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Map/values",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/values",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.EPSILON",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Number/EPSILON",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/EPSILON",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.isInteger()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Number/isInteger",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isInteger",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Number.prototype.toLocaleString()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Number/toLocaleString",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/toLocaleString",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.freeze()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Object/freeze",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/freeze",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Object.getOwnPropertyNames()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Object/getOwnPropertyNames",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp.lastMatch ($&)",
+      "slug": "Web/JavaScript/Referencje/Obiekty/RegExp/lastMatch",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/lastMatch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "RegExp.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/RegExp/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.add()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Set/Set.prototype.add()",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/add",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Set.prototype.clear()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Set/Set.prototype.clear()",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/clear",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.big()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/big",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/big",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.blink()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/blink",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/blink",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.bold()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/bold",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/bold",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.fixed()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/fixed",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/fixed",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.fontsize()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/fontsize",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/fontsize",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.italics()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/italics",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/italics",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.length",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/length",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/length",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.repeat()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/repeat",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/repeat",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.small()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/small",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/small",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.split()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/split",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/split",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.strike()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/strike",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/strike",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.sub()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/sub",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/sub",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.sup()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/sup",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/sup",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "String.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/String/toSource",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/toSource",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Uint16Array",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Uint16Array",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Uint16Array",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Operatory",
+      "slug": "Web/JavaScript/Referencje/Operatory",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Operator instanceof",
+      "slug": "Web/JavaScript/Referencje/Operatory/Operator_instanceof",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/instanceof",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Operator new",
+      "slug": "Web/JavaScript/Referencje/Operatory/Operator_new",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/new",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "this",
+      "slug": "Web/JavaScript/Referencje/Operatory/this",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/this",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Polecenia",
+      "slug": "Web/JavaScript/Referencje/Polecenia",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "empty",
+      "slug": "Web/JavaScript/Referencje/Polecenia/Empty",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/Empty",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...in",
+      "slug": "Web/JavaScript/Referencje/Polecenia/for...in",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...in",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "for...of",
+      "slug": "Web/JavaScript/Referencje/Polecenia/for...of",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/for...of",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "switch",
+      "slug": "Web/JavaScript/Referencje/Polecenia/switch",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/switch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "throw",
+      "slug": "Web/JavaScript/Referencje/Polecenia/throw",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/throw",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Przestarzałe własności i metody",
+      "slug": "Web/JavaScript/Referencje/Przestarzałe_własności_i_metody",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Deprecated_and_obsolete_features",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Template strings",
+      "slug": "Web/JavaScript/Referencje/template_strings",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Template_literals",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Securing your site",
+      "slug": "Web/Security/Securing_your_site",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/Security/Securing_your_site",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "SVG element reference",
+      "slug": "Web/SVG/Element",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<a>",
+      "slug": "Web/SVG/Element/a",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/Element/a",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<animateTransform>",
+      "slug": "Web/SVG/Element/animateTransform",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/Element/animateTransform",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<defs>",
+      "slug": "Web/SVG/Element/defs",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/Element/defs",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "<path>",
+      "slug": "Web/SVG/Element/path",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/SVG/Element/path",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Transformacje XML z XSLT",
+      "slug": "Web/XSLT/Transformacje_XML_z_XSLT",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/XSLT/Transforming_XML_with_XSLT",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSockets",
+      "slug": "WebSockets",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/WebSockets_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Accessing Web Services in Mozilla Using WSDL Proxying",
+      "slug": "XML_Web_Services/Accessing_Web_Services_in_Mozilla_Using_WSDL_Proxying",
+      "locale": "pl",
+      "parent": {
+        "slug": "XML_Web_Services/Accessing_Web_Services_in_Mozilla_Using_WSDL_Proxying",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Wykorzystanie XMLHttpRequest",
+      "slug": "XMLHttpRequest/Using_XMLHttpRequest",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPCOM",
+      "slug": "XPCOM",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Tech/XPCOM",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XPInstall",
+      "slug": "XPInstall",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Mozilla/XPInstall",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XUL Explorer",
+      "slug": "XUL_Explorer",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Mozilla/XUL_Explorer",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zabawa językiem XUL",
+      "slug": "Zabawa_językiem_XUL",
+      "locale": "pl",
+      "parent": {
+        "slug": "Archive/Mozilla/XUL/The_Joy_of_XUL",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zagnieżdzanie Mozilli",
+      "slug": "Zagnieżdzanie_Mozilli",
+      "locale": "pl",
+      "parent": {
+        "slug": "Mozilla/Gecko/Embedding_Mozilla",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Zones",
+      "slug": "Zones",
+      "locale": "pl",
+      "parent": {
+        "slug": "User:lmorchard/bug819999",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]

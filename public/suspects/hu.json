@@ -1,0 +1,418 @@
+[
+  {
+    "metadata": {
+      "title": "Learning HTML: Guides and tutorials",
+      "slug": "Learn/HTML",
+      "locale": "hu",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Security/MixedContent",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "How to fix a website with blocked mixed content",
+      "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Firefox Developer Tools",
+      "slug": "Tools",
+      "locale": "hu",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Szerszamoslada",
+      "slug": "Tools/Szerszamok_Szerszamoslada",
+      "locale": "hu",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology for developers",
+      "slug": "Web",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web API interfaces",
+      "slug": "Web/API",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "File",
+      "slug": "Web/API/File",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/File",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Fájlok használata webes alkalmazásokban",
+      "slug": "Web/API/File/Fajlok_hasznalata_webes_alkalmazasokban",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/File/Using_files_from_web_applications",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocation",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Using geolocation",
+      "slug": "Web/API/Geolocation/Using_geolocation",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/Geolocation_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Worker",
+      "slug": "Web/API/Worker",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/Worker",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "XMLHttpRequest.responseType",
+      "slug": "Web/API/XMLHttpRequest/responseType",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/responseType",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Az XMLHttpRequest használata",
+      "slug": "Web/API/XMLHttpRequest/XMLHttpRequest_hasznalata",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Tools",
+      "slug": "Web/CSS/Tools",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/CSS/Tools",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web developer guide",
+      "slug": "Web/Guide",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "HTML elements reference",
+      "slug": "Web/HTML/Element",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "A JavaScriptről",
+      "slug": "Web/JavaScript/A_JavaScriptrol",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/About_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript kézikönyv",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Reguláris kifejezések",
+      "slug": "Web/JavaScript/Guide/Regular_Expressions",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Regular_Expressions",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Array.prototype.map()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "import",
+      "slug": "Web/JavaScript/Reference/Statements/import",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/import",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "try...catch",
+      "slug": "Web/JavaScript/Reference/Statements/try...catch",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/try...catch",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "var",
+      "slug": "Web/JavaScript/Reference/Statements/var",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/var",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "WebSockets",
+      "slug": "WebSockets",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/WebSockets_API",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  },
+  {
+    "metadata": {
+      "title": "Writing WebSocket client applications",
+      "slug": "WebSockets/Writing_WebSocket_client_applications",
+      "locale": "hu",
+      "parent": {
+        "slug": "Web/API/WebSockets_API/Writing_WebSocket_client_applications",
+        "locale": "en-US"
+      }
+    },
+    "probably": "en",
+    "probability": 1
+  }
+]
