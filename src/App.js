@@ -179,7 +179,9 @@ function ShowAllSuspects({ allSuspects }) {
 function Locale({ allSuspects, loading }) {
   let [localeLoading, setLocaleLoading] = useState(false);
   let [suspects, setSuspects] = useState(null);
+  let [suspectsSubset, setSuspectsSubset] = useState(null);
   let [loadingError, setLoadingError] = useState(null);
+  let [seed, setSeed] = useState(Math.random());
   let { locale } = useParams();
   useEffect(() => {
     if (!loading) {
@@ -203,14 +205,31 @@ function Locale({ allSuspects, loading }) {
     }
   }, [loading, allSuspects, locale]);
 
+  useEffect(() => {
+    if (suspects) {
+      let subset = [...suspects];
+      subset.sort((a, b) => {
+        if (Math.random() > 0.5) {
+          return 1;
+        } else {
+          return -1;
+        }
+      });
+      setSuspectsSubset(subset.slice(0, 10));
+    }
+  }, [suspects, seed]);
+
   let [modalSrc, setModalSrc] = useState(null);
   let [modalTitle, setModalTitle] = useState(null);
 
   function showPreview(metadata) {
-    console.log("SHOW PREVIEW:", metadata);
+    // console.log("SHOW PREVIEW:", metadata);
     setModalTitle(metadata.title);
     let uri = `/${metadata.locale}/docs/${metadata.slug}`;
-    let viewUrl = `https://developer.mozilla.org${uri}`;
+    let sp = new URLSearchParams();
+    sp.set("uri", uri);
+    let viewUrl = `/api/v0/preview?${sp.toString()}`;
+    // console.log("MODAL URL:", viewUrl);
     setModalSrc(viewUrl);
   }
 
@@ -233,8 +252,15 @@ function Locale({ allSuspects, loading }) {
       {loadingError && <h4>Loading error; {loadingError}</h4>}
 
       {(loading || localeLoading) && !loadingError && <p>Loading...</p>}
-      {!(loading || localeLoading) && suspects && (
-        <ShowSuspects suspects={suspects} showPreview={showPreview} />
+      {!(loading || localeLoading) && suspects && suspectsSubset && (
+        <ShowSuspects
+          suspects={suspects}
+          subset={suspectsSubset}
+          showPreview={showPreview}
+          refreshSubset={() => {
+            setSeed(Math.random());
+          }}
+        />
       )}
       {modalSrc && (
         <PreviewIframeModal
@@ -250,14 +276,7 @@ function Locale({ allSuspects, loading }) {
   );
 }
 
-function ShowSuspects({ suspects, showPreview }) {
-  suspects.sort((a, b) => {
-    if (Math.random() > 0.5) {
-      return 1;
-    } else {
-      return -1;
-    }
-  });
+function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
   return (
     <div>
       <h3>There are {suspects.length} suspects in this locale</h3>
@@ -267,7 +286,14 @@ function ShowSuspects({ suspects, showPreview }) {
         Review one at a time and ask yourself{" "}
         <i>"Is this page still mostly all English?"</i>
       </p>
-      {suspects.slice(0, 10).map(suspect => {
+      {suspects.length > subset.length && (
+        <p>
+          <button className="button" type="button" onClick={refreshSubset}>
+            Refresh subset
+          </button>
+        </p>
+      )}
+      {subset.map(suspect => {
         let uri = `/${suspect.metadata.locale}/docs/${suspect.metadata.slug}`;
         let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
         let viewUrl = `https://developer.mozilla.org${uri}`;
@@ -280,6 +306,7 @@ function ShowSuspects({ suspects, showPreview }) {
             <div
               className="card-content"
               onClick={e => {
+                e.preventDefault();
                 showPreview(suspect.metadata);
               }}
             >
@@ -309,18 +336,46 @@ function ShowSuspects({ suspects, showPreview }) {
   );
 }
 
+// function PreviewIframeModal({ src, title, close }) {
+//   return (
+//     <div className="modal is-active">
+//       <div className="modal-background"></div>
+//       <div className="modal-content">
+//         <iframe src={src} title={title} width={1200} height={800}></iframe>
+//       </div>
+//       <button
+//         className="modal-close is-large"
+//         aria-label="close"
+//         onClick={close}
+//       ></button>
+//     </div>
+//   );
+// }
 function PreviewIframeModal({ src, title, close }) {
   return (
     <div className="modal is-active">
       <div className="modal-background"></div>
-      <div className="modal-content">
-        <iframe src={src} title={title} width={1200} height={800}></iframe>
+      <div className="modal-card">
+        <header className="modal-card-head">
+          <p className="modal-card-title">
+            Preview <code>{title}</code>
+          </p>
+          <button
+            className="delete"
+            aria-label="close"
+            onClick={close}
+          ></button>
+        </header>
+        <section className="modal-card-body">
+          <iframe src={src} title={title} width={1200} height={800}></iframe>
+        </section>
+        <footer className="modal-card-foot">
+          {/* <button className="button is-success">Save changes</button> */}
+          <button className="button" onClick={close}>
+            Close
+          </button>
+        </footer>
       </div>
-      <button
-        className="modal-close is-large"
-        aria-label="close"
-        onClick={close}
-      ></button>
     </div>
   );
 }
