@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import "./index.scss";
 
+const TAGLINE = "Actually not translated on MDN?";
+
 function App() {
   let [allSuspects, setAllSuspects] = useState(null);
   let [loading, setLoading] = useState(false);
@@ -124,6 +126,9 @@ function Head() {
 }
 
 function Home({ allSuspects, loading }) {
+  useEffect(() => {
+    document.title = TAGLINE;
+  }, []);
   return (
     <div>
       <h3>Pick Your Locale</h3>
@@ -172,6 +177,24 @@ function Locale({ allSuspects, loading }) {
   let [loadingError, setLoadingError] = useState(null);
   let [seed, setSeed] = useState(Math.random());
   let { locale } = useParams();
+
+  useEffect(() => {
+    let thisLocale = null;
+    if (allSuspects) {
+      for (let l of allSuspects) {
+        if (l.code === locale) {
+          thisLocale = l.language;
+          break;
+        }
+      }
+    }
+    if (thisLocale) {
+      document.title = `${thisLocale.English} / ${thisLocale.native} - ${TAGLINE}`;
+    } else {
+      document.title = `(${locale}) - ${TAGLINE}`;
+    }
+  }, [locale, allSuspects]);
+
   useEffect(() => {
     if (!loading) {
       if (allSuspects) {
