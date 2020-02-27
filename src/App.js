@@ -176,6 +176,7 @@ function Locale({ allSuspects, loading }) {
   let [suspectsSubset, setSuspectsSubset] = useState(null);
   let [loadingError, setLoadingError] = useState(null);
   let [seed, setSeed] = useState(Math.random());
+  let [deleteUrl, setDeleteUrl] = useState(null);
   let { locale } = useParams();
 
   useEffect(() => {
@@ -241,6 +242,13 @@ function Locale({ allSuspects, loading }) {
     let sp = new URLSearchParams();
     sp.set("uri", uri);
     let viewUrl = `/api/v0/preview?${sp.toString()}`;
+
+    let wikiUrl = "https://wiki.developer.mozilla.org" + uri;
+    setDeleteUrl(
+      wikiUrl +
+        "$delete?reason=" +
+        encodeURIComponent("It was never fully translated from English")
+    );
     // console.log("MODAL URL:", viewUrl);
     setModalSrc(viewUrl);
   }
@@ -278,6 +286,7 @@ function Locale({ allSuspects, loading }) {
         <PreviewIframeModal
           src={modalSrc}
           title={modalTitle}
+          deleteUrl={deleteUrl}
           close={() => {
             setModalSrc(null);
             setModalTitle(null);
@@ -363,7 +372,7 @@ function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
 //     </div>
 //   );
 // }
-function PreviewIframeModal({ src, title, close }) {
+function PreviewIframeModal({ src, title, close, deleteUrl }) {
   return (
     <div className="modal is-active">
       <div className="modal-background"></div>
@@ -382,10 +391,19 @@ function PreviewIframeModal({ src, title, close }) {
           <iframe src={src} title={title} width={1200} height={800}></iframe>
         </section>
         <footer className="modal-card-foot">
-          {/* <button className="button is-success">Save changes</button> */}
-          <button className="button" onClick={close}>
-            Close
-          </button>
+          <div className="buttons is-right">
+            <button className="button" onClick={close}>
+              Close
+            </button>{" "}
+            <a
+              className="button is-primary "
+              target="_blank"
+              rel="noopener noreferrer"
+              href={deleteUrl}
+            >
+              Start deleting on Wiki
+            </a>{" "}
+          </div>
         </footer>
       </div>
     </div>
