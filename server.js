@@ -26,7 +26,8 @@ app.use(
 
 const PORT = JSON.parse(process.env.PORT || "5000");
 const HOST = "0.0.0.0";
-const baseUrl = process.env.MDN_BASE_URL || "https://developer.mozilla.org";
+const baseUrl =
+  process.env.MDN_BASE_URL || "https://wiki.developer.mozilla.org";
 
 function download(uri) {
   let u = baseUrl + uri;
@@ -37,7 +38,8 @@ function download(uri) {
   console.log("FETCH:", u, encodeURI(u));
   return fetch(encodeURI(u)).then(r => {
     if (!r.ok) {
-      throw new Error(`${u}: ${r.statusCode}`);
+      console.log("THROW:", r.status);
+      throw new Error(r.status);
     }
     return r.text();
   });
@@ -66,10 +68,17 @@ app.get("/api/v0/preview", (req, res) => {
         console.log("SRC!!:", el.attribs["src"]);
         // el.attribs["href"] = baseUrl + el.attribs["href"];
       });
+      console.log("SENDING BACK...");
+      console.log({ html: $.html() });
       res.send($.html().trim());
     })
     .catch(ex => {
-      res.status(500).send(ex.toString());
+      console.error("Failed to fetch or download", ex.toString());
+      if (ex.toString().includes("404")) {
+        res.status(404).send(`Page not found ${uri}`);
+      } else {
+        res.status(500).send(ex.toString());
+      }
     });
 });
 

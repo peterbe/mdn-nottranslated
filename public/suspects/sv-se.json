@@ -205,7 +205,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -253,7 +254,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -285,7 +287,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -317,7 +320,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -333,7 +337,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -349,6 +354,7 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "notFound": true
   }
 ]

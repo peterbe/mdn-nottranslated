@@ -26,7 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "summorize-suspects": "node bin/summorize-suspects.js public/suspects"
+    "summorize-suspects": "node bin/summorize-suspects.js public/suspects",
+    "check-suspects": "node bin/check-suspects.js public/suspects"
   },
   "eslintConfig": {
     "extends": "react-app"
