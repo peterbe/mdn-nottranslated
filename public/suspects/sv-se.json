@@ -67,22 +67,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/HTML/Global_attributes/Kortplats",
-    "metadata": {
-      "title": "Kortplats",
-      "slug": "Web/HTML/Global_attributes/Kortplats",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/HTML/Global_attributes/slot",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
     "slug": "Web/HTTP",
     "metadata": {
       "title": "HTTP",

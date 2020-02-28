@@ -9,13 +9,17 @@ First install things:
 
     yarn install
 
-Then run:
+Then, in one terminal:
 
-    yarn start
+    PORT=5000 yarn run server
+
+And, in another terminal:
+
+    PORT=3000 yarn run start
 
 The view:
 
-    open http://localhost:8000
+    open http://localhost:3000
 
 
 ## Docker
