@@ -1,5 +1,105 @@
 [
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u0420\u0430\u0431\u043e\u0442\u0430_\u0441_\u0444\u0430\u0439\u043b\u043e\u0432\u0435",
+    "metadata": {
+      "title": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0444\u0430\u0439\u043b\u043e\u0432\u0435",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u0420\u0430\u0431\u043e\u0442\u0430_\u0441_\u0444\u0430\u0439\u043b\u043e\u0432\u0435",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041e\u0441\u043d\u043e\u0432\u0438_\u043d\u0430_CSS",
+    "metadata": {
+      "title": "\u041e\u0441\u043d\u043e\u0432\u0438 \u043d\u0430 CSS",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041e\u0441\u043d\u043e\u0432\u0438_\u043d\u0430_CSS",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/CSS_basics",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041a\u0430\u043a_\u0449\u0435_\u0438\u0437\u0433\u043b\u0435\u0436\u0434\u0430_\u043d\u043e\u0432\u0438\u044f\u0442_\u0432\u0438_\u0441\u0430\u0439\u0442",
+    "metadata": {
+      "title": "\u041a\u0430\u043a \u0449\u0435 \u0438\u0437\u0433\u043b\u0435\u0436\u0434\u0430 \u043d\u043e\u0432\u0438\u044f\u0442 \u0432\u0438 \u0441\u0430\u0439\u0442",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041a\u0430\u043a_\u0449\u0435_\u0438\u0437\u0433\u043b\u0435\u0436\u0434\u0430_\u043d\u043e\u0432\u0438\u044f\u0442_\u0432\u0438_\u0441\u0430\u0439\u0442",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041e\u0441\u043d\u043e\u0432\u0438_\u043d\u0430_JavaScript",
+    "metadata": {
+      "title": "\u041e\u0441\u043d\u043e\u0432\u0438 \u043d\u0430 JavaScript",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041e\u0441\u043d\u043e\u0432\u0438_\u043d\u0430_JavaScript",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/JavaScript_basics",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041a\u0430\u043a_\u0440\u0430\u0431\u043e\u0442\u0438_\u0441\u0432\u0435\u0442\u043e\u0432\u043d\u0430\u0442\u0430_\u043c\u0440\u0435\u0436\u0430",
+    "metadata": {
+      "title": "\u041a\u0430\u043a \u0440\u0430\u0431\u043e\u0442\u0438 \u0441\u0432\u0435\u0442\u043e\u0432\u043d\u0430\u0442\u0430 \u043c\u0440\u0435\u0436\u0430",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/\u041a\u0430\u043a_\u0440\u0430\u0431\u043e\u0442\u0438_\u0441\u0432\u0435\u0442\u043e\u0432\u043d\u0430\u0442\u0430_\u043c\u0440\u0435\u0436\u0430",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/How_the_Web_works",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/Publishing_your_website",
+    "metadata": {
+      "title": "\u041f\u0443\u0431\u043b\u0438\u043a\u0443\u0432\u0430\u043d\u0435 \u043d\u0430 \u0432\u0430\u0448\u0438\u044f \u0441\u0430\u0439\u0442",
+      "slug": "Learn/\u0414\u0430_\u0437\u0430\u043f\u043e\u0447\u043d\u0435\u043c_\u0441_\u041c\u0440\u0435\u0436\u0430\u0442\u0430/Publishing_your_website",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/CSS",
     "metadata": {
       "title": "CSS",
       "slug": "Learn/CSS",
@@ -9,10 +109,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/HTML",
     "metadata": {
       "title": "HTML",
       "slug": "Learn/HTML",
@@ -22,10 +125,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/HTML/Multimedia_and_embedding",
     "metadata": {
       "title": "Multimedia and embedding",
       "slug": "Learn/HTML/Multimedia_and_embedding",
@@ -35,36 +141,61 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/HTML/Multimedia_and_embedding/\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f_\u0432_HTML",
     "metadata": {
-      "title": "Изображения в  HTML",
-      "slug": "Learn/HTML/Multimedia_and_embedding/изображения_в_HTML",
+      "title": "\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0432  HTML",
+      "slug": "Learn/HTML/Multimedia_and_embedding/\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f_\u0432_HTML",
       "locale": "bg",
       "parent": {
         "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/HTML/\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435_\u0432_HTML",
     "metadata": {
-      "title": "Въведение в HTML",
-      "slug": "Learn/HTML/Въведение_в_HTML",
+      "title": "\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 HTML",
+      "slug": "Learn/HTML/\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435_\u0432_HTML",
       "locale": "bg",
       "parent": {
         "slug": "Learn/HTML/Introduction_to_HTML",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/\u041e\u0431\u0449\u0438_\u0432\u044a\u043f\u0440\u043e\u0441\u0438",
+    "metadata": {
+      "title": "\u041e\u0431\u0449\u0438 \u0432\u044a\u043f\u0440\u043e\u0441\u0438",
+      "slug": "Learn/\u041e\u0431\u0449\u0438_\u0432\u044a\u043f\u0440\u043e\u0441\u0438",
+      "locale": "bg",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Learn/JavaScript",
@@ -74,10 +205,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Building_blocks",
     "metadata": {
       "title": "JavaScript building blocks",
       "slug": "Learn/JavaScript/Building_blocks",
@@ -87,10 +221,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Building_blocks/Looping_code",
     "metadata": {
       "title": "Looping code",
       "slug": "Learn/JavaScript/Building_blocks/Looping_code",
@@ -100,10 +237,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Client-side_web_APIs",
     "metadata": {
       "title": "Client-side web APIs",
       "slug": "Learn/JavaScript/Client-side_web_APIs",
@@ -113,23 +253,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/\u041f\u044a\u0440\u0432\u0438_\u0441\u0442\u044a\u043f\u043a\u0438_\u0441_JavaScript",
     "metadata": {
-      "title": "Първи стъпки с JavaScript",
-      "slug": "Learn/JavaScript/Първи_стъпки_с_JavaScript",
+      "title": "\u041f\u044a\u0440\u0432\u0438 \u0441\u0442\u044a\u043f\u043a\u0438 \u0441 JavaScript",
+      "slug": "Learn/JavaScript/\u041f\u044a\u0440\u0432\u0438_\u0441\u0442\u044a\u043f\u043a\u0438_\u0441_JavaScript",
       "locale": "bg",
       "parent": {
         "slug": "Learn/JavaScript/First_steps",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/Server-side",
     "metadata": {
       "title": "Server-side website programming",
       "slug": "Learn/Server-side",
@@ -139,114 +285,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Learn/Server-side/\u041f\u044a\u0440\u0432\u0438_\u0441\u0442\u044a\u043f\u043a\u0438_\u0441\u044a\u0440\u0432\u044a\u0440",
     "metadata": {
-      "title": "Първи стъпки в програмирането от страната на сървъра",
-      "slug": "Learn/Server-side/Първи_стъпки_сървър",
+      "title": "\u041f\u044a\u0440\u0432\u0438 \u0441\u0442\u044a\u043f\u043a\u0438 \u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438\u0440\u0430\u043d\u0435\u0442\u043e \u043e\u0442 \u0441\u0442\u0440\u0430\u043d\u0430\u0442\u0430 \u043d\u0430 \u0441\u044a\u0440\u0432\u044a\u0440\u0430",
+      "slug": "Learn/Server-side/\u041f\u044a\u0440\u0432\u0438_\u0441\u0442\u044a\u043f\u043a\u0438_\u0441\u044a\u0440\u0432\u044a\u0440",
       "locale": "bg",
       "parent": {
         "slug": "Learn/Server-side/First_steps",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "Публикуване на вашия сайт",
-      "slug": "Learn/Да_започнем_с_Мрежата/Publishing_your_website",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Как работи световната мрежа",
-      "slug": "Learn/Да_започнем_с_Мрежата/Как_работи_световната_мрежа",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/How_the_Web_works",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Как ще изглежда новият ви сайт",
-      "slug": "Learn/Да_започнем_с_Мрежата/Как_ще_изглежда_новият_ви_сайт",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/What_will_your_website_look_like",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Основи на CSS",
-      "slug": "Learn/Да_започнем_с_Мрежата/Основи_на_CSS",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/CSS_basics",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Основи на JavaScript",
-      "slug": "Learn/Да_започнем_с_Мрежата/Основи_на_JavaScript",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/JavaScript_basics",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Работа с файлове",
-      "slug": "Learn/Да_започнем_с_Мрежата/Работа_с_файлове",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Общи въпроси",
-      "slug": "Learn/Общи_въпроси",
-      "locale": "bg",
-      "parent": {
-        "slug": "Learn/Common_questions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Tools",
     "metadata": {
       "title": "Firefox Developer Tools",
       "slug": "Tools",
@@ -256,10 +317,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Tools/Remote_Debugging",
     "metadata": {
       "title": "Remote Debugging",
       "slug": "Tools/Remote_Debugging",
@@ -269,309 +333,45 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Tools/Remote_Debugging/Debugging_over_a_network",
     "metadata": {
-      "title": "Web APIs",
-      "slug": "Web/API",
+      "title": "Debugging over a network",
+      "slug": "Tools/Remote_Debugging/Debugging_over_a_network",
       "locale": "bg",
       "parent": {
-        "slug": "Web/API",
+        "slug": "Tools/Remote_Debugging/Debugging_over_a_network",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
-      "title": "XMLHttpRequest",
-      "slug": "Web/API/XMLHttpRequest",
+      "title": "\u0423\u0435\u0431 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0437\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u0446\u0438",
+      "slug": "Web",
       "locale": "bg",
       "parent": {
-        "slug": "Web/API/XMLHttpRequest",
+        "slug": "Web",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Using XMLHttpRequest",
-      "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS",
-      "slug": "Web/CSS",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Изчислена стойност",
-      "slug": "Web/CSS/computed_value",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/CSS/computed_value",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS Positioning",
-      "slug": "Web/CSS/CSS_Positioning",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/CSS/CSS_Positioning",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Да разберем CSS z-index",
-      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "position",
-      "slug": "Web/CSS/position",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/CSS/position",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web developer guides",
-      "slug": "Web/Guide",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/Guide",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "<button>: The Button element",
-      "slug": "Web/HTML/Element/button",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTML/Element/button",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP",
-      "slug": "Web/HTTP",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP headers",
-      "slug": "Web/HTTP/Headers",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP/Headers",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP response status codes",
-      "slug": "Web/HTTP/Status",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP/Status",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "302 Found",
-      "slug": "Web/HTTP/Status/302",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP/Status/302",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "404 Not Found",
-      "slug": "Web/HTTP/Status/404",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP/Status/404",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Справочник за JavaScript",
-      "slug": "Web/JavaScript/Reference",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Classes",
-      "slug": "Web/JavaScript/Reference/Classes",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Classes",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript error reference",
-      "slug": "Web/JavaScript/Reference/Errors",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Standard built-in objects",
-      "slug": "Web/JavaScript/Reference/Global_Objects",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Expressions and operators",
-      "slug": "Web/JavaScript/Reference/Operators",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Statements and declarations",
-      "slug": "Web/JavaScript/Reference/Statements",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/SVG",
     "metadata": {
       "title": "SVG: Scalable Vector Graphics",
       "slug": "Web/SVG",
@@ -581,10 +381,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/SVG/Element",
     "metadata": {
       "title": "SVG element reference",
       "slug": "Web/SVG/Element",
@@ -594,7 +397,438 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/Guide",
+    "metadata": {
+      "title": "Web developer guides",
+      "slug": "Web/Guide",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/CSS",
+    "metadata": {
+      "title": "CSS",
+      "slug": "Web/CSS",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/CSS/computed_value",
+    "metadata": {
+      "title": "\u0418\u0437\u0447\u0438\u0441\u043b\u0435\u043d\u0430 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442",
+      "slug": "Web/CSS/computed_value",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/computed_value",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/CSS/position",
+    "metadata": {
+      "title": "position",
+      "slug": "Web/CSS/position",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/position",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Positioning",
+    "metadata": {
+      "title": "CSS Positioning",
+      "slug": "Web/CSS/CSS_Positioning",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+    "metadata": {
+      "title": "\u0414\u0430 \u0440\u0430\u0437\u0431\u0435\u0440\u0435\u043c CSS z-index",
+      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/button",
+    "metadata": {
+      "title": "<button>: The Button element",
+      "slug": "Web/HTML/Element/button",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTML/Element/button",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP",
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status",
+    "metadata": {
+      "title": "HTTP response status codes",
+      "slug": "Web/HTTP/Status",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status/302",
+    "metadata": {
+      "title": "302 Found",
+      "slug": "Web/HTTP/Status/302",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status/302",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status/404",
+    "metadata": {
+      "title": "404 Not Found",
+      "slug": "Web/HTTP/Status/404",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Status/404",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP/Headers",
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/HTTP/CSP",
+    "metadata": {
+      "title": "Content Security Policy (CSP)",
+      "slug": "Web/HTTP/CSP",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/HTTP/CSP",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/API",
+    "metadata": {
+      "title": "Web APIs",
+      "slug": "Web/API",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/API/XMLHttpRequest",
+    "metadata": {
+      "title": "XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+    "metadata": {
+      "title": "Using XMLHttpRequest",
+      "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide",
+    "metadata": {
+      "title": "\u0420\u044a\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e JavaScript",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
+    "metadata": {
+      "title": "\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
+      "slug": "Web/JavaScript/Guide/\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
+    "metadata": {
+      "title": "\u0421\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a \u0437\u0430 JavaScript",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators",
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Classes",
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements",
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects",
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+    "metadata": {
+      "title": "Array",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions",
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors",
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "ca",
+    "slug": "\u0420\u0435\u0447\u043d\u0438\u043a",
+    "metadata": {
+      "title": "\u0420\u0435\u0447\u043d\u0438\u043a",
+      "slug": "\u0420\u0435\u0447\u043d\u0438\u043a",
+      "locale": "bg",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
   }
 ]

@@ -1,18 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "Robots.txt",
-      "slug": "Glossary/Robots.txt",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Glossary/Robots.txt",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Learn/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Learn/JavaScript",
@@ -22,10 +13,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Objects",
     "metadata": {
       "title": "Introducing JavaScript objects",
       "slug": "Learn/JavaScript/Objects",
@@ -35,10 +29,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Tools",
     "metadata": {
       "title": "Firefox Developer Tools",
       "slug": "Tools",
@@ -48,49 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "FileReader",
-      "slug": "Web/API/FileReader",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/FileReader",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "SubtleCrypto",
-      "slug": "Web/API/SubtleCrypto",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/SubtleCrypto",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Window",
-      "slug": "Web/API/Window",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/HTML/Global_attributes",
     "metadata": {
       "title": "Global attributes",
       "slug": "Web/HTML/Global_attributes",
@@ -100,10 +61,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/HTML/Global_attributes/Kortplats",
+    "metadata": {
+      "title": "Kortplats",
+      "slug": "Web/HTML/Global_attributes/Kortplats",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/HTML/Global_attributes/slot",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/HTTP",
     "metadata": {
       "title": "HTTP",
       "slug": "Web/HTTP",
@@ -113,10 +93,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status",
     "metadata": {
       "title": "HTTP response status codes",
       "slug": "Web/HTTP/Status",
@@ -126,10 +109,77 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/API/SubtleCrypto",
+    "metadata": {
+      "title": "SubtleCrypto",
+      "slug": "Web/API/SubtleCrypto",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/SubtleCrypto",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/API/Window",
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/API/FileReader",
+    "metadata": {
+      "title": "FileReader",
+      "slug": "Web/API/FileReader",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/API/FileReader",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide",
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
@@ -139,75 +189,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Classes",
-      "slug": "Web/JavaScript/Reference/Classes",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Classes",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Method definitions",
-      "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Standard built-in objects",
-      "slug": "Web/JavaScript/Reference/Global_Objects",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "parseInt",
-      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators",
     "metadata": {
       "title": "Expressions and operators",
       "slug": "Web/JavaScript/Reference/Operators",
@@ -217,10 +205,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators/instanceof",
     "metadata": {
       "title": "instanceof",
       "slug": "Web/JavaScript/Reference/Operators/instanceof",
@@ -230,7 +221,150 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Classes",
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects",
+    "metadata": {
+      "title": "Standard built-in objects",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+    "metadata": {
+      "title": "parseInt",
+      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions",
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+    "metadata": {
+      "title": "Method definitions",
+      "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "ca",
+    "slug": "Glossary",
+    "metadata": {
+      "title": "Ordlista",
+      "slug": "Glossary",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "nb",
+    "slug": "Glossary/Bandwidth",
+    "metadata": {
+      "title": "Bandbredd",
+      "slug": "Glossary/Bandwidth",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Glossary/Bandwidth",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "nb",
+    "slug": "Glossary/IP_Adress",
+    "metadata": {
+      "title": "IP Adress",
+      "slug": "Glossary/IP_Adress",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Glossary/IP_Address",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Glossary/Robots.txt",
+    "metadata": {
+      "title": "Robots.txt",
+      "slug": "Glossary/Robots.txt",
+      "locale": "sv-SE",
+      "parent": {
+        "slug": "Glossary/Robots.txt",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

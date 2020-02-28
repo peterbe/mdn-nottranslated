@@ -22,6 +22,8 @@ $control-border-width: 2px;
 $input-border-color: transparent;
 $input-shadow: none;
 
+// For the preview iframe thing.
+// Does this fubar usage on mobiles?
 $modal-content-width: 1200px;
 
 @import "../node_modules/bulma/bulma.sass";

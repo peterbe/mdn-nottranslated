@@ -1,83 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "about:debugging",
-      "slug": "Araclar/about:debugging",
-      "locale": "tr",
-      "parent": {
-        "slug": "Tools/about:debugging",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Remote Debugging",
-      "slug": "Araclar/Remote_Debugging",
-      "locale": "tr",
-      "parent": {
-        "slug": "Tools/Remote_Debugging",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Debugging over USB",
-      "slug": "Araclar/Remote_Debugging/Debugging_over_USB",
-      "locale": "tr",
-      "parent": {
-        "slug": "Tools/Remote_Debugging/Debugging_over_USB",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Using the DOM File API in chrome code",
-      "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
-      "locale": "tr",
-      "parent": {
-        "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Glossary",
-      "slug": "Glossary",
-      "locale": "tr",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "<li>",
-      "slug": "HTML/Element/li",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/HTML/Element/li",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Learn/Common_questions",
     "metadata": {
       "title": "Common questions",
       "slug": "Learn/Common_questions",
@@ -87,36 +13,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Oyun geliştirme",
-      "slug": "Oyunlar",
-      "locale": "tr",
-      "parent": {
-        "slug": "Games",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Mixed Content",
-      "slug": "Security/MixedContent",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Security/Mixed_content",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Tools/WebIDE",
     "metadata": {
       "title": "WebIDE",
       "slug": "Tools/WebIDE",
@@ -126,10 +29,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Tools/WebIDE/Troubleshooting",
     "metadata": {
       "title": "WebIDE Troubleshooting",
       "slug": "Tools/WebIDE/Troubleshooting",
@@ -139,998 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "Accessibility",
-      "slug": "Web/Accessibility",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Accessibility",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Document Object Model (DOM)",
-      "slug": "Web/API/Document_Object_Model",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Document_Object_Model",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "DOM'a Giriş",
-      "slug": "Web/API/Document_Object_Model/Giriş",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Document_Object_Model/Introduction",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Event",
-      "slug": "Web/API/Event",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Event",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Event.preventDefault()",
-      "slug": "Web/API/Event/preventDefault",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Event/preventDefault",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "EventTarget",
-      "slug": "Web/API/EventTarget",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/EventTarget",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "FileReader",
-      "slug": "Web/API/FileReader",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/FileReader",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "FileReader.readAsDataURL()",
-      "slug": "Web/API/FileReader/readAsDataURL",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/FileReader/readAsDataURL",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLElement",
-      "slug": "Web/API/HTMLElement",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/HTMLElement",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLImageElement",
-      "slug": "Web/API/HTMLImageElement",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/HTMLImageElement",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "IDBIndex",
-      "slug": "Web/API/IDBIndex",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/IDBIndex",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "IDBIndex.getAll()",
-      "slug": "Web/API/IDBIndex/getAll",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/IDBIndex/getAll",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "PositionOptions",
-      "slug": "Web/API/PositionOptions",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/PositionOptions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "RTCNetworkType",
-      "slug": "Web/API/RTCNetworkType",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/RTCNetworkType",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "WebGL_API: Web için 2D ve 3D grafikler",
-      "slug": "Web/API/WebGL_API",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/WebGL_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Window",
-      "slug": "Web/API/Window",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Window.localStorage",
-      "slug": "Web/API/Window/localStorage",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/API/Window/localStorage",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "@import",
-      "slug": "Web/CSS/@import",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/CSS/@import",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "background",
-      "slug": "Web/CSS/background",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/CSS/background",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "box-sizing",
-      "slug": "Web/CSS/box-sizing",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/CSS/box-sizing",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": ":link",
-      "slug": "Web/CSS/:link",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/CSS/:link",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Demos of open web technologies",
-      "slug": "Web/Demos_of_open_web_technologies",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Demos_of_open_web_technologies",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web developer guide",
-      "slug": "Web/Guide",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Guide",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Ajax",
-      "slug": "Web/Guide/AJAX",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Guide/AJAX",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS Sayaçlarını Kullanmak",
-      "slug": "Web/Guide/CSS/Sayaçlar",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CORS errors",
-      "slug": "Web/HTTP/CORS/Errors",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/HTTP/CORS/Errors",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP'ye genel bakış",
-      "slug": "Web/HTTP/Genel_Bakis",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/HTTP/Overview",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP Mesajları",
-      "slug": "Web/HTTP/Mesajlar",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/HTTP/Messages",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP önbelleği",
-      "slug": "Web/HTTP/Onbellek",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/HTTP/Caching",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Details of the object model",
-      "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Ex and op",
-      "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "New in JavaScript",
-      "slug": "Web/JavaScript/New_in_JavaScript",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/New_in_JavaScript",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript Referansı",
-      "slug": "Web/JavaScript/Reference",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Classes",
-      "slug": "Web/JavaScript/Reference/Classes",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Classes",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript error reference",
-      "slug": "Web/JavaScript/Reference/Errors",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Referans Hatası: \"x\" tanımlanmamış",
-      "slug": "Web/JavaScript/Reference/Errors/Tanımlanmamış",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors/Not_defined",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "SyntaxError: Unexpected token",
-      "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Global Objeler",
-      "slug": "Web/JavaScript/Reference/Global_Objects",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.entries()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.every()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.findIndex()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.forEach()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.from()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.pop()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.reduce()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.reverse()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Boolean.prototype.toSource()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "eval()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/eval",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/eval",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Function",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JSON.stringify()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Map",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Map.prototype.forEach()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object.defineProperty()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object.prototype.toString()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Promise.all()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Promise.prototype.catch()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "RegExp",
-      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.match()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.substring()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Bu Referans Hakkında",
-      "slug": "Web/JavaScript/Reference/Hakkinda",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/About",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Lexical grammar",
-      "slug": "Web/JavaScript/Reference/Lexical_grammar",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Lexical_grammar",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "İfadeler ve operatörler",
-      "slug": "Web/JavaScript/Reference/Operatörler",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Bitwise operators",
-      "slug": "Web/JavaScript/Reference/Operatörler/Bitwise_Operators",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/Bitwise_Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "function expression",
-      "slug": "Web/JavaScript/Reference/Operatörler/function",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/function",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "typeof",
-      "slug": "Web/JavaScript/Reference/Operatörler/typeof",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/typeof",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Statements and declarations",
-      "slug": "Web/JavaScript/Reference/Statements",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "break",
-      "slug": "Web/JavaScript/Reference/Statements/break",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/break",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Sınıf",
-      "slug": "Web/JavaScript/Reference/Statements/siniflar",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/class",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript typed arrays",
-      "slug": "Web/JavaScript/Typed_arrays",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/JavaScript/Typed_arrays",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web technology reference",
-      "slug": "Web/Reference",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Reference",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web API Referansı",
-      "slug": "Web/Reference/API",
-      "locale": "tr",
-      "parent": {
-        "slug": "Web/Reference/API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Yerelleştirme",
-      "slug": "Yerelleştirme",
-      "locale": "tr",
-      "parent": {
-        "slug": "Glossary/Localization",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Zones",
     "metadata": {
       "title": "Zones",
       "slug": "Zones",
@@ -1140,163 +61,1966 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Security/MixedContent",
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Security/MixedContent",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Guide/CSS/Saya\u00e7lar",
+    "metadata": {
+      "title": "CSS Saya\u00e7lar\u0131n\u0131 Kullanmak",
+      "slug": "Web/Guide/CSS/Saya\u00e7lar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Guide/CSS/Getting_started/Se\u00e7iciler",
+    "metadata": {
+      "title": "Se\u00e7iciler",
+      "slug": "Web/Guide/CSS/Getting_started/Se\u00e7iciler",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/Selectors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Guide/AJAX",
+    "metadata": {
+      "title": "Ajax",
+      "slug": "Web/Guide/AJAX",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Guide/AJAX",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/CSS/background",
+    "metadata": {
+      "title": "background",
+      "slug": "Web/CSS/background",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/background",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/CSS/@import",
+    "metadata": {
+      "title": "@import",
+      "slug": "Web/CSS/@import",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/@import",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "UNKNOWN",
+    "slug": "Web/CSS/Mozilla_Uzantilari",
+    "metadata": {
+      "title": "Mozilla Uzantilari",
+      "slug": "Web/CSS/Mozilla_Uzantilari",
+      "locale": "tr"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/CSS/:link",
+    "metadata": {
+      "title": ":link",
+      "slug": "Web/CSS/:link",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/:link",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/CSS/display",
+    "metadata": {
+      "title": "display",
+      "slug": "Web/CSS/display",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/display",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/CSS/box-sizing",
+    "metadata": {
+      "title": "box-sizing",
+      "slug": "Web/CSS/box-sizing",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/CSS/box-sizing",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Demos_of_open_web_technologies",
+    "metadata": {
+      "title": "Demos of open web technologies",
+      "slug": "Web/Demos_of_open_web_technologies",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Demos_of_open_web_technologies",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Content_negotiation",
+    "metadata": {
+      "title": "\u0130\u00e7erik g\u00f6r\u00fc\u015fmesi",
+      "slug": "Web/HTTP/Content_negotiation",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Content_negotiation",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status",
+    "metadata": {
+      "title": "HTTP yan\u0131t durumu kodlar\u0131",
+      "slug": "Web/HTTP/Status",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Status",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Browser_detection_using_the_user_agent",
+    "metadata": {
+      "title": "Browser detection using the user agent",
+      "slug": "Web/HTTP/Browser_detection_using_the_user_agent",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Browser_detection_using_the_user_agent",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Headers",
+    "metadata": {
+      "title": "HTTP ba\u015fl\u0131klar\u0131",
+      "slug": "Web/HTTP/Headers",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Headers/Content-Length",
+    "metadata": {
+      "title": "Content-Length",
+      "slug": "Web/HTTP/Headers/Content-Length",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Content-Length",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/CORS/Errors",
+    "metadata": {
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/CORS/Errors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Mesajlar",
+    "metadata": {
+      "title": "HTTP Mesajlar\u0131",
+      "slug": "Web/HTTP/Mesajlar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Messages",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Genel_Bakis",
+    "metadata": {
+      "title": "HTTP'ye genel bak\u0131\u015f",
+      "slug": "Web/HTTP/Genel_Bakis",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Overview",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/HTTP/Onbellek",
+    "metadata": {
+      "title": "HTTP \u00f6nbelle\u011fi",
+      "slug": "Web/HTTP/Onbellek",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTTP/Caching",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/EventTarget",
+    "metadata": {
+      "title": "EventTarget",
+      "slug": "Web/API/EventTarget",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/EventTarget",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Document_Object_Model",
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "Web/API/Document_Object_Model",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Document_Object_Model/Giri\u015f",
+    "metadata": {
+      "title": "DOM'a Giri\u015f",
+      "slug": "Web/API/Document_Object_Model/Giri\u015f",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/WebGL_API",
+    "metadata": {
+      "title": "WebGL_API: Web i\u00e7in 2D ve 3D grafikler",
+      "slug": "Web/API/WebGL_API",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/WebGL_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/PositionOptions",
+    "metadata": {
+      "title": "PositionOptions",
+      "slug": "Web/API/PositionOptions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/PositionOptions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/HTMLImageElement",
+    "metadata": {
+      "title": "HTMLImageElement",
+      "slug": "Web/API/HTMLImageElement",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/HTMLImageElement",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/RTCNetworkType",
+    "metadata": {
+      "title": "RTCNetworkType",
+      "slug": "Web/API/RTCNetworkType",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/RTCNetworkType",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Window",
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Window/localStorage",
+    "metadata": {
+      "title": "Window.localStorage",
+      "slug": "Web/API/Window/localStorage",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Window/localStorage",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/IDBIndex",
+    "metadata": {
+      "title": "IDBIndex",
+      "slug": "Web/API/IDBIndex",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/IDBIndex",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/IDBIndex/getAll",
+    "metadata": {
+      "title": "IDBIndex.getAll()",
+      "slug": "Web/API/IDBIndex/getAll",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/IDBIndex/getAll",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Event",
+    "metadata": {
+      "title": "Event",
+      "slug": "Web/API/Event",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Event",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/Event/preventDefault",
+    "metadata": {
+      "title": "Event.preventDefault()",
+      "slug": "Web/API/Event/preventDefault",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/Event/preventDefault",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/HTMLElement",
+    "metadata": {
+      "title": "HTMLElement",
+      "slug": "Web/API/HTMLElement",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/HTMLElement",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/FileReader",
+    "metadata": {
+      "title": "FileReader",
+      "slug": "Web/API/FileReader",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/FileReader",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/API/FileReader/readAsDataURL",
+    "metadata": {
+      "title": "FileReader.readAsDataURL()",
+      "slug": "Web/API/FileReader/readAsDataURL",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/API/FileReader/readAsDataURL",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+    "metadata": {
+      "title": "Ex and op",
+      "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Nesneler_ile_\u00e7al\u0131\u015fmak",
+    "metadata": {
+      "title": "Nesnelerle \u00e7al\u0131\u015fmak",
+      "slug": "Web/JavaScript/Guide/Nesneler_ile_\u00e7al\u0131\u015fmak",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Working_with_Objects",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
+    "metadata": {
+      "title": "Details of the object model",
+      "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Details_of_the_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/New_in_JavaScript",
+    "metadata": {
+      "title": "New in JavaScript",
+      "slug": "Web/JavaScript/New_in_JavaScript",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/New_in_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Typed_arrays",
+    "metadata": {
+      "title": "JavaScript typed arrays",
+      "slug": "Web/JavaScript/Typed_arrays",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Typed_arrays",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Veri_Yap\u0131s\u0131",
+    "metadata": {
+      "title": "JavaScript veri tipi ve veri yap\u0131s\u0131",
+      "slug": "Web/JavaScript/Veri_Yap\u0131s\u0131",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Data_structures",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Memory_Management",
+    "metadata": {
+      "title": "Bellek Y\u00f6netimi",
+      "slug": "Web/JavaScript/Memory_Management",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Memory_Management",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
+    "metadata": {
+      "title": "JavaScript Referans\u0131",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Hakkinda",
+    "metadata": {
+      "title": "Bu Referans Hakk\u0131nda",
+      "slug": "Web/JavaScript/Reference/Hakkinda",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/About",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler",
+    "metadata": {
+      "title": "\u0130fadeler ve operat\u00f6rler",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler/Bitwise_Operators",
+    "metadata": {
+      "title": "Bitwise operators",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler/Bitwise_Operators",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Bitwise_Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler/Arithmetic_Operators",
+    "metadata": {
+      "title": "Arithmetic operators",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler/Arithmetic_Operators",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Arithmetic_Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler/function",
+    "metadata": {
+      "title": "function expression",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler/function",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/function",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler/this",
+    "metadata": {
+      "title": "this",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler/this",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/this",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operat\u00f6rler/typeof",
+    "metadata": {
+      "title": "typeof",
+      "slug": "Web/JavaScript/Reference/Operat\u00f6rler/typeof",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/typeof",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Classes",
+    "metadata": {
+      "title": "Classes",
+      "slug": "Web/JavaScript/Reference/Classes",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Classes",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Lexical_grammar",
+    "metadata": {
+      "title": "Lexical grammar",
+      "slug": "Web/JavaScript/Reference/Lexical_grammar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Lexical_grammar",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements",
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements/siniflar",
+    "metadata": {
+      "title": "S\u0131n\u0131f",
+      "slug": "Web/JavaScript/Reference/Statements/siniflar",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/class",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements/break",
+    "metadata": {
+      "title": "break",
+      "slug": "Web/JavaScript/Reference/Statements/break",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/break",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects",
+    "metadata": {
+      "title": "Global Objeler",
+      "slug": "Web/JavaScript/Reference/Global_Objects",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+    "metadata": {
+      "title": "RegExp",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+    "metadata": {
+      "title": "Array.prototype.pop()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+    "metadata": {
+      "title": "Array.prototype.every()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+    "metadata": {
+      "title": "Array.prototype.findIndex()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+    "metadata": {
+      "title": "Array.prototype.reduce()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/Reduce",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+    "metadata": {
+      "title": "Array.from()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/from",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
+    "metadata": {
+      "title": "Array.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/prototype",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+    "metadata": {
+      "title": "Array.prototype.reverse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+    "metadata": {
+      "title": "Array.prototype.map()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+    "metadata": {
+      "title": "Array.prototype.some()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+    "metadata": {
+      "title": "Function",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+    "metadata": {
+      "title": "Function.prototype.apply()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+    "metadata": {
+      "title": "Map",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
+    "metadata": {
+      "title": "Map.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Map/forEach",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+    "metadata": {
+      "title": "JSON.stringify()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+    "metadata": {
+      "title": "Object.prototype.toString()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+    "metadata": {
+      "title": "Object.prototype.hasOwnProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+    "metadata": {
+      "title": "Boolean.prototype.toSource()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+    "metadata": {
+      "title": "Promise",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+    "metadata": {
+      "title": "Promise.all()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/all",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+    "metadata": {
+      "title": "Promise.prototype.catch()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String",
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+    "metadata": {
+      "title": "String.prototype.match()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/match",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+    "metadata": {
+      "title": "String.prototype.substring()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+    "metadata": {
+      "title": "eval()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/eval",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions",
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
+    "metadata": {
+      "title": "Arrow functions",
+      "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors",
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors/Tan\u0131mlanmam\u0131\u015f",
+    "metadata": {
+      "title": "Referans Hatas\u0131: \"x\" tan\u0131mlanmam\u0131\u015f",
+      "slug": "Web/JavaScript/Reference/Errors/Tan\u0131mlanmam\u0131\u015f",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Not_defined",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
+    "metadata": {
+      "title": "SyntaxError: Unexpected token",
+      "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Unexpected_token",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Accessibility",
+    "metadata": {
+      "title": "Accessibility",
+      "slug": "Web/Accessibility",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Accessibility/Understanding_WCAG",
+    "metadata": {
+      "title": "Understanding the Web Content Accessibility Guidelines",
+      "slug": "Web/Accessibility/Understanding_WCAG",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Accessibility/Understanding_WCAG",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Accessibility/Understanding_WCAG/Keyboard",
+    "metadata": {
+      "title": "Keyboard",
+      "slug": "Web/Accessibility/Understanding_WCAG/Keyboard",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Accessibility/Understanding_WCAG/Keyboard",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/G\u00fcvenlik/Transport_Layer_Security",
+    "metadata": {
+      "title": "Transport Layer Security",
+      "slug": "Web/G\u00fcvenlik/Transport_Layer_Security",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Security/Transport_Layer_Security",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Reference",
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Web/Reference/API",
+    "metadata": {
+      "title": "Web API Referans\u0131",
+      "slug": "Web/Reference/API",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/Reference/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "HTML/Element/meta",
+    "metadata": {
+      "title": "<meta>",
+      "slug": "HTML/Element/meta",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "HTML/Element/li",
+    "metadata": {
+      "title": "<li>",
+      "slug": "HTML/Element/li",
+      "locale": "tr",
+      "parent": {
+        "slug": "Web/HTML/Element/li",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+    "metadata": {
+      "title": "Using the DOM File API in chrome code",
+      "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+      "locale": "tr",
+      "parent": {
+        "slug": "Extensions/Using_the_DOM_File_API_in_chrome_code",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/CSS",
+    "metadata": {
+      "title": "CSS",
+      "slug": "\u00d6\u011fren/CSS",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/CSS/CSS_layout",
     "metadata": {
       "title": "CSS layout",
-      "slug": "Öğren/CSS/CSS_layout",
+      "slug": "\u00d6\u011fren/CSS/CSS_layout",
       "locale": "tr",
       "parent": {
         "slug": "Learn/CSS/CSS_layout",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/CSS/CSS_layout/K\u0131lavuzlar",
     "metadata": {
-      "title": "Kılavuzlar (Izgaralar, Karelere bölme sistemleri)",
-      "slug": "Öğren/CSS/CSS_layout/Kılavuzlar",
+      "title": "K\u0131lavuzlar (Izgaralar, Karelere b\u00f6lme sistemleri)",
+      "slug": "\u00d6\u011fren/CSS/CSS_layout/K\u0131lavuzlar",
       "locale": "tr",
       "parent": {
         "slug": "Learn/CSS/CSS_layout/Grids",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Getting_started_with_the_web/Dealing_with_files",
     "metadata": {
       "title": "Dealing with files",
-      "slug": "Öğren/Getting_started_with_the_web/Dealing_with_files",
+      "slug": "\u00d6\u011fren/Getting_started_with_the_web/Dealing_with_files",
       "locale": "tr",
       "parent": {
         "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Getting_started_with_the_web/Web_siteniz_nasil_gorunecek",
     "metadata": {
-      "title": "Websitenizi Yayımlamak",
-      "slug": "Öğren/Getting_started_with_the_web/Publishing_your_website",
+      "title": "Web siteniz nas\u0131l g\u00f6r\u00fcnecek",
+      "slug": "\u00d6\u011fren/Getting_started_with_the_web/Web_siteniz_nasil_gorunecek",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/What_will_your_website_look_like",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Getting_started_with_the_web/Publishing_your_website",
+    "metadata": {
+      "title": "Websitenizi Yay\u0131mlamak",
+      "slug": "\u00d6\u011fren/Getting_started_with_the_web/Publishing_your_website",
       "locale": "tr",
       "parent": {
         "slug": "Learn/Getting_started_with_the_web/Publishing_your_website",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "HTML'e Giriş",
-      "slug": "Öğren/HTML/Introduction_to_HTML",
-      "locale": "tr",
-      "parent": {
-        "slug": "Learn/HTML/Introduction_to_HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/HTML/Tables",
     "metadata": {
       "title": "HTML Tables",
-      "slug": "Öğren/HTML/Tables",
+      "slug": "\u00d6\u011fren/HTML/Tables",
       "locale": "tr",
       "parent": {
         "slug": "Learn/HTML/Tables",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/HTML/Introduction_to_HTML",
     "metadata": {
-      "title": "JavaScript'e İlk Adımlar",
-      "slug": "Öğren/JavaScript/İlk_adımlar",
+      "title": "HTML'e Giri\u015f",
+      "slug": "\u00d6\u011fren/HTML/Introduction_to_HTML",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/JavaScript",
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "\u00d6\u011fren/JavaScript",
+      "locale": "tr",
+      "parent": {
+        "slug": "Learn/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/JavaScript/\u0130lk_ad\u0131mlar",
+    "metadata": {
+      "title": "JavaScript'e \u0130lk Ad\u0131mlar",
+      "slug": "\u00d6\u011fren/JavaScript/\u0130lk_ad\u0131mlar",
       "locale": "tr",
       "parent": {
         "slug": "Learn/JavaScript/First_steps",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/JavaScript/Objeler/Basics",
     "metadata": {
       "title": "JavaScript object basics",
-      "slug": "Öğren/JavaScript/Objeler/Basics",
+      "slug": "\u00d6\u011fren/JavaScript/Objeler/Basics",
       "locale": "tr",
       "parent": {
         "slug": "Learn/JavaScript/Objects/Basics",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Server-side",
     "metadata": {
       "title": "Server-side website programming",
-      "slug": "Öğren/Server-side",
+      "slug": "\u00d6\u011fren/Server-side",
       "locale": "tr",
       "parent": {
         "slug": "Learn/Server-side",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Server-side/Django",
     "metadata": {
       "title": "Django Web Framework (Python)",
-      "slug": "Öğren/Server-side/Django",
+      "slug": "\u00d6\u011fren/Server-side/Django",
       "locale": "tr",
       "parent": {
         "slug": "Learn/Server-side/Django",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "\u00d6\u011fren/Server-side/Django/Sessions",
     "metadata": {
-      "title": "Django Tutorial - 8. Bölüm: Kullanıcı doğrulama ve izinler",
-      "slug": "Öğren/Server-side/Django/Authentication",
+      "title": "Django Tutorial Part 7: Sessions framework",
+      "slug": "\u00d6\u011fren/Server-side/Django/Sessions",
       "locale": "tr",
       "parent": {
-        "slug": "Learn/Server-side/Django/Authentication",
+        "slug": "Learn/Server-side/Django/Sessions",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Oyunlar",
     "metadata": {
-      "title": "Django Tutorial 2. Bölüm: Websitesi İskeleti Oluşturmak",
-      "slug": "Öğren/Server-side/Django/website_iskeleti",
+      "title": "Oyun geli\u015ftirme",
+      "slug": "Oyunlar",
       "locale": "tr",
       "parent": {
-        "slug": "Learn/Server-side/Django/skeleton_website",
+        "slug": "Games",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "UNKNOWN",
+    "slug": "profile",
+    "metadata": {
+      "title": "profile",
+      "slug": "profile",
+      "locale": "tr"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Gecko",
+    "metadata": {
+      "title": "Gecko",
+      "slug": "Gecko",
+      "locale": "tr",
+      "parent": {
+        "slug": "Mozilla/Gecko",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Araclar/about:debugging",
+    "metadata": {
+      "title": "about:debugging",
+      "slug": "Araclar/about:debugging",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/about:debugging",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Araclar/Tools_Toolbox",
+    "metadata": {
+      "title": "Toolbox",
+      "slug": "Araclar/Tools_Toolbox",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Tools_Toolbox",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Araclar/Browser_Console",
+    "metadata": {
+      "title": "Browser Console",
+      "slug": "Araclar/Browser_Console",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Browser_Console",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Araclar/Remote_Debugging",
+    "metadata": {
+      "title": "Remote Debugging",
+      "slug": "Araclar/Remote_Debugging",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Remote_Debugging",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Araclar/Remote_Debugging/Debugging_over_USB",
+    "metadata": {
+      "title": "Debugging over USB",
+      "slug": "Araclar/Remote_Debugging/Debugging_over_USB",
+      "locale": "tr",
+      "parent": {
+        "slug": "Tools/Remote_Debugging/Debugging_over_USB",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Yerelle\u015ftirme",
+    "metadata": {
+      "title": "Yerelle\u015ftirme",
+      "slug": "Yerelle\u015ftirme",
+      "locale": "tr",
+      "parent": {
+        "slug": "Glossary/Localization",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/tr",
+    "locale": "tr",
+    "guessed": "en",
+    "slug": "Glossary",
+    "metadata": {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "locale": "tr",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
   }
 ]

@@ -1,417 +1,37 @@
 [
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "B\u1ea3n_K\u00ea_Khai_C\u00e0i_\u0110\u1eb7t",
     "metadata": {
-      "title": "Building an extension",
-      "slug": "Building_an_Extension",
-      "locale": "vi",
-      "parent": {
-        "slug": "Building_an_Extension",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Bản Kê Khai Cài Đặt",
-      "slug": "Bản_Kê_Khai_Cài_Đặt",
+      "title": "B\u1ea3n K\u00ea Khai C\u00e0i \u0110\u1eb7t",
+      "slug": "B\u1ea3n_K\u00ea_Khai_C\u00e0i_\u0110\u1eb7t",
       "locale": "vi"
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "ca",
+    "slug": "Tu-dien-thuat-ngu",
     "metadata": {
-      "title": "Khả năng truy cập",
-      "slug": "Learn/Accessibility",
+      "title": "T\u1eeb \u0111i\u1ec3n thu\u1eadt ng\u1eef",
+      "slug": "Tu-dien-thuat-ngu",
       "locale": "vi",
       "parent": {
-        "slug": "Learn/Accessibility",
+        "slug": "Glossary",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Common questions",
-      "slug": "Learn/Common_questions",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Common_questions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Làm sao để thiết lập web mạng nội bộ?",
-      "slug": "Learn/Common_questions/thiet_lap_web_mang_noi_bo",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Common_questions/set_up_a_local_testing_server",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Learn to style HTML using CSS",
-      "slug": "Learn/CSS",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS first steps",
-      "slug": "Learn/CSS/First_steps",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/CSS/First_steps",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Cách đóng góp cho Khu vực học tập trên MDN",
-      "slug": "Learn/Dong_gop_cho_khu_vuc_hoc_tap_tren_MDN",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/How_to_contribute",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML forms",
-      "slug": "Learn/HTML/Forms",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Forms",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Form data validation",
-      "slug": "Learn/HTML/Forms/Form_validation",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Forms/Form_validation",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Multimedia and embedding",
-      "slug": "Learn/HTML/Multimedia_and_embedding",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/HTML/Multimedia_and_embedding",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript",
-      "slug": "Learn/JavaScript",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/JavaScript",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Nền tảng của JavaScript",
-      "slug": "Learn/JavaScript/Building_blocks",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/JavaScript/Building_blocks",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Giới thiệu về sự kiện",
-      "slug": "Learn/JavaScript/Building_blocks/Events",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/JavaScript/Building_blocks/Events",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Handling text — strings in JavaScript",
-      "slug": "Learn/JavaScript/First_steps/Strings",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/JavaScript/First_steps/Strings",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Introducing JavaScript objects",
-      "slug": "Learn/JavaScript/Objects",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/JavaScript/Objects",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Express Tutorial Part 5: Displaying library data",
-      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tools and testing",
-      "slug": "Learn/Tools_and_testing",
-      "locale": "vi",
-      "parent": {
-        "slug": "Learn/Tools_and_testing",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Bảng Tương thích Mới Thử nghiệm",
-      "slug": "New_Compatibility_Tables_Beta",
-      "locale": "vi",
-      "parent": {
-        "slug": "Archive/MDN/New_Compatibility_Tables_Beta",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "MDN:Làm giúp như thế nào?",
-      "slug": "Project:Lam_giup_nhu_the_nao",
-      "locale": "vi",
-      "parent": {
-        "slug": "Project:How_to_Help",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Plans and status",
-      "slug": "Project:MDN/Plans_and_status",
-      "locale": "vi",
-      "parent": {
-        "slug": "Project:MDN/Plans_and_status",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web platform documentation hierarchy",
-      "slug": "Project:MDN/Plans_and_status/Web_platform",
-      "locale": "vi",
-      "parent": {
-        "slug": "Project:MDN/Plans_and_status/Web_platform",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Mixed Content",
-      "slug": "Security/MixedContent",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Security/Mixed_content",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Công cụ",
-      "slug": "Tools",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Browser Toolbox",
-      "slug": "Tools/Browser_Toolbox",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools/Browser_Toolbox",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Network Monitor",
-      "slug": "Tools/Network_Monitor",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools/Network_Monitor",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Performance Analysis",
-      "slug": "Tools/Network_Monitor/Performance_Analysis",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools/Network_Monitor/Performance_Analysis",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "0Remote Debugging",
-      "slug": "Tools/Remote_Debugging",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools/Remote_Debugging",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Hộp Dụng Cụ",
-      "slug": "Tools/Tools_Toolbox",
-      "locale": "vi",
-      "parent": {
-        "slug": "Tools/Tools_Toolbox",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "WebIDE",
-      "slug": "Tools/WebIDE",
-      "locale": "vi",
-      "parent": {
-        "slug": "Archive/WebIDE",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "WebIDE",
-      "slug": "Tools/WebIDE/Troubleshooting",
-      "locale": "vi",
-      "parent": {
-        "slug": "Archive/WebIDE/Troubleshooting",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Thuật Toán",
-      "slug": "Tu-dien-thuat-ngu/Algorithm",
-      "locale": "vi",
-      "parent": {
-        "slug": "Glossary/Algorithm",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tu-dien-thuat-ngu/HTML",
     "metadata": {
       "title": "HTML",
       "slug": "Tu-dien-thuat-ngu/HTML",
@@ -421,1388 +41,477 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Project:MDN/Plans_and_status",
     "metadata": {
-      "title": "Metadata",
-      "slug": "Tu-dien-thuat-ngu/Metadata",
+      "title": "Plans and status",
+      "slug": "Project:MDN/Plans_and_status",
       "locale": "vi",
       "parent": {
-        "slug": "Glossary/Metadata",
+        "slug": "Project:MDN/Plans_and_status",
         "locale": "en-US"
       }
     },
-    "probably": "ilo",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Project:MDN/Plans_and_status/Web_platform",
     "metadata": {
-      "title": "AudioContext",
-      "slug": "Web/API/AudioContext",
+      "title": "Web platform documentation hierarchy",
+      "slug": "Project:MDN/Plans_and_status/Web_platform",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/AudioContext",
+        "slug": "Project:MDN/Plans_and_status/Web_platform",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Project:Lam_giup_nhu_the_nao",
     "metadata": {
-      "title": "AudioContext.createOscillator()",
-      "slug": "Web/API/AudioContext/createOscillator",
+      "title": "MDN:L\u00e0m gi\u00fap nh\u01b0 th\u1ebf n\u00e0o?",
+      "slug": "Project:Lam_giup_nhu_the_nao",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/BaseAudioContext/createOscillator",
+        "slug": "Project:How_to_Help",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/CSS",
     "metadata": {
-      "title": "Canvas API",
-      "slug": "Web/API/Canvas_API",
+      "title": "Learn to style HTML using CSS",
+      "slug": "Learn/CSS",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/Canvas_API",
+        "slug": "Learn/CSS",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/CSS/First_steps",
     "metadata": {
-      "title": "ChildNode",
-      "slug": "Web/API/ChildNode",
+      "title": "CSS first steps",
+      "slug": "Learn/CSS/First_steps",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/ChildNode",
+        "slug": "Learn/CSS/First_steps",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Common_questions",
     "metadata": {
-      "title": "ChildNode.remove()",
-      "slug": "Web/API/ChildNode/remove",
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/ChildNode/remove",
+        "slug": "Learn/Common_questions",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Common_questions/thiet_lap_web_mang_noi_bo",
     "metadata": {
-      "title": "Document Object Model (DOM)",
-      "slug": "Web/API/Document_Object_Model",
+      "title": "L\u00e0m sao \u0111\u1ec3 thi\u1ebft l\u1eadp web m\u1ea1ng n\u1ed9i b\u1ed9?",
+      "slug": "Learn/Common_questions/thiet_lap_web_mang_noi_bo",
       "locale": "vi",
       "parent": {
-        "slug": "Web/API/Document_Object_Model",
+        "slug": "Learn/Common_questions/set_up_a_local_testing_server",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "EventSource",
-      "slug": "Web/API/EventSource",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/EventSource",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "The HTML DOM API",
-      "slug": "Web/API/HTML_DOM",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTML_DOM_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLCanvasElement",
-      "slug": "Web/API/HTMLCanvasElement",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTMLCanvasElement",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLCanvasElement.getContext()",
-      "slug": "Web/API/HTMLCanvasElement/getContext",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTMLCanvasElement/getContext",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLElement",
-      "slug": "Web/API/HTMLElement",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTMLElement",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLElement.dataset",
-      "slug": "Web/API/HTMLElement/dataset",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTMLOrForeignElement/dataset",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTMLFormElement",
-      "slug": "Web/API/HTMLFormElement",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/HTMLFormElement",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Navigator",
-      "slug": "Web/API/Navigator",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/Navigator",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Node",
-      "slug": "Web/API/Node",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/Node",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Node.appendChild()",
-      "slug": "Web/API/Node/appendChild",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/Node/appendChild",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Notification",
-      "slug": "Web/API/notification",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/notification",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Touch events",
-      "slug": "Web/API/Touch_events",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/Touch_events",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "URL",
-      "slug": "Web/API/URL",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/URL",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Writing a WebSocket server in Java",
-      "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web Video Text Tracks Format (WebVTT)",
-      "slug": "Web/API/WebVTT_API",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/WebVTT_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Window",
-      "slug": "Web/API/Window",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "-ms-scroll-snap-points-y",
-      "slug": "Web/CSS/-ms-scroll-snap-points-y",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/-ms-scroll-snap-points-y",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "At-rule",
-      "slug": "Web/CSS/At-rule",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/At-rule",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "background-color",
-      "slug": "Web/CSS/background-color",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/background-color",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tổng quan về Bố cục Lưới",
-      "slug": "Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS Transitions",
-      "slug": "Web/CSS/CSS_Transitions",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/CSS_Transitions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "<filter-function>",
-      "slug": "Web/CSS/filter-function",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/filter-function",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": ":first-child",
-      "slug": "Web/CSS/:first-child",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/:first-child",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "flex",
-      "slug": "Web/CSS/flex",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/flex",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "flex-wrap",
-      "slug": "Web/CSS/flex-wrap",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/flex-wrap",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": ":last-of-type",
-      "slug": "Web/CSS/:last-of-type",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/:last-of-type",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "<length>",
-      "slug": "Web/CSS/length",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/length",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "letter-spacing",
-      "slug": "Web/CSS/letter-spacing",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/letter-spacing",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "perspective",
-      "slug": "Web/CSS/perspective",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/perspective",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Event reference",
-      "slug": "Web/Events",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Events",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Getting started with CSS",
-      "slug": "Web/Guide/CSS/Getting_started",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Guide/CSS/Getting_started",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "What is CSS",
-      "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Content  categories",
-      "slug": "Web/Guide/HTML/Content_categories",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Guide/HTML/Content_categories",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML5",
-      "slug": "Web/Guide/HTML/HTML5",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Guide/HTML/HTML5",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/HTML",
     "metadata": {
       "title": "HTML",
-      "slug": "Web/HTML",
+      "slug": "Learn/HTML",
       "locale": "vi",
       "parent": {
-        "slug": "HTML",
+        "slug": "Learn/HTML",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/HTML/Forms",
     "metadata": {
-      "title": "Phần tử HTML",
-      "slug": "Web/HTML/Element",
+      "title": "HTML forms",
+      "slug": "Learn/HTML/Forms",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTML/Element",
+        "slug": "Learn/Forms",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/HTML/Forms/Form_validation",
     "metadata": {
-      "title": "<header>",
-      "slug": "Web/HTML/Element/header",
+      "title": "Form data validation",
+      "slug": "Learn/HTML/Forms/Form_validation",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTML/Element/header",
+        "slug": "Learn/Forms/Form_validation",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/HTML/Multimedia_and_embedding",
     "metadata": {
-      "title": "<html>",
-      "slug": "Web/HTML/Element/html",
+      "title": "Multimedia and embedding",
+      "slug": "Learn/HTML/Multimedia_and_embedding",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTML/Element/html",
+        "slug": "Learn/HTML/Multimedia_and_embedding",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Dong_gop_cho_khu_vuc_hoc_tap_tren_MDN",
     "metadata": {
-      "title": "<meta>: The Document-level Metadata element",
-      "slug": "Web/HTML/Element/meta",
+      "title": "C\u00e1ch \u0111\u00f3ng g\u00f3p cho Khu v\u1ef1c h\u1ecdc t\u1eadp tr\u00ean MDN",
+      "slug": "Learn/Dong_gop_cho_khu_vuc_hoc_tap_tren_MDN",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTML/Element/meta",
+        "slug": "Learn/How_to_contribute",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/JavaScript",
     "metadata": {
-      "title": "HTTP",
-      "slug": "Web/HTTP",
+      "title": "JavaScript",
+      "slug": "Learn/JavaScript",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTTP",
+        "slug": "Learn/JavaScript",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Building_blocks",
     "metadata": {
-      "title": "HTTP access control (CORS)",
-      "slug": "Web/HTTP/Access_control_CORS",
+      "title": "N\u1ec1n t\u1ea3ng c\u1ee7a JavaScript",
+      "slug": "Learn/JavaScript/Building_blocks",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTTP/CORS",
+        "slug": "Learn/JavaScript/Building_blocks",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Building_blocks/Events",
     "metadata": {
-      "title": "HTTP headers",
-      "slug": "Web/HTTP/Headers",
+      "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 s\u1ef1 ki\u1ec7n",
+      "slug": "Learn/JavaScript/Building_blocks/Events",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTTP/Headers",
+        "slug": "Learn/JavaScript/Building_blocks/Events",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/Objects",
     "metadata": {
-      "title": "Accept-Encoding",
-      "slug": "Web/HTTP/Headers/Accept-Encoding",
+      "title": "Introducing JavaScript objects",
+      "slug": "Learn/JavaScript/Objects",
       "locale": "vi",
       "parent": {
-        "slug": "Web/HTTP/Headers/Accept-Encoding",
+        "slug": "Learn/JavaScript/Objects",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/First_steps/Strings",
     "metadata": {
-      "title": "About JavaScript",
-      "slug": "Web/JavaScript/About_JavaScript",
+      "title": "Handling text \u2014 strings in JavaScript",
+      "slug": "Learn/JavaScript/First_steps/Strings",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/About_JavaScript",
+        "slug": "Learn/JavaScript/First_steps/Strings",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Accessibility",
     "metadata": {
-      "title": "Cú pháp lập trình",
-      "slug": "Web/JavaScript/Guide/cu-phap-lap-trinh",
+      "title": "Kh\u1ea3 n\u0103ng truy c\u1eadp",
+      "slug": "Learn/Accessibility",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Guide/Grammar_and_types",
+        "slug": "Learn/Accessibility",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
     "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Guide/Functions",
+      "title": "Express Tutorial Part 5: Displaying library data",
+      "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Guide/Functions",
+        "slug": "Learn/Server-side/Express_Nodejs/Displaying_data",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Learn/Tools_and_testing",
     "metadata": {
-      "title": "JavaScript reference",
-      "slug": "Web/JavaScript/Reference",
+      "title": "Tools and testing",
+      "slug": "Learn/Tools_and_testing",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference",
+        "slug": "Learn/Tools_and_testing",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools",
     "metadata": {
-      "title": "constructor",
-      "slug": "Web/JavaScript/Reference/Classes/constructor",
+      "title": "C\u00f4ng c\u1ee5",
+      "slug": "Tools",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Classes/constructor",
+        "slug": "Tools",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Network_Monitor",
     "metadata": {
-      "title": "extends(Thừa kế)",
-      "slug": "Web/JavaScript/Reference/Classes/extends",
+      "title": "Network Monitor",
+      "slug": "Tools/Network_Monitor",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Classes/extends",
+        "slug": "Tools/Network_Monitor",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Network_Monitor/Performance_Analysis",
     "metadata": {
-      "title": "JavaScript error reference",
-      "slug": "Web/JavaScript/Reference/Errors",
+      "title": "Performance Analysis",
+      "slug": "Tools/Network_Monitor/Performance_Analysis",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
+        "slug": "Tools/Network_Monitor/Performance_Analysis",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Page_Inspector",
     "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
+      "title": "Page Inspector",
+      "slug": "Tools/Page_Inspector",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
+        "slug": "Tools/Page_Inspector",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Tools_Toolbox",
     "metadata": {
-      "title": "Default parameters",
-      "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+      "title": "H\u1ed9p D\u1ee5ng C\u1ee5",
+      "slug": "Tools/Tools_Toolbox",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "slug": "Tools/Tools_Toolbox",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/WebIDE",
     "metadata": {
-      "title": "Array.prototype.fill()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+        "slug": "Archive/WebIDE",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/WebIDE/Troubleshooting",
     "metadata": {
-      "title": "Array.prototype.find()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+      "title": "WebIDE",
+      "slug": "Tools/WebIDE/Troubleshooting",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/find",
+        "slug": "Archive/WebIDE/Troubleshooting",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Remote_Debugging",
     "metadata": {
-      "title": "Array.prototype.findIndex()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+      "title": "0Remote Debugging",
+      "slug": "Tools/Remote_Debugging",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/findIndex",
+        "slug": "Tools/Remote_Debugging",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Tools/Browser_Toolbox",
     "metadata": {
-      "title": "Array.prototype.forEach()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "title": "Browser Toolbox",
+      "slug": "Tools/Browser_Toolbox",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "slug": "Tools/Browser_Toolbox",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "Array.prototype.includes()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/includes",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.indexOf()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/indexOf",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.join()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/join",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/join",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.pop()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.reverse()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.shift()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.some()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Array.prototype.unshift()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "ArrayBuffer",
-      "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Date.parse()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Function",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Function",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Function.prototype.toSource()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Function/toSource",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Function/toSource",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Generator",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Math",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Math",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Math.abs()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Math.ceil()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Math/ceil",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Math.sqrt()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Number.NaN",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object.defineProperties()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object.defineProperty()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Object.values()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Promise.prototype.catch()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/catch",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "RegExp",
-      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "RegExp.prototype.test()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Set",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.normalize()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/normalize",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/normalize",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.repeat()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/repeat",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/repeat",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.startsWith()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/startsWith",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/startsWith",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "String.prototype.substring()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Expressions and operators",
-      "slug": "Web/JavaScript/Reference/Operators",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Toán tử gán",
-      "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Conditional (ternary) operator",
-      "slug": "Web/JavaScript/Reference/Operators/Conditional_Operator",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/Conditional_Operator",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "function* expression",
-      "slug": "Web/JavaScript/Reference/Operators/function*",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/function*",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "typeof",
-      "slug": "Web/JavaScript/Reference/Operators/typeof",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/typeof",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Statements and declarations",
-      "slug": "Web/JavaScript/Reference/Statements",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "do...while",
-      "slug": "Web/JavaScript/Reference/Statements/do...while",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/do...while",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "function*",
-      "slug": "Web/JavaScript/Reference/Statements/function*",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/function*",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web technology reference",
-      "slug": "Web/Reference",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Reference",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "SVG",
-      "slug": "Web/SVG",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/SVG",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "SVG Tutorial",
-      "slug": "Web/SVG/Tutorial",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/SVG/Tutorial",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Hướng dẫn",
-      "slug": "Web/Tutorials",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/Tutorials",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Zones",
     "metadata": {
       "title": "Zones",
       "slug": "Zones",
@@ -1812,7 +521,1446 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Project:en",
+    "metadata": {
+      "title": "Project:en",
+      "slug": "Project:en",
+      "locale": "vi",
+      "parent": {
+        "slug": "Project:en",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "New_Compatibility_Tables_Beta",
+    "metadata": {
+      "title": "B\u1ea3ng T\u01b0\u01a1ng th\u00edch M\u1edbi Th\u1eed nghi\u1ec7m",
+      "slug": "New_Compatibility_Tables_Beta",
+      "locale": "vi",
+      "parent": {
+        "slug": "Archive/MDN/New_Compatibility_Tables_Beta",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Security/MixedContent",
+    "metadata": {
+      "title": "Mixed Content",
+      "slug": "Security/MixedContent",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Security/Mixed_content",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/SVG",
+    "metadata": {
+      "title": "SVG",
+      "slug": "Web/SVG",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/SVG",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/SVG/Tutorial",
+    "metadata": {
+      "title": "SVG Tutorial",
+      "slug": "Web/SVG/Tutorial",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/SVG/Tutorial",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Guide/CSS/Getting_started",
+    "metadata": {
+      "title": "Getting started with CSS",
+      "slug": "Web/Guide/CSS/Getting_started",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+    "metadata": {
+      "title": "What is CSS",
+      "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/CSS/Getting_started/What_is_CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Guide/HTML/HTML5",
+    "metadata": {
+      "title": "HTML5",
+      "slug": "Web/Guide/HTML/HTML5",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Guide/HTML/Content_categories",
+    "metadata": {
+      "title": "Content  categories",
+      "slug": "Web/Guide/HTML/Content_categories",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/HTML/Content_categories",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Guide/API",
+    "metadata": {
+      "title": "H\u01b0\u1edbng d\u1eabn Web APIs",
+      "slug": "Web/Guide/API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Guide/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Transitions",
+    "metadata": {
+      "title": "CSS Transitions",
+      "slug": "Web/CSS/CSS_Transitions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transitions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/flex-basis",
+    "metadata": {
+      "title": "flex-basis",
+      "slug": "Web/CSS/flex-basis",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/flex-basis",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/letter-spacing",
+    "metadata": {
+      "title": "letter-spacing",
+      "slug": "Web/CSS/letter-spacing",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/letter-spacing",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/background-color",
+    "metadata": {
+      "title": "background-color",
+      "slug": "Web/CSS/background-color",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/background-color",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/filter-function",
+    "metadata": {
+      "title": "<filter-function>",
+      "slug": "Web/CSS/filter-function",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/filter-function",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/length",
+    "metadata": {
+      "title": "<length>",
+      "slug": "Web/CSS/length",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/length",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/-ms-scroll-snap-points-y",
+    "metadata": {
+      "title": "-ms-scroll-snap-points-y",
+      "slug": "Web/CSS/-ms-scroll-snap-points-y",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/-ms-scroll-snap-points-y",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Grid_Layout",
+    "metadata": {
+      "title": "CSS Grid Layout",
+      "slug": "Web/CSS/CSS_Grid_Layout",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+    "metadata": {
+      "title": "T\u1ed5ng quan v\u1ec1 B\u1ed1 c\u1ee5c L\u01b0\u1edbi",
+      "slug": "Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/At-rule",
+    "metadata": {
+      "title": "At-rule",
+      "slug": "Web/CSS/At-rule",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/At-rule",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/CSS/:first-child",
+    "metadata": {
+      "title": ":first-child",
+      "slug": "Web/CSS/:first-child",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/CSS/:first-child",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTML",
+    "metadata": {
+      "title": "HTML",
+      "slug": "Web/HTML",
+      "locale": "vi",
+      "parent": {
+        "slug": "HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element",
+    "metadata": {
+      "title": "Ph\u1ea7n t\u1eed HTML",
+      "slug": "Web/HTML/Element",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/meta",
+    "metadata": {
+      "title": "<meta>: The Document-level Metadata element",
+      "slug": "Web/HTML/Element/meta",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/html",
+    "metadata": {
+      "title": "<html>",
+      "slug": "Web/HTML/Element/html",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/html",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/header",
+    "metadata": {
+      "title": "<header>",
+      "slug": "Web/HTML/Element/header",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTML/Element/header",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTTP",
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTTP/Access_control_CORS",
+    "metadata": {
+      "title": "HTTP access control (CORS)",
+      "slug": "Web/HTTP/Access_control_CORS",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/CORS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTTP/Headers",
+    "metadata": {
+      "title": "HTTP headers",
+      "slug": "Web/HTTP/Headers",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/Headers",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/HTTP/Headers/Accept-Encoding",
+    "metadata": {
+      "title": "Accept-Encoding",
+      "slug": "Web/HTTP/Headers/Accept-Encoding",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Accept-Encoding",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API",
+    "metadata": {
+      "title": "Web API Interfaces",
+      "slug": "Web/API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/EventSource",
+    "metadata": {
+      "title": "EventSource",
+      "slug": "Web/API/EventSource",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/EventSource",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/WebVTT_API",
+    "metadata": {
+      "title": "Web Video Text Tracks Format (WebVTT)",
+      "slug": "Web/API/WebVTT_API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/WebVTT_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/HTMLCanvasElement",
+    "metadata": {
+      "title": "HTMLCanvasElement",
+      "slug": "Web/API/HTMLCanvasElement",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/HTMLCanvasElement/getContext",
+    "metadata": {
+      "title": "HTMLCanvasElement.getContext()",
+      "slug": "Web/API/HTMLCanvasElement/getContext",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLCanvasElement/getContext",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/notification",
+    "metadata": {
+      "title": "Notification",
+      "slug": "Web/API/notification",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/notification",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Document_Object_Model",
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "Web/API/Document_Object_Model",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Document_Object_Model/Introduction",
+    "metadata": {
+      "title": "Introduction to the DOM",
+      "slug": "Web/API/Document_Object_Model/Introduction",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Document_Object_Model/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
+    "metadata": {
+      "title": "Writing a WebSocket server in Java",
+      "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/WebSockets_API/Writing_a_WebSocket_server_in_Java",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/ChildNode",
+    "metadata": {
+      "title": "ChildNode",
+      "slug": "Web/API/ChildNode",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/ChildNode",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/ChildNode/remove",
+    "metadata": {
+      "title": "ChildNode.remove()",
+      "slug": "Web/API/ChildNode/remove",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/ChildNode/remove",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/URL",
+    "metadata": {
+      "title": "URL",
+      "slug": "Web/API/URL",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/URL",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Touch_events",
+    "metadata": {
+      "title": "Touch events",
+      "slug": "Web/API/Touch_events",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Touch_events",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/AudioContext",
+    "metadata": {
+      "title": "AudioContext",
+      "slug": "Web/API/AudioContext",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/AudioContext",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/HTML_DOM",
+    "metadata": {
+      "title": "The HTML DOM API",
+      "slug": "Web/API/HTML_DOM",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTML_DOM_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/HTMLFormElement",
+    "metadata": {
+      "title": "HTMLFormElement",
+      "slug": "Web/API/HTMLFormElement",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLFormElement",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Window",
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Navigator",
+    "metadata": {
+      "title": "Navigator",
+      "slug": "Web/API/Navigator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Navigator",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Node",
+    "metadata": {
+      "title": "Node",
+      "slug": "Web/API/Node",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Node",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Node/appendChild",
+    "metadata": {
+      "title": "Node.appendChild()",
+      "slug": "Web/API/Node/appendChild",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Node/appendChild",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/Canvas_API",
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/API/HTMLElement/dataset",
+    "metadata": {
+      "title": "HTMLElement.dataset",
+      "slug": "Web/API/HTMLElement/dataset",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/API/HTMLOrForeignElement/dataset",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Tutorials",
+    "metadata": {
+      "title": "H\u01b0\u1edbng d\u1eabn",
+      "slug": "Web/Tutorials",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide",
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/About_JavaScript",
+    "metadata": {
+      "title": "About JavaScript",
+      "slug": "Web/JavaScript/About_JavaScript",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/About_JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
+    "metadata": {
+      "title": "JavaScript reference",
+      "slug": "Web/JavaScript/Reference",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators",
+    "metadata": {
+      "title": "Expressions and operators",
+      "slug": "Web/JavaScript/Reference/Operators",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators/function*",
+    "metadata": {
+      "title": "function* expression",
+      "slug": "Web/JavaScript/Reference/Operators/function*",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/function*",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+    "metadata": {
+      "title": "To\u00e1n t\u1eed g\u00e1n",
+      "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators/typeof",
+    "metadata": {
+      "title": "typeof",
+      "slug": "Web/JavaScript/Reference/Operators/typeof",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Operators/typeof",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements",
+    "metadata": {
+      "title": "Statements and declarations",
+      "slug": "Web/JavaScript/Reference/Statements",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements/do...while",
+    "metadata": {
+      "title": "do...while",
+      "slug": "Web/JavaScript/Reference/Statements/do...while",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/do...while",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements/async_function",
+    "metadata": {
+      "title": "async function",
+      "slug": "Web/JavaScript/Reference/Statements/async_function",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/async_function",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+    "metadata": {
+      "title": "RegExp",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
+    "metadata": {
+      "title": "RegExp.prototype.test()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/RegExp/test",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+    "metadata": {
+      "title": "Array.prototype.forEach()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/forEach",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+    "metadata": {
+      "title": "Array.prototype.pop()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/pop",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+    "metadata": {
+      "title": "Array.prototype.fill()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/fill",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+    "metadata": {
+      "title": "Array.prototype.unshift()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/toLocaleString",
+    "metadata": {
+      "title": "Array.prototype.toLocaleString()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/toLocaleString",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/toLocaleString",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+    "metadata": {
+      "title": "Array.prototype.some()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/some",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
+    "metadata": {
+      "title": "Date.parse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/parse",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+    "metadata": {
+      "title": "Function.prototype.apply()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+    "metadata": {
+      "title": "Math",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+    "metadata": {
+      "title": "Math.sqrt()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/sqrt",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+    "metadata": {
+      "title": "Math.abs()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/abs",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+    "metadata": {
+      "title": "Number.NaN",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+    "metadata": {
+      "title": "Generator",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Generator",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+    "metadata": {
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
+    "metadata": {
+      "title": "Object.values()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+    "metadata": {
+      "title": "Object.defineProperties()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String",
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+    "metadata": {
+      "title": "String.prototype.substring()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/substring",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+    "metadata": {
+      "title": "Set",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions",
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors",
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Events",
+    "metadata": {
+      "title": "Event reference",
+      "slug": "Web/Events",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Events",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Web/Reference",
+    "metadata": {
+      "title": "Web technology reference",
+      "slug": "Web/Reference",
+      "locale": "vi",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
+    "locale": "vi",
+    "guessed": "en",
+    "slug": "Building_an_Extension",
+    "metadata": {
+      "title": "Building an extension",
+      "slug": "Building_an_Extension",
+      "locale": "vi",
+      "parent": {
+        "slug": "Building_an_Extension",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

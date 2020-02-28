@@ -1,53 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "Document Object Model (DOM)",
-      "slug": "DOM",
-      "locale": "fi",
-      "parent": {
-        "slug": "DOM",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "window.navigator.productSub",
-      "slug": "DOM/window.navigator.productSub",
-      "locale": "fi",
-      "parent": {
-        "slug": "Web/API/Navigator/productSub",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Firefox 2 kehittäjille",
-      "slug": "Firefox_2_kehittäjille",
-      "locale": "fi"
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML",
-      "slug": "HTML",
-      "locale": "fi",
-      "parent": {
-        "slug": "HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Learn",
     "metadata": {
       "title": "Learn web development",
       "slug": "Learn",
@@ -57,21 +13,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
-      "title": "Mozilla Developer Centerin sisällöt",
-      "slug": "Mozilla_Developer_Centerin_sisällöt",
-      "locale": "fi"
-    },
-    "probably": "fr",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web teknologia kehittäjille",
+      "title": "Web teknologia kehitt\u00e4jille",
       "slug": "Web",
       "locale": "fi",
       "parent": {
@@ -79,49 +29,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Web API Interfaces",
-      "slug": "Web/API",
-      "locale": "fi",
-      "parent": {
-        "slug": "Web/API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "WebGL",
-      "slug": "Web/API/WebGL_API",
-      "locale": "fi",
-      "parent": {
-        "slug": "Web/API/WebGL_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Window",
-      "slug": "Web/API/Window",
-      "locale": "fi",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/Guide",
     "metadata": {
       "title": "Web developer guides",
       "slug": "Web/Guide",
@@ -131,10 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/Guide/Events",
     "metadata": {
       "title": "Event developer guide",
       "slug": "Web/Guide/Events",
@@ -144,10 +61,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/Guide/Events/Media_events",
+    "metadata": {
+      "title": "Media events",
+      "slug": "Web/Guide/Events/Media_events",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/Guide/Events/Media_events",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element",
     "metadata": {
       "title": "HTML elements reference",
       "slug": "Web/HTML/Element",
@@ -157,23 +93,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "<article>: Artikkelin sisältöelementti",
-      "slug": "Web/HTML/Element/article",
-      "locale": "fi",
-      "parent": {
-        "slug": "Web/HTML/Element/article",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/footer",
     "metadata": {
       "title": "<footer>",
       "slug": "Web/HTML/Element/footer",
@@ -183,10 +109,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/article",
+    "metadata": {
+      "title": "<article>: Artikkelin sis\u00e4lt\u00f6elementti",
+      "slug": "Web/HTML/Element/article",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/HTML/Element/article",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/header",
     "metadata": {
       "title": "<header>",
       "slug": "Web/HTML/Element/header",
@@ -196,10 +141,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/HTTP",
     "metadata": {
       "title": "HTTP",
       "slug": "Web/HTTP",
@@ -209,10 +157,61 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/API",
+    "metadata": {
+      "title": "Web API Interfaces",
+      "slug": "Web/API",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/API/WebGL_API",
+    "metadata": {
+      "title": "WebGL",
+      "slug": "Web/API/WebGL_API",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/API/WebGL_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/API/Window",
+    "metadata": {
+      "title": "Window",
+      "slug": "Web/API/Window",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/API/Window",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Web/Reference",
     "metadata": {
       "title": "Web-teknologian referenssi",
       "slug": "Web/Reference",
@@ -222,7 +221,102 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "HTML",
+    "metadata": {
+      "title": "HTML",
+      "slug": "HTML",
+      "locale": "fi",
+      "parent": {
+        "slug": "HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "Firefox_2_kehitt\u00e4jille",
+    "metadata": {
+      "title": "Firefox 2 kehitt\u00e4jille",
+      "slug": "Firefox_2_kehitt\u00e4jille",
+      "locale": "fi"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "DOM",
+    "metadata": {
+      "title": "Document Object Model (DOM)",
+      "slug": "DOM",
+      "locale": "fi",
+      "parent": {
+        "slug": "DOM",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "DOM/window.navigator.productSub",
+    "metadata": {
+      "title": "window.navigator.productSub",
+      "slug": "DOM/window.navigator.productSub",
+      "locale": "fi",
+      "parent": {
+        "slug": "Web/API/Navigator/productSub",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "demos",
+    "metadata": {
+      "title": "demos",
+      "slug": "demos",
+      "locale": "fi"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "en",
+    "slug": "demos/detail",
+    "metadata": {
+      "title": "detail",
+      "slug": "demos/detail",
+      "locale": "fi"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
+    "locale": "fi",
+    "guessed": "UNKNOWN",
+    "slug": "demos/detail/too-hot-for-jerry",
+    "metadata": {
+      "title": "too-hot-for-jerry",
+      "slug": "demos/detail/too-hot-for-jerry",
+      "locale": "fi"
+    },
+    "leaf": true
   }
 ]

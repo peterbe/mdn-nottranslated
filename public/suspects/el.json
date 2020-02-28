@@ -1,70 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "Common questions",
-      "slug": "Learn/Common_questions",
-      "locale": "el",
-      "parent": {
-        "slug": "Learn/Common_questions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Installing basic software",
-      "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-      "locale": "el",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Learning HTML: Guides and tutorials",
-      "slug": "Learn/HTML",
-      "locale": "el",
-      "parent": {
-        "slug": "Learn/HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML forms",
-      "slug": "Learn/HTML/Forms",
-      "locale": "el",
-      "parent": {
-        "slug": "Learn/Forms",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "MDN at 10",
-      "slug": "MDN_at_ten",
-      "locale": "el",
-      "parent": {
-        "slug": "MDN_at_ten",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Project:MDN/Localizing",
     "metadata": {
       "title": "Localizing MDN",
       "slug": "Project:MDN/Localizing",
@@ -74,10 +13,77 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Learn/Common_questions",
+    "metadata": {
+      "title": "Common questions",
+      "slug": "Learn/Common_questions",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Common_questions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+    "metadata": {
+      "title": "Installing basic software",
+      "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Learn/HTML",
+    "metadata": {
+      "title": "Learning HTML: Guides and tutorials",
+      "slug": "Learn/HTML",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Learn/HTML/Forms",
+    "metadata": {
+      "title": "HTML forms",
+      "slug": "Learn/HTML/Forms",
+      "locale": "el",
+      "parent": {
+        "slug": "Learn/Forms",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
       "title": "Web technology for developers",
       "slug": "Web",
@@ -87,62 +93,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Web API Interfaces",
-      "slug": "Web/API",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CanvasRenderingContext2D",
-      "slug": "Web/API/CanvasRenderingContext2D",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/API/CanvasRenderingContext2D",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Geolocation",
-      "slug": "Web/API/Geolocation",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/API/Geolocation",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "patra",
-      "slug": "Web/API/Geolocation/Using_geolocation",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/API/Geolocation_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/Guide",
     "metadata": {
       "title": "Web developer guide",
       "slug": "Web/Guide",
@@ -152,10 +109,93 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/CSS",
+    "metadata": {
+      "title": "CSS",
+      "slug": "Web/CSS",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/API",
+    "metadata": {
+      "title": "Web API Interfaces",
+      "slug": "Web/API",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/API/Geolocation",
+    "metadata": {
+      "title": "Geolocation",
+      "slug": "Web/API/Geolocation",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/Geolocation",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/API/Geolocation/Using_geolocation",
+    "metadata": {
+      "title": "patra",
+      "slug": "Web/API/Geolocation/Using_geolocation",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/Geolocation_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/API/CanvasRenderingContext2D",
+    "metadata": {
+      "title": "CanvasRenderingContext2D",
+      "slug": "Web/API/CanvasRenderingContext2D",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/API/CanvasRenderingContext2D",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
@@ -165,23 +205,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects",
     "metadata": {
       "title": "Standard built-in objects",
       "slug": "Web/JavaScript/Reference/Global_Objects",
@@ -191,10 +221,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
     "metadata": {
       "title": "Array.prototype.every()",
       "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
@@ -204,7 +237,54 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions",
+    "metadata": {
+      "title": "Functions",
+      "slug": "Web/JavaScript/Reference/Functions",
+      "locale": "el",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "ca",
+    "slug": "Glossary",
+    "metadata": {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "locale": "el",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
+    "locale": "el",
+    "guessed": "UNKNOWN",
+    "slug": "Glossary/\u0394\u03b5\u03af\u03ba\u03c4\u03b7\u03c2",
+    "metadata": {
+      "title": "\u0394\u03b5\u03af\u03ba\u03c4\u03b7\u03c2",
+      "slug": "Glossary/\u0394\u03b5\u03af\u03ba\u03c4\u03b7\u03c2",
+      "locale": "el",
+      "parent": {
+        "slug": "Glossary/Index",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

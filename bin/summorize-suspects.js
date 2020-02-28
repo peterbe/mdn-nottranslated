@@ -13,10 +13,19 @@ Object.entries(_LANGUAGES).forEach(([key, value]) => {
 const root = process.argv[2];
 const files = fs.readdirSync(root);
 
+const inception = {};
+JSON.parse(fs.readFileSync(path.join(root, "inception.json"))).forEach(l => {
+  inception[l.code] = l.count;
+});
+
 const all = [];
 for (const file of files) {
-  if (file.endsWith(".json") && file !== "summary.json") {
-    const code = file.replace(".json", "");
+  if (
+    file.endsWith(".json") &&
+    !["summary.json", "inception.json"].includes(file)
+  ) {
+    const code = file.replace(".json", "").toLowerCase();
+
     const language = LANGUAGES[code];
     if (!language) {
       throw new Error(code);
@@ -27,7 +36,8 @@ for (const file of files) {
       code,
       language,
       count,
-      file
+      file,
+      inception: inception[code]
     });
   }
 }

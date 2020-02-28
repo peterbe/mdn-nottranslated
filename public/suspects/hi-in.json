@@ -1,18 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "Glossary",
-      "slug": "Glossary",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Tools",
     "metadata": {
       "title": "Firefox Developer Tools",
       "slug": "Tools",
@@ -22,10 +13,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
       "title": "Web technology for developers",
       "slug": "Web",
@@ -35,23 +29,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Web/JavaScript",
     "metadata": {
-      "title": "Designing Open Web Apps",
-      "slug": "Web/Apps/Design",
+      "title": "JavaScript",
+      "slug": "Web/JavaScript",
       "locale": "hi-IN",
       "parent": {
-        "slug": "Archive/Apps/Design",
+        "slug": "Web/JavaScript",
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
@@ -61,10 +61,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators",
     "metadata": {
       "title": "Expressions and operators",
       "slug": "Web/JavaScript/Reference/Operators",
@@ -74,7 +77,54 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Web/Apps/Design",
+    "metadata": {
+      "title": "Designing Open Web Apps",
+      "slug": "Web/Apps/Design",
+      "locale": "hi-IN",
+      "parent": {
+        "slug": "Archive/Apps/Design",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Glossary",
+    "metadata": {
+      "title": "Glossary",
+      "slug": "Glossary",
+      "locale": "hi-IN",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
+    "slug": "Glossary/\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
+    "metadata": {
+      "title": "\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
+      "slug": "Glossary/\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
+      "locale": "hi-IN",
+      "parent": {
+        "slug": "Glossary/Internet",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

@@ -1,7 +1,11 @@
 [
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn",
     "metadata": {
-      "title": "Web developement အကြောင်းလေ့လာခြင်း",
+      "title": "Web developement \u1021\u1000\u103c\u1031\u102c\u1004\u103a\u1038\u101c\u1031\u1037\u101c\u102c\u1001\u103c\u1004\u103a\u1038",
       "slug": "Learn",
       "locale": "my",
       "parent": {
@@ -9,12 +13,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/CSS",
     "metadata": {
-      "title": "CSS နင့် HTML အား အသွင်ပောင်းခင်း",
+      "title": "CSS \u1014\u1004\u103a\u1037 HTML \u1021\u102c\u1038 \u1021\u101e\u103d\u1004\u103a\u1015\u1031\u102c\u1004\u103a\u1038\u1001\u1004\u103a\u1038",
       "slug": "Learn/CSS",
       "locale": "my",
       "parent": {
@@ -22,10 +29,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/Getting_started_with_the_web",
     "metadata": {
       "title": "Getting started with the Web",
       "slug": "Learn/Getting_started_with_the_web",
@@ -35,10 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/HTML",
     "metadata": {
       "title": "HTML",
       "slug": "Learn/HTML",
@@ -48,10 +61,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/HTML/Forms",
     "metadata": {
       "title": "HTML forms",
       "slug": "Learn/HTML/Forms",
@@ -61,10 +77,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/HTML/Forms/The_native_form_widgets",
     "metadata": {
       "title": "The native form widgets",
       "slug": "Learn/HTML/Forms/The_native_form_widgets",
@@ -74,10 +93,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Learn/JavaScript",
@@ -87,10 +109,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/First_steps",
     "metadata": {
       "title": "JavaScript First Steps",
       "slug": "Learn/JavaScript/First_steps",
@@ -100,10 +125,29 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
+    "metadata": {
+      "title": "\u1021\u101e\u102f\u1036\u1038\u1019\u103b\u102c\u1038\u101e\u1031\u102c string method \u1019\u103b\u102c\u1038",
+      "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
+      "locale": "my",
+      "parent": {
+        "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Learn/JavaScript/First_steps/Arrays",
     "metadata": {
       "title": "Arrays",
       "slug": "Learn/JavaScript/First_steps/Arrays",
@@ -113,25 +157,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
-      "title": "အသုံးများသော string method များ",
-      "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
-      "locale": "my",
-      "parent": {
-        "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Web developers နင့္ နည္းပညာ မျာ",
+      "title": "Web developers \u1014\u1004\u1039\u1037 \u1014\u100a\u1039\u1038\u1015\u100a\u102c \u1019\u103b\u102c",
       "slug": "Web",
       "locale": "my",
       "parent": {
@@ -139,23 +173,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "CSS: Cascading Style Sheets",
-      "slug": "Web/CSS",
-      "locale": "my",
-      "parent": {
-        "slug": "Web/CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/Guide",
     "metadata": {
       "title": "Web developer guide",
       "slug": "Web/Guide",
@@ -165,10 +189,45 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/CSS",
+    "metadata": {
+      "title": "CSS: Cascading Style Sheets",
+      "slug": "Web/CSS",
+      "locale": "my",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/CSS/CSS_Transitions",
+    "metadata": {
+      "title": "CSS Transitions",
+      "slug": "Web/CSS/CSS_Transitions",
+      "locale": "my",
+      "parent": {
+        "slug": "Web/CSS/CSS_Transitions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/HTML",
     "metadata": {
       "title": "HTML",
       "slug": "Web/HTML",
@@ -178,10 +237,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Web/JavaScript",
@@ -191,10 +253,45 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide",
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "locale": "my",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Introduction",
+    "metadata": {
+      "title": "\u1019\u102d\u1010\u103a\u1006\u1000\u103a",
+      "slug": "Web/JavaScript/Guide/Introduction",
+      "locale": "my",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
+    "locale": "my",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Regular_Expressions",
     "metadata": {
       "title": "Regular Expressions",
       "slug": "Web/JavaScript/Guide/Regular_Expressions",
@@ -204,7 +301,6 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   }
 ]

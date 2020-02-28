@@ -1,343 +1,9 @@
 [
   {
-    "metadata": {
-      "title": "Taneflit n wurar",
-      "slug": "Games",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Imedyaten",
-      "slug": "Games/Imedyaten",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Examples",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Techniques for game development",
-      "slug": "Games/Techniques",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Techniques",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tifin n amberrez 2D",
-      "slug": "Games/Techniques/2D_collision_detection",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Techniques/2D_collision_detection",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "3D   Tifin umbberez",
-      "slug": "Games/Techniques/3D_collision_detection",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Techniques/3D_collision_detection",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "3D games on the Web",
-      "slug": "Games/Techniques/3D_on_the_web",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Techniques/3D_on_the_web",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Azzegzi n tiszri tamedrut n 3D",
-      "slug": "Games/Techniques/3D_on_the_web/Basic_theory",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Techniques/3D_on_the_web/Basic_theory",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tools for game development",
-      "slug": "Games/Tools",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Tools",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Imsaddayen ed ifecka n wurar",
-      "slug": "Games/Tools/Engines_and_tools",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Tools/Engines_and_tools",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tutorials",
-      "slug": "Games/Tutorials",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Tutorials",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "2D  Breakout urar iseqdacen Phaser",
-      "slug": "Games/Tutorials/2D_breakout_game_Phaser",
-      "locale": "kab",
-      "parent": {
-        "slug": "Games/Tutorials/2D_breakout_game_Phaser",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Amawal",
-      "slug": "Glossary",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tadwant",
-      "slug": "Glossary/Abstraction",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/Abstraction",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tanekcumt",
-      "slug": "Glossary/Accessibility",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/Accessibility",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "AJAX",
-      "slug": "Glossary/AJAX",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/AJAX",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS",
-      "slug": "Glossary/CSS",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML",
-      "slug": "Glossary/HTML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript",
-      "slug": "Glossary/JavaScript",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/JavaScript",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "SVG",
-      "slug": "Glossary/SVG",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/SVG",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "URL",
-      "slug": "Glossary/URL",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/URL",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "XML",
-      "slug": "Glossary/XML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Glossary/XML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Lmed taneflit n web",
-      "slug": "Lmed",
-      "locale": "kab",
-      "parent": {
-        "slug": "Learn",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Asekkar n Web",
-      "slug": "Lmed/Getting_started_with_the_web",
-      "locale": "kab",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML uzdir",
-      "slug": "Lmed/Getting_started_with_the_web/HTML_basics",
-      "locale": "kab",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/HTML_basics",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML",
-      "slug": "Lmed/HTML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Learn/HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tazwart  ɣer HTML",
-      "slug": "Lmed/HTML/Introduction_to_HTML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Learn/HTML/Introduction_to_HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Tools",
     "metadata": {
       "title": "Ifecka n tneflit n Firefox",
       "slug": "Tools",
@@ -347,25 +13,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Tools/Network_Monitor",
     "metadata": {
-      "title": "Aseɣtay",
-      "slug": "Tools/Debugger",
-      "locale": "kab",
-      "parent": {
-        "slug": "Tools/Debugger",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Asefrak uẓeṭṭa",
+      "title": "Asefrak u\u1e93e\u1e6d\u1e6da",
       "slug": "Tools/Network_Monitor",
       "locale": "kab",
       "parent": {
@@ -373,12 +29,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "da",
+    "slug": "Tools/Page_inspector",
     "metadata": {
-      "title": "Amaswaḍ n Usebtar",
+      "title": "Amaswa\u1e0d n Usebtar",
       "slug": "Tools/Page_inspector",
       "locale": "kab",
       "parent": {
@@ -386,23 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "tzm",
-    "probability": 1
+    "leaf": true
   },
   {
-    "metadata": {
-      "title": "Tamellit",
-      "slug": "Tools/Performance",
-      "locale": "kab",
-      "parent": {
-        "slug": "Tools/Performance",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Tools/Tadiwent_Web",
     "metadata": {
       "title": "Tadiwent n Web",
       "slug": "Tools/Tadiwent_Web",
@@ -412,10 +61,45 @@
         "locale": "en-US"
       }
     },
-    "probably": "tzm",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "id",
+    "slug": "Tools/Debugger",
+    "metadata": {
+      "title": "Ase\u0263tay",
+      "slug": "Tools/Debugger",
+      "locale": "kab",
+      "parent": {
+        "slug": "Tools/Debugger",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "nb",
+    "slug": "Tools/Performance",
+    "metadata": {
+      "title": "Tamellit",
+      "slug": "Tools/Performance",
+      "locale": "kab",
+      "parent": {
+        "slug": "Tools/Performance",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "id",
+    "slug": "Web",
     "metadata": {
       "title": "Tatiknulujit web i yineflayen",
       "slug": "Web",
@@ -425,179 +109,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "tzm",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "Web APIs",
-      "slug": "Web/API",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Canvas API",
-      "slug": "Web/API/Canvas_API",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/API/Canvas_API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "CSS",
-      "slug": "Web/CSS",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/CSS",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tools",
-      "slug": "Web/CSS/Tools",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/CSS/Tools",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Amnir n usnifel n Web",
-      "slug": "Web/Guide",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/Guide",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tudlift deg Web",
-      "slug": "Web/Guide/Graphics",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/Guide/Graphics",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTML",
-      "slug": "Web/HTML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/HTML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "HTTP",
-      "slug": "Web/HTTP",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/HTTP",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "JavaScript",
-      "slug": "Web/JavaScript",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/JavaScript",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Amnir n JavaScript",
-      "slug": "Web/JavaScript/Amnir",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/JavaScript/Guide",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "TusnakML",
-      "slug": "Web/MathML",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/MathML",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tamselyut tatiknulujit n Web",
-      "slug": "Web/Reference",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/Reference",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
-    "metadata": {
-      "title": "Tamselyut API n Web",
-      "slug": "Web/Reference/API",
-      "locale": "kab",
-      "parent": {
-        "slug": "Web/Reference/API",
-        "locale": "en-US"
-      }
-    },
-    "probably": "tzm",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/SVG",
     "metadata": {
       "title": "SVG",
       "slug": "Web/SVG",
@@ -607,10 +125,125 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/Guide",
+    "metadata": {
+      "title": "Amnir n usnifel n Web",
+      "slug": "Web/Guide",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/Guide/Graphics",
+    "metadata": {
+      "title": "Tudlift deg Web",
+      "slug": "Web/Guide/Graphics",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/Guide/Graphics",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/MathML",
+    "metadata": {
+      "title": "TusnakML",
+      "slug": "Web/MathML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/MathML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Web/CSS",
+    "metadata": {
+      "title": "CSS",
+      "slug": "Web/CSS",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/CSS/Tools",
+    "metadata": {
+      "title": "Tools",
+      "slug": "Web/CSS/Tools",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/CSS/Tools",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Web/HTML",
+    "metadata": {
+      "title": "HTML",
+      "slug": "Web/HTML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/HTTP",
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Web/HTTP",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/Tuffart",
     "metadata": {
       "title": "Tuffart",
       "slug": "Web/Tuffart",
@@ -620,12 +253,47 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Web/API",
     "metadata": {
-      "title": "Iṭuṭuṛyen",
+      "title": "Web APIs",
+      "slug": "Web/API",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/API/Canvas_API",
+    "metadata": {
+      "title": "Canvas API",
+      "slug": "Web/API/Canvas_API",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/API/Canvas_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/Tutorials",
+    "metadata": {
+      "title": "I\u1e6du\u1e6du\u1e5byen",
       "slug": "Web/Tutorials",
       "locale": "kab",
       "parent": {
@@ -633,7 +301,530 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Web/JavaScript",
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Web/JavaScript",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Amnir",
+    "metadata": {
+      "title": "Amnir n JavaScript",
+      "slug": "Web/JavaScript/Amnir",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/JavaScript/Guide",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Web/Reference",
+    "metadata": {
+      "title": "Tamselyut tatiknulujit n Web",
+      "slug": "Web/Reference",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "id",
+    "slug": "Web/Reference/API",
+    "metadata": {
+      "title": "Tamselyut API n Web",
+      "slug": "Web/Reference/API",
+      "locale": "kab",
+      "parent": {
+        "slug": "Web/Reference/API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Lmed",
+    "metadata": {
+      "title": "Lmed taneflit n web",
+      "slug": "Lmed",
+      "locale": "kab",
+      "parent": {
+        "slug": "Learn",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Lmed/Getting_started_with_the_web",
+    "metadata": {
+      "title": "Asekkar n Web",
+      "slug": "Lmed/Getting_started_with_the_web",
+      "locale": "kab",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Lmed/Getting_started_with_the_web/HTML_basics",
+    "metadata": {
+      "title": "HTML uzdir",
+      "slug": "Lmed/Getting_started_with_the_web/HTML_basics",
+      "locale": "kab",
+      "parent": {
+        "slug": "Learn/Getting_started_with_the_web/HTML_basics",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Lmed/HTML",
+    "metadata": {
+      "title": "HTML",
+      "slug": "Lmed/HTML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Learn/HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Lmed/HTML/Introduction_to_HTML",
+    "metadata": {
+      "title": "Tazwart  \u0263er HTML",
+      "slug": "Lmed/HTML/Introduction_to_HTML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Learn/HTML/Introduction_to_HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Glossary",
+    "metadata": {
+      "title": "Amawal",
+      "slug": "Glossary",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Glossary/SVG",
+    "metadata": {
+      "title": "SVG",
+      "slug": "Glossary/SVG",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/SVG",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "de",
+    "slug": "Glossary/Abstraction",
+    "metadata": {
+      "title": "Tadwant",
+      "slug": "Glossary/Abstraction",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/Abstraction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Glossary/CSS",
+    "metadata": {
+      "title": "CSS",
+      "slug": "Glossary/CSS",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/CSS",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Glossary/Responsive_web_design",
+    "metadata": {
+      "title": "Asmel Web Amsasay",
+      "slug": "Glossary/Responsive_web_design",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/Responsive_web_design",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Glossary/HTML",
+    "metadata": {
+      "title": "HTML",
+      "slug": "Glossary/HTML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/HTML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Glossary/URL",
+    "metadata": {
+      "title": "URL",
+      "slug": "Glossary/URL",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/URL",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "tl",
+    "slug": "Glossary/XML",
+    "metadata": {
+      "title": "XML",
+      "slug": "Glossary/XML",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/XML",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ca",
+    "slug": "Glossary/HTTP",
+    "metadata": {
+      "title": "HTTP",
+      "slug": "Glossary/HTTP",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/HTTP",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Glossary/JavaScript",
+    "metadata": {
+      "title": "JavaScript",
+      "slug": "Glossary/JavaScript",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/JavaScript",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Glossary/Accessibility",
+    "metadata": {
+      "title": "Tanekcumt",
+      "slug": "Glossary/Accessibility",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/Accessibility",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "fi",
+    "slug": "Glossary/aneggaf",
+    "metadata": {
+      "title": "aneggaf",
+      "slug": "Glossary/aneggaf",
+      "locale": "kab"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "ha",
+    "slug": "Glossary/AJAX",
+    "metadata": {
+      "title": "AJAX",
+      "slug": "Glossary/AJAX",
+      "locale": "kab",
+      "parent": {
+        "slug": "Glossary/AJAX",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "tl",
+    "slug": "Games",
+    "metadata": {
+      "title": "Taneflit n wurar",
+      "slug": "Games",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Imedyaten",
+    "metadata": {
+      "title": "Imedyaten",
+      "slug": "Games/Imedyaten",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Examples",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Tools",
+    "metadata": {
+      "title": "Tools for game development",
+      "slug": "Games/Tools",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Tools",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Tools/Engines_and_tools",
+    "metadata": {
+      "title": "Imsaddayen ed ifecka n wurar",
+      "slug": "Games/Tools/Engines_and_tools",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Tools/Engines_and_tools",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Tutorials",
+    "metadata": {
+      "title": "Tutorials",
+      "slug": "Games/Tutorials",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Tutorials",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Tutorials/2D_breakout_game_Phaser",
+    "metadata": {
+      "title": "2D  Breakout urar iseqdacen Phaser",
+      "slug": "Games/Tutorials/2D_breakout_game_Phaser",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Tutorials/2D_breakout_game_Phaser",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Techniques",
+    "metadata": {
+      "title": "Techniques for game development",
+      "slug": "Games/Techniques",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Techniques",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Techniques/3D_on_the_web",
+    "metadata": {
+      "title": "3D games on the Web",
+      "slug": "Games/Techniques/3D_on_the_web",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Techniques/3D_on_the_web",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Techniques/3D_on_the_web/Basic_theory",
+    "metadata": {
+      "title": "Azzegzi n tiszri tamedrut n 3D",
+      "slug": "Games/Techniques/3D_on_the_web/Basic_theory",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Techniques/3D_on_the_web/Basic_theory",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Techniques/2D_collision_detection",
+    "metadata": {
+      "title": "Tifin n amberrez 2D",
+      "slug": "Games/Techniques/2D_collision_detection",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Techniques/2D_collision_detection",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
+    "locale": "kab",
+    "guessed": "en",
+    "slug": "Games/Techniques/3D_collision_detection",
+    "metadata": {
+      "title": "3D   Tifin umbberez",
+      "slug": "Games/Techniques/3D_collision_detection",
+      "locale": "kab",
+      "parent": {
+        "slug": "Games/Techniques/3D_collision_detection",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

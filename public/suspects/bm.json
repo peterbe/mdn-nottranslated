@@ -1,5 +1,9 @@
 [
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web",
     "metadata": {
       "title": "Web technology for developers",
       "slug": "Web",
@@ -9,10 +13,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Web/JavaScript",
@@ -22,12 +29,15 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference",
     "metadata": {
-      "title": "Referência de Javascript",
+      "title": "Refer\u00eancia de Javascript",
       "slug": "Web/JavaScript/Reference",
       "locale": "bm",
       "parent": {
@@ -35,23 +45,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
-    "metadata": {
-      "title": "JavaScript error reference",
-      "slug": "Web/JavaScript/Reference/Errors",
-      "locale": "bm",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
-        "locale": "en-US"
-      }
-    },
-    "probably": "en",
-    "probability": 1
-  },
-  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects",
     "metadata": {
       "title": "Standard built-in objects",
       "slug": "Web/JavaScript/Reference/Global_Objects",
@@ -61,10 +61,13 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": false
   },
   {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array",
     "metadata": {
       "title": "Array",
       "slug": "Web/JavaScript/Reference/Global_Objects/Array",
@@ -74,7 +77,38 @@
         "locale": "en-US"
       }
     },
-    "probably": "en",
-    "probability": 1
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors",
+    "metadata": {
+      "title": "JavaScript error reference",
+      "slug": "Web/JavaScript/Reference/Errors",
+      "locale": "bm",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
+    "locale": "bm",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
+    "metadata": {
+      "title": "Error: Permission denied to access property \"x\"",
+      "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
+      "locale": "bm",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   }
 ]

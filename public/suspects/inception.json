@@ -6,8 +6,7 @@
       "native": "عربي"
     },
     "count": 126,
-    "file": "ar.json",
-    "inception": 126
+    "file": "ar.json"
   },
   {
     "code": "bm",
@@ -16,8 +15,7 @@
       "native": "Bamanankan"
     },
     "count": 7,
-    "file": "bm.json",
-    "inception": 7
+    "file": "bm.json"
   },
   {
     "code": "bn",
@@ -26,8 +24,7 @@
       "native": "বাংলা"
     },
     "count": 120,
-    "file": "bn.json",
-    "inception": 120
+    "file": "bn.json"
   },
   {
     "code": "bg",
@@ -36,8 +33,7 @@
       "native": "Български"
     },
     "count": 52,
-    "file": "bg.json",
-    "inception": 52
+    "file": "bg.json"
   },
   {
     "code": "my",
@@ -46,8 +42,7 @@
       "native": "မြန်မာဘာသာ"
     },
     "count": 19,
-    "file": "my.json",
-    "inception": 19
+    "file": "my.json"
   },
   {
     "code": "ca",
@@ -56,8 +51,7 @@
       "native": "Català"
     },
     "count": 42,
-    "file": "ca.json",
-    "inception": 42
+    "file": "ca.json"
   },
   {
     "code": "zh-cn",
@@ -66,8 +60,7 @@
       "native": "中文 (简体)"
     },
     "count": 1350,
-    "file": "zh-cn.json",
-    "inception": 1350
+    "file": "zh-cn.json"
   },
   {
     "code": "zh-tw",
@@ -76,8 +69,7 @@
       "native": "正體中文 (繁體)"
     },
     "count": 517,
-    "file": "zh-tw.json",
-    "inception": 517
+    "file": "zh-tw.json"
   },
   {
     "code": "nl",
@@ -86,8 +78,7 @@
       "native": "Nederlands"
     },
     "count": 130,
-    "file": "nl.json",
-    "inception": 130
+    "file": "nl.json"
   },
   {
     "code": "fi",
@@ -96,8 +87,7 @@
       "native": "suomi"
     },
     "count": 21,
-    "file": "fi.json",
-    "inception": 21
+    "file": "fi.json"
   },
   {
     "code": "fr",
@@ -106,8 +96,7 @@
       "native": "Français"
     },
     "count": 179,
-    "file": "fr.json",
-    "inception": 179
+    "file": "fr.json"
   },
   {
     "code": "de",
@@ -116,8 +105,7 @@
       "native": "Deutsch"
     },
     "count": 234,
-    "file": "de.json",
-    "inception": 234
+    "file": "de.json"
   },
   {
     "code": "el",
@@ -126,8 +114,7 @@
       "native": "Ελληνικά"
     },
     "count": 18,
-    "file": "el.json",
-    "inception": 18
+    "file": "el.json"
   },
   {
     "code": "he",
@@ -136,8 +123,7 @@
       "native": "עברית"
     },
     "count": 90,
-    "file": "he.json",
-    "inception": 90
+    "file": "he.json"
   },
   {
     "code": "hi-in",
@@ -146,8 +132,7 @@
       "native": "हिन्दी (भारत)"
     },
     "count": 8,
-    "file": "hi-in.json",
-    "inception": 8
+    "file": "hi-in.json"
   },
   {
     "code": "hu",
@@ -156,8 +141,7 @@
       "native": "magyar"
     },
     "count": 43,
-    "file": "hu.json",
-    "inception": 43
+    "file": "hu.json"
   },
   {
     "code": "id",
@@ -166,8 +150,7 @@
       "native": "Bahasa Indonesia"
     },
     "count": 137,
-    "file": "id.json",
-    "inception": 137
+    "file": "id.json"
   },
   {
     "code": "it",
@@ -176,8 +159,7 @@
       "native": "Italiano"
     },
     "count": 150,
-    "file": "it.json",
-    "inception": 150
+    "file": "it.json"
   },
   {
     "code": "ja",
@@ -186,8 +168,7 @@
       "native": "日本語"
     },
     "count": 838,
-    "file": "ja.json",
-    "inception": 838
+    "file": "ja.json"
   },
   {
     "code": "kab",
@@ -196,8 +177,7 @@
       "native": "Taqbaylit"
     },
     "count": 52,
-    "file": "kab.json",
-    "inception": 52
+    "file": "kab.json"
   },
   {
     "code": "ko",
@@ -206,8 +186,7 @@
       "native": "한국어"
     },
     "count": 675,
-    "file": "ko.json",
-    "inception": 675
+    "file": "ko.json"
   },
   {
     "code": "ms",
@@ -216,8 +195,7 @@
       "native": "Melayu"
     },
     "count": 27,
-    "file": "ms.json",
-    "inception": 27
+    "file": "ms.json"
   },
   {
     "code": "fa",
@@ -226,8 +204,7 @@
       "native": "فارسی"
     },
     "count": 76,
-    "file": "fa.json",
-    "inception": 76
+    "file": "fa.json"
   },
   {
     "code": "pl",
@@ -236,8 +213,7 @@
       "native": "Polski"
     },
     "count": 293,
-    "file": "pl.json",
-    "inception": 293
+    "file": "pl.json"
   },
   {
     "code": "pt-br",
@@ -246,8 +222,7 @@
       "native": "Português (do Brasil)"
     },
     "count": 308,
-    "file": "pt-br.json",
-    "inception": 308
+    "file": "pt-br.json"
   },
   {
     "code": "pt-pt",
@@ -256,8 +231,7 @@
       "native": "Português (Europeu)"
     },
     "count": 297,
-    "file": "pt-pt.json",
-    "inception": 297
+    "file": "pt-pt.json"
   },
   {
     "code": "ru",
@@ -266,8 +240,7 @@
       "native": "Русский"
     },
     "count": 366,
-    "file": "ru.json",
-    "inception": 366
+    "file": "ru.json"
   },
   {
     "code": "es",
@@ -276,8 +249,7 @@
       "native": "Español"
     },
     "count": 341,
-    "file": "es.json",
-    "inception": 341
+    "file": "es.json"
   },
   {
     "code": "sv-se",
@@ -286,8 +258,7 @@
       "native": "Svenska"
     },
     "count": 23,
-    "file": "sv-SE.json",
-    "inception": 23
+    "file": "sv-SE.json"
   },
   {
     "code": "th",
@@ -296,8 +267,7 @@
       "native": "ไทย"
     },
     "count": 75,
-    "file": "th.json",
-    "inception": 75
+    "file": "th.json"
   },
   {
     "code": "tr",
@@ -306,8 +276,7 @@
       "native": "Türkçe"
     },
     "count": 127,
-    "file": "tr.json",
-    "inception": 127
+    "file": "tr.json"
   },
   {
     "code": "uk",
@@ -316,8 +285,7 @@
       "native": "Українська"
     },
     "count": 108,
-    "file": "uk.json",
-    "inception": 108
+    "file": "uk.json"
   },
   {
     "code": "vi",
@@ -326,7 +294,6 @@
       "native": "Tiếng Việt"
     },
     "count": 123,
-    "file": "vi.json",
-    "inception": 123
+    "file": "vi.json"
   }
 ]
