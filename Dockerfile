@@ -4,11 +4,11 @@ WORKDIR /app
 
 COPY . /app
 
-RUN yarn install --prod
-RUN yarn build
-
 ENV PORT=8000
 ENV NODE_ENV=production
+
+RUN yarn install --prod
+RUN yarn build
 
 EXPOSE $PORT
 
