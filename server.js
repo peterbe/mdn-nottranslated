@@ -74,5 +74,5 @@ app.get("/*", (req, res) => {
 // app.get("/", (req, res) => res.send("Hello World!"));
 
 app.listen(PORT, HOST, () =>
-  console.log(`MDN nottranslated previewing proxy started on :${PORT}`)
+  console.log(`MDN nottranslated started on :${PORT}`)
 );
