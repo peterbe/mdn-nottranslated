@@ -84,7 +84,5 @@ app.get("/*", (req, res) => {
 // app.get("/", (req, res) => res.send("Hello World!"));
 
 app.listen(PORT, HOST, () =>
-  console.log(
-    `MDN nottranslated started on :${PORT} (NODE_ENV=${process.env.NODE_ENV})`
-  )
+  console.log(`MDN nottranslated started on :${PORT}`)
 );

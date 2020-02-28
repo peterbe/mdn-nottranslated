@@ -177,7 +177,7 @@ function ShowAllSuspects({ allSuspects }) {
                   </Link>
                 </td>
                 <td>
-                  <b>{suspect.count}</b>
+                  <b>{suspect.count.toLocaleString()}</b>
                   <Progressbar
                     count={suspect.count}
                     inception={suspect.inception}
