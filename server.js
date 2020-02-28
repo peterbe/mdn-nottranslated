@@ -62,7 +62,16 @@ app.get("/api/v0/preview", (req, res) => {
       res.status(500).send(ex.toString());
     });
 });
-app.get("/", (req, res) => res.send("Hello World!"));
+
+// Catchall
+app.get("/*", (req, res) => {
+  if (req.url.startsWith("/static")) {
+    res.status(404).send("Page not found");
+  } else {
+    res.sendFile(path.join(STATIC_ROOT, "/index.html"));
+  }
+});
+// app.get("/", (req, res) => res.send("Hello World!"));
 
 app.listen(PORT, HOST, () =>
   console.log(`MDN nottranslated previewing proxy started on :${PORT}`)

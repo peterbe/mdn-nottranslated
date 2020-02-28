@@ -24,7 +24,9 @@ The view:
 
 ## Docker
 
-Docker is only used for deployment. To build:
+Docker is only used for deployment.
+
+To test the docker stuff locally:
 
     docker build . -t mdn-nottranslated
 
@@ -35,3 +37,8 @@ To run locally:
 To view:
 
     open http://localhost:8000
+
+
+To actually **deploy** to Heroku, it should be enough to just:
+
+    git push heroku master
