@@ -1,3 +1,4 @@
+const path = require("path");
 const url = require("url");
 
 const express = require("express");
@@ -6,8 +7,15 @@ const fetch = require("node-fetch");
 
 const app = express();
 
-const port = JSON.parse(process.env.PORT || "5000");
+const STATIC_ROOT = path.join(__dirname, "build");
+app.use(
+  express.static(STATIC_ROOT, {
+    // https://expressjs.com/en/4x/api.html#express.static
+  })
+);
 
+const PORT = JSON.parse(process.env.PORT || "5000");
+const HOST = "0.0.0.0";
 const baseUrl = process.env.MDN_BASE_URL || "https://developer.mozilla.org";
 
 function download(uri) {
@@ -32,9 +40,6 @@ app.get("/api/v0/preview", (req, res) => {
   }
   download(uri)
     .then(rawHtml => {
-      // console.log("RAW HTML");
-      // console.log(rawHtml);
-      // console.log("END RAW HTML");
       let $ = cheerio.load(rawHtml);
       $(
         "script, div.sidebar, div.global-notice, header, footer, meta"
@@ -59,6 +64,6 @@ app.get("/api/v0/preview", (req, res) => {
 });
 app.get("/", (req, res) => res.send("Hello World!"));
 
-app.listen(port, () =>
-  console.log(`MDN nottranslated previewing proxy started on :${port}`)
+app.listen(PORT, HOST, () =>
+  console.log(`MDN nottranslated previewing proxy started on :${PORT}`)
 );
