@@ -2,10 +2,20 @@ const path = require("path");
 const url = require("url");
 
 const express = require("express");
+const Sentry = require("@sentry/node");
 const cheerio = require("cheerio");
 const fetch = require("node-fetch");
 
 const app = express();
+
+if (process.env.SENTRY_DSN) {
+  Sentry.init({ dsn: process.env.SENTRY_DSN });
+
+  // The request handler must be the first middleware on the app
+  app.use(Sentry.Handlers.requestHandler());
+  // The error handler must be before any other error middleware
+  app.use(Sentry.Handlers.errorHandler());
+}
 
 const STATIC_ROOT = path.join(__dirname, "build");
 app.use(
