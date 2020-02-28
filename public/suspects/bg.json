@@ -563,22 +563,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
     "locale": "bg",
     "guessed": "en",
-    "slug": "Web/HTTP/Status/404",
-    "metadata": {
-      "title": "404 Not Found",
-      "slug": "Web/HTTP/Status/404",
-      "locale": "bg",
-      "parent": {
-        "slug": "Web/HTTP/Status/404",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
     "slug": "Web/HTTP/Headers",
     "metadata": {
       "title": "HTTP headers",
@@ -682,6 +666,22 @@
       "locale": "bg",
       "parent": {
         "slug": "Web/JavaScript/Guide/Functions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
+    "locale": "bg",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Guide/Using_promises",
+    "metadata": {
+      "title": "Using Promises",
+      "slug": "Web/JavaScript/Guide/Using_promises",
+      "locale": "bg",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/Using_promises",
         "locale": "en-US"
       }
     },

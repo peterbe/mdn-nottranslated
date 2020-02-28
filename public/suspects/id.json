@@ -1535,6 +1535,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
+    "slug": "Web/JavaScript/Panduan/Pengenalan_JavaScript",
+    "metadata": {
+      "title": "Pengenalan JavaScript",
+      "slug": "Web/JavaScript/Panduan/Pengenalan_JavaScript",
+      "locale": "id",
+      "parent": {
+        "slug": "Web/JavaScript/Guide/JavaScript_Overview",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
+    "locale": "id",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "Referensi JavaScript",
@@ -1998,22 +2014,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
-    "guessed": "ca",
-    "slug": "Web/Events/error",
-    "metadata": {
-      "title": "error",
-      "slug": "Web/Events/error",
-      "locale": "id",
-      "parent": {
-        "slug": "Web/API/Element/error_event",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
     "guessed": "en",
     "slug": "Web/Reference",
     "metadata": {
@@ -2138,6 +2138,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
+    "locale": "id",
+    "guessed": "nb",
+    "slug": "Glossary/404",
+    "metadata": {
+      "title": "404",
+      "slug": "Glossary/404",
+      "locale": "id",
+      "parent": {
+        "slug": "Glossary/404",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",

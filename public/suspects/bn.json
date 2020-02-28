@@ -947,6 +947,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
+    "slug": "Web/HTML/Element/bdi",
+    "metadata": {
+      "title": "<bdi>",
+      "slug": "Web/HTML/Element/bdi",
+      "locale": "bn",
+      "parent": {
+        "slug": "Web/HTML/Element/bdi",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
+    "locale": "bn",
+    "guessed": "en",
     "slug": "Web/HTML/Element/mark",
     "metadata": {
       "title": "<mark>",

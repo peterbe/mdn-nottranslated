@@ -798,22 +798,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
-    "guessed": "nl",
-    "slug": "Web/CSS/Tools/Linear-gradient_Generator",
-    "metadata": {
-      "title": "Linear-gradient Generator",
-      "slug": "Web/CSS/Tools/Linear-gradient_Generator",
-      "locale": "de",
-      "parent": {
-        "slug": "Web/CSS/Tools/Linear-gradient_Generator",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
     "guessed": "en",
     "slug": "Web/CSS/CSS_Flexible_Box_Layout",
     "metadata": {
@@ -870,22 +854,6 @@
       "locale": "de",
       "parent": {
         "slug": "Web/CSS/CSS_Background_and_Borders/Border-radius_generator",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "nl",
-    "slug": "Web/CSS/CSS_Background_and_Borders/Border-image_generator",
-    "metadata": {
-      "title": "Border-image Generator",
-      "slug": "Web/CSS/CSS_Background_and_Borders/Border-image_generator",
-      "locale": "de",
-      "parent": {
-        "slug": "Web/CSS/CSS_Background_and_Borders/Border-image_generator",
         "locale": "en-US"
       }
     },
@@ -1302,6 +1270,22 @@
       "locale": "de",
       "parent": {
         "slug": "Web/HTML/Element/meta",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
+    "locale": "de",
+    "guessed": "en",
+    "slug": "Web/HTML/Element/audio",
+    "metadata": {
+      "title": "<audio>",
+      "slug": "Web/HTML/Element/audio",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/HTML/Element/audio",
         "locale": "en-US"
       }
     },
@@ -1974,6 +1958,22 @@
       "locale": "de",
       "parent": {
         "slug": "Web/API/Element/querySelectorAll",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
+    "locale": "de",
+    "guessed": "en",
+    "slug": "Web/API/KeyboardEvent/keyCode",
+    "metadata": {
+      "title": "KeyboardEvent.keyCode",
+      "slug": "Web/API/KeyboardEvent/keyCode",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/API/KeyboardEvent/keyCode",
         "locale": "en-US"
       }
     },
@@ -2895,6 +2895,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Intl/getCanonicalLocales",
+    "metadata": {
+      "title": "Intl.getCanonicalLocales()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Intl/getCanonicalLocales",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Intl/getCanonicalLocales",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
+    "locale": "de",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
     "metadata": {
       "title": "Array.prototype.entries()",
@@ -2934,6 +2950,22 @@
       "locale": "de",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Date/toJSON",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
+    "locale": "de",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
+    "metadata": {
+      "title": "Date.prototype.getDate()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
         "locale": "en-US"
       }
     },
@@ -3007,13 +3039,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Math/acosh",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Math/SQRT1_2",
     "metadata": {
-      "title": "Math.acosh()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math/acosh",
+      "title": "Math.SQRT1_2",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Math/SQRT1_2",
       "locale": "de",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Math/acosh",
+        "slug": "Web/JavaScript/Reference/Global_Objects/Math/SQRT1_2",
         "locale": "en-US"
       }
     },
@@ -3046,6 +3078,22 @@
       "locale": "de",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Math/cbrt",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
+    "locale": "de",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+    "metadata": {
+      "title": "Number.NaN",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
+      "locale": "de",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
         "locale": "en-US"
       }
     },

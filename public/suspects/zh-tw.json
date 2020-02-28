@@ -2487,6 +2487,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/HTTP/Methods",
+    "metadata": {
+      "title": "HTTP \u8acb\u6c42\u65b9\u6cd5",
+      "slug": "Web/HTTP/Methods",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Methods",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/HTTP/Methods/POST",
     "metadata": {
       "title": "POST",
@@ -2638,6 +2654,22 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Web/HTTP/Status/411",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Web/HTTP/Status/200",
+    "metadata": {
+      "title": "200 OK",
+      "slug": "Web/HTTP/Status/200",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/HTTP/Status/200",
         "locale": "en-US"
       }
     },
@@ -2962,6 +2994,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Web/API/GlobalEventHandlers/onclose",
+    "metadata": {
+      "title": "GlobalEventHandlers.onclose",
+      "slug": "Web/API/GlobalEventHandlers/onclose",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GlobalEventHandlers/onclose",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -3479,6 +3527,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/API/FormData/get",
+    "metadata": {
+      "title": "FormData.get()",
+      "slug": "Web/API/FormData/get",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FormData/get",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/API/FormData/Using_FormData_Objects",
     "metadata": {
       "title": "Using FormData Objects",
@@ -3814,6 +3878,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
+    "guessed": "ca",
+    "slug": "Web/API/Element/touchcancel_event",
+    "metadata": {
+      "title": "touchcancel",
+      "slug": "Web/API/Element/touchcancel_event",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Element/touchcancel_event",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
     "guessed": "en",
     "slug": "Web/API/Element/classList",
     "metadata": {
@@ -3927,6 +4007,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/API/FileSystem",
+    "metadata": {
+      "title": "FileSystem",
+      "slug": "Web/API/FileSystem",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/FileSystem",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/API/DeviceMotionEvent",
     "metadata": {
       "title": "DeviceMotionEvent",
@@ -3998,22 +4094,6 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Web/API/Document/body",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
-    "locale": "zh-TW",
-    "guessed": "fr",
-    "slug": "Web/API/Document/createTextNode",
-    "metadata": {
-      "title": "Document.createTextNode()",
-      "slug": "Web/API/Document/createTextNode",
-      "locale": "zh-TW",
-      "parent": {
-        "slug": "Web/API/Document/createTextNode",
         "locale": "en-US"
       }
     },
@@ -4727,6 +4807,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/API/GeolocationPositionError/message",
+    "metadata": {
+      "title": "PositionError.message",
+      "slug": "Web/API/GeolocationPositionError/message",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/GeolocationPositionError/message",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/API/TouchList",
     "metadata": {
       "title": "TouchList",
@@ -5014,6 +5110,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
+    "guessed": "da",
+    "slug": "Web/API/DOMParser",
+    "metadata": {
+      "title": "DOMParser",
+      "slug": "Web/API/DOMParser",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/DOMParser",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
     "guessed": "en",
     "slug": "Web/API/CanvasRenderingContext2D",
     "metadata": {
@@ -5175,6 +5287,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/API/Event/isTrusted",
+    "metadata": {
+      "title": "Event.isTrusted",
+      "slug": "Web/API/Event/isTrusted",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/isTrusted",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/API/Event/target",
     "metadata": {
       "title": "Event.target",
@@ -5262,6 +5390,22 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Web/API/Event/stopPropagation",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Web/API/Event/defaultPrevented",
+    "metadata": {
+      "title": "Event.defaultPrevented",
+      "slug": "Web/API/Event/defaultPrevented",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/API/Event/defaultPrevented",
         "locale": "en-US"
       }
     },
@@ -6083,6 +6227,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Statements/return",
+    "metadata": {
+      "title": "return",
+      "slug": "Web/JavaScript/Reference/Statements/return",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Statements/return",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Statements/function*",
     "metadata": {
       "title": "function*",
@@ -6362,6 +6522,22 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Array/copyWithin",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+    "metadata": {
+      "title": "Array.prototype.reverse()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/reverse",
         "locale": "en-US"
       }
     },
@@ -6707,6 +6883,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
     "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Number/prototype",
+    "metadata": {
+      "title": "Number.prototype",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Number/prototype",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/prototype",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
     "metadata": {
       "title": "Number.isFinite()",
@@ -6970,6 +7162,22 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Promise/reject",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Promise/resolve",
+    "metadata": {
+      "title": "Promise.resolve()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/resolve",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Promise/resolve",
         "locale": "en-US"
       }
     },
@@ -7954,6 +8162,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
     "locale": "zh-TW",
+    "guessed": "fr",
+    "slug": "Glossary/ECMA",
+    "metadata": {
+      "title": "ECMA",
+      "slug": "Glossary/ECMA",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/ECMA",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
     "guessed": "en",
     "slug": "Glossary/Parameter",
     "metadata": {
@@ -7962,6 +8186,22 @@
       "locale": "zh-TW",
       "parent": {
         "slug": "Glossary/Parameter",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
+    "locale": "zh-TW",
+    "guessed": "en",
+    "slug": "Glossary/Adobe_Flash",
+    "metadata": {
+      "title": "Adobe Flash",
+      "slug": "Glossary/Adobe_Flash",
+      "locale": "zh-TW",
+      "parent": {
+        "slug": "Glossary/Adobe_Flash",
         "locale": "en-US"
       }
     },

@@ -722,7 +722,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
-    "guessed": "ru",
+    "guessed": "en",
     "slug": "Web/HTTP/\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043a\u0438/Content-Length",
     "metadata": {
       "title": "Content-Length",
@@ -1219,6 +1219,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
     "guessed": "en",
+    "slug": "Web/API/Console/dir",
+    "metadata": {
+      "title": "Console.dir()",
+      "slug": "Web/API/Console/dir",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/API/Console/dir",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "en",
     "slug": "Web/XSLT",
     "metadata": {
       "title": "XSLT",
@@ -1426,7 +1442,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
-    "guessed": "ru",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/RegExp",
     "metadata": {
       "title": "RegExp",
@@ -1586,6 +1602,86 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
+    "guessed": "ru",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/toUpperCase",
+    "metadata": {
+      "title": "String.prototype.toUpperCase()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/toUpperCase",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/toUpperCase",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "ru",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+    "metadata": {
+      "title": "String.prototype.toLowerCase()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String/@@iterator",
+    "metadata": {
+      "title": "String.prototype[@@iterator]()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String/@@iterator",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/@@iterator",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+    "metadata": {
+      "title": "Error.prototype.columnNumber",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+    "metadata": {
+      "title": "\u0422\u0438\u043f\u043e\u0432\u0456 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0438",
+      "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Functions/Default_parameters",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Functions/\u0421\u0442\u0440\u0456\u043b\u043a\u043e\u0432\u0456_\u0444\u0443\u043d\u043a\u0446\u0456\u0457",
     "metadata": {
@@ -1630,6 +1726,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
+    "locale": "uk",
+    "guessed": "en",
+    "slug": "Web/Events/abort",
+    "metadata": {
+      "title": "abort",
+      "slug": "Web/Events/abort",
+      "locale": "uk",
+      "parent": {
+        "slug": "Web/Events/abort",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",

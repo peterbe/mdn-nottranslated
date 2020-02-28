@@ -895,6 +895,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
     "locale": "pl",
     "guessed": "en",
+    "slug": "Web/CSS/left",
+    "metadata": {
+      "title": "left",
+      "slug": "Web/CSS/left",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/left",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
+    "locale": "pl",
+    "guessed": "en",
     "slug": "Web/CSS/:-moz-tree-progressmeter",
     "metadata": {
       "title": ":-moz-tree-progressmeter",
@@ -918,6 +934,22 @@
       "locale": "pl",
       "parent": {
         "slug": "Web/CSS/-moz-image-region",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
+    "locale": "pl",
+    "guessed": "en",
+    "slug": "Web/CSS/background-image",
+    "metadata": {
+      "title": "background-image",
+      "slug": "Web/CSS/background-image",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/background-image",
         "locale": "en-US"
       }
     },
@@ -1206,6 +1238,22 @@
       "locale": "pl",
       "parent": {
         "slug": "Mozilla/Gecko/Chrome/CSS/::-moz-tree-line",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
+    "locale": "pl",
+    "guessed": "en",
+    "slug": "Web/CSS/caption-side",
+    "metadata": {
+      "title": "caption-side",
+      "slug": "Web/CSS/caption-side",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/CSS/caption-side",
         "locale": "en-US"
       }
     },
@@ -3115,6 +3163,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
     "locale": "pl",
     "guessed": "en",
+    "slug": "Web/JavaScript/Referencje/Obiekty/Number/isInteger",
+    "metadata": {
+      "title": "Number.isInteger()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Number/isInteger",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/isInteger",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
+    "locale": "pl",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencje/Obiekty/Generator",
     "metadata": {
       "title": "Generator",
@@ -3250,6 +3314,22 @@
       "locale": "pl",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
+    "locale": "pl",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Referencje/Obiekty/Object/unwatch",
+    "metadata": {
+      "title": "Object.prototype.unwatch()",
+      "slug": "Web/JavaScript/Referencje/Obiekty/Object/unwatch",
+      "locale": "pl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/unwatch",
         "locale": "en-US"
       }
     },
@@ -4514,7 +4594,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
     "locale": "pl",
-    "guessed": "it",
+    "guessed": "en",
     "slug": "Glossary/Accessibility",
     "metadata": {
       "title": "Accessibility",

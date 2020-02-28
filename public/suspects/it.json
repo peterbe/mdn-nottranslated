@@ -51,6 +51,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
+    "slug": "Learn/Vulnerabilit\u00e0",
+    "metadata": {
+      "title": "Vulnerabilit\u00e0",
+      "slug": "Learn/Vulnerabilit\u00e0",
+      "locale": "it",
+      "parent": {
+        "slug": "Web/Security/Information_Security_Basics/Vulnerabilities",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
+    "locale": "it",
+    "guessed": "en",
     "slug": "Learn/CSS/Basics",
     "metadata": {
       "title": "Introduction to CSS",
@@ -1890,7 +1906,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
-    "guessed": "en",
+    "guessed": "es",
     "slug": "Web/JavaScript/Reference/Global_Objects/Date/getDate",
     "metadata": {
       "title": "Date.prototype.getDate()",

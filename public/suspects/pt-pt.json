@@ -19,6 +19,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
     "guessed": "en",
+    "slug": "Introdu\u00e7\u00e3o",
+    "metadata": {
+      "title": "Contribuir para c\u00f3digo base da Mozilla",
+      "slug": "Introdu\u00e7\u00e3o",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Mozilla/Developer_guide/Introduction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
     "slug": "Guia_modelo_do_XUL",
     "metadata": {
       "title": "Guia modelo do XUL",
@@ -714,6 +730,22 @@
       }
     },
     "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
+    "slug": "Tools",
+    "metadata": {
+      "title": "Ferramentas de Desenvolvimento do Firefox",
+      "slug": "Tools",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Tools",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1514,7 +1546,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
-    "guessed": "es",
+    "guessed": "it",
     "slug": "Web/SVG/Element",
     "metadata": {
       "title": "SVG - Refer\u00eancia de elemento",
@@ -1819,6 +1851,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
     "guessed": "en",
+    "slug": "Web/CSS/Pseudoelementos",
+    "metadata": {
+      "title": "Pseudoelementos",
+      "slug": "Web/CSS/Pseudoelementos",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Web/CSS/Pseudo-elements",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
     "slug": "Web/CSS/Pseudoclasses",
     "metadata": {
       "title": "Pseudoclasses",
@@ -2074,7 +2122,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
-    "guessed": "ca",
+    "guessed": "es",
     "slug": "Web/CSS/list-style",
     "metadata": {
       "title": "list-style",
@@ -2482,6 +2530,22 @@
       "locale": "pt-PT",
       "parent": {
         "slug": "Web/HTML/Element/iframe",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
+    "slug": "Web/HTML/Elemento/progress",
+    "metadata": {
+      "title": "progress",
+      "slug": "Web/HTML/Elemento/progress",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Web/HTML/Element/progress",
         "locale": "en-US"
       }
     },
@@ -3050,7 +3114,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
-    "guessed": "es",
+    "guessed": "it",
     "slug": "Web/API/WebGLRenderingContext/getSupportedExtensions",
     "metadata": {
       "title": "WebGLRenderingContext.getSupportedExtensions()",
@@ -3935,6 +3999,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
     "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+    "metadata": {
+      "title": "Object.defineProperty()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Boolean",
     "metadata": {
       "title": "Booliano",
@@ -4410,6 +4490,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
     "locale": "pt-PT",
+    "guessed": "id",
+    "slug": "Gloss\u00e1rio/Navegador",
+    "metadata": {
+      "title": "Navegador",
+      "slug": "Gloss\u00e1rio/Navegador",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Glossary/Browser",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
     "guessed": "en",
     "slug": "Gloss\u00e1rio/HTML5",
     "metadata": {
@@ -4598,6 +4694,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
+    "locale": "pt-PT",
+    "guessed": "en",
+    "slug": "Guia_do_desenvolvedor/Instru\u00e7\u00f5es_de_compila\u00e7\u00e3o",
+    "metadata": {
+      "title": "Instru\u00e7\u00f5es de compila\u00e7\u00e3o",
+      "slug": "Guia_do_desenvolvedor/Instru\u00e7\u00f5es_de_compila\u00e7\u00e3o",
+      "locale": "pt-PT",
+      "parent": {
+        "slug": "Mozilla/Developer_guide/Build_Instructions",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",

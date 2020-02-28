@@ -419,6 +419,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
+    "slug": "Web/JavaScript/Referencia/Objectes_globals/String/small",
+    "metadata": {
+      "title": "String.prototype.small()",
+      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/small",
+      "locale": "ca",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/small",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
+    "locale": "ca",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objectes_globals/String/sup",
     "metadata": {
       "title": "String.prototype.sup()",

@@ -799,22 +799,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Grid_Layout",
-    "metadata": {
-      "title": "CSS Grid Layout",
-      "slug": "Web/CSS/CSS_Grid_Layout",
-      "locale": "vi",
-      "parent": {
-        "slug": "Web/CSS/CSS_Grid_Layout",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/CSS/CSS_Grid_Layout/tong_quan_ve_grid_layout",
     "metadata": {
       "title": "T\u1ed5ng quan v\u1ec1 B\u1ed1 c\u1ee5c L\u01b0\u1edbi",
@@ -1615,13 +1599,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
     "metadata": {
-      "title": "Array.prototype.unshift()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+      "title": "Array.prototype.shift()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
       "locale": "vi",
       "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/unshift",
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/shift",
         "locale": "en-US"
       }
     },

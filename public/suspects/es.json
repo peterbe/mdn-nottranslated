@@ -30,6 +30,70 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "UNKNOWN",
+    "slug": "FUEL/Extension",
+    "metadata": {
+      "title": "Extension",
+      "slug": "FUEL/Extension",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIExtension",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "UNKNOWN",
+    "slug": "FUEL/Application",
+    "metadata": {
+      "title": "Application",
+      "slug": "FUEL/Application",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIApplication",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "pt",
+    "slug": "FUEL/EventItem",
+    "metadata": {
+      "title": "EventItem",
+      "slug": "FUEL/EventItem",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIEventItem",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "FUEL/Console",
+    "metadata": {
+      "title": "Console",
+      "slug": "FUEL/Console",
+      "locale": "es",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIConsole",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "en",
     "slug": "Project:MDN/gu\u00eda_estilo",
     "metadata": {
@@ -867,6 +931,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/CSS/-webkit-mask-origin",
+    "metadata": {
+      "title": "-webkit-mask-origin",
+      "slug": "Web/CSS/-webkit-mask-origin",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-mask-origin",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/CSS/@viewport",
     "metadata": {
       "title": "@viewport",
@@ -922,6 +1002,22 @@
       "locale": "es",
       "parent": {
         "slug": "Web/CSS/-moz-outline-radius-bottomright",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/CSS/-webkit-text-fill-color",
+    "metadata": {
+      "title": "-webkit-text-fill-color",
+      "slug": "Web/CSS/-webkit-text-fill-color",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-text-fill-color",
         "locale": "en-US"
       }
     },
@@ -990,22 +1086,6 @@
       }
     },
     "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Web/CSS/::-moz-page",
-    "metadata": {
-      "title": "::-moz-page",
-      "slug": "Web/CSS/::-moz-page",
-      "locale": "es",
-      "parent": {
-        "slug": "Web/CSS/::-moz-page",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1218,6 +1298,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/CSS/-webkit-mask-position-y",
+    "metadata": {
+      "title": "-webkit-mask-position-y",
+      "slug": "Web/CSS/-webkit-mask-position-y",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-mask-position-y",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "en",
     "slug": "Web/CSS/:-moz-tree-progressmeter",
     "metadata": {
@@ -1250,6 +1346,38 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/CSS/-webkit-mask-position-x",
+    "metadata": {
+      "title": "-webkit-mask-position-x",
+      "slug": "Web/CSS/-webkit-mask-position-x",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-mask-position-x",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/CSS/-webkit-mask-image",
+    "metadata": {
+      "title": "-webkit-mask-image",
+      "slug": "Web/CSS/-webkit-mask-image",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-mask-image",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "en",
     "slug": "Web/CSS/grid-gap",
     "metadata": {
@@ -1258,6 +1386,38 @@
       "locale": "es",
       "parent": {
         "slug": "Web/CSS/grid-gap",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/CSS/:-moz-system-metric(scrollbar-end-backward)",
+    "metadata": {
+      "title": ":-moz-system-metric(scrollbar-end-backward)",
+      "slug": "Web/CSS/:-moz-system-metric(scrollbar-end-backward)",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/:-moz-system-metric/scrollbar-end-backward",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/CSS/-moz-text-blink",
+    "metadata": {
+      "title": "-moz-text-blink",
+      "slug": "Web/CSS/-moz-text-blink",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-moz-text-blink",
         "locale": "en-US"
       }
     },
@@ -1475,6 +1635,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/CSS/-moz-binding",
+    "metadata": {
+      "title": "-moz-binding",
+      "slug": "Web/CSS/-moz-binding",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-moz-binding",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/CSS/-moz-float-edge",
     "metadata": {
       "title": "-moz-float-edge",
@@ -1534,6 +1710,22 @@
       }
     },
     "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/CSS/-webkit-text-stroke",
+    "metadata": {
+      "title": "-webkit-text-stroke",
+      "slug": "Web/CSS/-webkit-text-stroke",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/CSS/-webkit-text-stroke",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1662,14 +1854,14 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "en",
-    "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+    "guessed": "ca",
+    "slug": "Web/CSS/-webkit-box-reflect",
     "metadata": {
-      "title": "-moz-outline-radius-bottomleft",
-      "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+      "title": "-webkit-box-reflect",
+      "slug": "Web/CSS/-webkit-box-reflect",
       "locale": "es",
       "parent": {
-        "slug": "Web/CSS/-moz-outline-radius-bottomleft",
+        "slug": "Web/CSS/-webkit-box-reflect",
         "locale": "en-US"
       }
     },
@@ -1679,13 +1871,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/CSS/:-moz-last-node",
+    "slug": "Web/CSS/-moz-outline-radius-bottomleft",
     "metadata": {
-      "title": ":-moz-last-node",
-      "slug": "Web/CSS/:-moz-last-node",
+      "title": "-moz-outline-radius-bottomleft",
+      "slug": "Web/CSS/-moz-outline-radius-bottomleft",
       "locale": "es",
       "parent": {
-        "slug": "Web/CSS/:-moz-last-node",
+        "slug": "Web/CSS/-moz-outline-radius-bottomleft",
         "locale": "en-US"
       }
     },
@@ -1967,6 +2159,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/EXSLT/math/max",
+    "metadata": {
+      "title": "max",
+      "slug": "Web/EXSLT/math/max",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/EXSLT/math/max",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/EXSLT/set",
     "metadata": {
       "title": "set",
@@ -2239,6 +2447,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/HTTP/Headers/Access-Control-Allow-Methods",
+    "metadata": {
+      "title": "Access-Control-Allow-Methods",
+      "slug": "Web/HTTP/Headers/Access-Control-Allow-Methods",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/HTTP/Headers/Access-Control-Allow-Methods",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/HTTP/Headers/Accept-Charset",
     "metadata": {
       "title": "Accept-Charset",
@@ -2335,6 +2559,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/API/TouchEvent",
+    "metadata": {
+      "title": "TouchEvent",
+      "slug": "Web/API/TouchEvent",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/TouchEvent",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/API/GlobalEventHandlers",
     "metadata": {
       "title": "GlobalEventHandlers",
@@ -2394,6 +2634,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/API/StorageManager/persisted",
+    "metadata": {
+      "title": "StorageManager.persisted()",
+      "slug": "Web/API/StorageManager/persisted",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/StorageManager/persisted",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -3022,6 +3278,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "en",
+    "slug": "Web/API/Element/runtimeStyle",
+    "metadata": {
+      "title": "Element.runtimeStyle",
+      "slug": "Web/API/Element/runtimeStyle",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Element/runtimeStyle",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "ca",
     "slug": "Web/API/Element/getAttributeNodeNS",
     "metadata": {
@@ -3126,6 +3398,38 @@
       "locale": "es",
       "parent": {
         "slug": "Web/API/Document/bgColor",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/API/Document/hidden",
+    "metadata": {
+      "title": "Document.hidden",
+      "slug": "Web/API/Document/hidden",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Document/hidden",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "pt",
+    "slug": "Web/API/Document/async",
+    "metadata": {
+      "title": "Document.async",
+      "slug": "Web/API/Document/async",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/XMLDocument/async",
         "locale": "en-US"
       }
     },
@@ -3474,6 +3778,22 @@
       "locale": "es",
       "parent": {
         "slug": "Web/API/MediaSource",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/API/Screen/availHeight",
+    "metadata": {
+      "title": "Screen.availHeight",
+      "slug": "Web/API/Screen/availHeight",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Screen/availHeight",
         "locale": "en-US"
       }
     },
@@ -3847,6 +4167,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/API/Performance/timing",
+    "metadata": {
+      "title": "Performance.timing",
+      "slug": "Web/API/Performance/timing",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/Performance/timing",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/API/Canvas_API/Tutorial/Compositing",
     "metadata": {
       "title": "Compositing and clipping",
@@ -3874,6 +4210,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/API/HTMLElement/offsetTop",
+    "metadata": {
+      "title": "HTMLElement.offsetTop",
+      "slug": "Web/API/HTMLElement/offsetTop",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/API/HTMLElement/offsetTop",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4038,6 +4390,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/JavaScript/Referencia",
+    "metadata": {
+      "title": "Referencia de JavaScript",
+      "slug": "Web/JavaScript/Referencia",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Caracter\u00edsticas_Desaprobadas/The_legacy_Iterator_protocol",
     "metadata": {
@@ -4135,6 +4503,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/Array/toSource",
+    "metadata": {
+      "title": "Array.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Array/toSource",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Array/toSource",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/TypedArray",
     "metadata": {
       "title": "TypedArray",
@@ -4166,7 +4550,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "ca",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/DataView",
     "metadata": {
       "title": "DataView",
@@ -4182,7 +4566,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "ca",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/Date/getUTCHours",
     "metadata": {
       "title": "Date.prototype.getUTCHours()",
@@ -4278,6 +4662,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
+    "guessed": "ca",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/parseInt",
+    "metadata": {
+      "title": "Number.parseInt()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/parseInt",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Number/parseInt",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
     "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/toLocaleString",
     "metadata": {
@@ -4334,6 +4734,22 @@
       "locale": "es",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/Object/entries",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/getNotifier",
+    "metadata": {
+      "title": "Object.getNotifier()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Object/getNotifier",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Object/getNotifier",
         "locale": "en-US"
       }
     },
@@ -4407,6 +4823,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/Boolean/toSource",
+    "metadata": {
+      "title": "Boolean.prototype.toSource()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Boolean/toSource",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/toSource",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/TypeError",
     "metadata": {
       "title": "TypeError",
@@ -4454,7 +4886,23 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "ca",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/String/italics",
+    "metadata": {
+      "title": "String.prototype.italics()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/String/italics",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/String/italics",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/String/fromCodePoint",
     "metadata": {
       "title": "String.fromCodePoint()",
@@ -4510,6 +4958,22 @@
       "locale": "es",
       "parent": {
         "slug": "Web/JavaScript/Reference/Global_Objects/AsyncFunction",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "pt",
+    "slug": "Web/JavaScript/Referencia/Objetos_globales/Set/delete",
+    "metadata": {
+      "title": "Set.prototype.delete()",
+      "slug": "Web/JavaScript/Referencia/Objetos_globales/Set/delete",
+      "locale": "es",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Global_Objects/Set/delete",
         "locale": "en-US"
       }
     },
@@ -5054,6 +5518,22 @@
       "locale": "es",
       "parent": {
         "slug": "Glossary/Falsy",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
+    "locale": "es",
+    "guessed": "ca",
+    "slug": "Glossary/Doctype",
+    "metadata": {
+      "title": "Doctype",
+      "slug": "Glossary/Doctype",
+      "locale": "es",
+      "parent": {
+        "slug": "Glossary/Doctype",
         "locale": "en-US"
       }
     },

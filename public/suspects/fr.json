@@ -66,6 +66,38 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
+    "guessed": "UNKNOWN",
+    "slug": "FUEL/Extension",
+    "metadata": {
+      "title": "Extension",
+      "slug": "FUEL/Extension",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIExtension",
+        "locale": "en-US"
+      }
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "UNKNOWN",
+    "slug": "FUEL/Application",
+    "metadata": {
+      "title": "Application",
+      "slug": "FUEL/Application",
+      "locale": "fr",
+      "parent": {
+        "slug": "Mozilla/Tech/Toolkit_API/extIApplication",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
     "guessed": "en",
     "slug": "Learn/Performance",
     "metadata": {
@@ -194,6 +226,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/SVG/Content_type",
+    "metadata": {
+      "title": "Content type",
+      "slug": "Web/SVG/Content_type",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/SVG/Content_type",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
     "guessed": "UNKNOWN",
     "slug": "Web/SVG/Index",
     "metadata": {
@@ -222,6 +270,38 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/Guide/HTML/HTML5/Constraint_validation",
+    "metadata": {
+      "title": "Validation de contraintes (formulaires)",
+      "slug": "Web/Guide/HTML/HTML5/Constraint_validation",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/Guide/HTML/HTML5/Constraint_validation",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/Guide/HTML/Forms_in_HTML",
+    "metadata": {
+      "title": "Les formulaires en HTML",
+      "slug": "Web/Guide/HTML/Forms_in_HTML",
+      "locale": "fr",
+      "parent": {
+        "slug": "Learn/HTML/Forms/HTML5_updates",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -659,22 +739,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/HTTP/M\u00e9thode/GET",
-    "metadata": {
-      "title": "GET",
-      "slug": "Web/HTTP/M\u00e9thode/GET",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/HTTP/Methods/GET",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
     "slug": "Web/HTTP/Politique_De_Fonctionnalites",
     "metadata": {
       "title": "Politique de fonctionnalit\u00e9s",
@@ -690,14 +754,14 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "ca",
-    "slug": "Web/API",
+    "guessed": "en",
+    "slug": "Web/API/SpeechSynthesis",
     "metadata": {
-      "title": "R\u00e9f\u00e9rence Web API",
-      "slug": "Web/API",
+      "title": "SpeechSynthesis",
+      "slug": "Web/API/SpeechSynthesis",
       "locale": "fr",
       "parent": {
-        "slug": "Web/API",
+        "slug": "Web/API/SpeechSynthesis",
         "locale": "en-US"
       }
     },
@@ -707,13 +771,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/SpeechSynthesis",
+    "slug": "Web/API/StorageManager",
     "metadata": {
-      "title": "SpeechSynthesis",
-      "slug": "Web/API/SpeechSynthesis",
+      "title": "StorageManager",
+      "slug": "Web/API/StorageManager",
       "locale": "fr",
       "parent": {
-        "slug": "Web/API/SpeechSynthesis",
+        "slug": "Web/API/StorageManager",
         "locale": "en-US"
       }
     },
@@ -787,6 +851,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
+    "slug": "Web/API/CSS/escape",
+    "metadata": {
+      "title": "CSS.escape()",
+      "slug": "Web/API/CSS/escape",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/CSS/escape",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
     "slug": "Web/API/CSS/supports",
     "metadata": {
       "title": "CSS.supports()",
@@ -819,6 +899,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
+    "slug": "Web/API/Encrypted_Media_Extensions_API",
+    "metadata": {
+      "title": "Encrypted Media Extensions API",
+      "slug": "Web/API/Encrypted_Media_Extensions_API",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Encrypted_Media_Extensions_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
     "slug": "Web/API/WebGLRenderingContext",
     "metadata": {
       "title": "WebGLRenderingContext",
@@ -830,22 +926,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "ca",
-    "slug": "Web/API/WebGLRenderingContext/createShader",
-    "metadata": {
-      "title": "WebGLRenderingContext.createShader()",
-      "slug": "Web/API/WebGLRenderingContext/createShader",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WebGLRenderingContext/createShader",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1058,6 +1138,22 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
+    "guessed": "ca",
+    "slug": "Web/API/Element/scrollHeight",
+    "metadata": {
+      "title": "Element.scrollHeight",
+      "slug": "Web/API/Element/scrollHeight",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Element/scrollHeight",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
     "guessed": "en",
     "slug": "Web/API/Element/wheel_event",
     "metadata": {
@@ -1122,22 +1218,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "ca",
-    "slug": "Web/API/Element/hasAttribute",
-    "metadata": {
-      "title": "element.hasAttribute",
-      "slug": "Web/API/Element/hasAttribute",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Element/hasAttribute",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
     "guessed": "en",
     "slug": "Web/API/PeriodicWave",
     "metadata": {
@@ -1154,7 +1234,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "ca",
+    "guessed": "nb",
     "slug": "Web/API/XPathResult",
     "metadata": {
       "title": "XPathResult",
@@ -1522,7 +1602,7 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "la",
+    "guessed": "en",
     "slug": "Web/API/Window/storage_event",
     "metadata": {
       "title": "storage",
@@ -1683,6 +1763,22 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
+    "slug": "Web/API/HTMLSelectElement/selectedIndex",
+    "metadata": {
+      "title": "HTMLSelectElement.selectedIndex",
+      "slug": "Web/API/HTMLSelectElement/selectedIndex",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/HTMLSelectElement/selectedIndex",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
     "slug": "Web/API/GeolocationPosition",
     "metadata": {
       "title": "GeolocationPosition",
@@ -1758,6 +1854,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "UNKNOWN",
+    "slug": "Web/API/Node/outerText",
+    "metadata": {
+      "title": "Node.outerText",
+      "slug": "Web/API/Node/outerText",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Node/outerText",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1854,6 +1966,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/FileReader/result",
+    "metadata": {
+      "title": "FileReader.result",
+      "slug": "Web/API/FileReader/result",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/FileReader/result",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -2638,6 +2766,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "WebRTC/MediaStream_API",
+    "metadata": {
+      "title": "API MediaStream",
+      "slug": "WebRTC/MediaStream_API",
+      "locale": "fr",
+      "parent": {
+        "slug": "Web/API/Media_Streams_API",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",

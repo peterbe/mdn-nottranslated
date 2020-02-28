@@ -1090,22 +1090,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
-    "guessed": "af",
-    "slug": "Web/API/Document/createTextNode",
-    "metadata": {
-      "title": "Document.createTextNode()",
-      "slug": "Web/API/Document/createTextNode",
-      "locale": "nl",
-      "parent": {
-        "slug": "Web/API/Document/createTextNode",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
     "guessed": "en",
     "slug": "Web/API/CSSStyleSheet",
     "metadata": {
@@ -1166,6 +1150,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
+    "locale": "nl",
+    "guessed": "af",
+    "slug": "Web/API/NavigatorID.userAgent",
+    "metadata": {
+      "title": "NavigatorID.userAgent",
+      "slug": "Web/API/NavigatorID.userAgent",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/API/NavigatorID/userAgent",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -1774,6 +1774,22 @@
       }
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
+    "locale": "nl",
+    "guessed": "af",
+    "slug": "Web/JavaScript/Reference/Errors/Unexpected_type",
+    "metadata": {
+      "title": "TypeError: \"x\" is (not) \"y\"",
+      "slug": "Web/JavaScript/Reference/Errors/Unexpected_type",
+      "locale": "nl",
+      "parent": {
+        "slug": "Web/JavaScript/Reference/Errors/Unexpected_type",
+        "locale": "en-US"
+      }
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
