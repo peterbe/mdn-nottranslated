@@ -30,13 +30,15 @@ for (const file of files) {
     if (!language) {
       throw new Error(code);
     }
-    const content = fs.readFileSync(path.join(root, file));
-    const count = JSON.parse(content).length;
+    const content = JSON.parse(fs.readFileSync(path.join(root, file)));
+    const count = content.length;
+    const leafs = content.filter(x => x.leaf).length;
     all.push({
       code,
       language,
       count,
       file,
+      leafs,
       inception: inception[code]
     });
   }
