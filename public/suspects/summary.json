@@ -148,9 +148,9 @@
       "English": "Hebrew",
       "native": "עברית"
     },
-    "count": 90,
+    "count": 121,
     "file": "he.json",
-    "leafs": 64,
+    "leafs": 86,
     "inception": 90
   },
   {
@@ -269,9 +269,9 @@
       "English": "Portuguese (Brazilian)",
       "native": "Português (do Brasil)"
     },
-    "count": 333,
+    "count": 121,
     "file": "pt-br.json",
-    "leafs": 250,
+    "leafs": 86,
     "inception": 308
   },
   {
@@ -314,7 +314,7 @@
       "native": "Svenska"
     },
     "count": 22,
-    "file": "sv-SE.json",
+    "file": "sv-se.json",
     "leafs": 6,
     "inception": 23
   },
