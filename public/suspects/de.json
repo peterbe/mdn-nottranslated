@@ -189,23 +189,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Learn/Server-side/Django",
-    "metadata": {
-      "title": "Django Web Framework (Python)",
-      "slug": "Learn/Server-side/Django",
-      "locale": "de",
-      "parent": {
-        "slug": "Learn/Server-side/Django",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162167
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -333,7 +318,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162147
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -397,7 +383,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162157
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -553,7 +540,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162139
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -575,22 +563,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Venkman",
-    "metadata": {
-      "title": "Venkman",
-      "slug": "Venkman",
-      "locale": "de",
-      "parent": {
-        "slug": "Archive/Mozilla/Venkman",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Accessibility_AT-SPI_Support",
     "metadata": {
       "title": "Accessibility/AT-SPI Support",
@@ -601,7 +573,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162152
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -665,7 +638,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162130
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -793,7 +767,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162164
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -953,7 +928,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162138
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -969,7 +945,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162162
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1161,7 +1138,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162142
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1209,7 +1187,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162127
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1225,7 +1204,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162160
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1337,7 +1317,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162150
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1369,7 +1350,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162131
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1417,7 +1399,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162146
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2041,7 +2024,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162151
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2073,7 +2057,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162134
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2105,7 +2090,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162124
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2153,7 +2139,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162159
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2313,7 +2300,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162143
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2377,7 +2365,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162154
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2649,7 +2638,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162140
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2665,7 +2655,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162165
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2761,7 +2752,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162163
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2953,7 +2945,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162144
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3017,7 +3010,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162126
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3145,7 +3139,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162129
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3193,7 +3188,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162155
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3337,7 +3333,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162148
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3625,7 +3622,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162135
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -3657,7 +3655,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162136
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",

@@ -45,7 +45,7 @@
     "guessed": "en",
     "slug": "JavaScript_code_modules/Using_JavaScript_code_modules",
     "metadata": {
-      "title": "JavaScript 코드 모듈 사용하기",
+      "title": "JavaScript \ucf54\ub4dc \ubaa8\ub4c8 \uc0ac\uc6a9\ud558\uae30",
       "slug": "JavaScript_code_modules/Using_JavaScript_code_modules",
       "locale": "ko"
     },
@@ -101,7 +101,7 @@
     "guessed": "en",
     "slug": "Project:MDN/Localizing/Localization_projects",
     "metadata": {
-      "title": "지역화 프로젝트",
+      "title": "\uc9c0\uc5ed\ud654 \ud504\ub85c\uc81d\ud2b8",
       "slug": "Project:MDN/Localizing/Localization_projects",
       "locale": "ko",
       "parent": {
@@ -181,7 +181,7 @@
     "guessed": "en",
     "slug": "Learn/CSS/Styling_text/Fundamentals",
     "metadata": {
-      "title": "기본적인 문자와 서체 스타일링",
+      "title": "\uae30\ubcf8\uc801\uc778 \ubb38\uc790\uc640 \uc11c\uccb4 \uc2a4\ud0c0\uc77c\ub9c1",
       "slug": "Learn/CSS/Styling_text/Fundamentals",
       "locale": "ko",
       "parent": {
@@ -197,7 +197,7 @@
     "guessed": "en",
     "slug": "Learn/CSS/Howto",
     "metadata": {
-      "title": "일반적인 CSS 문제 해결하기",
+      "title": "\uc77c\ubc18\uc801\uc778 CSS \ubb38\uc81c \ud574\uacb0\ud558\uae30",
       "slug": "Learn/CSS/Howto",
       "locale": "ko",
       "parent": {
@@ -211,10 +211,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/CSS/Introduction_to_CSS/기본적인_CSS_이해",
+    "slug": "Learn/CSS/Introduction_to_CSS/\uae30\ubcf8\uc801\uc778_CSS_\uc774\ud574",
     "metadata": {
-      "title": "기본적인 CSS 이해",
-      "slug": "Learn/CSS/Introduction_to_CSS/기본적인_CSS_이해",
+      "title": "\uae30\ubcf8\uc801\uc778 CSS \uc774\ud574",
+      "slug": "Learn/CSS/Introduction_to_CSS/\uae30\ubcf8\uc801\uc778_CSS_\uc774\ud574",
       "locale": "ko",
       "parent": {
         "slug": "Learn/CSS/Building_blocks/Fundamental_CSS_comprehension",
@@ -243,17 +243,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/Common_questions/웹_사이트가_제대로_동작하는지_확인",
+    "slug": "Learn/Common_questions/\uc6f9_\uc0ac\uc774\ud2b8\uac00_\uc81c\ub300\ub85c_\ub3d9\uc791\ud558\ub294\uc9c0_\ud655\uc778",
     "metadata": {
-      "title": "웹 사이트가 제대로 동작하는지 확인하는 방법",
-      "slug": "Learn/Common_questions/웹_사이트가_제대로_동작하는지_확인",
+      "title": "\uc6f9 \uc0ac\uc774\ud2b8\uac00 \uc81c\ub300\ub85c \ub3d9\uc791\ud558\ub294\uc9c0 \ud655\uc778\ud558\ub294 \ubc29\ubc95",
+      "slug": "Learn/Common_questions/\uc6f9_\uc0ac\uc774\ud2b8\uac00_\uc81c\ub300\ub85c_\ub3d9\uc791\ud558\ub294\uc9c0_\ud655\uc778",
       "locale": "ko",
       "parent": {
         "slug": "Learn/Common_questions/Checking_that_your_web_site_is_working_properly",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161915
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -285,7 +286,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161899
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -309,7 +311,7 @@
     "guessed": "en",
     "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
     "metadata": {
-      "title": "HTML의 이미지",
+      "title": "HTML\uc758 \uc774\ubbf8\uc9c0",
       "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
       "locale": "ko",
       "parent": {
@@ -317,7 +319,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161917
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -325,7 +328,7 @@
     "guessed": "en",
     "slug": "Learn/HTML/Introduction_to_HTML/Creating_hyperlinks",
     "metadata": {
-      "title": "하이퍼링크 만들기",
+      "title": "\ud558\uc774\ud37c\ub9c1\ud06c \ub9cc\ub4e4\uae30",
       "slug": "Learn/HTML/Introduction_to_HTML/Creating_hyperlinks",
       "locale": "ko",
       "parent": {
@@ -341,7 +344,7 @@
     "guessed": "en",
     "slug": "Learn/HTML/Introduction_to_HTML/Debugging_HTML",
     "metadata": {
-      "title": "HTML 디버깅",
+      "title": "HTML \ub514\ubc84\uae45",
       "slug": "Learn/HTML/Introduction_to_HTML/Debugging_HTML",
       "locale": "ko",
       "parent": {
@@ -365,7 +368,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162333
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -413,7 +417,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162326
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -435,10 +440,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/접근성/What_is_accessibility",
+    "slug": "Learn/\uc811\uadfc\uc131/What_is_accessibility",
     "metadata": {
       "title": "What is accessibility?",
-      "slug": "Learn/접근성/What_is_accessibility",
+      "slug": "Learn/\uc811\uadfc\uc131/What_is_accessibility",
       "locale": "ko",
       "parent": {
         "slug": "Learn/Accessibility/What_is_accessibility",
@@ -451,17 +456,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/접근성/HTML",
+    "slug": "Learn/\uc811\uadfc\uc131/HTML",
     "metadata": {
-      "title": "HTML: 접근성을 위한 기초",
-      "slug": "Learn/접근성/HTML",
+      "title": "HTML: \uc811\uadfc\uc131\uc744 \uc704\ud55c \uae30\ucd08",
+      "slug": "Learn/\uc811\uadfc\uc131/HTML",
       "locale": "ko",
       "parent": {
         "slug": "Learn/Accessibility/HTML",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162329
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -517,7 +523,7 @@
     "guessed": "en",
     "slug": "Learn/JavaScript/Asynchronous/Concepts",
     "metadata": {
-      "title": "일반적인 비동기 프로그래밍 개념",
+      "title": "\uc77c\ubc18\uc801\uc778 \ube44\ub3d9\uae30 \ud504\ub85c\uadf8\ub798\ubc0d \uac1c\ub150",
       "slug": "Learn/JavaScript/Asynchronous/Concepts",
       "locale": "ko",
       "parent": {
@@ -533,7 +539,7 @@
     "guessed": "en",
     "slug": "Learn/JavaScript/Building_blocks/Functions",
     "metadata": {
-      "title": "함수 — 재사용 가능한 코드 블록",
+      "title": "\ud568\uc218 \u2014 \uc7ac\uc0ac\uc6a9 \uac00\ub2a5\ud55c \ucf54\ub4dc \ube14\ub85d",
       "slug": "Learn/JavaScript/Building_blocks/Functions",
       "locale": "ko",
       "parent": {
@@ -565,7 +571,7 @@
     "guessed": "en",
     "slug": "Learn/JavaScript/First_steps/Math",
     "metadata": {
-      "title": "자바스크립트의 기본적인 연산 - 숫자와 연산자",
+      "title": "\uc790\ubc14\uc2a4\ud06c\ub9bd\ud2b8\uc758 \uae30\ubcf8\uc801\uc778 \uc5f0\uc0b0 - \uc22b\uc790\uc640 \uc5f0\uc0b0\uc790",
       "slug": "Learn/JavaScript/First_steps/Math",
       "locale": "ko",
       "parent": {
@@ -611,10 +617,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/Server-side/Express_Nodejs/스켈레톤_웹사이트",
+    "slug": "Learn/Server-side/Express_Nodejs/\uc2a4\ucf08\ub808\ud1a4_\uc6f9\uc0ac\uc774\ud2b8",
     "metadata": {
-      "title": "Express Tutorial Part 2: 스켈레톤 웹사이트 만들기",
-      "slug": "Learn/Server-side/Express_Nodejs/스켈레톤_웹사이트",
+      "title": "Express Tutorial Part 2: \uc2a4\ucf08\ub808\ud1a4 \uc6f9\uc0ac\uc774\ud2b8 \ub9cc\ub4e4\uae30",
+      "slug": "Learn/Server-side/Express_Nodejs/\uc2a4\ucf08\ub808\ud1a4_\uc6f9\uc0ac\uc774\ud2b8",
       "locale": "ko",
       "parent": {
         "slug": "Learn/Server-side/Express_Nodejs/skeleton_website",
@@ -627,10 +633,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Learn/Server-side/Express_Nodejs/개발_환경",
+    "slug": "Learn/Server-side/Express_Nodejs/\uac1c\ubc1c_\ud658\uacbd",
     "metadata": {
-      "title": "Node 개발 환경을 설치하기",
-      "slug": "Learn/Server-side/Express_Nodejs/개발_환경",
+      "title": "Node \uac1c\ubc1c \ud658\uacbd\uc744 \uc124\uce58\ud558\uae30",
+      "slug": "Learn/Server-side/Express_Nodejs/\uac1c\ubc1c_\ud658\uacbd",
       "locale": "ko",
       "parent": {
         "slug": "Learn/Server-side/Express_Nodejs/development_environment",
@@ -685,7 +691,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161911
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -723,17 +730,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Tools/단축키",
+    "slug": "Tools/\ub2e8\ucd95\ud0a4",
     "metadata": {
-      "title": "모든 단축키",
-      "slug": "Tools/단축키",
+      "title": "\ubaa8\ub4e0 \ub2e8\ucd95\ud0a4",
+      "slug": "Tools/\ub2e8\ucd95\ud0a4",
       "locale": "ko",
       "parent": {
         "slug": "Tools/Keyboard_shortcuts",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162366
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -755,10 +763,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Tools/WebIDE/문제해결",
+    "slug": "Tools/WebIDE/\ubb38\uc81c\ud574\uacb0",
     "metadata": {
-      "title": "WebIDE 문제해결",
-      "slug": "Tools/WebIDE/문제해결",
+      "title": "WebIDE \ubb38\uc81c\ud574\uacb0",
+      "slug": "Tools/WebIDE/\ubb38\uc81c\ud574\uacb0",
       "locale": "ko",
       "parent": {
         "slug": "Archive/WebIDE/Troubleshooting",
@@ -851,10 +859,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Tools/Debugger/단축키",
+    "slug": "Tools/Debugger/\ub2e8\ucd95\ud0a4",
     "metadata": {
-      "title": "디버거 단축키",
-      "slug": "Tools/Debugger/단축키",
+      "title": "\ub514\ubc84\uac70 \ub2e8\ucd95\ud0a4",
+      "slug": "Tools/Debugger/\ub2e8\ucd95\ud0a4",
       "locale": "ko",
       "parent": {
         "slug": "Tools/Debugger/Keyboard_shortcuts",
@@ -941,7 +949,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161923
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1231,17 +1240,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/SVG/Element/사각형",
+    "slug": "Web/SVG/Element/\uc0ac\uac01\ud615",
     "metadata": {
       "title": "<rect>",
-      "slug": "Web/SVG/Element/사각형",
+      "slug": "Web/SVG/Element/\uc0ac\uac01\ud615",
       "locale": "ko",
       "parent": {
         "slug": "Web/SVG/Element/rect",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162374
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1281,7 +1291,7 @@
     "guessed": "en",
     "slug": "Web/SVG/Applying_SVG_effects_to_HTML_content",
     "metadata": {
-      "title": "HTML 컨텐츠에 SVG 효과 적용하기",
+      "title": "HTML \ucee8\ud150\uce20\uc5d0 SVG \ud6a8\uacfc \uc801\uc6a9\ud558\uae30",
       "slug": "Web/SVG/Applying_SVG_effects_to_HTML_content",
       "locale": "ko",
       "parent": {
@@ -1289,7 +1299,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162342
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1297,7 +1308,7 @@
     "guessed": "en",
     "slug": "Web/Guide",
     "metadata": {
-      "title": "웹 개발자 안내서",
+      "title": "\uc6f9 \uac1c\ubc1c\uc790 \uc548\ub0b4\uc11c",
       "slug": "Web/Guide",
       "locale": "ko",
       "parent": {
@@ -1329,7 +1340,7 @@
     "guessed": "en",
     "slug": "Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video",
     "metadata": {
-      "title": "HTML5 영상에 캡션과 자막 붙이기",
+      "title": "HTML5 \uc601\uc0c1\uc5d0 \ucea1\uc158\uacfc \uc790\ub9c9 \ubd99\uc774\uae30",
       "slug": "Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video",
       "locale": "ko",
       "parent": {
@@ -1401,7 +1412,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161946
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1455,10 +1467,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/MathML/예제",
+    "slug": "Web/MathML/\uc608\uc81c",
     "metadata": {
-      "title": "예제",
-      "slug": "Web/MathML/예제",
+      "title": "\uc608\uc81c",
+      "slug": "Web/MathML/\uc608\uc81c",
       "locale": "ko",
       "parent": {
         "slug": "Web/MathML/Examples",
@@ -1519,10 +1531,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_선택자",
+    "slug": "Web/CSS/CSS_\uc120\ud0dd\uc790",
     "metadata": {
-      "title": "CSS 선택자",
-      "slug": "Web/CSS/CSS_선택자",
+      "title": "CSS \uc120\ud0dd\uc790",
+      "slug": "Web/CSS/CSS_\uc120\ud0dd\uc790",
       "locale": "ko",
       "parent": {
         "slug": "Web/CSS/CSS_Selectors",
@@ -1553,7 +1565,7 @@
     "guessed": "en",
     "slug": "Web/CSS/Common_CSS_Questions",
     "metadata": {
-      "title": "공통된 CSS 질문들",
+      "title": "\uacf5\ud1b5\ub41c CSS \uc9c8\ubb38\ub4e4",
       "slug": "Web/CSS/Common_CSS_Questions",
       "locale": "ko",
       "parent": {
@@ -1849,7 +1861,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161913
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2009,7 +2022,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162325
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2017,7 +2031,7 @@
     "guessed": "fr",
     "slug": "Web/CSS/CSS_Background_and_Borders/Border-radius_generator",
     "metadata": {
-      "title": "Border-radius 생성기",
+      "title": "Border-radius \uc0dd\uc131\uae30",
       "slug": "Web/CSS/CSS_Background_and_Borders/Border-radius_generator",
       "locale": "ko",
       "parent": {
@@ -2033,7 +2047,7 @@
     "guessed": "fr",
     "slug": "Web/CSS/CSS_Background_and_Borders/Border-image_generator",
     "metadata": {
-      "title": "Border-image 생성기",
+      "title": "Border-image \uc0dd\uc131\uae30",
       "slug": "Web/CSS/CSS_Background_and_Borders/Border-image_generator",
       "locale": "ko",
       "parent": {
@@ -2049,7 +2063,7 @@
     "guessed": "fr",
     "slug": "Web/CSS/CSS_Background_and_Borders/Box-shadow_generator",
     "metadata": {
-      "title": "Box-shadow 생성기",
+      "title": "Box-shadow \uc0dd\uc131\uae30",
       "slug": "Web/CSS/CSS_Background_and_Borders/Box-shadow_generator",
       "locale": "ko",
       "parent": {
@@ -2073,7 +2087,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162331
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2129,7 +2144,7 @@
     "guessed": "en",
     "slug": "Web/CSS/initial_value",
     "metadata": {
-      "title": "초깃값",
+      "title": "\ucd08\uae43\uac12",
       "slug": "Web/CSS/initial_value",
       "locale": "ko",
       "parent": {
@@ -2233,7 +2248,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162322
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2361,7 +2377,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162362
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2417,7 +2434,7 @@
     "guessed": "en",
     "slug": "Web/CSS/actual_value",
     "metadata": {
-      "title": "실제값",
+      "title": "\uc2e4\uc81c\uac12",
       "slug": "Web/CSS/actual_value",
       "locale": "ko",
       "parent": {
@@ -2561,7 +2578,7 @@
     "guessed": "en",
     "slug": "Web/CSS/Cascade",
     "metadata": {
-      "title": "종속",
+      "title": "\uc885\uc18d",
       "slug": "Web/CSS/Cascade",
       "locale": "ko",
       "parent": {
@@ -2593,7 +2610,7 @@
     "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index",
     "metadata": {
-      "title": "z-index 적용",
+      "title": "z-index \uc801\uc6a9",
       "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Adding_z-index",
       "locale": "ko",
       "parent": {
@@ -2609,7 +2626,7 @@
     "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_and_float",
     "metadata": {
-      "title": "floating 엘리먼트의 쌓임",
+      "title": "floating \uc5d8\ub9ac\uba3c\ud2b8\uc758 \uc313\uc784",
       "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_and_float",
       "locale": "ko",
       "parent": {
@@ -2625,7 +2642,7 @@
     "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_context_example_2",
     "metadata": {
-      "title": "쌓임 맥락 예제2",
+      "title": "\uc313\uc784 \ub9e5\ub77d \uc608\uc81c2",
       "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_context_example_2",
       "locale": "ko",
       "parent": {
@@ -2641,7 +2658,7 @@
     "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_without_z-index",
     "metadata": {
-      "title": "z-index가 없는 경우의 쌓임",
+      "title": "z-index\uac00 \uc5c6\ub294 \uacbd\uc6b0\uc758 \uc313\uc784",
       "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_without_z-index",
       "locale": "ko",
       "parent": {
@@ -2657,7 +2674,7 @@
     "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_context_example_1",
     "metadata": {
-      "title": "쌓임 맥락 예제1",
+      "title": "\uc313\uc784 \ub9e5\ub77d \uc608\uc81c1",
       "slug": "Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_context_example_1",
       "locale": "ko",
       "parent": {
@@ -2713,7 +2730,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162335
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2729,7 +2747,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162369
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2737,7 +2756,7 @@
     "guessed": "en",
     "slug": "Web/CSS/resolved_value",
     "metadata": {
-      "title": "결정값",
+      "title": "\uacb0\uc815\uac12",
       "slug": "Web/CSS/resolved_value",
       "locale": "ko",
       "parent": {
@@ -2745,7 +2764,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162354
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2809,7 +2829,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161933
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3065,7 +3086,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162360
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3129,7 +3151,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162358
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3361,7 +3384,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Element/strong",
     "metadata": {
-      "title": "<strong>: 높은 중요도 요소",
+      "title": "<strong>: \ub192\uc740 \uc911\uc694\ub3c4 \uc694\uc18c",
       "slug": "Web/HTML/Element/strong",
       "locale": "ko",
       "parent": {
@@ -3537,7 +3560,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Element/link",
     "metadata": {
-      "title": "<link>: 외부 리소스 연결 요소",
+      "title": "<link>: \uc678\ubd80 \ub9ac\uc18c\uc2a4 \uc5f0\uacb0 \uc694\uc18c",
       "slug": "Web/HTML/Element/link",
       "locale": "ko",
       "parent": {
@@ -3577,7 +3600,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161932
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3601,7 +3625,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Element/tbody",
     "metadata": {
-      "title": "<tbody>: 표 본문 요소",
+      "title": "<tbody>: \ud45c \ubcf8\ubb38 \uc694\uc18c",
       "slug": "Web/HTML/Element/tbody",
       "locale": "ko",
       "parent": {
@@ -3745,7 +3769,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Attributes",
     "metadata": {
-      "title": "HTML 특성 참고서",
+      "title": "HTML \ud2b9\uc131 \ucc38\uace0\uc11c",
       "slug": "Web/HTML/Attributes",
       "locale": "ko",
       "parent": {
@@ -3761,7 +3785,7 @@
     "guessed": "en",
     "slug": "Web/HTML/CORS_enabled_image",
     "metadata": {
-      "title": "교차 출처 이미지와 캔버스 허용하기",
+      "title": "\uad50\ucc28 \ucd9c\ucc98 \uc774\ubbf8\uc9c0\uc640 \uce94\ubc84\uc2a4 \ud5c8\uc6a9\ud558\uae30",
       "slug": "Web/HTML/CORS_enabled_image",
       "locale": "ko",
       "parent": {
@@ -3769,7 +3793,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162368
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3777,7 +3802,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Using_the_application_cache",
     "metadata": {
-      "title": "애플리케이션 캐시 사용하기",
+      "title": "\uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uce90\uc2dc \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/HTML/Using_the_application_cache",
       "locale": "ko",
       "parent": {
@@ -3849,7 +3874,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161905
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3889,7 +3915,7 @@
     "guessed": "en",
     "slug": "Web/Web_Components/Using_custom_elements",
     "metadata": {
-      "title": "커스텀 엘리먼트 사용하기",
+      "title": "\ucee4\uc2a4\ud140 \uc5d8\ub9ac\uba3c\ud2b8 \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/Web_Components/Using_custom_elements",
       "locale": "ko",
       "parent": {
@@ -4031,10 +4057,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/HTTP/User_agent를_이용한_브라우저_감지",
+    "slug": "Web/HTTP/User_agent\ub97c_\uc774\uc6a9\ud55c_\ube0c\ub77c\uc6b0\uc800_\uac10\uc9c0",
     "metadata": {
-      "title": "사용자 에이전트를 이용한 브라우저 감지",
-      "slug": "Web/HTTP/User_agent를_이용한_브라우저_감지",
+      "title": "\uc0ac\uc6a9\uc790 \uc5d0\uc774\uc804\ud2b8\ub97c \uc774\uc6a9\ud55c \ube0c\ub77c\uc6b0\uc800 \uac10\uc9c0",
+      "slug": "Web/HTTP/User_agent\ub97c_\uc774\uc6a9\ud55c_\ube0c\ub77c\uc6b0\uc800_\uac10\uc9c0",
       "locale": "ko",
       "parent": {
         "slug": "Web/HTTP/Browser_detection_using_the_user_agent",
@@ -4137,7 +4163,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161937
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4169,7 +4196,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162353
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4249,7 +4277,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162318
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4281,7 +4310,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161930
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4417,7 +4447,7 @@
     "guessed": "en",
     "slug": "Web/HTTP/CORS",
     "metadata": {
-      "title": "교차 출처 리소스 공유 (CORS)",
+      "title": "\uad50\ucc28 \ucd9c\ucc98 \ub9ac\uc18c\uc2a4 \uacf5\uc720 (CORS)",
       "slug": "Web/HTTP/CORS",
       "locale": "ko",
       "parent": {
@@ -4449,7 +4479,7 @@
     "guessed": "en",
     "slug": "Web/HTTP/CSP",
     "metadata": {
-      "title": "콘텐츠 보안 정책 (CSP)",
+      "title": "\ucf58\ud150\uce20 \ubcf4\uc548 \uc815\ucc45 (CSP)",
       "slug": "Web/HTTP/CSP",
       "locale": "ko",
       "parent": {
@@ -4465,7 +4495,7 @@
     "guessed": "UNKNOWN",
     "slug": "Web/HTTP/Index",
     "metadata": {
-      "title": "HTTP 색인",
+      "title": "HTTP \uc0c9\uc778",
       "slug": "Web/HTTP/Index",
       "locale": "ko",
       "parent": {
@@ -4537,7 +4567,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161898
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4641,7 +4672,7 @@
     "guessed": "en",
     "slug": "Web/API/WebRTC_API/Using_data_channels",
     "metadata": {
-      "title": "WebRTC data channel 사용하기",
+      "title": "WebRTC data channel \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/API/WebRTC_API/Using_data_channels",
       "locale": "ko",
       "parent": {
@@ -4649,7 +4680,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162341
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4665,7 +4697,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162334
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4689,7 +4722,7 @@
     "guessed": "en",
     "slug": "Web/API/Web_Workers_API/basic_usage",
     "metadata": {
-      "title": "웹 워커 사용하기",
+      "title": "\uc6f9 \uc6cc\ucee4 \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/API/Web_Workers_API/basic_usage",
       "locale": "ko",
       "parent": {
@@ -4697,7 +4730,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162339
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4713,7 +4747,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161943
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4857,7 +4892,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161949
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4977,7 +5013,7 @@
     "guessed": "en",
     "slug": "Web/API/Document_Object_Model/Locating_DOM_elements_using_selectors",
     "metadata": {
-      "title": "선택자로 DOM 요소 선택하기",
+      "title": "\uc120\ud0dd\uc790\ub85c DOM \uc694\uc18c \uc120\ud0dd\ud558\uae30",
       "slug": "Web/API/Document_Object_Model/Locating_DOM_elements_using_selectors",
       "locale": "ko",
       "parent": {
@@ -5017,7 +5053,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161935
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5073,7 +5110,7 @@
     "guessed": "en",
     "slug": "Web/API/Encoding_API",
     "metadata": {
-      "title": "인코딩 API",
+      "title": "\uc778\ucf54\ub529 API",
       "slug": "Web/API/Encoding_API",
       "locale": "ko",
       "parent": {
@@ -5087,10 +5124,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/API/Streams_API/컨셉",
+    "slug": "Web/API/Streams_API/\ucee8\uc149",
     "metadata": {
-      "title": "Streams API 컨셉",
-      "slug": "Web/API/Streams_API/컨셉",
+      "title": "Streams API \ucee8\uc149",
+      "slug": "Web/API/Streams_API/\ucee8\uc149",
       "locale": "ko",
       "parent": {
         "slug": "Web/API/Streams_API/Concepts",
@@ -5105,7 +5142,7 @@
     "guessed": "en",
     "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
     "metadata": {
-      "title": "XMLHttpRequest 사용하기",
+      "title": "XMLHttpRequest \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
       "locale": "ko",
       "parent": {
@@ -5129,7 +5166,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161924
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5202,7 +5240,7 @@
     "guessed": "en",
     "slug": "Web/API/WebGL_API/By_example/Textures_from_code",
     "metadata": {
-      "title": "코드에서의 텍스쳐",
+      "title": "\ucf54\ub4dc\uc5d0\uc11c\uc758 \ud14d\uc2a4\uccd0",
       "slug": "Web/API/WebGL_API/By_example/Textures_from_code",
       "locale": "ko",
       "parent": {
@@ -5258,7 +5296,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161944
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5322,7 +5361,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161914
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5402,7 +5442,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162330
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5434,7 +5475,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161939
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5482,7 +5524,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162337
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5562,7 +5605,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162365
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5754,7 +5798,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161948
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5786,7 +5831,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162324
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6002,7 +6048,7 @@
     "guessed": "en",
     "slug": "Web/API/ServiceWorker",
     "metadata": {
-      "title": "서비스워커",
+      "title": "\uc11c\ube44\uc2a4\uc6cc\ucee4",
       "slug": "Web/API/ServiceWorker",
       "locale": "ko",
       "parent": {
@@ -6074,7 +6120,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161903
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6154,7 +6201,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161928
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6267,7 +6315,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162320
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6331,7 +6380,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161931
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6699,7 +6749,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162355
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6779,7 +6830,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162371
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6787,7 +6839,7 @@
     "guessed": "la",
     "slug": "Web/API/HTMLMediaElement/loadedmetadata_event",
     "metadata": {
-      "title": "HTMLMediaElement:  loadedmetadata 이벤트는",
+      "title": "HTMLMediaElement:  loadedmetadata \uc774\ubca4\ud2b8\ub294",
       "slug": "Web/API/HTMLMediaElement/loadedmetadata_event",
       "locale": "ko",
       "parent": {
@@ -6795,7 +6847,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162370
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6827,7 +6880,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161897
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6907,7 +6961,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161927
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6923,7 +6978,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162351
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6939,7 +6995,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162328
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6995,7 +7052,7 @@
     "guessed": "en",
     "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
     "metadata": {
-      "title": "Web Storage API 사용하기",
+      "title": "Web Storage API \uc0ac\uc6a9\ud558\uae30",
       "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
       "locale": "ko",
       "parent": {
@@ -7051,7 +7108,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162348
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7277,26 +7335,27 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/메타_프로그래밍",
+    "slug": "Web/JavaScript/Guide/\uba54\ud0c0_\ud504\ub85c\uadf8\ub798\ubc0d",
     "metadata": {
-      "title": "메타 프로그래밍",
-      "slug": "Web/JavaScript/Guide/메타_프로그래밍",
+      "title": "\uba54\ud0c0 \ud504\ub85c\uadf8\ub798\ubc0d",
+      "slug": "Web/JavaScript/Guide/\uba54\ud0c0_\ud504\ub85c\uadf8\ub798\ubc0d",
       "locale": "ko",
       "parent": {
         "slug": "Web/JavaScript/Guide/Meta_programming",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161902
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/정규식/Groups_and_Ranges",
+    "slug": "Web/JavaScript/Guide/\uc815\uaddc\uc2dd/Groups_and_Ranges",
     "metadata": {
       "title": "Groups and Ranges",
-      "slug": "Web/JavaScript/Guide/정규식/Groups_and_Ranges",
+      "slug": "Web/JavaScript/Guide/\uc815\uaddc\uc2dd/Groups_and_Ranges",
       "locale": "ko",
       "parent": {
         "slug": "Web/JavaScript/Guide/Regular_Expressions/Groups_and_Ranges",
@@ -7309,10 +7368,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/정규식/Assertions",
+    "slug": "Web/JavaScript/Guide/\uc815\uaddc\uc2dd/Assertions",
     "metadata": {
       "title": "Assertions",
-      "slug": "Web/JavaScript/Guide/정규식/Assertions",
+      "slug": "Web/JavaScript/Guide/\uc815\uaddc\uc2dd/Assertions",
       "locale": "ko",
       "parent": {
         "slug": "Web/JavaScript/Guide/Regular_Expressions/Assertions",
@@ -7391,7 +7450,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/delete",
     "metadata": {
-      "title": "delete 연산자",
+      "title": "delete \uc5f0\uc0b0\uc790",
       "slug": "Web/JavaScript/Reference/Operators/delete",
       "locale": "ko",
       "parent": {
@@ -7407,7 +7466,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Bitwise_Operators",
     "metadata": {
-      "title": "비트 연산자",
+      "title": "\ube44\ud2b8 \uc5f0\uc0b0\uc790",
       "slug": "Web/JavaScript/Reference/Operators/Bitwise_Operators",
       "locale": "ko",
       "parent": {
@@ -7423,7 +7482,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Expression_closures",
     "metadata": {
-      "title": "표현식 클로저",
+      "title": "\ud45c\ud604\uc2dd \ud074\ub85c\uc800",
       "slug": "Web/JavaScript/Reference/Operators/Expression_closures",
       "locale": "ko",
       "parent": {
@@ -7455,7 +7514,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Legacy_generator_function",
     "metadata": {
-      "title": "구형 생성기 함수 표현식",
+      "title": "\uad6c\ud615 \uc0dd\uc131\uae30 \ud568\uc218 \ud45c\ud604\uc2dd",
       "slug": "Web/JavaScript/Reference/Operators/Legacy_generator_function",
       "locale": "ko",
       "parent": {
@@ -7479,7 +7538,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162321
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7487,7 +7547,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Generator_comprehensions",
     "metadata": {
-      "title": "생성기 내포",
+      "title": "\uc0dd\uc131\uae30 \ub0b4\ud3ec",
       "slug": "Web/JavaScript/Reference/Operators/Generator_comprehensions",
       "locale": "ko",
       "parent": {
@@ -7551,7 +7611,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Lexical_grammar",
     "metadata": {
-      "title": "어휘 문법",
+      "title": "\uc5b4\ud718 \ubb38\ubc95",
       "slug": "Web/JavaScript/Reference/Lexical_grammar",
       "locale": "ko",
       "parent": {
@@ -7567,7 +7627,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/About",
     "metadata": {
-      "title": "소개",
+      "title": "\uc18c\uac1c",
       "slug": "Web/JavaScript/Reference/About",
       "locale": "ko",
       "parent": {
@@ -7671,7 +7731,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162364
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7751,7 +7812,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162346
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8215,7 +8277,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162350
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8279,7 +8342,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161919
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8295,7 +8359,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162375
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8535,7 +8600,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161941
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8583,7 +8649,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161918
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8743,7 +8810,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161926
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8759,7 +8827,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161909
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8919,7 +8988,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162361
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8943,7 +9013,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/Boolean",
     "metadata": {
-      "title": "Boolean() 생성자",
+      "title": "Boolean() \uc0dd\uc131\uc790",
       "slug": "Web/JavaScript/Reference/Global_Objects/Boolean/Boolean",
       "locale": "ko",
       "parent": {
@@ -8967,7 +9037,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162345
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8975,7 +9046,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/ArrayBuffer",
     "metadata": {
-      "title": "ArrayBuffer() 생성자",
+      "title": "ArrayBuffer() \uc0dd\uc131\uc790",
       "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/ArrayBuffer",
       "locale": "ko",
       "parent": {
@@ -9031,7 +9102,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162347
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9271,7 +9343,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162373
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9487,7 +9560,7 @@
     "guessed": "en",
     "slug": "Web/Events",
     "metadata": {
-      "title": "이벤트 참조",
+      "title": "\uc774\ubca4\ud2b8 \ucc38\uc870",
       "slug": "Web/Events",
       "locale": "ko",
       "parent": {
@@ -9559,7 +9632,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161901
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9581,10 +9655,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/Performance/브라우저는_어떻게_동작하는가",
+    "slug": "Web/Performance/\ube0c\ub77c\uc6b0\uc800\ub294_\uc5b4\ub5bb\uac8c_\ub3d9\uc791\ud558\ub294\uac00",
     "metadata": {
-      "title": "웹페이지를 표시한다는 것: 브라우저는 어떻게 동작하는가",
-      "slug": "Web/Performance/브라우저는_어떻게_동작하는가",
+      "title": "\uc6f9\ud398\uc774\uc9c0\ub97c \ud45c\uc2dc\ud55c\ub2e4\ub294 \uac83: \ube0c\ub77c\uc6b0\uc800\ub294 \uc5b4\ub5bb\uac8c \ub3d9\uc791\ud558\ub294\uac00",
+      "slug": "Web/Performance/\ube0c\ub77c\uc6b0\uc800\ub294_\uc5b4\ub5bb\uac8c_\ub3d9\uc791\ud558\ub294\uac00",
       "locale": "ko",
       "parent": {
         "slug": "Web/Performance/How_browsers_work",
@@ -9607,7 +9681,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162377
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9631,7 +9706,7 @@
     "guessed": "en",
     "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
     "metadata": {
-      "title": "ARIA 사용하기: 규칙, 상태, 속성",
+      "title": "ARIA \uc0ac\uc6a9\ud558\uae30: \uaddc\uce59, \uc0c1\ud0dc, \uc18d\uc131",
       "slug": "Web/Accessibility/ARIA/ARIA_Techniques",
       "locale": "ko",
       "parent": {
@@ -9647,7 +9722,7 @@
     "guessed": "en",
     "slug": "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role",
     "metadata": {
-      "title": "버튼 role 이용하기",
+      "title": "\ubc84\ud2bc role \uc774\uc6a9\ud558\uae30",
       "slug": "Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role",
       "locale": "ko",
       "parent": {
@@ -9663,7 +9738,7 @@
     "guessed": "en",
     "slug": "Web/Apps/Design",
     "metadata": {
-      "title": "열린 웹 응용프로그램들 설계하기",
+      "title": "\uc5f4\ub9b0 \uc6f9 \uc751\uc6a9\ud504\ub85c\uadf8\ub7a8\ub4e4 \uc124\uacc4\ud558\uae30",
       "slug": "Web/Apps/Design",
       "locale": "ko",
       "parent": {
@@ -9737,10 +9812,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "확장기능_개발_환경_구축",
+    "slug": "\ud655\uc7a5\uae30\ub2a5_\uac1c\ubc1c_\ud658\uacbd_\uad6c\ucd95",
     "metadata": {
-      "title": "확장기능 개발 환경 구축",
-      "slug": "확장기능_개발_환경_구축",
+      "title": "\ud655\uc7a5\uae30\ub2a5 \uac1c\ubc1c \ud658\uacbd \uad6c\ucd95",
+      "slug": "\ud655\uc7a5\uae30\ub2a5_\uac1c\ubc1c_\ud658\uacbd_\uad6c\ucd95",
       "locale": "ko"
     },
     "leaf": true
@@ -9779,7 +9854,7 @@
     "guessed": "en",
     "slug": "Project:Documentation_Wishlist",
     "metadata": {
-      "title": "MDC:문서화 희망 목록",
+      "title": "MDC:\ubb38\uc11c\ud654 \ud76c\ub9dd \ubaa9\ub85d",
       "slug": "Project:Documentation_Wishlist",
       "locale": "ko"
     },
@@ -9847,7 +9922,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161910
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9967,23 +10043,25 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162357
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "개발자를_위한_Firefox_3.6",
+    "slug": "\uac1c\ubc1c\uc790\ub97c_\uc704\ud55c_Firefox_3.6",
     "metadata": {
-      "title": "개발자를 위한 Firefox 3.6",
-      "slug": "개발자를_위한_Firefox_3.6",
+      "title": "\uac1c\ubc1c\uc790\ub97c \uc704\ud55c Firefox 3.6",
+      "slug": "\uac1c\ubc1c\uc790\ub97c_\uc704\ud55c_Firefox_3.6",
       "locale": "ko",
       "parent": {
         "slug": "Mozilla/Firefox/Releases/3.6",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161945
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -9991,7 +10069,7 @@
     "guessed": "en",
     "slug": "Sandbox",
     "metadata": {
-      "title": "샌드박스",
+      "title": "\uc0cc\ub4dc\ubc15\uc2a4",
       "slug": "Sandbox",
       "locale": "ko",
       "parent": {
@@ -10047,7 +10125,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162338
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10063,7 +10142,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161936
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10071,7 +10151,7 @@
     "guessed": "ca",
     "slug": "Glossary",
     "metadata": {
-      "title": "용어 사전",
+      "title": "\uc6a9\uc5b4 \uc0ac\uc804",
       "slug": "Glossary",
       "locale": "ko",
       "parent": {
@@ -10149,10 +10229,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Glossary/스코프",
+    "slug": "Glossary/\uc2a4\ucf54\ud504",
     "metadata": {
-      "title": "스코프",
-      "slug": "Glossary/스코프",
+      "title": "\uc2a4\ucf54\ud504",
+      "slug": "Glossary/\uc2a4\ucf54\ud504",
       "locale": "ko",
       "parent": {
         "slug": "Glossary/Scope",
@@ -10165,10 +10245,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Glossary/동적_프로그래밍_언어",
+    "slug": "Glossary/\ub3d9\uc801_\ud504\ub85c\uadf8\ub798\ubc0d_\uc5b8\uc5b4",
     "metadata": {
-      "title": "동적 프로그래밍 언어",
-      "slug": "Glossary/동적_프로그래밍_언어",
+      "title": "\ub3d9\uc801 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+      "slug": "Glossary/\ub3d9\uc801_\ud504\ub85c\uadf8\ub798\ubc0d_\uc5b8\uc5b4",
       "locale": "ko",
       "parent": {
         "slug": "Glossary/Dynamic_programming_language",
@@ -10223,7 +10303,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162343
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10271,7 +10352,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161940
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10327,7 +10409,7 @@
     "guessed": "en",
     "slug": "Mercurial_FAQ",
     "metadata": {
-      "title": "Mercurial 사용",
+      "title": "Mercurial \uc0ac\uc6a9",
       "slug": "Mercurial_FAQ",
       "locale": "ko",
       "parent": {
@@ -10399,7 +10481,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161922
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10415,7 +10498,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161907
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10427,7 +10511,8 @@
       "slug": "JavaScript_C_Engine_Embedder's_Guide",
       "locale": "ko"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161921
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -10491,7 +10576,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583161906
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",

@@ -68,8 +68,8 @@ app.get("/api/v0/preview", (req, res) => {
         console.log("SRC!!:", el.attribs["src"]);
         // el.attribs["href"] = baseUrl + el.attribs["href"];
       });
-      console.log("SENDING BACK...");
-      console.log({ html: $.html() });
+      // console.log("SENDING BACK...");
+      // console.log({ html: $.html() });
       res.send($.html().trim());
     })
     .catch(ex => {

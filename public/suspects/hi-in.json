@@ -93,7 +93,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162380
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
@@ -125,6 +126,7 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583162381
   }
 ]
