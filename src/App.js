@@ -193,6 +193,9 @@ function ShowAllSuspects({ allSuspects }) {
   );
 }
 function Progressbar({ count, inception, size = "small" }) {
+  if (count > inception) {
+    throw new Error("The count can't be more than the inception");
+  }
   let p = Math.floor((100 * count) / inception);
   let title = `${p}% remaining (${count.toLocaleString()} left of ${inception.toLocaleString()})`;
   return (
