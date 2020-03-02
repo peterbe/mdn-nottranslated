@@ -102,7 +102,7 @@ function Head() {
               </h1>
               {atHome && (
                 <h2 className="subtitle is-4">
-                  Help us review localized MDN content that was never fully translated.
+                  Help us review localized content on MDN that was never fully translated.
                 </h2>
               )}
               {atHome ? (
