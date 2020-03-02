@@ -195,23 +195,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/instanceof",
-    "metadata": {
-      "title": "instanceof",
-      "slug": "Web/JavaScript/Reference/Operators/instanceof",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/instanceof",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "notFound": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Classes",
     "metadata": {
       "title": "Classes",
@@ -244,23 +227,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
-    "metadata": {
-      "title": "parseInt",
-      "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/parseInt",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "notFound": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Functions",
     "metadata": {
       "title": "Functions",
@@ -272,23 +238,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
-    "metadata": {
-      "title": "Method definitions",
-      "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions/Method_definitions",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "notFound": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -321,7 +270,8 @@
       }
     },
     "leaf": true,
-    "notFound": false
+    "notFound": false,
+    "_checked": 1583161043
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -338,23 +288,7 @@
       }
     },
     "leaf": true,
-    "notFound": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
-    "slug": "Glossary/Robots.txt",
-    "metadata": {
-      "title": "Robots.txt",
-      "slug": "Glossary/Robots.txt",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Glossary/Robots.txt",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "notFound": true
+    "notFound": false,
+    "_checked": 1583161044
   }
 ]
