@@ -3,10 +3,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Project:MDN/অবদান/Tagging_standards",
+    "slug": "Project:MDN/\u0985\u09ac\u09a6\u09be\u09a8/Tagging_standards",
     "metadata": {
-      "title": "MDN এ ট্যাগ করার আদর্শরীতি",
-      "slug": "Project:MDN/অবদান/Tagging_standards",
+      "title": "MDN \u098f \u099f\u09cd\u09af\u09be\u0997 \u0995\u09b0\u09be\u09b0 \u0986\u09a6\u09b0\u09cd\u09b6\u09b0\u09c0\u09a4\u09bf",
+      "slug": "Project:MDN/\u0985\u09ac\u09a6\u09be\u09a8/Tagging_standards",
       "locale": "bn",
       "parent": {
         "slug": "MDN/Contribute/Howto/Tag",
@@ -19,17 +19,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Project:MDN/অবদান/Planning",
+    "slug": "Project:MDN/\u0985\u09ac\u09a6\u09be\u09a8/Planning",
     "metadata": {
-      "title": "ডকুমেন্টেশন, পরিকল্পনা এবং ট্র্যাকিং",
-      "slug": "Project:MDN/অবদান/Planning",
+      "title": "\u09a1\u0995\u09c1\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b6\u09a8, \u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be \u098f\u09ac\u0982 \u099f\u09cd\u09b0\u09cd\u09af\u09be\u0995\u09bf\u0982",
+      "slug": "Project:MDN/\u0985\u09ac\u09a6\u09be\u09a8/Planning",
       "locale": "bn",
       "parent": {
         "slug": "Archive/Meta_docs/Planning",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252345
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -53,7 +54,7 @@
     "guessed": "en",
     "slug": "Project:MDN/Style_guide/Sample_app_coding_guidelines",
     "metadata": {
-      "title": "অ্যাপ লেখার নমুনা নির্দেশিকা",
+      "title": "\u0985\u09cd\u09af\u09be\u09aa \u09b2\u09c7\u0996\u09be\u09b0 \u09a8\u09ae\u09c1\u09a8\u09be \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09bf\u0995\u09be",
       "slug": "Project:MDN/Style_guide/Sample_app_coding_guidelines",
       "locale": "bn",
       "parent": {
@@ -69,7 +70,7 @@
     "guessed": "en",
     "slug": "Learn",
     "metadata": {
-      "title": "Web কে শিখুন",
+      "title": "Web \u0995\u09c7 \u09b6\u09bf\u0996\u09c1\u09a8",
       "slug": "Learn",
       "locale": "bn",
       "parent": {
@@ -85,7 +86,7 @@
     "guessed": "en",
     "slug": "Learn/How_to_contribute",
     "metadata": {
-      "title": "কিভাবে MDN এর শিক্ষণীয় বিষয় অংশে অবদান রাখা যায়",
+      "title": "\u0995\u09bf\u09ad\u09be\u09ac\u09c7 MDN \u098f\u09b0 \u09b6\u09bf\u0995\u09cd\u09b7\u09a3\u09c0\u09df \u09ac\u09bf\u09b7\u09df \u0985\u0982\u09b6\u09c7 \u0985\u09ac\u09a6\u09be\u09a8 \u09b0\u09be\u0996\u09be \u09af\u09be\u09df",
       "slug": "Learn/How_to_contribute",
       "locale": "bn",
       "parent": {
@@ -93,7 +94,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252368
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -147,17 +149,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Learn/Getting_started_with_the_web/এইচটিএমএল_এর_মূলসূত্র",
+    "slug": "Learn/Getting_started_with_the_web/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u098f\u09b0_\u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
     "metadata": {
-      "title": "এইচটিএমএল এর মূলসূত্র",
-      "slug": "Learn/Getting_started_with_the_web/এইচটিএমএল_এর_মূলসূত্র",
+      "title": "\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2 \u098f\u09b0 \u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
+      "slug": "Learn/Getting_started_with_the_web/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u098f\u09b0_\u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
       "locale": "bn",
       "parent": {
         "slug": "Learn/Getting_started_with_the_web/HTML_basics",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252344
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -205,7 +208,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252334
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -229,7 +233,7 @@
     "guessed": "en",
     "slug": "Learn/JavaScript/First_steps/Math",
     "metadata": {
-      "title": "Basic math in JavaScript — numbers and operators",
+      "title": "Basic math in JavaScript \u2014 numbers and operators",
       "slug": "Learn/JavaScript/First_steps/Math",
       "locale": "bn",
       "parent": {
@@ -245,7 +249,7 @@
     "guessed": "en",
     "slug": "Learn/JavaScript/First_steps/Variables",
     "metadata": {
-      "title": "Storing the information you need — Variables",
+      "title": "Storing the information you need \u2014 Variables",
       "slug": "Learn/JavaScript/First_steps/Variables",
       "locale": "bn",
       "parent": {
@@ -253,7 +257,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252352
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -269,7 +274,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252365
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -277,7 +283,7 @@
     "guessed": "en",
     "slug": "Tools",
     "metadata": {
-      "title": "ফায়ারফক্স ডেভেলপার টুল",
+      "title": "\u09ab\u09be\u09df\u09be\u09b0\u09ab\u0995\u09cd\u09b8 \u09a1\u09c7\u09ad\u09c7\u09b2\u09aa\u09be\u09b0 \u099f\u09c1\u09b2",
       "slug": "Tools",
       "locale": "bn",
       "parent": {
@@ -291,33 +297,35 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Tools/টুলস_টুলবক্স",
+    "slug": "Tools/\u099f\u09c1\u09b2\u09b8_\u099f\u09c1\u09b2\u09ac\u0995\u09cd\u09b8",
     "metadata": {
-      "title": "টুলবক্স",
-      "slug": "Tools/টুলস_টুলবক্স",
+      "title": "\u099f\u09c1\u09b2\u09ac\u0995\u09cd\u09b8",
+      "slug": "Tools/\u099f\u09c1\u09b2\u09b8_\u099f\u09c1\u09b2\u09ac\u0995\u09cd\u09b8",
       "locale": "bn",
       "parent": {
         "slug": "Tools/Tools_Toolbox",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252356
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Tools/কীবোর্ড_শর্টকাট",
+    "slug": "Tools/\u0995\u09c0\u09ac\u09cb\u09b0\u09cd\u09a1_\u09b6\u09b0\u09cd\u099f\u0995\u09be\u099f",
     "metadata": {
-      "title": "কীবোর্ড শর্টকাট সমূহ",
-      "slug": "Tools/কীবোর্ড_শর্টকাট",
+      "title": "\u0995\u09c0\u09ac\u09cb\u09b0\u09cd\u09a1 \u09b6\u09b0\u09cd\u099f\u0995\u09be\u099f \u09b8\u09ae\u09c2\u09b9",
+      "slug": "Tools/\u0995\u09c0\u09ac\u09cb\u09b0\u09cd\u09a1_\u09b6\u09b0\u09cd\u099f\u0995\u09be\u099f",
       "locale": "bn",
       "parent": {
         "slug": "Tools/Keyboard_shortcuts",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252349
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -373,7 +381,7 @@
     "guessed": "en",
     "slug": "Tools/Debugger",
     "metadata": {
-      "title": "ডিবাগার",
+      "title": "\u09a1\u09bf\u09ac\u09be\u0997\u09be\u09b0",
       "slug": "Tools/Debugger",
       "locale": "bn",
       "parent": {
@@ -381,7 +389,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252335
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -389,7 +398,7 @@
     "guessed": "en",
     "slug": "Tools/Web_Console",
     "metadata": {
-      "title": "ওয়েব কনসোল",
+      "title": "\u0993\u09df\u09c7\u09ac \u0995\u09a8\u09b8\u09cb\u09b2",
       "slug": "Tools/Web_Console",
       "locale": "bn",
       "parent": {
@@ -397,7 +406,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252351
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -405,7 +415,7 @@
     "guessed": "en",
     "slug": "Tools/Performance",
     "metadata": {
-      "title": "পারফরম্যান্স",
+      "title": "\u09aa\u09be\u09b0\u09ab\u09b0\u09ae\u09cd\u09af\u09be\u09a8\u09cd\u09b8",
       "slug": "Tools/Performance",
       "locale": "bn",
       "parent": {
@@ -419,10 +429,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Tools/স্ক্র্যাচপ্যাড",
+    "slug": "Tools/\u09b8\u09cd\u0995\u09cd\u09b0\u09cd\u09af\u09be\u099a\u09aa\u09cd\u09af\u09be\u09a1",
     "metadata": {
-      "title": "স্ক্র্যাচপ্যাড",
-      "slug": "Tools/স্ক্র্যাচপ্যাড",
+      "title": "\u09b8\u09cd\u0995\u09cd\u09b0\u09cd\u09af\u09be\u099a\u09aa\u09cd\u09af\u09be\u09a1",
+      "slug": "Tools/\u09b8\u09cd\u0995\u09cd\u09b0\u09cd\u09af\u09be\u099a\u09aa\u09cd\u09af\u09be\u09a1",
       "locale": "bn",
       "parent": {
         "slug": "Tools/Scratchpad",
@@ -435,10 +445,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Tools/ত্রিমাত্রিক_দর্শন",
+    "slug": "Tools/\u09a4\u09cd\u09b0\u09bf\u09ae\u09be\u09a4\u09cd\u09b0\u09bf\u0995_\u09a6\u09b0\u09cd\u09b6\u09a8",
     "metadata": {
-      "title": "ত্রিমাত্রিক দর্শন",
-      "slug": "Tools/ত্রিমাত্রিক_দর্শন",
+      "title": "\u09a4\u09cd\u09b0\u09bf\u09ae\u09be\u09a4\u09cd\u09b0\u09bf\u0995 \u09a6\u09b0\u09cd\u09b6\u09a8",
+      "slug": "Tools/\u09a4\u09cd\u09b0\u09bf\u09ae\u09be\u09a4\u09cd\u09b0\u09bf\u0995_\u09a6\u09b0\u09cd\u09b6\u09a8",
       "locale": "bn",
       "parent": {
         "slug": "Tools/3D_View",
@@ -453,7 +463,7 @@
     "guessed": "en",
     "slug": "Zones",
     "metadata": {
-      "title": "MDN অঞ্চল",
+      "title": "MDN \u0985\u099e\u09cd\u099a\u09b2",
       "slug": "Zones",
       "locale": "bn",
       "parent": {
@@ -469,7 +479,7 @@
     "guessed": "en",
     "slug": "Project:en/Project:How_to_Help",
     "metadata": {
-      "title": "MDN:কিভাবে সাহায্য করবো",
+      "title": "MDN:\u0995\u09bf\u09ad\u09be\u09ac\u09c7 \u09b8\u09be\u09b9\u09be\u09af\u09cd\u09af \u0995\u09b0\u09ac\u09cb",
       "slug": "Project:en/Project:How_to_Help",
       "locale": "bn",
       "parent": {
@@ -477,7 +487,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252362
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -485,7 +496,7 @@
     "guessed": "en",
     "slug": "Project:Localization_Projects",
     "metadata": {
-      "title": "লোকালাইজেশন প্রজেক্টস",
+      "title": "\u09b2\u09cb\u0995\u09be\u09b2\u09be\u0987\u099c\u09c7\u09b6\u09a8 \u09aa\u09cd\u09b0\u099c\u09c7\u0995\u09cd\u099f\u09b8",
       "slug": "Project:Localization_Projects",
       "locale": "bn",
       "parent": {
@@ -517,7 +528,7 @@
     "guessed": "en",
     "slug": "Web_development/Historical_artifacts_to_avoid",
     "metadata": {
-      "title": "প্রত্নতাত্ত্বিক না হয়ে ডেভেলপার হই!",
+      "title": "\u09aa\u09cd\u09b0\u09a4\u09cd\u09a8\u09a4\u09be\u09a4\u09cd\u09a4\u09cd\u09ac\u09bf\u0995 \u09a8\u09be \u09b9\u09df\u09c7 \u09a1\u09c7\u09ad\u09c7\u09b2\u09aa\u09be\u09b0 \u09b9\u0987!",
       "slug": "Web_development/Historical_artifacts_to_avoid",
       "locale": "bn",
       "parent": {
@@ -525,7 +536,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252355
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -533,7 +545,7 @@
     "guessed": "en",
     "slug": "Web_Development/Introduction_to_Web_development",
     "metadata": {
-      "title": "ওয়েব ডেভেলপমেন্ট পরিচিতি",
+      "title": "\u0993\u09df\u09c7\u09ac \u09a1\u09c7\u09ad\u09c7\u09b2\u09aa\u09ae\u09c7\u09a8\u09cd\u099f \u09aa\u09b0\u09bf\u099a\u09bf\u09a4\u09bf",
       "slug": "Web_Development/Introduction_to_Web_development",
       "locale": "bn",
       "parent": {
@@ -563,26 +575,27 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/Guide/CSS/সিএসএস_গ্রাডিয়্যান্ট_এর_ব্যবহার",
+    "slug": "Web/Guide/CSS/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u0997\u09cd\u09b0\u09be\u09a1\u09bf\u09af\u09bc\u09cd\u09af\u09be\u09a8\u09cd\u099f_\u098f\u09b0_\u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
     "metadata": {
-      "title": "সিএসএস গ্রাডিয়্যান্ট এর ব্যবহার",
-      "slug": "Web/Guide/CSS/সিএসএস_গ্রাডিয়্যান্ট_এর_ব্যবহার",
+      "title": "\u09b8\u09bf\u098f\u09b8\u098f\u09b8 \u0997\u09cd\u09b0\u09be\u09a1\u09bf\u09df\u09cd\u09af\u09be\u09a8\u09cd\u099f \u098f\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
+      "slug": "Web/Guide/CSS/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u0997\u09cd\u09b0\u09be\u09a1\u09bf\u09af\u09bc\u09cd\u09af\u09be\u09a8\u09cd\u099f_\u098f\u09b0_\u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
       "locale": "bn",
       "parent": {
         "slug": "Web/CSS/CSS_Images/Using_CSS_gradients",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252380
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/Guide/HTML/HTML5_ডকুমেন্টের_সেকশন_এবং_আউটলাইন",
+    "slug": "Web/Guide/HTML/HTML5_\u09a1\u0995\u09c1\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b0_\u09b8\u09c7\u0995\u09b6\u09a8_\u098f\u09ac\u0982_\u0986\u0989\u099f\u09b2\u09be\u0987\u09a8",
     "metadata": {
-      "title": "HTML5 ডকুমেন্টের সেকশন এবং আউটলাইন",
-      "slug": "Web/Guide/HTML/HTML5_ডকুমেন্টের_সেকশন_এবং_আউটলাইন",
+      "title": "HTML5 \u09a1\u0995\u09c1\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b0 \u09b8\u09c7\u0995\u09b6\u09a8 \u098f\u09ac\u0982 \u0986\u0989\u099f\u09b2\u09be\u0987\u09a8",
+      "slug": "Web/Guide/HTML/HTML5_\u09a1\u0995\u09c1\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b0_\u09b8\u09c7\u0995\u09b6\u09a8_\u098f\u09ac\u0982_\u0986\u0989\u099f\u09b2\u09be\u0987\u09a8",
       "locale": "bn",
       "parent": {
         "slug": "Web/Guide/HTML/Using_HTML_sections_and_outlines",
@@ -621,16 +634,17 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252378
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/Guide/HTML/এইচটিএমএল_ফর্ম",
+    "slug": "Web/Guide/HTML/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u09ab\u09b0\u09cd\u09ae",
     "metadata": {
-      "title": "এইচটিএমএল ফর্ম",
-      "slug": "Web/Guide/HTML/এইচটিএমএল_ফর্ম",
+      "title": "\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2 \u09ab\u09b0\u09cd\u09ae",
+      "slug": "Web/Guide/HTML/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u09ab\u09b0\u09cd\u09ae",
       "locale": "bn",
       "parent": {
         "slug": "Learn/HTML/Forms/HTML5_updates",
@@ -709,7 +723,7 @@
     "guessed": "en",
     "slug": "Web/Guide/Events/Creating_and_triggering_events",
     "metadata": {
-      "title": "ইভেন্ট তৈরি এবং ট্রিগার করা",
+      "title": "\u0987\u09ad\u09c7\u09a8\u09cd\u099f \u09a4\u09c8\u09b0\u09bf \u098f\u09ac\u0982 \u099f\u09cd\u09b0\u09bf\u0997\u09be\u09b0 \u0995\u09b0\u09be",
       "slug": "Web/Guide/Events/Creating_and_triggering_events",
       "locale": "bn",
       "parent": {
@@ -733,16 +747,17 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252358
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/CSS/লিখন-বিন্যাস",
+    "slug": "Web/CSS/\u09b2\u09bf\u0996\u09a8-\u09ac\u09bf\u09a8\u09cd\u09af\u09be\u09b8",
     "metadata": {
-      "title": "লিখন-বিন্যাস",
-      "slug": "Web/CSS/লিখন-বিন্যাস",
+      "title": "\u09b2\u09bf\u0996\u09a8-\u09ac\u09bf\u09a8\u09cd\u09af\u09be\u09b8",
+      "slug": "Web/CSS/\u09b2\u09bf\u0996\u09a8-\u09ac\u09bf\u09a8\u09cd\u09af\u09be\u09b8",
       "locale": "bn",
       "parent": {
         "slug": "Web/CSS/text-align",
@@ -757,7 +772,7 @@
     "guessed": "en",
     "slug": "Web/CSS/line-height",
     "metadata": {
-      "title": "লাইন-হাইট",
+      "title": "\u09b2\u09be\u0987\u09a8-\u09b9\u09be\u0987\u099f",
       "slug": "Web/CSS/line-height",
       "locale": "bn",
       "parent": {
@@ -851,26 +866,27 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Animations/সিএসএস_এনিমেশন",
+    "slug": "Web/CSS/CSS_Animations/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u098f\u09a8\u09bf\u09ae\u09c7\u09b6\u09a8",
     "metadata": {
-      "title": "সিএসএস এনিমেশন ব্যবহার করা",
-      "slug": "Web/CSS/CSS_Animations/সিএসএস_এনিমেশন",
+      "title": "\u09b8\u09bf\u098f\u09b8\u098f\u09b8 \u098f\u09a8\u09bf\u09ae\u09c7\u09b6\u09a8 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09be",
+      "slug": "Web/CSS/CSS_Animations/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u098f\u09a8\u09bf\u09ae\u09c7\u09b6\u09a8",
       "locale": "bn",
       "parent": {
         "slug": "Web/CSS/CSS_Animations/Using_CSS_animations",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252370
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/CSS/Getting_Started/লিস্ত",
+    "slug": "Web/CSS/Getting_Started/\u09b2\u09bf\u09b8\u09cd\u09a4",
     "metadata": {
-      "title": "লিস্ট",
-      "slug": "Web/CSS/Getting_Started/লিস্ত",
+      "title": "\u09b2\u09bf\u09b8\u09cd\u099f",
+      "slug": "Web/CSS/Getting_Started/\u09b2\u09bf\u09b8\u09cd\u09a4",
       "locale": "bn",
       "parent": {
         "slug": "Web/Guide/CSS/Getting_started/Lists",
@@ -885,7 +901,7 @@
     "guessed": "en",
     "slug": "Web/CSS/Getting_Started/Boxes",
     "metadata": {
-      "title": "বক্সসমূহ",
+      "title": "\u09ac\u0995\u09cd\u09b8\u09b8\u09ae\u09c2\u09b9",
       "slug": "Web/CSS/Getting_Started/Boxes",
       "locale": "bn",
       "parent": {
@@ -901,7 +917,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Element",
     "metadata": {
-      "title": "HTML এলিমেন্ট রেফারেন্স",
+      "title": "HTML \u098f\u09b2\u09bf\u09ae\u09c7\u09a8\u09cd\u099f \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8",
       "slug": "Web/HTML/Element",
       "locale": "bn",
       "parent": {
@@ -925,7 +941,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252336
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1005,7 +1022,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252348
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1021,7 +1039,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252359
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1061,7 +1080,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Element/b",
     "metadata": {
-      "title": "সামারি",
+      "title": "\u09b8\u09be\u09ae\u09be\u09b0\u09bf",
       "slug": "Web/HTML/Element/b",
       "locale": "bn",
       "parent": {
@@ -1085,7 +1104,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252332
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1093,7 +1113,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Canvas/Drawing_graphics_with_canvas",
     "metadata": {
-      "title": "ক্যানভাস ব্যবহার করে গ্রাফিক্স আঁকা",
+      "title": "\u0995\u09cd\u09af\u09be\u09a8\u09ad\u09be\u09b8 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7 \u0997\u09cd\u09b0\u09be\u09ab\u09bf\u0995\u09cd\u09b8 \u0986\u0981\u0995\u09be",
       "slug": "Web/HTML/Canvas/Drawing_graphics_with_canvas",
       "locale": "bn",
       "parent": {
@@ -1101,7 +1121,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252373
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1109,7 +1130,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Attributes",
     "metadata": {
-      "title": "HTML অ্যাট্রিবিউট রেফারেন্স",
+      "title": "HTML \u0985\u09cd\u09af\u09be\u099f\u09cd\u09b0\u09bf\u09ac\u09bf\u0989\u099f \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8",
       "slug": "Web/HTML/Attributes",
       "locale": "bn",
       "parent": {
@@ -1157,7 +1178,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Global_attributes/title",
     "metadata": {
-      "title": "টাইটেল",
+      "title": "\u099f\u09be\u0987\u099f\u09c7\u09b2",
       "slug": "Web/HTML/Global_attributes/title",
       "locale": "bn",
       "parent": {
@@ -1165,7 +1186,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252331
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1189,7 +1211,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Global_attributes/style",
     "metadata": {
-      "title": "স্টাইল",
+      "title": "\u09b8\u09cd\u099f\u09be\u0987\u09b2",
       "slug": "Web/HTML/Global_attributes/style",
       "locale": "bn",
       "parent": {
@@ -1197,7 +1219,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252382
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1213,7 +1236,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252360
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1221,7 +1245,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Global_attributes/dropzone",
     "metadata": {
-      "title": "ড্রপজোন",
+      "title": "\u09a1\u09cd\u09b0\u09aa\u099c\u09cb\u09a8",
       "slug": "Web/HTML/Global_attributes/dropzone",
       "locale": "bn",
       "parent": {
@@ -1229,7 +1253,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252376
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1253,7 +1278,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Global_attributes/class",
     "metadata": {
-      "title": "ক্লাস",
+      "title": "\u0995\u09cd\u09b2\u09be\u09b8",
       "slug": "Web/HTML/Global_attributes/class",
       "locale": "bn",
       "parent": {
@@ -1261,7 +1286,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252338
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1277,7 +1303,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252374
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1285,7 +1312,7 @@
     "guessed": "en",
     "slug": "Web/HTML/Controlling_spell_checking_in_HTML_forms",
     "metadata": {
-      "title": "এইচ টি এম এল এ স্পেল চেকিং কন্ট্রোলিং",
+      "title": "\u098f\u0987\u099a \u099f\u09bf \u098f\u09ae \u098f\u09b2 \u098f \u09b8\u09cd\u09aa\u09c7\u09b2 \u099a\u09c7\u0995\u09bf\u0982 \u0995\u09a8\u09cd\u099f\u09cd\u09b0\u09cb\u09b2\u09bf\u0982",
       "slug": "Web/HTML/Controlling_spell_checking_in_HTML_forms",
       "locale": "bn",
       "parent": {
@@ -1341,7 +1368,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252367
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1357,7 +1385,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252346
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1373,7 +1402,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252371
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1397,7 +1427,7 @@
     "guessed": "en",
     "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
     "metadata": {
-      "title": "ডায়নামিক স্টাইলিং তথ্য ব্যবহার",
+      "title": "\u09a1\u09be\u09df\u09a8\u09be\u09ae\u09bf\u0995 \u09b8\u09cd\u099f\u09be\u0987\u09b2\u09bf\u0982 \u09a4\u09a5\u09cd\u09af \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
       "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
       "locale": "bn",
       "parent": {
@@ -1405,7 +1435,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252342
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1413,7 +1444,7 @@
     "guessed": "en",
     "slug": "Web/Tutorials",
     "metadata": {
-      "title": "টিউটোরিয়াল",
+      "title": "\u099f\u09bf\u0989\u099f\u09cb\u09b0\u09bf\u09df\u09be\u09b2",
       "slug": "Web/Tutorials",
       "locale": "bn",
       "parent": {
@@ -1429,7 +1460,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Guide",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট গাইড",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u0997\u09be\u0987\u09a1",
       "slug": "Web/JavaScript/Guide",
       "locale": "bn",
       "parent": {
@@ -1461,7 +1492,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
     "metadata": {
-      "title": "Control flow এবং error handling",
+      "title": "Control flow \u098f\u09ac\u0982 error handling",
       "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
       "locale": "bn",
       "parent": {
@@ -1475,17 +1506,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/ভূমিকা",
+    "slug": "Web/JavaScript/Guide/\u09ad\u09c2\u09ae\u09bf\u0995\u09be",
     "metadata": {
-      "title": "ভূমিকা",
-      "slug": "Web/JavaScript/Guide/ভূমিকা",
+      "title": "\u09ad\u09c2\u09ae\u09bf\u0995\u09be",
+      "slug": "Web/JavaScript/Guide/\u09ad\u09c2\u09ae\u09bf\u0995\u09be",
       "locale": "bn",
       "parent": {
         "slug": "Web/JavaScript/Guide/Introduction",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252363
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1493,7 +1525,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/New_in_JavaScript",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্টে নতুন",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f\u09c7 \u09a8\u09a4\u09c1\u09a8",
       "slug": "Web/JavaScript/New_in_JavaScript",
       "locale": "bn",
       "parent": {
@@ -1507,10 +1539,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/১.৩",
+    "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09e9",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট ১.৩ এ নতুন",
-      "slug": "Web/JavaScript/New_in_JavaScript/১.৩",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09e9 \u098f \u09a8\u09a4\u09c1\u09a8",
+      "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09e9",
       "locale": "bn",
       "parent": {
         "slug": "Web/JavaScript/New_in_JavaScript/1.3",
@@ -1523,10 +1555,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/১.৮.৫",
+    "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09ee.\u09eb",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট ১.৮.৫ এ যা নতুন",
-      "slug": "Web/JavaScript/New_in_JavaScript/১.৮.৫",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09ee.\u09eb \u098f \u09af\u09be \u09a8\u09a4\u09c1\u09a8",
+      "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09ee.\u09eb",
       "locale": "bn",
       "parent": {
         "slug": "Web/JavaScript/New_in_JavaScript/1.8.5",
@@ -1541,7 +1573,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/New_in_JavaScript/1.2",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট ১.২ এ নতুন",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09e8 \u098f \u09a8\u09a4\u09c1\u09a8",
       "slug": "Web/JavaScript/New_in_JavaScript/1.2",
       "locale": "bn",
       "parent": {
@@ -1557,7 +1589,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/JavaScript_technologies_overview",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট প্রযুক্তির সংক্ষিপ্ত বিবরণ",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf\u09b0 \u09b8\u0982\u0995\u09cd\u09b7\u09bf\u09aa\u09cd\u09a4 \u09ac\u09bf\u09ac\u09b0\u09a3",
       "slug": "Web/JavaScript/JavaScript_technologies_overview",
       "locale": "bn",
       "parent": {
@@ -1571,17 +1603,18 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/JavaScript/শেল",
+    "slug": "Web/JavaScript/\u09b6\u09c7\u09b2",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট  শেল",
-      "slug": "Web/JavaScript/শেল",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f  \u09b6\u09c7\u09b2",
+      "slug": "Web/JavaScript/\u09b6\u09c7\u09b2",
       "locale": "bn",
       "parent": {
         "slug": "Web/JavaScript/Shells",
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252354
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1605,7 +1638,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Memory_Management",
     "metadata": {
-      "title": "মেমোরি ব্যবস্থাপনা",
+      "title": "\u09ae\u09c7\u09ae\u09cb\u09b0\u09bf \u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be\u09aa\u09a8\u09be",
       "slug": "Web/JavaScript/Memory_Management",
       "locale": "bn",
       "parent": {
@@ -1637,7 +1670,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট রেফারেন্স",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8",
       "slug": "Web/JavaScript/Reference",
       "locale": "bn",
       "parent": {
@@ -1653,7 +1686,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট অপারেটর সমুহ",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u0985\u09aa\u09be\u09b0\u09c7\u099f\u09b0 \u09b8\u09ae\u09c1\u09b9",
       "slug": "Web/JavaScript/Reference/Operators",
       "locale": "bn",
       "parent": {
@@ -1685,7 +1718,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/new.target",
     "metadata": {
-      "title": "new.target (নিউ.টার্গেট )",
+      "title": "new.target (\u09a8\u09bf\u0989.\u099f\u09be\u09b0\u09cd\u0997\u09c7\u099f )",
       "slug": "Web/JavaScript/Reference/Operators/new.target",
       "locale": "bn",
       "parent": {
@@ -1701,7 +1734,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/About",
     "metadata": {
-      "title": "এই রেফারেন্স সম্পর্কে",
+      "title": "\u098f\u0987 \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8 \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7",
       "slug": "Web/JavaScript/Reference/About",
       "locale": "bn",
       "parent": {
@@ -1709,7 +1742,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252379
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1717,7 +1751,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/statements",
     "metadata": {
-      "title": "জাভাস্ক্রিপ্ট স্টেটমেন্ট সমুহ",
+      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09b8\u09cd\u099f\u09c7\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09b8\u09ae\u09c1\u09b9",
       "slug": "Web/JavaScript/Reference/statements",
       "locale": "bn",
       "parent": {
@@ -1741,7 +1775,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252339
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1797,7 +1832,7 @@
     "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/String",
     "metadata": {
-      "title": "স্ট্রিং",
+      "title": "\u09b8\u09cd\u099f\u09cd\u09b0\u09bf\u0982",
       "slug": "Web/JavaScript/Reference/Global_Objects/String",
       "locale": "bn",
       "parent": {
@@ -1805,7 +1840,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252383
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1845,7 +1881,7 @@
     "guessed": "en",
     "slug": "Web/Reference/API",
     "metadata": {
-      "title": "ওয়েব এপিআই রেফারেন্স",
+      "title": "\u0993\u09df\u09c7\u09ac \u098f\u09aa\u09bf\u0986\u0987 \u09b0\u09c7\u09ab\u09be\u09b0\u09c7\u09a8\u09cd\u09b8",
       "slug": "Web/Reference/API",
       "locale": "bn",
       "parent": {
@@ -1853,7 +1889,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252341
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1861,7 +1898,7 @@
     "guessed": "en",
     "slug": "What_to_do_and_what_not_to_do_in_Bugzilla",
     "metadata": {
-      "title": "বাগজিলায় কি করা যাবে এবং কি করা যাবে না",
+      "title": "\u09ac\u09be\u0997\u099c\u09bf\u09b2\u09be\u09df \u0995\u09bf \u0995\u09b0\u09be \u09af\u09be\u09ac\u09c7 \u098f\u09ac\u0982 \u0995\u09bf \u0995\u09b0\u09be \u09af\u09be\u09ac\u09c7 \u09a8\u09be",
       "slug": "What_to_do_and_what_not_to_do_in_Bugzilla",
       "locale": "bn",
       "parent": {
@@ -1869,7 +1906,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583252375
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1923,10 +1961,10 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "ওয়েবএপিআই",
+    "slug": "\u0993\u09af\u09bc\u09c7\u09ac\u098f\u09aa\u09bf\u0986\u0987",
     "metadata": {
-      "title": "ওয়েব এপিআই",
-      "slug": "ওয়েবএপিআই",
+      "title": "\u0993\u09df\u09c7\u09ac \u098f\u09aa\u09bf\u0986\u0987",
+      "slug": "\u0993\u09af\u09bc\u09c7\u09ac\u098f\u09aa\u09bf\u0986\u0987",
       "locale": "bn",
       "parent": {
         "slug": "WebAPI",

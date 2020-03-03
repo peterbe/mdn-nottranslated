@@ -46,7 +46,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583161698
+    "_checked": 1583252964
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -100,23 +100,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
     "locale": "el",
     "guessed": "en",
-    "slug": "Web/Guide",
-    "metadata": {
-      "title": "Web developer guide",
-      "slug": "Web/Guide",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/Guide",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161701
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
     "slug": "Web/CSS",
     "metadata": {
       "title": "CSS",
@@ -128,7 +111,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583161700
+    "_checked": 1583252967
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -161,23 +144,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
-    "slug": "Web/API/Geolocation/Using_geolocation",
-    "metadata": {
-      "title": "patra",
-      "slug": "Web/API/Geolocation/Using_geolocation",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/API/Geolocation_API",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161695
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -231,23 +197,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
     "locale": "el",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
-    "metadata": {
-      "title": "Array.prototype.every()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
-      "locale": "el",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/every",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161696
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Functions",
     "metadata": {
       "title": "Functions",
@@ -291,6 +240,6 @@
       }
     },
     "leaf": true,
-    "_checked": 1583161699
+    "_checked": 1583252966
   }
 ]

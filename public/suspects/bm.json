@@ -67,22 +67,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
     "locale": "bm",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-    "metadata": {
-      "title": "Array",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-      "locale": "bm",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
-    "locale": "bm",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Errors",
     "metadata": {
       "title": "JavaScript error reference",
@@ -94,21 +78,5 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bm",
-    "locale": "bm",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
-    "metadata": {
-      "title": "Error: Permission denied to access property \"x\"",
-      "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
-      "locale": "bm",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors/Property_access_denied",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
   }
 ]

@@ -16,9 +16,9 @@
       "English": "Bambara",
       "native": "Bamanankan"
     },
-    "count": 7,
+    "count": 5,
     "file": "bm.json",
-    "leafs": 2,
+    "leafs": 0,
     "inception": 7
   },
   {
@@ -115,9 +115,9 @@
       "English": "French",
       "native": "Français"
     },
-    "count": 135,
+    "count": 125,
     "file": "fr.json",
-    "leafs": 70,
+    "leafs": 60,
     "inception": 135
   },
   {
@@ -137,9 +137,9 @@
       "English": "Greek",
       "native": "Ελληνικά"
     },
-    "count": 18,
+    "count": 15,
     "file": "el.json",
-    "leafs": 6,
+    "leafs": 3,
     "inception": 18
   },
   {
