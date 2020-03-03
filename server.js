@@ -35,7 +35,7 @@ function download(uri) {
   if (parsed.pathname !== uri) {
     throw new Error("getting too nervous about the uri");
   }
-  console.log("FETCH:", u, encodeURI(u));
+  console.log("FETCH HTML:", u, encodeURI(u));
   return fetch(encodeURI(u)).then(r => {
     if (!r.ok) {
       console.log("THROW:", r.status);
@@ -44,6 +44,43 @@ function download(uri) {
     return r.text();
   });
 }
+
+function downloadMetadata(locale, slug) {
+  let uri = `/api/v1/doc/${locale}/${slug}`;
+  let u = baseUrl + uri;
+  let parsed = url.parse(u);
+
+  console.log("FETCH METADATA:", u, encodeURI(u));
+  return fetch(encodeURI(u)).then(r => {
+    if (!r.ok) {
+      console.log("THROW:", r.status);
+      throw new Error(r.status);
+    }
+    return r.json();
+  });
+}
+
+app.get("/api/v0/about", (req, res) => {
+  let { slug, locale } = req.query;
+  if (!slug) {
+    return res.status(400).send("no ?slug=...");
+  }
+  if (!locale) {
+    return res.status(400).send("no ?locale=...");
+  }
+  downloadMetadata(locale, slug)
+    .then(data => {
+      res.json(data);
+    })
+    .catch(ex => {
+      console.error("Failed to fetch or download", ex.toString());
+      if (ex.toString().includes("404")) {
+        res.status(404).send(`Page not found ${uri}`);
+      } else {
+        res.status(500).send(ex.toString());
+      }
+    });
+});
 
 app.get("/api/v0/preview", (req, res) => {
   let { uri } = req.query;
@@ -65,11 +102,12 @@ app.get("/api/v0/preview", (req, res) => {
         el.attribs["href"] = baseUrl + el.attribs["href"];
       });
       $("img[src]").each((i, el) => {
-        console.log("SRC!!:", el.attribs["src"]);
-        // el.attribs["href"] = baseUrl + el.attribs["href"];
+        if (el.attribs["src"].startsWith("/")) {
+          el.attribs["src"] = baseUrl + el.attribs["src"];
+        } else {
+          console.log("SRC!!:", el.attribs["src"]);
+        }
       });
-      // console.log("SENDING BACK...");
-      // console.log({ html: $.html() });
       res.send($.html().trim());
     })
     .catch(ex => {

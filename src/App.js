@@ -102,17 +102,18 @@ function Head() {
               </h1>
               {atHome && (
                 <h2 className="subtitle is-4">
-                  Help us review localized content on MDN that was never fully translated.
+                  Help us review localized content on MDN that was never fully
+                  translated.
                 </h2>
               )}
               {atHome ? (
                 <h3 className="subtitle is-5">
                   Over the years,{" "}
                   <a href="https://developer.mozilla.org">MDN Web Docs</a>
-                  ,unfortunately, accumulated a lot of localized content whose translation
-                  efforts started but never finished. Now, we have to get rid of
-                  these, but it’s hard to automate with confidence. So that’s
-                  where you come in.
+                  ,unfortunately, accumulated a lot of localized content whose
+                  translation efforts started but never finished. Now, we have
+                  to get rid of these, but it’s hard to automate with
+                  confidence. So that’s where you come in.
                 </h3>
               ) : (
                 <h3 className="subtitle is-5">
@@ -300,6 +301,35 @@ function Locale({ allSuspects, loading }) {
   }
 
   useEffect(() => {
+    let dismounted = false;
+    if (currentSuspect) {
+      if (!currentSuspect.lastModified) {
+        fetch(
+          `/api/v0/about?locale=${currentSuspect.locale}&slug=${currentSuspect.slug}`
+        ).then(r => {
+          if (r.ok) {
+            r.json().then(data => {
+              if (!dismounted && data.documentData?.lastModified) {
+                setCurrentSuspect(
+                  Object.assign(
+                    {
+                      lastModified: data.documentData.lastModified
+                    },
+                    currentSuspect
+                  )
+                );
+              }
+            });
+          }
+        });
+      }
+    }
+    return () => {
+      dismounted = true;
+    };
+  }, [currentSuspect]);
+
+  useEffect(() => {
     document.addEventListener("keydown", keyboardHandler);
     return () => {
       document.removeEventListener("keydown", keyboardHandler);
@@ -467,18 +497,38 @@ function PreviewIframeModal({ suspect, close }) {
           <iframe src={src} title={title} width={1200} height={800}></iframe>
         </section>
         <footer className="modal-card-foot">
-          <div className="buttons">
-            <button className="button" onClick={close}>
-              Close
-            </button>{" "}
-            <a
-              className="button is-primary "
-              target="_blank"
-              rel="noopener noreferrer"
-              href={deleteUrl}
-            >
-              Start deleting on Wiki
-            </a>{" "}
+          <div className="columns">
+            <div className="column">
+              <p>
+                {suspect.lastModified ? (
+                  <span>
+                    <b>Last modified</b> {suspect.lastModified}
+                  </span>
+                ) : (
+                  <small>fetching last modified...</small>
+                )}
+              </p>
+            </div>
+            <div className="column">
+              <div className="buttons">
+                <button className="button" onClick={close}>
+                  Close
+                </button>{" "}
+                <a
+                  className="button is-primary "
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={deleteUrl}
+                >
+                  Start deleting on Wiki
+                </a>{" "}
+              </div>
+            </div>
+            <div className="column">
+              <small>
+                Tip: You can navigate with the keyboard ⬅ and ➡ and ␛
+              </small>
+            </div>
           </div>
         </footer>
       </div>
@@ -505,15 +555,15 @@ function About() {
         getting rid of unfinished and severely incomplete attempts at
         translating documents. MDN is a Wiki and to translate a page, the very
         first thing the wiki does is to <i>clone</i>
-        the English (US) document and from there you can start overwriting the English
-        with whatever language you’re intending to translate it to. Over the years,
-        what we’ve come to discover is that a lot of these attempts are
-        incomplete.{" "}
+        the English (US) document and from there you can start overwriting the
+        English with whatever language you’re intending to translate it to. Over
+        the years, what we’ve come to discover is that a lot of these attempts
+        are incomplete.{" "}
         <b>
           The document is actually <i>not</i> translated
         </b>
-        . So, let’s figure out which documents are in an incomplate state so
-        we can delete them and make way for newer and better translations.
+        . So, let’s figure out which documents are in an incomplate state so we
+        can delete them and make way for newer and better translations.
       </p>
 
       <p style={{ textAlign: "center" }}>
@@ -524,8 +574,8 @@ function About() {
 
       <p>
         At the moment, this web app is just for <i>highlighting</i> which
-        documents are not translated. To do something about it, you need
-        to create an account on <code>wiki.developer.mozilla.org</code> and
+        documents are not translated. To do something about it, you need to
+        create an account on <code>wiki.developer.mozilla.org</code> and
         complete the translation. Perhaps this can change in the future.
       </p>
     </div>
