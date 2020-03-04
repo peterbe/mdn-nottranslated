@@ -5,9 +5,9 @@
       "English": "Arabic",
       "native": "عربي"
     },
-    "count": 127,
+    "count": 125,
     "file": "ar.json",
-    "leafs": 79,
+    "leafs": 77,
     "inception": 127
   },
   {
@@ -38,9 +38,9 @@
       "English": "Bulgarian",
       "native": "Български"
     },
-    "count": 52,
+    "count": 38,
     "file": "bg.json",
-    "leafs": 24,
+    "leafs": 10,
     "inception": 52
   },
   {
@@ -115,9 +115,9 @@
       "English": "French",
       "native": "Français"
     },
-    "count": 125,
+    "count": 120,
     "file": "fr.json",
-    "leafs": 60,
+    "leafs": 55,
     "inception": 135
   },
   {
@@ -126,9 +126,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 235,
+    "count": 232,
     "file": "de.json",
-    "leafs": 163,
+    "leafs": 160,
     "inception": 235
   },
   {
@@ -137,9 +137,9 @@
       "English": "Greek",
       "native": "Ελληνικά"
     },
-    "count": 15,
+    "count": 14,
     "file": "el.json",
-    "leafs": 3,
+    "leafs": 2,
     "inception": 18
   },
   {
@@ -159,9 +159,9 @@
       "English": "Hindi (India)",
       "native": "हिन्दी (भारत)"
     },
-    "count": 8,
+    "count": 7,
     "file": "hi-in.json",
-    "leafs": 2,
+    "leafs": 1,
     "inception": 8
   },
   {
@@ -192,9 +192,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 150,
+    "count": 149,
     "file": "it.json",
-    "leafs": 93,
+    "leafs": 92,
     "inception": 150
   },
   {
@@ -324,9 +324,9 @@
       "English": "Thai",
       "native": "ไทย"
     },
-    "count": 75,
+    "count": 54,
     "file": "th.json",
-    "leafs": 51,
+    "leafs": 30,
     "inception": 75
   },
   {
@@ -357,9 +357,9 @@
       "English": "Vietnamese",
       "native": "Tiếng Việt"
     },
-    "count": 122,
+    "count": 118,
     "file": "vi.json",
-    "leafs": 75,
+    "leafs": 71,
     "inception": 122
   }
 ]

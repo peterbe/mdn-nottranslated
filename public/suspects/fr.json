@@ -2,22 +2,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "en",
-    "slug": "XPCOM/Liaisons_de_langage/Components.Constructor",
-    "metadata": {
-      "title": "Components.Constructor",
-      "slug": "XPCOM/Liaisons_de_langage/Components.Constructor",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/XPCOM/Language_Bindings/Components.Constructor",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
     "guessed": "UNKNOWN",
     "slug": "Glossaire/Index",
     "metadata": {
@@ -132,22 +116,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video",
-    "metadata": {
-      "title": "Ajouter des l\u00e9gendes et des sous titres \u00e0 des vid\u00e9os HTML 5",
-      "slug": "Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Guide/Audio_and_video_delivery/Adding_captions_and_subtitles_to_HTML5_video",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
     "slug": "Web/Guide/DOM",
     "metadata": {
       "title": "Guides DOM pour d\u00e9veloppeurs",
@@ -208,7 +176,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583354043
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -534,7 +503,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583354042
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -787,22 +757,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/Document/namespaceURI",
-    "metadata": {
-      "title": "document.namespaceURI",
-      "slug": "Web/API/Document/namespaceURI",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Document/namespaceURI",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
     "slug": "Web/API/Document/onselectionchange",
     "metadata": {
       "title": "onselectionchange",
@@ -864,22 +818,6 @@
     },
     "leaf": true,
     "_checked": 1583161890
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/BroadcastChannel",
-    "metadata": {
-      "title": "BroadcastChannel",
-      "slug": "Web/API/BroadcastChannel",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/BroadcastChannel",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1355,7 +1293,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583354254
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1920,22 +1859,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "RDF_API",
-    "metadata": {
-      "title": "RDF API",
-      "slug": "RDF_API",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Mozilla/RDF_API",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
     "slug": "Jeux/Introduction_to_HTML5_Game_Gevelopment_(summary)",
     "metadata": {
       "title": "Introduction au d\u00e9veloppement de jeux HTML5 (r\u00e9sum\u00e9)",
@@ -1997,7 +1920,8 @@
         "locale": "en-US"
       }
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1583353839
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",

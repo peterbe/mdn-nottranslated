@@ -35,23 +35,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
     "locale": "el",
     "guessed": "en",
-    "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-    "metadata": {
-      "title": "Installing basic software",
-      "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-      "locale": "el",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252964
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
     "slug": "Learn/HTML",
     "metadata": {
       "title": "Learning HTML: Guides and tutorials",
@@ -111,7 +94,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252967
+    "_checked": 1583354427
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -240,6 +223,6 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252966
+    "_checked": 1583354425
   }
 ]

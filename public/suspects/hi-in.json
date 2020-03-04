@@ -82,23 +82,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
     "locale": "hi-IN",
-    "guessed": "en",
-    "slug": "Web/Apps/Design",
-    "metadata": {
-      "title": "Designing Open Web Apps",
-      "slug": "Web/Apps/Design",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Archive/Apps/Design",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252516
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
-    "locale": "hi-IN",
     "guessed": "ca",
     "slug": "Glossary",
     "metadata": {
@@ -127,6 +110,6 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252517
+    "_checked": 1583355312
   }
 ]
