@@ -126,9 +126,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 232,
+    "count": 226,
     "file": "de.json",
-    "leafs": 160,
+    "leafs": 154,
     "inception": 235
   },
   {
@@ -258,9 +258,9 @@
       "English": "Polish",
       "native": "Polski"
     },
-    "count": 298,
+    "count": 292,
     "file": "pl.json",
-    "leafs": 229,
+    "leafs": 223,
     "inception": 298
   },
   {
