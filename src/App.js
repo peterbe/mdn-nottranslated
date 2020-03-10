@@ -12,6 +12,8 @@ import "./index.scss";
 
 const TAGLINE = "Actually not translated on MDN?";
 
+const SUBSET_LENGTH = 25;
+
 function App() {
   let [allSuspects, setAllSuspects] = useState(null);
   let [loading, setLoading] = useState(false);
@@ -276,7 +278,7 @@ function Locale({ allSuspects, loading }) {
           }
         }
       });
-      setSuspectsSubset(subset.slice(0, 10));
+      setSuspectsSubset(subset.slice(0, SUBSET_LENGTH));
     }
   }, [suspects, seed]);
 
@@ -387,7 +389,7 @@ function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
     <div>
       <h3>There are {suspects.length} suspects in this locale</h3>
       <p>
-        Showing you 10 randomly selected ones.
+        Showing you {SUBSET_LENGTH} randomly selected ones.
         <br />
         Review one at a time and ask yourself{" "}
         <i>"Is this page still mostly all English?"</i>

@@ -225,9 +225,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 661,
+    "count": 660,
     "file": "ko.json",
-    "leafs": 544,
+    "leafs": 543,
     "inception": 661
   },
   {
@@ -247,9 +247,9 @@
       "English": "Persian",
       "native": "فارسی"
     },
-    "count": 76,
+    "count": 67,
     "file": "fa.json",
-    "leafs": 52,
+    "leafs": 43,
     "inception": 76
   },
   {
@@ -357,9 +357,9 @@
       "English": "Vietnamese",
       "native": "Tiếng Việt"
     },
-    "count": 118,
+    "count": 116,
     "file": "vi.json",
-    "leafs": 71,
+    "leafs": 69,
     "inception": 122
   }
 ]

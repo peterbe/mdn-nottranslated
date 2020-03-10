@@ -65,7 +65,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252233
+    "_checked": 1583844185
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -98,7 +98,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252204
+    "_checked": 1583844155
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -115,7 +115,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252202
+    "_checked": 1583844154
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -164,7 +164,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252222
+    "_checked": 1583844175
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -280,7 +280,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252221
+    "_checked": 1583844173
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -347,7 +347,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252235
+    "_checked": 1583844189
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -386,23 +386,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
     "locale": "fa",
     "guessed": "en",
-    "slug": "Web/CSS/::before",
-    "metadata": {
-      "title": "::before (:before)",
-      "slug": "Web/CSS/::before",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/CSS/::before",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252206
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
     "slug": "Web/CSS/Specificity",
     "metadata": {
       "title": "Specificity",
@@ -420,23 +403,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
     "locale": "fa",
     "guessed": "en",
-    "slug": "Web/CSS/\u0648\u0631\u0627\u062b\u062a",
-    "metadata": {
-      "title": "\u0648\u0631\u0627\u062b\u062a",
-      "slug": "Web/CSS/\u0648\u0631\u0627\u062b\u062a",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/CSS/inheritance",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252224
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
     "slug": "Web/CSS/::after",
     "metadata": {
       "title": "::after (:after)",
@@ -448,7 +414,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252213
+    "_checked": 1583844165
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -481,7 +447,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252230
+    "_checked": 1583844183
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -498,7 +464,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252208
+    "_checked": 1583844159
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -566,7 +532,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252216
+    "_checked": 1583844168
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -583,7 +549,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252229
+    "_checked": 1583844181
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -600,7 +566,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252212
+    "_checked": 1583844164
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -684,7 +650,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252214
+    "_checked": 1583844167
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -717,7 +683,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252209
+    "_checked": 1583844161
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -734,23 +700,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Web/API/Blob/Blob",
-    "metadata": {
-      "title": "Blob()",
-      "slug": "Web/API/Blob/Blob",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/API/Blob/Blob",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252218
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -839,23 +788,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
     "locale": "fa",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/Spread_syntax",
-    "metadata": {
-      "title": "\u0646\u0648\u0634\u062a\u0627\u0631 Spread",
-      "slug": "Web/JavaScript/Reference/Operators/Spread_syntax",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/Spread_syntax",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252220
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/new",
     "metadata": {
       "title": "\u0639\u0645\u0644\u06af\u0631 new \u062f\u0631 \u062c\u0627\u0648\u0627 \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a",
@@ -867,7 +799,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252228
+    "_checked": 1583844180
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -934,7 +866,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252210
+    "_checked": 1583844162
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -1016,7 +948,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583252225
+    "_checked": 1583844177
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -1033,40 +965,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
-    "metadata": {
-      "title": "Function.caller",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Function/caller",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252226
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Map",
-    "metadata": {
-      "title": "Map",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Map",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Map",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252205
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -1116,23 +1014,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
-    "metadata": {
-      "title": "TypeError: \"x\" is not a function",
-      "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252234
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -1188,23 +1069,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
     "locale": "fa",
     "guessed": "en",
-    "slug": "Midas/Security_preferences",
-    "metadata": {
-      "title": "Security preferences",
-      "slug": "Midas/Security_preferences",
-      "locale": "fa",
-      "parent": {
-        "slug": "Mozilla/Projects/Midas/Security_preferences",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252217
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
     "slug": "Glossary",
     "metadata": {
       "title": "Glossary",
@@ -1249,22 +1113,5 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Server-sent_events/Using_server-sent_events",
-    "metadata": {
-      "title": "Using server-sent events",
-      "slug": "Server-sent_events/Using_server-sent_events",
-      "locale": "fa",
-      "parent": {
-        "slug": "Web/API/Server-sent_events/Using_server-sent_events",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583252232
   }
 ]
