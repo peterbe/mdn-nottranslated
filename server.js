@@ -5,6 +5,7 @@ const express = require("express");
 const Sentry = require("@sentry/node");
 const cheerio = require("cheerio");
 const fetch = require("node-fetch");
+require("dotenv").config();
 
 const app = express();
 
