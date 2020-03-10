@@ -75,7 +75,7 @@ app.get("/api/v0/about", (req, res) => {
     .catch(ex => {
       console.error("Failed to fetch or download", ex.toString());
       if (ex.toString().includes("404")) {
-        res.status(404).send(`Page not found ${uri}`);
+        res.status(404).send(`Page not found ${locale}/${slug}`);
       } else {
         res.status(500).send(ex.toString());
       }
@@ -96,7 +96,7 @@ app.get("/api/v0/preview", (req, res) => {
       $(
         'link[rel="alternative"],section.newsletter-container, ' +
           "main .full-width-row-container, div.metadata, " +
-          "aside.document-toc-container"
+          "aside.document-toc-container,div.mdn-wiki-notice"
       ).remove();
       $('link[rel="stylesheet"]').each((i, el) => {
         el.attribs["href"] = baseUrl + el.attribs["href"];

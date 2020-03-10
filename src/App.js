@@ -5,7 +5,8 @@ import {
   Route,
   Link,
   useParams,
-  useLocation
+  useLocation,
+  useHistory
 } from "react-router-dom";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
 import "./index.scss";
@@ -214,6 +215,9 @@ function Locale({ allSuspects, loading }) {
   let [suspectsSubset, setSuspectsSubset] = useState(null);
   let [loadingError, setLoadingError] = useState(null);
   let [seed, setSeed] = useState(Math.random());
+
+  const currentLocation = useLocation();
+  const history = useHistory();
   let [currentSuspect, setCurrentSuspect] = useState(null);
   let { locale } = useParams();
 
@@ -244,7 +248,6 @@ function Locale({ allSuspects, loading }) {
             if (!r.ok) {
               throw new Error(r.statusText);
             }
-
             r.json().then(documents => {
               setSuspects(documents);
             });
@@ -255,6 +258,21 @@ function Locale({ allSuspects, loading }) {
       }
     }
   }, [loading, allSuspects, locale]);
+
+  useEffect(() => {
+    if (currentSuspect) {
+      if (currentLocation.hash !== `#${currentSuspect.slug}`) {
+        // console.log("Hash needs to update!");
+        // history.replace(`#${currentSuspect.slug}`);
+        history.replace({ hash: currentSuspect.slug });
+      }
+    } else if (currentLocation.hash) {
+      // console.log("Hash needs to be removed");
+      // history.push(`#neither`);
+      // console.log(window.document.location);
+      history.replace({ hash: "" });
+    }
+  }, [currentSuspect, currentLocation, history]);
 
   useEffect(() => {
     if (suspects) {
@@ -282,6 +300,23 @@ function Locale({ allSuspects, loading }) {
     }
   }, [suspects, seed]);
 
+  // useEffect(() => {
+  //   if (suspectsSubset && currentLocation.hash && !currentSuspect) {
+  //     console.log(
+  //       "DRAW FOR HASH?!",
+  //       currentLocation.hash,
+  //       suspectsSubset.map(s => s.slug)
+  //     );
+  //     if (
+  //       suspectsSubset.map(s => `#${s.slug}`).includes(currentLocation.hash)
+  //     ) {
+  //       setCurrentSuspect(
+  //         suspectsSubset.find(s => currentLocation.hash === `#${s.slug}`)
+  //       );
+  //     }
+  //   }
+  //   }, [suspectsSubset, currentLocation.hash, currentSuspect]);
+
   function keyboardHandler(event) {
     if (currentSuspect) {
       if (event.code === "Escape") {
@@ -290,8 +325,14 @@ function Locale({ allSuspects, loading }) {
         let index = suspectsSubset.findIndex(
           s => s.slug === currentSuspect.slug
         );
-        let nextIndex = (index + 1) % suspectsSubset.length;
-        setCurrentSuspect(suspectsSubset[nextIndex]);
+        if (index + 1 === suspectsSubset.length) {
+          // console.log("MIGHT NEED TO RESHUFFLE FIRST!!");
+          setSeed(Math.random());
+          // setCurrentSuspect(suspectsSubset[0]);
+        } else {
+          let nextIndex = (index + 1) % suspectsSubset.length;
+          setCurrentSuspect(suspectsSubset[nextIndex]);
+        }
       } else if (event.code === "ArrowLeft") {
         let index = suspectsSubset.findIndex(
           s => s.slug === currentSuspect.slug
@@ -305,7 +346,7 @@ function Locale({ allSuspects, loading }) {
   useEffect(() => {
     let dismounted = false;
     if (currentSuspect) {
-      if (!currentSuspect.lastModified) {
+      if (!(currentSuspect.lastModified || currentSuspect.lastModifiedError)) {
         fetch(
           `/api/v0/about?locale=${currentSuspect.locale}&slug=${currentSuspect.slug}`
         ).then(r => {
@@ -322,6 +363,17 @@ function Locale({ allSuspects, loading }) {
                 );
               }
             });
+          } else {
+            if (!dismounted) {
+              setCurrentSuspect(
+                Object.assign(
+                  {
+                    lastModifiedError: r.status
+                  },
+                  currentSuspect
+                )
+              );
+            }
           }
         });
       }
@@ -385,6 +437,9 @@ function Locale({ allSuspects, loading }) {
 }
 
 function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
+  const { pathname } = useLocation();
+  const currentUrl = pathname;
+
   return (
     <div>
       <h3>There are {suspects.length} suspects in this locale</h3>
@@ -411,14 +466,18 @@ function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
             key={suspect.metadata.slug}
             style={{ marginBottom: 30 }}
           >
-            <div
-              className="card-content"
-              onClick={e => {
-                e.preventDefault();
-                showPreview(suspect);
-              }}
-            >
-              <p className="title">{suspect.metadata.title}</p>
+            <div className="card-content">
+              <p className="title">
+                <Link
+                  to={`${currentUrl}#${suspect.metadata.slug}`}
+                  title="Click to inspect further"
+                  onClick={event => {
+                    showPreview(suspect);
+                  }}
+                >
+                  {suspect.metadata.title}
+                </Link>
+              </p>
               <p className="subtitle">
                 <LeafStatus leaf={suspect.leaf} /> {suspect.metadata.slug}
               </p>
@@ -488,6 +547,8 @@ function PreviewIframeModal({ suspect, close }) {
             <a href={viewUrl} target="_blank" rel="noopener noreferrer">
               View on MDN
             </a>
+            <br />
+            <small style={{ fontSize: "80%" }}>{metadata.slug}</small>
           </p>
           <button
             className="delete"
@@ -502,7 +563,11 @@ function PreviewIframeModal({ suspect, close }) {
           <div className="columns">
             <div className="column">
               <p>
-                {suspect.lastModified ? (
+                {suspect.lastModifiedError ? (
+                  <b>
+                    Error fetching last modified ({suspect.lastModifiedError})
+                  </b>
+                ) : suspect.lastModified ? (
                   <span>
                     <b>Last modified</b> {suspect.lastModified}
                   </span>
@@ -521,6 +586,7 @@ function PreviewIframeModal({ suspect, close }) {
                   target="_blank"
                   rel="noopener noreferrer"
                   href={deleteUrl}
+                  disabled={!suspect.lastModified}
                 >
                   Start deleting on Wiki
                 </a>{" "}
