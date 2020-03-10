@@ -12,6 +12,4 @@ RUN yarn build
 
 EXPOSE $PORT
 
-RUN ls -l
-
 CMD [ "node", "server.js" ]
