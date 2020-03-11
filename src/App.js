@@ -317,28 +317,32 @@ function Locale({ allSuspects, loading }) {
   //   }
   //   }, [suspectsSubset, currentLocation.hash, currentSuspect]);
 
+  function gotoNextSuspect() {
+    let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
+    if (index + 1 === suspectsSubset.length) {
+      // console.log("MIGHT NEED TO RESHUFFLE FIRST!!");
+      setSeed(Math.random());
+      // setCurrentSuspect(suspectsSubset[0]);
+    } else {
+      let nextIndex = (index + 1) % suspectsSubset.length;
+      setCurrentSuspect(suspectsSubset[nextIndex]);
+    }
+  }
+
+  function gotoPreviousSuspect() {
+    let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
+    let nextIndex = index === 0 ? suspectsSubset.length - 1 : index - 1;
+    setCurrentSuspect(suspectsSubset[nextIndex]);
+  }
+
   function keyboardHandler(event) {
     if (currentSuspect) {
       if (event.code === "Escape") {
         setCurrentSuspect(null);
       } else if (event.code === "ArrowRight") {
-        let index = suspectsSubset.findIndex(
-          s => s.slug === currentSuspect.slug
-        );
-        if (index + 1 === suspectsSubset.length) {
-          // console.log("MIGHT NEED TO RESHUFFLE FIRST!!");
-          setSeed(Math.random());
-          // setCurrentSuspect(suspectsSubset[0]);
-        } else {
-          let nextIndex = (index + 1) % suspectsSubset.length;
-          setCurrentSuspect(suspectsSubset[nextIndex]);
-        }
+        gotoNextSuspect();
       } else if (event.code === "ArrowLeft") {
-        let index = suspectsSubset.findIndex(
-          s => s.slug === currentSuspect.slug
-        );
-        let nextIndex = index === 0 ? suspectsSubset.length - 1 : index - 1;
-        setCurrentSuspect(suspectsSubset[nextIndex]);
+        gotoPreviousSuspect();
       }
     }
   }
@@ -427,6 +431,7 @@ function Locale({ allSuspects, loading }) {
       {currentSuspect && (
         <PreviewIframeModal
           suspect={currentSuspect}
+          gotoNext={gotoNextSuspect}
           close={() => {
             setCurrentSuspect(null);
           }}
@@ -517,7 +522,7 @@ function LeafStatus({ leaf }) {
   );
 }
 
-function PreviewIframeModal({ suspect, close }) {
+function PreviewIframeModal({ suspect, close, gotoNext }) {
   let { metadata } = suspect;
   let title = metadata.title;
 
@@ -587,6 +592,9 @@ function PreviewIframeModal({ suspect, close }) {
                   rel="noopener noreferrer"
                   href={deleteUrl}
                   disabled={!suspect.lastModified}
+                  onClick={event => {
+                    gotoNext();
+                  }}
                 >
                   Start deleting on Wiki
                 </a>{" "}

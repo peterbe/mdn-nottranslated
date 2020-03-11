@@ -97,7 +97,8 @@ app.get("/api/v0/preview", (req, res) => {
       $(
         'link[rel="alternative"],section.newsletter-container, ' +
           "main .full-width-row-container, div.metadata, " +
-          "aside.document-toc-container,div.mdn-wiki-notice"
+          "aside.document-toc-container,div.mdn-wiki-notice, " +
+          "div.newsletter-box"
       ).remove();
       $('link[rel="stylesheet"]').each((i, el) => {
         el.attribs["href"] = baseUrl + el.attribs["href"];

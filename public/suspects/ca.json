@@ -115,40 +115,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Tools/Memoria",
-    "metadata": {
-      "title": "Mem\u00f2ria",
-      "slug": "Tools/Memoria",
-      "locale": "ca",
-      "parent": {
-        "slug": "Tools/Memory",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844149
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Tools/Remote_Debugging/Firefox_for_Android",
-    "metadata": {
-      "title": "Remotely debugging Firefox for Android",
-      "slug": "Tools/Remote_Debugging/Firefox_for_Android",
-      "locale": "ca",
-      "parent": {
-        "slug": "Tools/Remote_Debugging/Firefox_for_Android",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844147
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Security",
     "metadata": {
       "title": "Security",
@@ -160,23 +126,6 @@
       }
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Security/MixejdContent",
-    "metadata": {
-      "title": "Mixued Content",
-      "slug": "Security/MixejdContent",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/Security/Mixed_content",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844151
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -209,7 +158,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844137
+    "_checked": 1583935415
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -290,7 +239,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844141
+    "_checked": 1583935419
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -312,23 +261,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla",
-    "metadata": {
-      "title": "ECMAScript 6 support in Mozilla",
-      "slug": "Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844133
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Classes",
     "metadata": {
       "title": "Classes",
@@ -345,57 +277,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Sentencies/var",
-    "metadata": {
-      "title": "var",
-      "slug": "Web/JavaScript/Referencia/Sentencies/var",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/var",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844126
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/JSON/stringify",
-    "metadata": {
-      "title": "JSON.stringify()",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/JSON/stringify",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844135
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/String/slice",
-    "metadata": {
-      "title": "String.prototype.slice()",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/slice",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/slice",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844138
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objectes_globals/String/italics",
     "metadata": {
       "title": "String.prototype.italics()",
@@ -407,24 +288,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844140
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/String/prototype",
-    "metadata": {
-      "title": "String.prototype",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/prototype",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844131
+    "_checked": 1583935418
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -441,7 +305,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844144
+    "_checked": 1583935422
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -458,7 +322,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844132
+    "_checked": 1583935410
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -491,7 +355,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844129
+    "_checked": 1583935407
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -508,7 +372,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844143
+    "_checked": 1583935421
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -525,7 +389,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844152
+    "_checked": 1583935430
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -542,41 +406,7 @@
       }
     },
     "leaf": true,
-    "_checked": 1583844145
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Operadors/delete",
-    "metadata": {
-      "title": "Operador delete",
-      "slug": "Web/JavaScript/Referencia/Operadors/delete",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/delete",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844127
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Operadors/Assignment_Operators",
-    "metadata": {
-      "title": "Assignment operators",
-      "slug": "Web/JavaScript/Referencia/Operadors/Assignment_Operators",
-      "locale": "ca",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators/Assignment_Operators",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583844136
+    "_checked": 1583935423
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -685,7 +515,7 @@
       "locale": "ca"
     },
     "leaf": true,
-    "_checked": 1583844148
+    "_checked": 1583935426
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
