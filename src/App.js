@@ -593,7 +593,9 @@ function PreviewIframeModal({ suspect, close, gotoNext }) {
                   href={deleteUrl}
                   disabled={!suspect.lastModified}
                   onClick={event => {
-                    gotoNext();
+                    setTimeout(() => {
+                      gotoNext();
+                    }, 100);
                   }}
                 >
                   Start deleting on Wiki
