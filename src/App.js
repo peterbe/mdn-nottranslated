@@ -8,6 +8,9 @@ import {
   useLocation,
   useHistory
 } from "react-router-dom";
+// import { formatDistance, subDays } from 'date-fns'
+import formatDistance from "date-fns/formatDistance";
+import parseISO from "date-fns/parseISO";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
 import "./index.scss";
 
@@ -320,7 +323,6 @@ function Locale({ allSuspects, loading }) {
   function gotoNextSuspect() {
     let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
     if (index + 1 === suspectsSubset.length) {
-      // console.log("MIGHT NEED TO RESHUFFLE FIRST!!");
       setSeed(Math.random());
       // setCurrentSuspect(suspectsSubset[0]);
     } else {
@@ -411,10 +413,10 @@ function Locale({ allSuspects, loading }) {
     <div>
       {thisLocale && (
         <h1 className="title">
-          {thisLocale.language.English} / {thisLocale.language.native}
+          {thisLocale.language.English} / {thisLocale.language.native} ({locale}
+          )
         </h1>
       )}
-      <h2 className="subtitle">{locale}</h2>
       {loadingError && <h4>Loading error; {loadingError}</h4>}
 
       {(loading || localeLoading) && !loadingError && <p>Loading...</p>}
@@ -432,6 +434,7 @@ function Locale({ allSuspects, loading }) {
         <PreviewIframeModal
           suspect={currentSuspect}
           gotoNext={gotoNextSuspect}
+          gotoPrevious={gotoPreviousSuspect}
           close={() => {
             setCurrentSuspect(null);
           }}
@@ -462,7 +465,7 @@ function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
         </p>
       )}
       {subset.map(suspect => {
-        let uri = `/${suspect.metadata.locale}/docs/${suspect.metadata.slug}`;
+        let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
         let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
         let viewUrl = `https://developer.mozilla.org${uri}`;
         return (
@@ -522,11 +525,36 @@ function LeafStatus({ leaf }) {
   );
 }
 
-function PreviewIframeModal({ suspect, close, gotoNext }) {
+function PreviewIframeModal({ suspect, close, gotoNext, gotoPrevious }) {
+  const [revisions, setRevisions] = useState(null);
+  const [revisionsLoadingError, setRevisionsLoadingError] = useState(null);
+  useEffect(() => {
+    let sp = new URLSearchParams();
+    sp.set("locale", suspect.locale);
+    sp.set("slug", suspect.slug);
+    if (suspect.metadata.translationof) {
+      sp.set("translationof", suspect.metadata.translationof);
+    }
+    fetch(`/api/v0/revisions?${sp.toString()}`)
+      .then(r => {
+        if (r.ok) {
+          r.json().then(data => {
+            setRevisionsLoadingError(null);
+            setRevisions(data);
+          });
+        } else {
+          throw new Error(`${r.status} on ${r.url}`);
+        }
+      })
+      .catch(ex => {
+        setRevisionsLoadingError(ex);
+      });
+  }, [suspect.locale, suspect.slug, suspect.metadata.translationof]);
+
   let { metadata } = suspect;
   let title = metadata.title;
 
-  let uri = `/${metadata.locale}/docs/${metadata.slug}`;
+  let uri = `/${suspect.locale}/docs/${metadata.slug}`;
   let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
   let viewUrl = `https://developer.mozilla.org${uri}`;
   let sp = new URLSearchParams();
@@ -553,7 +581,9 @@ function PreviewIframeModal({ suspect, close, gotoNext }) {
               View on MDN
             </a>
             <br />
-            <small style={{ fontSize: "80%" }}>{metadata.slug}</small>
+            <small style={{ fontSize: "80%" }}>
+              {suspect.locale} / {metadata.slug}
+            </small>
           </p>
           <button
             className="delete"
@@ -592,7 +622,7 @@ function PreviewIframeModal({ suspect, close, gotoNext }) {
                   rel="noopener noreferrer"
                   href={deleteUrl}
                   disabled={!suspect.lastModified}
-                  onClick={event => {
+                  onClick={() => {
                     setTimeout(() => {
                       gotoNext();
                     }, 100);
@@ -603,12 +633,98 @@ function PreviewIframeModal({ suspect, close, gotoNext }) {
               </div>
             </div>
             <div className="column">
-              <small>
-                Tip: You can navigate with the keyboard ⬅ and ➡ and ␛
-              </small>
+              <div
+                className="buttons"
+                title="Tip: You can navigate with the keyboard ⬅ and ➡ and ␛"
+              >
+                <button className="button" onClick={gotoPrevious}>
+                  Prev
+                </button>{" "}
+                <button className="button" onClick={gotoNext}>
+                  Next
+                </button>{" "}
+              </div>
             </div>
           </div>
+          <div>
+            {revisionsLoadingError && (
+              <article className="message is-danger">
+                <div className="message-body">
+                  <p>Unable to load revisions. </p>
+                  <pre>{revisionsLoadingError.toString()}</pre>
+                </div>
+              </article>
+            )}
+            {revisions && !revisionsLoadingError && (
+              <ShowRevisions revisions={revisions} suspect={suspect} />
+            )}
+          </div>
         </footer>
+      </div>
+    </div>
+  );
+}
+
+function ShowRevisions({ revisions, suspect }) {
+  let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
+  let wikiHistoryUrl = `https://wiki.developer.mozilla.org${uri}$history`;
+  let enUSUri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
+  let enUSWikiHistoryUrl = `https://wiki.developer.mozilla.org${enUSUri}$history`;
+
+  let guessedAge = null;
+  if (revisions.revisions.length && revisions.enUSRevisions.length) {
+    let firsts = revisions.revisions
+      .filter(r => r.creator !== "mdnwebdocs-bot")
+      .map(r => r.date);
+    let firstEnUss = revisions.enUSRevisions
+      .filter(r => r.creator !== "mdnwebdocs-bot")
+      .map(r => r.date);
+    if (firsts.length && firstEnUss.length) {
+      let first = firsts[0];
+      let enUs = firstEnUss[0];
+      console.log({ first: parseISO(first), enUs: parseISO(enUs) });
+      guessedAge = formatDistance(parseISO(first), parseISO(enUs));
+    }
+  }
+  return (
+    <div className="revisions">
+      <div className="columns">
+        <div className="column">
+          <h5>
+            <a href={wikiHistoryUrl} target="_blank" rel="noopener noreferrer">
+              Revisions
+            </a>
+          </h5>
+          <ul>
+            {revisions.revisions.map(revision => (
+              <li key={revision.date}>
+                {revision.date.replace(/\.\d+/, "")} by {revision.creator}
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div className="column">
+          <h5>
+            <a
+              href={enUSWikiHistoryUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              en-US Revisions
+            </a>
+          </h5>
+          <ul>
+            {revisions.enUSRevisions.map(revision => (
+              <li key={revision.date}>
+                {revision.date.replace(/\.\d+/, "")} by {revision.creator}
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div className="column">
+          <h5>Guessed age</h5>
+          {guessedAge ? <b>{guessedAge}</b> : <i>Unabled to guess</i>}
+        </div>
       </div>
     </div>
   );

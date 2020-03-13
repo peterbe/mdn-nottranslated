@@ -3,15 +3,23 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
+    "slug": "Learn",
+    "metadata": {
+      "title": "L\u00e4r dig webbutveckling",
+      "slug": "Learn",
+      "translationof": "Learn"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
     "slug": "Learn/JavaScript",
     "metadata": {
       "title": "JavaScript",
       "slug": "Learn/JavaScript",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Learn/JavaScript",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/JavaScript"
     },
     "leaf": false
   },
@@ -23,11 +31,7 @@
     "metadata": {
       "title": "Introducing JavaScript objects",
       "slug": "Learn/JavaScript/Objects",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Learn/JavaScript/Objects",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/JavaScript/Objects"
     },
     "leaf": false
   },
@@ -39,11 +43,19 @@
     "metadata": {
       "title": "Firefox Developer Tools",
       "slug": "Tools",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Tools",
-        "locale": "en-US"
-      }
+      "translationof": "Tools"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "en",
+    "slug": "Web",
+    "metadata": {
+      "title": "Tekniker f\u00f6r webbutveckling",
+      "slug": "Web",
+      "translationof": "Web"
     },
     "leaf": false
   },
@@ -55,11 +67,7 @@
     "metadata": {
       "title": "Global attributes",
       "slug": "Web/HTML/Global_attributes",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/HTML/Global_attributes",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTML/Global_attributes"
     },
     "leaf": false
   },
@@ -71,11 +79,7 @@
     "metadata": {
       "title": "HTTP",
       "slug": "Web/HTTP",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/HTTP",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTTP"
     },
     "leaf": false
   },
@@ -87,11 +91,7 @@
     "metadata": {
       "title": "HTTP response status codes",
       "slug": "Web/HTTP/Status",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/HTTP/Status",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTTP/Status"
     },
     "leaf": false
   },
@@ -103,11 +103,7 @@
     "metadata": {
       "title": "SubtleCrypto",
       "slug": "Web/API/SubtleCrypto",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/SubtleCrypto",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/SubtleCrypto"
     },
     "leaf": false
   },
@@ -119,11 +115,7 @@
     "metadata": {
       "title": "Window",
       "slug": "Web/API/Window",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Window"
     },
     "leaf": false
   },
@@ -135,11 +127,19 @@
     "metadata": {
       "title": "FileReader",
       "slug": "Web/API/FileReader",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/API/FileReader",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/FileReader"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
+    "locale": "sv-SE",
+    "guessed": "nb",
+    "slug": "Web/JavaScript/Guide",
+    "metadata": {
+      "title": "JavaScript Guide",
+      "slug": "Web/JavaScript/Guide",
+      "translationof": "Web/JavaScript/Guide"
     },
     "leaf": false
   },
@@ -147,17 +147,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide",
+    "slug": "Web/JavaScript/Datastrukturer",
     "metadata": {
-      "title": "JavaScript Guide",
-      "slug": "Web/JavaScript/Guide",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Guide",
-        "locale": "en-US"
-      }
+      "title": "JavaScript datatyper och datastrukturer",
+      "slug": "Web/JavaScript/Datastrukturer",
+      "translationof": "Web/JavaScript/Data_structures"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -167,11 +163,7 @@
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference"
     },
     "leaf": false
   },
@@ -183,13 +175,9 @@
     "metadata": {
       "title": "Expressions and operators",
       "slug": "Web/JavaScript/Reference/Operators",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Operators"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -199,11 +187,7 @@
     "metadata": {
       "title": "Classes",
       "slug": "Web/JavaScript/Reference/Classes",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Classes",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Classes"
     },
     "leaf": false
   },
@@ -215,13 +199,9 @@
     "metadata": {
       "title": "Standard built-in objects",
       "slug": "Web/JavaScript/Reference/Global_Objects",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Global_Objects"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -231,13 +211,9 @@
     "metadata": {
       "title": "Functions",
       "slug": "Web/JavaScript/Reference/Functions",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Functions",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Functions"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -247,11 +223,7 @@
     "metadata": {
       "title": "Ordlista",
       "slug": "Glossary",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary"
     },
     "leaf": false
   },
@@ -263,15 +235,9 @@
     "metadata": {
       "title": "Bandbredd",
       "slug": "Glossary/Bandwidth",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Glossary/Bandwidth",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary/Bandwidth"
     },
-    "leaf": true,
-    "notFound": false,
-    "_checked": 1583935602
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -281,14 +247,8 @@
     "metadata": {
       "title": "IP Adress",
       "slug": "Glossary/IP_Adress",
-      "locale": "sv-SE",
-      "parent": {
-        "slug": "Glossary/IP_Address",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary/IP_Address"
     },
-    "leaf": true,
-    "notFound": false,
-    "_checked": 1583935604
+    "leaf": true
   }
 ]

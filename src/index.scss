@@ -1,11 +1,11 @@
 @charset "utf-8";
 
 // Set your brand colors
-$purple: #8A4D76;
-$pink: #FA7C91;
+$purple: #8a4d76;
+$pink: #fa7c91;
 $brown: #757763;
-$beige-light: #D0D1CD;
-$beige-lighter: #EFF0EB;
+$beige-light: #d0d1cd;
+$beige-lighter: #eff0eb;
 
 // Update Bulma's global variables
 $family-sans-serif: "Nunito", sans-serif;
@@ -25,5 +25,26 @@ $input-shadow: none;
 // For the preview iframe thing.
 // Does this fubar usage on mobiles?
 $modal-content-width: 1200px;
+// Default was 20px;
+$modal-card-body-padding:0;
 
 @import "../node_modules/bulma/bulma.sass";
+
+.modal-card-foot {
+  display: block;
+}
+
+.revisions {
+  max-height: 140px;
+  overflow: scroll;
+  h5 {
+    margin-bottom: 4px;
+  }
+  ul {
+    margin-top: 3px;
+    margin-left: 10px;
+  }
+  li {
+    font-size: 80%;
+  }
+}

@@ -7,11 +7,7 @@
     "metadata": {
       "title": "Learning HTML: Guides and tutorials",
       "slug": "Learn/HTML",
-      "locale": "hu",
-      "parent": {
-        "slug": "Learn/HTML",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/HTML"
     },
     "leaf": false
   },
@@ -23,11 +19,7 @@
     "metadata": {
       "title": "Server-side website programming",
       "slug": "Learn/Server-side",
-      "locale": "hu",
-      "parent": {
-        "slug": "Learn/Server-side",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side"
     },
     "leaf": false
   },
@@ -39,11 +31,7 @@
     "metadata": {
       "title": "Django Web Framework (Python)",
       "slug": "Learn/Server-side/Django",
-      "locale": "hu",
-      "parent": {
-        "slug": "Learn/Server-side/Django",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side/Django"
     },
     "leaf": false
   },
@@ -55,14 +43,9 @@
     "metadata": {
       "title": "Assessment: DIY Django mini blog",
       "slug": "Learn/Server-side/Django/django_assessment_blog",
-      "locale": "hu",
-      "parent": {
-        "slug": "Learn/Server-side/Django/django_assessment_blog",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side/Django/django_assessment_blog"
     },
-    "leaf": true,
-    "_checked": 1583935180
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -72,11 +55,7 @@
     "metadata": {
       "title": "Firefox Developer Tools",
       "slug": "Tools",
-      "locale": "hu",
-      "parent": {
-        "slug": "Tools",
-        "locale": "en-US"
-      }
+      "translationof": "Tools"
     },
     "leaf": false
   },
@@ -88,14 +67,21 @@
     "metadata": {
       "title": "Szerszamoslada",
       "slug": "Tools/Szerszamok_Szerszamoslada",
-      "locale": "hu",
-      "parent": {
-        "slug": "Tools/Tools_Toolbox",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/Tools_Toolbox"
     },
-    "leaf": true,
-    "_checked": 1583935172
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
+    "locale": "hu",
+    "guessed": "en",
+    "slug": "CSS/CSS_Grid_Layout",
+    "metadata": {
+      "title": "CSS Grid Layout",
+      "slug": "CSS/CSS_Grid_Layout",
+      "translationof": "Web/CSS/CSS_Grid_Layout"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -105,11 +91,7 @@
     "metadata": {
       "title": "Mixed Content",
       "slug": "Security/MixedContent",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/Security/Mixed_content",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Security/Mixed_content"
     },
     "leaf": false
   },
@@ -121,14 +103,9 @@
     "metadata": {
       "title": "How to fix a website with blocked mixed content",
       "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content"
     },
-    "leaf": true,
-    "_checked": 1583935182
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -138,11 +115,7 @@
     "metadata": {
       "title": "Web technology for developers",
       "slug": "Web",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web",
-        "locale": "en-US"
-      }
+      "translationof": "Web"
     },
     "leaf": false
   },
@@ -154,11 +127,7 @@
     "metadata": {
       "title": "Web developer guide",
       "slug": "Web/Guide",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/Guide",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Guide"
     },
     "leaf": false
   },
@@ -170,14 +139,9 @@
     "metadata": {
       "title": "Guide to Web APIs",
       "slug": "Web/Guide/API",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/Guide/API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Guide/API"
     },
-    "leaf": true,
-    "_checked": 1583935167
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -187,11 +151,7 @@
     "metadata": {
       "title": "Tools",
       "slug": "Web/CSS/Tools",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/CSS/Tools",
-        "locale": "en-US"
-      }
+      "translationof": "Web/CSS/Tools"
     },
     "leaf": false
   },
@@ -203,11 +163,7 @@
     "metadata": {
       "title": "HTML elements reference",
       "slug": "Web/HTML/Element",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/HTML/Element",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTML/Element"
     },
     "leaf": false
   },
@@ -219,11 +175,7 @@
     "metadata": {
       "title": "Web API interfaces",
       "slug": "Web/API",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API"
     },
     "leaf": false
   },
@@ -235,11 +187,7 @@
     "metadata": {
       "title": "File",
       "slug": "Web/API/File",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/File",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/File"
     },
     "leaf": false
   },
@@ -251,14 +199,9 @@
     "metadata": {
       "title": "F\u00e1jlok haszn\u00e1lata webes alkalmaz\u00e1sokban",
       "slug": "Web/API/File/Fajlok_hasznalata_webes_alkalmazasokban",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/File/Using_files_from_web_applications",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/File/Using_files_from_web_applications"
     },
-    "leaf": true,
-    "_checked": 1583935156
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -268,14 +211,9 @@
     "metadata": {
       "title": "Az XMLHttpRequest haszn\u00e1lata",
       "slug": "Web/API/XMLHttpRequest/XMLHttpRequest_hasznalata",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/XMLHttpRequest/Using_XMLHttpRequest"
     },
-    "leaf": true,
-    "_checked": 1583935165
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -285,14 +223,9 @@
     "metadata": {
       "title": "XMLHttpRequest.responseType",
       "slug": "Web/API/XMLHttpRequest/responseType",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/XMLHttpRequest/responseType",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/XMLHttpRequest/responseType"
     },
-    "leaf": true,
-    "_checked": 1583935173
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -302,11 +235,7 @@
     "metadata": {
       "title": "Window",
       "slug": "Web/API/Window",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/Window",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Window"
     },
     "leaf": false
   },
@@ -318,11 +247,7 @@
     "metadata": {
       "title": "Geolocation",
       "slug": "Web/API/Geolocation",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/Geolocation",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Geolocation"
     },
     "leaf": false
   },
@@ -334,14 +259,9 @@
     "metadata": {
       "title": "Using geolocation",
       "slug": "Web/API/Geolocation/Using_geolocation",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/Geolocation_API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Geolocation_API"
     },
-    "leaf": true,
-    "_checked": 1583935183
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -351,14 +271,9 @@
     "metadata": {
       "title": "Worker",
       "slug": "Web/API/Worker",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/Worker",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Worker"
     },
-    "leaf": true,
-    "_checked": 1583935164
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -368,14 +283,9 @@
     "metadata": {
       "title": "Dokumentum Objektum Model (DOM)",
       "slug": "Web/API/Dokumentum_Objektum_Model",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/Document_Object_Model",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Document_Object_Model"
     },
-    "leaf": true,
-    "_checked": 1583935175
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -385,11 +295,7 @@
     "metadata": {
       "title": "JavaScript k\u00e9zik\u00f6nyv",
       "slug": "Web/JavaScript/Guide",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Guide",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Guide"
     },
     "leaf": false
   },
@@ -401,14 +307,9 @@
     "metadata": {
       "title": "Grammar and types",
       "slug": "Web/JavaScript/Guide/Grammar_and_types",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Grammar_and_types",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Guide/Grammar_and_types"
     },
-    "leaf": true,
-    "_checked": 1583935168
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -418,14 +319,9 @@
     "metadata": {
       "title": "Regul\u00e1ris kifejez\u00e9sek",
       "slug": "Web/JavaScript/Guide/Regular_Expressions",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Regular_Expressions",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Guide/Regular_Expressions"
     },
-    "leaf": true,
-    "_checked": 1583935179
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -435,14 +331,9 @@
     "metadata": {
       "title": "Bevezet\u00e9s",
       "slug": "Web/JavaScript/Guide/Bevezet\u00e9s",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Introduction",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Guide/Introduction"
     },
-    "leaf": true,
-    "_checked": 1583935178
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -452,14 +343,9 @@
     "metadata": {
       "title": "A JavaScriptr\u0151l",
       "slug": "Web/JavaScript/A_JavaScriptrol",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/About_JavaScript",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/About_JavaScript"
     },
-    "leaf": true,
-    "_checked": 1583935171
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -469,11 +355,7 @@
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference"
     },
     "leaf": false
   },
@@ -485,11 +367,7 @@
     "metadata": {
       "title": "Statements and declarations",
       "slug": "Web/JavaScript/Reference/Statements",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Statements"
     },
     "leaf": false
   },
@@ -501,14 +379,9 @@
     "metadata": {
       "title": "var",
       "slug": "Web/JavaScript/Reference/Statements/var",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/var",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Statements/var"
     },
-    "leaf": true,
-    "_checked": 1583935176
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -518,14 +391,9 @@
     "metadata": {
       "title": "try...catch",
       "slug": "Web/JavaScript/Reference/Statements/try...catch",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/try...catch",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Statements/try...catch"
     },
-    "leaf": true,
-    "_checked": 1583935161
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -535,14 +403,9 @@
     "metadata": {
       "title": "import",
       "slug": "Web/JavaScript/Reference/Statements/import",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Statements/import",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Statements/import"
     },
-    "leaf": true,
-    "_checked": 1583935163
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -552,11 +415,7 @@
     "metadata": {
       "title": "Standard built-in objects",
       "slug": "Web/JavaScript/Reference/Global_Objects",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Global_Objects"
     },
     "leaf": false
   },
@@ -568,13 +427,21 @@
     "metadata": {
       "title": "Array",
       "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Global_Objects/Array"
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
+    "locale": "hu",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/Array/sort",
+    "metadata": {
+      "title": "Array.prototype.sort()",
+      "slug": "Web/JavaScript/Reference/Global_Objects/Array/sort",
+      "translationof": "Web/JavaScript/Reference/Global_Objects/Array/sort"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -584,14 +451,9 @@
     "metadata": {
       "title": "Array.prototype.map()",
       "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Array/map",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Global_Objects/Array/map"
     },
-    "leaf": true,
-    "_checked": 1583935158
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -601,14 +463,21 @@
     "metadata": {
       "title": "F\u00fcggv\u00e9ny",
       "slug": "Web/JavaScript/Reference/Global_Objects/F\u00fcggv\u00e9ny",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Global_Objects/Function",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Global_Objects/Function"
     },
-    "leaf": true,
-    "_checked": 1583935169
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
+    "locale": "hu",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Global_Objects/String",
+    "metadata": {
+      "title": "String",
+      "slug": "Web/JavaScript/Reference/Global_Objects/String",
+      "translationof": "Web/JavaScript/Reference/Global_Objects/String"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -618,11 +487,7 @@
     "metadata": {
       "title": "JavaScript error reference",
       "slug": "Web/JavaScript/Reference/Errors",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Errors"
     },
     "leaf": false
   },
@@ -634,11 +499,7 @@
     "metadata": {
       "title": "Web technology reference",
       "slug": "Web/Reference",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/Reference",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Reference"
     },
     "leaf": false
   },
@@ -650,11 +511,7 @@
     "metadata": {
       "title": "WebSockets",
       "slug": "WebSockets",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/WebSockets_API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WebSockets_API"
     },
     "leaf": false
   },
@@ -666,14 +523,9 @@
     "metadata": {
       "title": "Writing WebSocket client applications",
       "slug": "WebSockets/Writing_WebSocket_client_applications",
-      "locale": "hu",
-      "parent": {
-        "slug": "Web/API/WebSockets_API/Writing_WebSocket_client_applications",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WebSockets_API/Writing_WebSocket_client_applications"
     },
-    "leaf": true,
-    "_checked": 1583935160
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -683,14 +535,9 @@
     "metadata": {
       "title": "Egy kiterjeszt\u00e9s elk\u00e9sz\u00edt\u00e9se",
       "slug": "Egy_kiterjeszt\u00e9s_elk\u00e9sz\u00edt\u00e9se",
-      "locale": "hu",
-      "parent": {
-        "slug": "Building_an_Extension",
-        "locale": "en-US"
-      }
+      "translationof": "Building_an_Extension"
     },
-    "leaf": true,
-    "_checked": 1583935159
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -700,11 +547,19 @@
     "metadata": {
       "title": "Sz\u00f3jegyz\u00e9k",
       "slug": "Glossary",
-      "locale": "hu",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
+    "locale": "hu",
+    "guessed": "en",
+    "slug": "DOM",
+    "metadata": {
+      "title": "DOM",
+      "slug": "DOM",
+      "translationof": "DOM"
     },
     "leaf": false
   }

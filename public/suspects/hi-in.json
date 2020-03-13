@@ -3,31 +3,11 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
     "locale": "hi-IN",
     "guessed": "en",
-    "slug": "Tools",
-    "metadata": {
-      "title": "Firefox Developer Tools",
-      "slug": "Tools",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Tools",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
-    "locale": "hi-IN",
-    "guessed": "en",
     "slug": "Web",
     "metadata": {
       "title": "Web technology for developers",
       "slug": "Web",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Web",
-        "locale": "en-US"
-      }
+      "translationof": "Web"
     },
     "leaf": false
   },
@@ -39,11 +19,7 @@
     "metadata": {
       "title": "JavaScript",
       "slug": "Web/JavaScript",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Web/JavaScript",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript"
     },
     "leaf": false
   },
@@ -55,11 +31,7 @@
     "metadata": {
       "title": "JavaScript reference",
       "slug": "Web/JavaScript/Reference",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Web/JavaScript/Reference",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference"
     },
     "leaf": false
   },
@@ -71,27 +43,31 @@
     "metadata": {
       "title": "Expressions and operators",
       "slug": "Web/JavaScript/Reference/Operators",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Operators",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Operators"
     },
     "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
     "locale": "hi-IN",
-    "guessed": "ca",
+    "guessed": "en",
+    "slug": "Web/JavaScript/Reference/Operators/\u0911\u092a\u0930\u0947\u091f\u0930_\u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915\u0924\u093e",
+    "metadata": {
+      "title": "\u0911\u092a\u0930\u0947\u091f\u0930 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915\u0924\u093e",
+      "slug": "Web/JavaScript/Reference/Operators/\u0911\u092a\u0930\u0947\u091f\u0930_\u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915\u0924\u093e",
+      "translationof": "Web/JavaScript/Reference/Operators/Operator_Precedence"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
+    "locale": "hi-IN",
+    "guessed": "en",
     "slug": "Glossary",
     "metadata": {
       "title": "Glossary",
       "slug": "Glossary",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary"
     },
     "leaf": false
   },
@@ -103,13 +79,8 @@
     "metadata": {
       "title": "\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
       "slug": "Glossary/\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
-      "locale": "hi-IN",
-      "parent": {
-        "slug": "Glossary/Internet",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary/Internet"
     },
-    "leaf": true,
-    "_checked": 1583935253
+    "leaf": true
   }
 ]

@@ -7,11 +7,7 @@
     "metadata": {
       "title": "Learning the Web",
       "slug": "Learn",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn",
-        "locale": "en-US"
-      }
+      "translationof": "Learn"
     },
     "leaf": false
   },
@@ -23,14 +19,9 @@
     "metadata": {
       "title": "Soalan-soalan lazim",
       "slug": "Learn/Soalan_lazim",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Common_questions",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Common_questions"
     },
-    "leaf": true,
-    "_checked": 1583935240
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -40,11 +31,7 @@
     "metadata": {
       "title": "HTML",
       "slug": "Learn/HTML",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/HTML",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/HTML"
     },
     "leaf": false
   },
@@ -56,14 +43,9 @@
     "metadata": {
       "title": "Panduan Borang HTML",
       "slug": "Learn/HTML/Forms",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Forms",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Forms"
     },
-    "leaf": true,
-    "_checked": 1583935236
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -73,11 +55,7 @@
     "metadata": {
       "title": "Learn HTML to solve problems",
       "slug": "Learn/HTML/Howto",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/HTML/Howto",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/HTML/Howto"
     },
     "leaf": false
   },
@@ -89,14 +67,9 @@
     "metadata": {
       "title": "Add responsive images to a webpage",
       "slug": "Learn/HTML/Howto/Add_responsive_image_to_a_webpage",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/HTML/Multimedia_and_embedding/Responsive_images",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/HTML/Multimedia_and_embedding/Responsive_images"
     },
-    "leaf": true,
-    "_checked": 1583935231
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -106,30 +79,9 @@
     "metadata": {
       "title": "Memulakan pembelajaran Web",
       "slug": "Learn/Memulakan_pembelajaran_web",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Getting_started_with_the_web"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "id",
-    "slug": "Learn/Memulakan_pembelajaran_web/Bagaimanakah_laman-web_anda_akan_kelihatan",
-    "metadata": {
-      "title": "Bagaimanakah laman web anda akan kelihatan?",
-      "slug": "Learn/Memulakan_pembelajaran_web/Bagaimanakah_laman-web_anda_akan_kelihatan",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/What_will_your_website_look_like",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583935233
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -139,14 +91,9 @@
     "metadata": {
       "title": "Memasang Perisian Asas",
       "slug": "Learn/Memulakan_pembelajaran_web/Memasang_Perisian_Asas",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Installing_basic_software",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Getting_started_with_the_web/Installing_basic_software"
     },
-    "leaf": true,
-    "_checked": 1583935246
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -156,14 +103,9 @@
     "metadata": {
       "title": "Berurusan dengan fail",
       "slug": "Learn/Memulakan_pembelajaran_web/Berurusan_dengan_fail",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Getting_started_with_the_web/Dealing_with_files",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Getting_started_with_the_web/Dealing_with_files"
     },
-    "leaf": true,
-    "_checked": 1583935232
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -173,11 +115,7 @@
     "metadata": {
       "title": "Server-side website programming",
       "slug": "Learn/Server-side",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Server-side",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side"
     },
     "leaf": false
   },
@@ -189,11 +127,7 @@
     "metadata": {
       "title": "Express web framework (Node.js/JavaScript)",
       "slug": "Learn/Server-side/Express_Nodejs",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Server-side/Express_Nodejs",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side/Express_Nodejs"
     },
     "leaf": false
   },
@@ -205,30 +139,9 @@
     "metadata": {
       "title": "Express Tutorial Part 6: Working with forms",
       "slug": "Learn/Server-side/Express_Nodejs/forms",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Server-side/Express_Nodejs/forms",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Server-side/Express_Nodejs/forms"
     },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "en",
-    "slug": "Learn/Server-side/Express_Nodejs/forms/Create_genre)_form",
-    "metadata": {
-      "title": "Create Genre form",
-      "slug": "Learn/Server-side/Express_Nodejs/forms/Create_genre)_form",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/Server-side/Express_Nodejs/forms/Create_genre_form",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583935241
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -238,64 +151,21 @@
     "metadata": {
       "title": "Web Development",
       "slug": "Web_Development",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web_Development",
-        "locale": "en-US"
-      }
+      "translationof": "Web_Development"
     },
-    "leaf": true,
-    "_checked": 1583935242
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "en",
-    "slug": "Web_development/artifak_sejarah_untuk_dielakkan",
-    "metadata": {
-      "title": "Artifak Sejarah untuk dielakkan",
-      "slug": "Web_development/artifak_sejarah_untuk_dielakkan",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/Guide/HTML/Obsolete_things_to_avoid",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583935245
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "en",
-    "slug": "Web",
-    "metadata": {
-      "title": "Teknologi Web untuk pembangun",
-      "slug": "Web",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
     "locale": "ms",
     "guessed": "id",
-    "slug": "Web/HTML",
+    "slug": "Web",
     "metadata": {
-      "title": "HTML",
-      "slug": "Web/HTML",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/HTML",
-        "locale": "en-US"
-      }
+      "title": "Teknologi Web untuk pembangun",
+      "slug": "Web",
+      "translationof": "Web"
     },
-    "leaf": true,
-    "_checked": 1583935244
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -305,11 +175,7 @@
     "metadata": {
       "title": "HTML",
       "slug": "HTML",
-      "locale": "ms",
-      "parent": {
-        "slug": "HTML",
-        "locale": "en-US"
-      }
+      "translationof": "HTML"
     },
     "leaf": false
   },
@@ -321,30 +187,9 @@
     "metadata": {
       "title": "Elemen-Elemen HTML",
       "slug": "HTML/Elemen",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/HTML/Element",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTML/Element"
     },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "id",
-    "slug": "HTML/Elemen/aside",
-    "metadata": {
-      "title": "<aside>: Unsur Aside",
-      "slug": "HTML/Elemen/aside",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/HTML/Element/aside",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583935249
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -354,11 +199,7 @@
     "metadata": {
       "title": "Canvas",
       "slug": "HTML/Canvas",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/API/Canvas_API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Canvas_API"
     },
     "leaf": false
   },
@@ -370,31 +211,9 @@
     "metadata": {
       "title": "Melukis Grafik dengan Canvas",
       "slug": "HTML/Canvas/Melukis_Grafik_dengan_Canvas",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/API/Canvas_API/Drawing_graphics_with_canvas",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Canvas_API/Drawing_graphics_with_canvas"
     },
-    "leaf": true,
-    "_checked": 1583935239
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
-    "locale": "ms",
-    "guessed": "en",
-    "slug": "HTML/Sifat-sifat",
-    "metadata": {
-      "title": "Sifat-sifat",
-      "slug": "HTML/Sifat-sifat",
-      "locale": "ms",
-      "parent": {
-        "slug": "Web/HTML/Attributes",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583935248
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -404,14 +223,9 @@
     "metadata": {
       "title": "Tip menulis Laman HTML dengan pemuatan pantas",
       "slug": "HTML/Tip_menulis_LamanHTML_dengan_pemuatan_pantas",
-      "locale": "ms",
-      "parent": {
-        "slug": "Learn/HTML/Howto/Author_fast-loading_HTML_pages",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/HTML/Howto/Author_fast-loading_HTML_pages"
     },
-    "leaf": true,
-    "_checked": 1583935235
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ms",
@@ -421,11 +235,7 @@
     "metadata": {
       "title": "Glossary",
       "slug": "Glossary",
-      "locale": "ms",
-      "parent": {
-        "slug": "Glossary",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary"
     },
     "leaf": false
   },
@@ -437,13 +247,8 @@
     "metadata": {
       "title": "AJAX",
       "slug": "Glossary/AJAX",
-      "locale": "ms",
-      "parent": {
-        "slug": "Glossary/AJAX",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary/AJAX"
     },
-    "leaf": true,
-    "_checked": 1583935237
+    "leaf": true
   }
 ]

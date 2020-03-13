@@ -2,34 +2,49 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
+    "guessed": "en",
+    "slug": "XPCOM/Liaisons_de_langage/Objet_Components",
+    "metadata": {
+      "title": "Objet Components",
+      "slug": "XPCOM/Liaisons_de_langage/Objet_Components"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
     "guessed": "UNKNOWN",
     "slug": "Glossaire/Index",
     "metadata": {
       "title": "Index",
       "slug": "Glossaire/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Glossary/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Glossary/Index"
     },
     "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
-    "guessed": "UNKNOWN",
-    "slug": "FUEL/Extension",
+    "guessed": "en",
+    "slug": "Learn/Server-side/Express_Nodejs/Introduction",
     "metadata": {
-      "title": "Extension",
-      "slug": "FUEL/Extension",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/Toolkit_API/extIExtension",
-        "locale": "en-US"
-      }
+      "title": "Introduction Express/Node",
+      "slug": "Learn/Server-side/Express_Nodejs/Introduction",
+      "translationof": "Learn/Server-side/Express_Nodejs/Introduction"
     },
-    "leaf": false
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Learn/Server-side/Premiers_pas/Web_frameworks",
+    "metadata": {
+      "title": "Les frameworks web c\u00f4t\u00e9 serveur",
+      "slug": "Learn/Server-side/Premiers_pas/Web_frameworks",
+      "translationof": "Learn/Server-side/First_steps/Web_frameworks"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -39,43 +54,7 @@
     "metadata": {
       "title": "Cross browser testing",
       "slug": "Learn/Tools_and_testing/Cross_browser_testing",
-      "locale": "fr",
-      "parent": {
-        "slug": "Learn/Tools_and_testing/Cross_browser_testing",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Project:en",
-    "metadata": {
-      "title": "Project:en",
-      "slug": "Project:en",
-      "locale": "fr",
-      "parent": {
-        "slug": "Project:en",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web_Development/Mobile",
-    "metadata": {
-      "title": "Mobile Web development",
-      "slug": "Web_Development/Mobile",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web_Development/Mobile",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Tools_and_testing/Cross_browser_testing"
     },
     "leaf": false
   },
@@ -87,30 +66,21 @@
     "metadata": {
       "title": "Index de la documentation SVG",
       "slug": "Web/SVG/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/SVG/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Web/SVG/Index"
     },
-    "leaf": true,
-    "_checked": 1583161891
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/SVG/Namespaces_Crash_Course",
+    "slug": "Web/Guide/API/Gamepad",
     "metadata": {
-      "title": "Namespaces Crash Course",
-      "slug": "Web/SVG/Namespaces_Crash_Course",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/SVG/Namespaces_Crash_Course",
-        "locale": "en-US"
-      }
+      "title": "Utiliser l'API Gamepad",
+      "slug": "Web/Guide/API/Gamepad",
+      "translationof": "Web/API/Gamepad_API/Using_the_Gamepad_API"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -120,11 +90,7 @@
     "metadata": {
       "title": "Guides DOM pour d\u00e9veloppeurs",
       "slug": "Web/Guide/DOM",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Guide/API/DOM",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Guide/API/DOM"
     },
     "leaf": false
   },
@@ -136,14 +102,21 @@
     "metadata": {
       "title": "Index de la documentation MathML",
       "slug": "Web/MathML/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/MathML/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Web/MathML/Index"
     },
-    "leaf": true,
-    "_checked": 1583160761
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/XPath/Fonctions",
+    "metadata": {
+      "title": "Fonctions",
+      "slug": "Web/XPath/Fonctions",
+      "translationof": "Web/XPath/Functions"
+    },
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -153,14 +126,9 @@
     "metadata": {
       "title": "Index de la documentation CSS",
       "slug": "Web/CSS/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/CSS/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Web/CSS/Index"
     },
-    "leaf": true,
-    "_checked": 1583161393
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -170,30 +138,9 @@
     "metadata": {
       "title": "Index",
       "slug": "Web/CSS/@media/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/CSS/@media/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Web/CSS/@media/Index"
     },
-    "leaf": true,
-    "_checked": 1583354043
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/EXSLT/regexp",
-    "metadata": {
-      "title": "regexp",
-      "slug": "Web/EXSLT/regexp",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/EXSLT/regexp",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -203,11 +150,7 @@
     "metadata": {
       "title": "math",
       "slug": "Web/EXSLT/math",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/EXSLT/math",
-        "locale": "en-US"
-      }
+      "translationof": "Web/EXSLT/math"
     },
     "leaf": false
   },
@@ -219,11 +162,7 @@
     "metadata": {
       "title": "set",
       "slug": "Web/EXSLT/set",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/EXSLT/set",
-        "locale": "en-US"
-      }
+      "translationof": "Web/EXSLT/set"
     },
     "leaf": false
   },
@@ -235,11 +174,7 @@
     "metadata": {
       "title": "str",
       "slug": "Web/EXSLT/str",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/EXSLT/str",
-        "locale": "en-US"
-      }
+      "translationof": "Web/EXSLT/str"
     },
     "leaf": false
   },
@@ -251,11 +186,7 @@
     "metadata": {
       "title": "exsl",
       "slug": "Web/EXSLT/exsl",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/EXSLT/exsl",
-        "locale": "en-US"
-      }
+      "translationof": "Web/EXSLT/exsl"
     },
     "leaf": false
   },
@@ -267,81 +198,69 @@
     "metadata": {
       "title": "Index de la documentation HTML",
       "slug": "Web/HTML/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/HTML/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Web/HTML/Index"
     },
-    "leaf": true,
-    "_checked": 1583161435
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/HTTP/Headers/Pragma",
+    "slug": "Web/Web_Components/Utilisation_des_templates_et_des_slots",
     "metadata": {
-      "title": "Pragma",
-      "slug": "Web/HTTP/Headers/Pragma",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/HTTP/Headers/Pragma",
-        "locale": "en-US"
-      }
+      "title": "Utilisation des templates et des slots",
+      "slug": "Web/Web_Components/Utilisation_des_templates_et_des_slots",
+      "translationof": "Web/Web_Components/Using_templates_and_slots"
     },
-    "leaf": true,
-    "_checked": 1583161875
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests",
+    "slug": "Web/HTTP/Content_negotiation",
     "metadata": {
-      "title": "CSP: upgrade-insecure-requests",
-      "slug": "Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/HTTP/Headers/Content-Security-Policy/upgrade-insecure-requests",
-        "locale": "en-US"
-      }
+      "title": "La n\u00e9gociation de contenu",
+      "slug": "Web/HTTP/Content_negotiation",
+      "translationof": "Web/HTTP/Content_negotiation"
     },
-    "leaf": true,
-    "_checked": 1583161429
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/HTTP/Headers/Access-Control-Allow-Credentials",
+    "slug": "Web/HTTP/CORS/Errors",
     "metadata": {
-      "title": "Access-Control-Allow-Credentials",
-      "slug": "Web/HTTP/Headers/Access-Control-Allow-Credentials",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/HTTP/Headers/Access-Control-Allow-Credentials",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583160959
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/SpeechSynthesis",
-    "metadata": {
-      "title": "SpeechSynthesis",
-      "slug": "Web/API/SpeechSynthesis",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/SpeechSynthesis",
-        "locale": "en-US"
-      }
+      "title": "CORS errors",
+      "slug": "Web/HTTP/CORS/Errors",
+      "translationof": "Web/HTTP/CORS/Errors"
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "nb",
+    "slug": "Web/API/GlobalEventHandlers/onerror",
+    "metadata": {
+      "title": "GlobalEventHandlers.onerror",
+      "slug": "Web/API/GlobalEventHandlers/onerror",
+      "translationof": "Web/API/GlobalEventHandlers/onerror"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/WebVR_API/Utiliser_des_contr\u00f4leurs_de_realite_virtuelle_pour_du_WebVR",
+    "metadata": {
+      "title": "Utiliser des contr\u00f4leurs de r\u00e9alit\u00e9 virtuelle pour du WebVR",
+      "slug": "Web/API/WebVR_API/Utiliser_des_contr\u00f4leurs_de_realite_virtuelle_pour_du_WebVR",
+      "translationof": "Web/API/WebVR_API/Using_VR_controllers_with_WebVR"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -351,11 +270,7 @@
     "metadata": {
       "title": "StorageManager",
       "slug": "Web/API/StorageManager",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/StorageManager",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/StorageManager"
     },
     "leaf": false
   },
@@ -363,17 +278,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/XDomainRequest",
+    "slug": "Web/API/WebVTT_API",
     "metadata": {
-      "title": "XDomainRequest",
-      "slug": "Web/API/XDomainRequest",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/XDomainRequest",
-        "locale": "en-US"
-      }
+      "title": "Web Video Text Tracks Format (WebVTT)",
+      "slug": "Web/API/WebVTT_API",
+      "translationof": "Web/API/WebVTT_API"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -383,14 +294,9 @@
     "metadata": {
       "title": "L'API WebRTC",
       "slug": "Web/API/WebRTC_API",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WebRTC_API",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WebRTC_API"
     },
-    "leaf": true,
-    "_checked": 1583161447
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -400,13 +306,33 @@
     "metadata": {
       "title": "MediaDevices",
       "slug": "Web/API/MediaDevices",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/MediaDevices",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/MediaDevices"
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/SpeechRecognition",
+    "metadata": {
+      "title": "SpeechRecognition",
+      "slug": "Web/API/SpeechRecognition",
+      "translationof": "Web/API/SpeechRecognition"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/AudioListener",
+    "metadata": {
+      "title": "AudioListener",
+      "slug": "Web/API/AudioListener",
+      "translationof": "Web/API/AudioListener"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -416,27 +342,7 @@
     "metadata": {
       "title": "WebGLRenderingContext",
       "slug": "Web/API/WebGLRenderingContext",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WebGLRenderingContext",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/NavigatorLanguage",
-    "metadata": {
-      "title": "NavigatorLanguage",
-      "slug": "Web/API/NavigatorLanguage",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/NavigatorLanguage",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WebGLRenderingContext"
     },
     "leaf": false
   },
@@ -448,30 +354,9 @@
     "metadata": {
       "title": "AudioBuffer.getChannelData()",
       "slug": "Web/API/AudioBuffer/getChannelData",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/AudioBuffer/getChannelData",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/AudioBuffer/getChannelData"
     },
-    "leaf": true,
-    "_checked": 1583161882
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/NavigatorPlugins",
-    "metadata": {
-      "title": "NavigatorPlugins",
-      "slug": "Web/API/NavigatorPlugins",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/NavigatorPlugins",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -481,11 +366,7 @@
     "metadata": {
       "title": "Notification",
       "slug": "Web/API/notification",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/notification",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/notification"
     },
     "leaf": false
   },
@@ -493,51 +374,25 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/notification/onclick",
+    "slug": "Web/API/Pointer_events",
     "metadata": {
-      "title": "Notification.onclick",
-      "slug": "Web/API/notification/onclick",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Notification/onclick",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583354042
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/notification/permission",
-    "metadata": {
-      "title": "Notification.permission",
-      "slug": "Web/API/notification/permission",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Notification/permission",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161400
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/HTMLDataElement",
-    "metadata": {
-      "title": "HTMLDataElement",
-      "slug": "Web/API/HTMLDataElement",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLDataElement",
-        "locale": "en-US"
-      }
+      "title": "\u00c9v\u00e9nements de pointeur",
+      "slug": "Web/API/Pointer_events",
+      "translationof": "Web/API/Pointer_events"
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "UNKNOWN",
+    "slug": "Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple",
+    "metadata": {
+      "title": "Exemple",
+      "slug": "Web/API/Document_object_model/Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple",
+      "translationof": "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -547,27 +402,7 @@
     "metadata": {
       "title": "WorkerGlobalScope",
       "slug": "Web/API/WorkerGlobalScope",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WorkerGlobalScope",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/IdentityManager",
-    "metadata": {
-      "title": "IdentityManager",
-      "slug": "Web/API/IdentityManager",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/IdentityManager",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WorkerGlobalScope"
     },
     "leaf": false
   },
@@ -579,11 +414,7 @@
     "metadata": {
       "title": "DOMRectReadOnly",
       "slug": "Web/API/DOMRectReadOnly",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/DOMRectReadOnly",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/DOMRectReadOnly"
     },
     "leaf": false
   },
@@ -595,11 +426,7 @@
     "metadata": {
       "title": "Body",
       "slug": "Web/API/Body",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Body",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Body"
     },
     "leaf": false
   },
@@ -611,14 +438,9 @@
     "metadata": {
       "title": "Element.scrollHeight",
       "slug": "Web/API/Element/scrollHeight",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Element/scrollHeight",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Element/scrollHeight"
     },
-    "leaf": true,
-    "_checked": 1583161343
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -628,65 +450,21 @@
     "metadata": {
       "title": "element.hasAttributeNS",
       "slug": "Web/API/Element/hasAttributeNS",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Element/hasAttributeNS",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Element/hasAttributeNS"
     },
-    "leaf": true,
-    "_checked": 1583161066
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/PeriodicWave",
+    "slug": "Web/API/Element/animate",
     "metadata": {
-      "title": "PeriodicWave",
-      "slug": "Web/API/PeriodicWave",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/PeriodicWave",
-        "locale": "en-US"
-      }
+      "title": "Element.animate()",
+      "slug": "Web/API/Element/animate",
+      "translationof": "Web/API/Element/animate"
     },
-    "leaf": true,
-    "_checked": 1583160947
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "nb",
-    "slug": "Web/API/XPathResult",
-    "metadata": {
-      "title": "XPathResult",
-      "slug": "Web/API/XPathResult",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/XPathResult",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161050
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/DeviceMotionEvent.acceleration",
-    "metadata": {
-      "title": "DeviceMotionEvent.acceleration",
-      "slug": "Web/API/DeviceMotionEvent.acceleration",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/DeviceMotionEvent/acceleration",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161060
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -696,46 +474,9 @@
     "metadata": {
       "title": "VideoTrack",
       "slug": "Web/API/VideoTrack",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/VideoTrack",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/VideoTrack"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/MozMobileConnectionInfo",
-    "metadata": {
-      "title": "MozMobileConnectionInfo",
-      "slug": "Web/API/MozMobileConnectionInfo",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/B2G_OS/API/MozMobileConnectionInfo",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/FileSystem",
-    "metadata": {
-      "title": "FileSystem",
-      "slug": "Web/API/FileSystem",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/FileSystem",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161397
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -745,30 +486,9 @@
     "metadata": {
       "title": "DeviceMotionEvent",
       "slug": "Web/API/DeviceMotionEvent",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/DeviceMotionEvent",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/DeviceMotionEvent"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/Document/onselectionchange",
-    "metadata": {
-      "title": "onselectionchange",
-      "slug": "Web/API/Document/onselectionchange",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Document/onselectionchange",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161401
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -778,46 +498,9 @@
     "metadata": {
       "title": "NavigatorStorage",
       "slug": "Web/API/NavigatorStorage",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/NavigatorStorage",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/NavigatorStorage"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/WebSockets_API/Writing_WebSocket_server",
-    "metadata": {
-      "title": "Writing a WebSocket server in C#",
-      "slug": "Web/API/WebSockets_API/Writing_WebSocket_server",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WebSockets_API/Writing_WebSocket_server",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/SVGElement/dataset",
-    "metadata": {
-      "title": "SVGElement.dataset",
-      "slug": "Web/API/SVGElement/dataset",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/SVGElement/dataset",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161890
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -827,30 +510,9 @@
     "metadata": {
       "title": "BaseAudioContext",
       "slug": "Web/API/BaseAudioContext",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/BaseAudioContext",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/BaseAudioContext"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/RTCIdentityErrorEvent",
-    "metadata": {
-      "title": "RTCIdentityErrorEvent",
-      "slug": "Web/API/RTCIdentityErrorEvent",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/RTCIdentityErrorEvent",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161432
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -860,14 +522,33 @@
     "metadata": {
       "title": "Fetch : concepts de d\u00e9part",
       "slug": "Web/API/Fetch_API/Basic_concepts",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Fetch_API/Basic_concepts",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Fetch_API/Basic_concepts"
     },
-    "leaf": true,
-    "_checked": 1583160763
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "it",
+    "slug": "Web/API/UIEvent/layerX",
+    "metadata": {
+      "title": "event.layerX",
+      "slug": "Web/API/UIEvent/layerX",
+      "translationof": "Web/API/UIEvent/layerX"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/IDBTransaction",
+    "metadata": {
+      "title": "IDBTransaction",
+      "slug": "Web/API/IDBTransaction",
+      "translationof": "Web/API/IDBTransaction"
+    },
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -877,11 +558,7 @@
     "metadata": {
       "title": "ServiceWorkerRegistration",
       "slug": "Web/API/ServiceWorkerRegistration",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/ServiceWorkerRegistration",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/ServiceWorkerRegistration"
     },
     "leaf": false
   },
@@ -889,86 +566,25 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/Window/sidebar",
+    "slug": "Web/API/MutationObserver",
     "metadata": {
-      "title": "Window.sidebar",
-      "slug": "Web/API/Window/sidebar",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Window/sidebar",
-        "locale": "en-US"
-      }
+      "title": "MutationObserver",
+      "slug": "Web/API/MutationObserver",
+      "translationof": "Web/API/MutationObserver"
     },
-    "leaf": true,
-    "_checked": 1583161402
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/Window/document",
+    "slug": "Web/API/Window/innerWidth",
     "metadata": {
-      "title": "window.document",
-      "slug": "Web/API/Window/document",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Window/document",
-        "locale": "en-US"
-      }
+      "title": "window.innerWidth",
+      "slug": "Web/API/Window/innerWidth",
+      "translationof": "Web/API/Window/innerWidth"
     },
-    "leaf": true,
-    "_checked": 1583161065
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/Window/blur",
-    "metadata": {
-      "title": "Window.blur()",
-      "slug": "Web/API/Window/blur",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Window/blur",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161404
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/Window/scrollMaxX",
-    "metadata": {
-      "title": "Window.scrollMaxX",
-      "slug": "Web/API/Window/scrollMaxX",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Window/scrollMaxX",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161390
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/Window/storage_event",
-    "metadata": {
-      "title": "storage",
-      "slug": "Web/API/Window/storage_event",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Window/storage_event",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161884
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -978,11 +594,7 @@
     "metadata": {
       "title": "MediaSource",
       "slug": "Web/API/MediaSource",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/MediaSource",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/MediaSource"
     },
     "leaf": false
   },
@@ -990,82 +602,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/Screen",
+    "slug": "Web/API/SpeechSynthesisUtterance",
     "metadata": {
-      "title": "Screen",
-      "slug": "Web/API/Screen",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Screen",
-        "locale": "en-US"
-      }
+      "title": "SpeechSynthesisUtterance",
+      "slug": "Web/API/SpeechSynthesisUtterance",
+      "translationof": "Web/API/SpeechSynthesisUtterance"
     },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/Screen/lockOrientation",
-    "metadata": {
-      "title": "Screen.lockOrientation()",
-      "slug": "Web/API/Screen/lockOrientation",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Screen/lockOrientation",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583160954
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/CustomElementRegistry",
-    "metadata": {
-      "title": "CustomElementRegistry",
-      "slug": "Web/API/CustomElementRegistry",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/CustomElementRegistry",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/NonDocumentTypeChildNode",
-    "metadata": {
-      "title": "NonDocumentTypeChildNode",
-      "slug": "Web/API/NonDocumentTypeChildNode",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/NonDocumentTypeChildNode",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/WindowTimers",
-    "metadata": {
-      "title": "WindowTimers",
-      "slug": "Web/API/WindowTimers",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WindowTimers",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1075,11 +618,7 @@
     "metadata": {
       "title": "Request",
       "slug": "Web/API/Request",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Request",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/Request"
     },
     "leaf": false
   },
@@ -1091,11 +630,7 @@
     "metadata": {
       "title": "HTMLSelectElement",
       "slug": "Web/API/HTMLSelectElement",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLSelectElement",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLSelectElement"
     },
     "leaf": false
   },
@@ -1107,14 +642,9 @@
     "metadata": {
       "title": "HTMLSelectElement.selectedIndex",
       "slug": "Web/API/HTMLSelectElement/selectedIndex",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLSelectElement/selectedIndex",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLSelectElement/selectedIndex"
     },
-    "leaf": true,
-    "_checked": 1583160966
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1124,11 +654,7 @@
     "metadata": {
       "title": "GeolocationPosition",
       "slug": "Web/API/GeolocationPosition",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/GeolocationPosition",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/GeolocationPosition"
     },
     "leaf": false
   },
@@ -1140,30 +666,9 @@
     "metadata": {
       "title": "RTCPeerConnection",
       "slug": "Web/API/RTCPeerConnection",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/RTCPeerConnection",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/RTCPeerConnection"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
-    "metadata": {
-      "title": "RTCPeerConnection()",
-      "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583160757
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1173,14 +678,9 @@
     "metadata": {
       "title": "MediaStreamAudioSourceNode",
       "slug": "Web/API/MediaStreamAudioSourceNode",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/MediaStreamAudioSourceNode",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/MediaStreamAudioSourceNode"
     },
-    "leaf": true,
-    "_checked": 1583253270
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1190,30 +690,9 @@
     "metadata": {
       "title": "HTMLInputElement",
       "slug": "Web/API/HTMLInputElement",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLInputElement",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLInputElement"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "UNKNOWN",
-    "slug": "Web/API/Node/outerText",
-    "metadata": {
-      "title": "Node.outerText",
-      "slug": "Web/API/Node/outerText",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Node/outerText",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161881
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1223,11 +702,7 @@
     "metadata": {
       "title": "HTMLTableRowElement",
       "slug": "Web/API/HTMLTableRowElement",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLTableRowElement",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLTableRowElement"
     },
     "leaf": false
   },
@@ -1239,11 +714,7 @@
     "metadata": {
       "title": "SharedWorkerGlobalScope",
       "slug": "Web/API/SharedWorkerGlobalScope",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/SharedWorkerGlobalScope",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/SharedWorkerGlobalScope"
     },
     "leaf": false
   },
@@ -1255,11 +726,7 @@
     "metadata": {
       "title": "WindowOrWorkerGlobalScope",
       "slug": "Web/API/WindowOrWorkerGlobalScope",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/WindowOrWorkerGlobalScope",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/WindowOrWorkerGlobalScope"
     },
     "leaf": false
   },
@@ -1267,17 +734,37 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/MozContact",
+    "slug": "Web/API/CanvasRenderingContext2D",
     "metadata": {
-      "title": "MozContact",
-      "slug": "Web/API/MozContact",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/B2G_OS/API/MozContact",
-        "locale": "en-US"
-      }
+      "title": "CanvasRenderingContext2D",
+      "slug": "Web/API/CanvasRenderingContext2D",
+      "translationof": "Web/API/CanvasRenderingContext2D"
     },
     "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/Web_Audio_API/Web_audio_spatialization_basics",
+    "metadata": {
+      "title": "Web audio spatialization basics",
+      "slug": "Web/API/Web_Audio_API/Web_audio_spatialization_basics",
+      "translationof": "Web/API/Web_Audio_API/Web_audio_spatialization_basics"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/API/HTMLElement/offsetHeight",
+    "metadata": {
+      "title": "element.offsetHeight",
+      "slug": "Web/API/HTMLElement/offsetHeight",
+      "translationof": "Web/API/HTMLElement/offsetHeight"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1287,14 +774,9 @@
     "metadata": {
       "title": "element.offsetWidth",
       "slug": "Web/API/HTMLElement/offsetWidth",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLElement/offsetWidth",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLElement/offsetWidth"
     },
-    "leaf": true,
-    "_checked": 1583354254
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1304,11 +786,7 @@
     "metadata": {
       "title": "HTMLIFrameElement",
       "slug": "Web/API/HTMLIFrameElement",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/HTMLIFrameElement",
-        "locale": "en-US"
-      }
+      "translationof": "Web/API/HTMLIFrameElement"
     },
     "leaf": false
   },
@@ -1316,18 +794,37 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/API/FileReader/result",
+    "slug": "Web/XSLT/Element",
     "metadata": {
-      "title": "FileReader.result",
-      "slug": "Web/API/FileReader/result",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/FileReader/result",
-        "locale": "en-US"
-      }
+      "title": "\u00c9l\u00e9ments",
+      "slug": "Web/XSLT/Element",
+      "translationof": "Web/XSLT/Element"
     },
-    "leaf": true,
-    "_checked": 1583161872
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/XSLT/Transformations_XML_avec_XSLT",
+    "metadata": {
+      "title": "Transformations XML avec XSLT",
+      "slug": "Web/XSLT/Transformations_XML_avec_XSLT",
+      "translationof": "Web/XSLT/Transforming_XML_with_XSLT"
+    },
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/XSLT/Transformations_XML_avec_XSLT/La_r\u00e9f\u00e9rence_XSLT_XPath_de_Netscape",
+    "metadata": {
+      "title": "Transformations_XML_avec_XSLT/La_r\u00e9f\u00e9rence_XSLT//XPath_de_Netscape",
+      "slug": "Web/XSLT/Transformations_XML_avec_XSLT/La_r\u00e9f\u00e9rence_XSLT_XPath_de_Netscape",
+      "translationof": "Web/XSLT/Transforming_XML_with_XSLT/The_Netscape_XSLT_XPath_Reference"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1337,11 +834,7 @@
     "metadata": {
       "title": "L'interface XSLT/JavaScript dans Gecko",
       "slug": "Web/XSLT/Interface_XSLT_JS_dans_Gecko",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/XSLT/XSLT_JS_interface_in_Gecko",
-        "locale": "en-US"
-      }
+      "translationof": "Web/XSLT/XSLT_JS_interface_in_Gecko"
     },
     "leaf": false
   },
@@ -1349,18 +842,13 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Obsolete_Pages",
+    "slug": "Web/JavaScript/Reference/Classes/Class_fields",
     "metadata": {
-      "title": "Obsolete Pages",
-      "slug": "Web/JavaScript/Guide/Obsolete_Pages",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/JavaScript/Guide/Obsolete_Pages",
-        "locale": "en-US"
-      }
+      "title": "Class fields",
+      "slug": "Web/JavaScript/Reference/Classes/Class_fields",
+      "translationof": "Web/JavaScript/Reference/Classes/Class_fields"
     },
-    "leaf": true,
-    "_checked": 1583161893
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1370,11 +858,7 @@
     "metadata": {
       "title": "R\u00e9f\u00e9rence des erreurs JavaScript",
       "slug": "Web/JavaScript/Reference/Erreurs",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/JavaScript/Reference/Errors",
-        "locale": "en-US"
-      }
+      "translationof": "Web/JavaScript/Reference/Errors"
     },
     "leaf": false
   },
@@ -1382,18 +866,25 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "Web/Events/open",
+    "slug": "Web/JavaScript/Reference/Objets_globaux/Object",
     "metadata": {
-      "title": "open",
-      "slug": "Web/Events/open",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Events/open",
-        "locale": "en-US"
-      }
+      "title": "Object",
+      "slug": "Web/JavaScript/Reference/Objets_globaux/Object",
+      "translationof": "Web/JavaScript/Reference/Global_Objects/Object"
     },
-    "leaf": true,
-    "_checked": 1583160927
+    "leaf": false
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Web/Events",
+    "metadata": {
+      "title": "R\u00e9f\u00e9rence des \u00e9v\u00e9nements",
+      "slug": "Web/Events",
+      "translationof": "Web/Events"
+    },
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1403,75 +894,7 @@
     "metadata": {
       "title": "Web Performance",
       "slug": "Web/Performance",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Performance",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/Accessibility/AT-APIs",
-    "metadata": {
-      "title": "AT APIs Support",
-      "slug": "Web/Accessibility/AT-APIs",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/Accessibility/AT-APIs",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/Accessibility/AT-APIs/AT-SPI",
-    "metadata": {
-      "title": "AT-SPI",
-      "slug": "Web/Accessibility/AT-APIs/AT-SPI",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/Accessibility/AT-APIs/AT-SPI",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/Accessibility/AT-APIs/Gecko",
-    "metadata": {
-      "title": "Gecko",
-      "slug": "Web/Accessibility/AT-APIs/Gecko",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/Accessibility/AT-APIs/Gecko",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Web/Accessibility/AT-APIs/Gecko/Roles",
-    "metadata": {
-      "title": "R\u00f4les Gecko",
-      "slug": "Web/Accessibility/AT-APIs/Gecko/Roles",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Tech/Accessibility/AT-APIs/Gecko/Roles",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Performance"
     },
     "leaf": false
   },
@@ -1483,11 +906,7 @@
     "metadata": {
       "title": "Technologies media Web",
       "slug": "Web/Media",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Media",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Media"
     },
     "leaf": false
   },
@@ -1499,30 +918,9 @@
     "metadata": {
       "title": "about:debugging",
       "slug": "Outils/about:debugging",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/about:debugging",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/about:debugging"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Outils/Release_notes",
-    "metadata": {
-      "title": "Notes de version",
-      "slug": "Outils/Release_notes",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/Release_notes",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583253262
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1532,14 +930,21 @@
     "metadata": {
       "title": "DevTools API",
       "slug": "Outils/DevToolsAPI",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/DevToolsAPI",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/DevToolsAPI"
     },
-    "leaf": true,
-    "_checked": 1583161058
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Outils/Couleurs_des_DevTools",
+    "metadata": {
+      "title": "Couleurs des DevTools",
+      "slug": "Outils/Couleurs_des_DevTools",
+      "translationof": "Tools/DevToolsColors"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1549,14 +954,9 @@
     "metadata": {
       "title": "Index",
       "slug": "Outils/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/Index"
     },
-    "leaf": true,
-    "_checked": 1583161877
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1566,11 +966,7 @@
     "metadata": {
       "title": "travailler avec les animations",
       "slug": "Outils/Inspecteur/Comment/Work_with_animations",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/Page_Inspector/How_to/Work_with_animations",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/Page_Inspector/How_to/Work_with_animations"
     },
     "leaf": false
   },
@@ -1582,11 +978,7 @@
     "metadata": {
       "title": "Sc\u00e9narios",
       "slug": "Outils/Performance/Scenarios",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/Performance/Scenarios",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/Performance/Scenarios"
     },
     "leaf": false
   },
@@ -1598,230 +990,33 @@
     "metadata": {
       "title": "UI Tour",
       "slug": "Outils/Performance/UI_Tour",
-      "locale": "fr",
-      "parent": {
-        "slug": "Tools/Performance/UI_Tour",
-        "locale": "en-US"
-      }
+      "translationof": "Tools/Performance/UI_Tour"
     },
-    "leaf": true,
-    "_checked": 1583161398
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "NPAPI",
+    "slug": "Outils/Migrating_from_Firebug",
     "metadata": {
-      "title": "NPAPI",
-      "slug": "NPAPI",
-      "locale": "fr",
-      "parent": {
-        "slug": "NPAPI",
-        "locale": "en-US"
-      }
+      "title": "Migrating from Firebug",
+      "slug": "Outils/Migrating_from_Firebug",
+      "translationof": "Tools/Migrating_from_Firebug"
     },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "UNKNOWN",
-    "slug": "Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple",
-    "metadata": {
-      "title": "Exemple",
-      "slug": "Utilisation_du_DOM_Level_1_Core_du_W3C/Exemple",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core/Example",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583253267
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "NSS",
+    "slug": "WebAssembly/Understanding_the_text_format",
     "metadata": {
-      "title": "Network Security Services",
-      "slug": "NSS",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Projects/NSS",
-        "locale": "en-US"
-      }
+      "title": "Comprendre le format texte de WebAssembly",
+      "slug": "WebAssembly/Understanding_the_text_format",
+      "translationof": "WebAssembly/Understanding_the_text_format"
     },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Extensions/Mobile",
-    "metadata": {
-      "title": "Extensions pour Firefox sous Android",
-      "slug": "Extensions/Mobile",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Add-ons/Legacy_Firefox_for_Android",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161405
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Midas",
-    "metadata": {
-      "title": "Midas",
-      "slug": "Midas",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Projects/Midas",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Exemples",
-    "metadata": {
-      "title": "Exemples",
-      "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Exemples",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Mozilla/XPInstall/Reference/Examples",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "es",
-    "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Exemples/File.macAlias",
-    "metadata": {
-      "title": "File.macAlias",
-      "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Exemples/File.macAlias",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Mozilla/XPInstall/Reference/Examples/File.macAlias",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161063
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "ca",
-    "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Objet_Install/M\u00e9thodes/resetError",
-    "metadata": {
-      "title": "resetError",
-      "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Objet_Install/M\u00e9thodes/resetError",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Mozilla/XPInstall/Reference/Install_Object/Methods/resetError",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161389
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "ca",
-    "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Objet_File/M\u00e9thodes/windowsRegisterServer",
-    "metadata": {
-      "title": "windowsRegisterServer",
-      "slug": "R\u00e9f\u00e9rence_de_l_API_XPInstall/Objet_File/M\u00e9thodes/windowsRegisterServer",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Mozilla/XPInstall/Reference/File_Object/Methods/windowsRegisterServer",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161056
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "XForms/\u00c9l\u00e9ment_interface_utilisateur_XForms",
-    "metadata": {
-      "title": "Mozilla XForms User Interface",
-      "slug": "XForms/\u00c9l\u00e9ment_interface_utilisateur_XForms",
-      "locale": "fr",
-      "parent": {
-        "slug": "Archive/Web/XForms/User_Interface_Elements",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161445
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "UNKNOWN",
-    "slug": "SpiderMonkey/Index",
-    "metadata": {
-      "title": "Index",
-      "slug": "SpiderMonkey/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Projects/SpiderMonkey/Index",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583161885
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "Performance",
-    "metadata": {
-      "title": "Performance",
-      "slug": "Performance",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Performance",
-        "locale": "en-US"
-      }
-    },
-    "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "en",
-    "slug": "WebRTC/MediaStream_API",
-    "metadata": {
-      "title": "API MediaStream",
-      "slug": "WebRTC/MediaStream_API",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/API/Media_Streams_API",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583160760
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1831,11 +1026,7 @@
     "metadata": {
       "title": "Tools for game development",
       "slug": "Games/Tools",
-      "locale": "fr",
-      "parent": {
-        "slug": "Games/Tools",
-        "locale": "en-US"
-      }
+      "translationof": "Games/Tools"
     },
     "leaf": false
   },
@@ -1847,11 +1038,7 @@
     "metadata": {
       "title": "Mixed Content",
       "slug": "S\u00e9curit\u00e9/MixedContent",
-      "locale": "fr",
-      "parent": {
-        "slug": "Web/Security/Mixed_content",
-        "locale": "en-US"
-      }
+      "translationof": "Web/Security/Mixed_content"
     },
     "leaf": false
   },
@@ -1863,14 +1050,9 @@
     "metadata": {
       "title": "Introduction au d\u00e9veloppement de jeux HTML5 (r\u00e9sum\u00e9)",
       "slug": "Jeux/Introduction_to_HTML5_Game_Gevelopment_(summary)",
-      "locale": "fr",
-      "parent": {
-        "slug": "Games/Introduction_to_HTML5_Game_Development_(summary)",
-        "locale": "en-US"
-      }
+      "translationof": "Games/Introduction_to_HTML5_Game_Development_(summary)"
     },
-    "leaf": true,
-    "_checked": 1583161426
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1880,14 +1062,21 @@
     "metadata": {
       "title": "Index",
       "slug": "Jeux/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Games/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Games/Index"
     },
-    "leaf": true,
-    "_checked": 1583253264
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Apprendre/CSS/Building_blocks/Backgrounds_and_borders",
+    "metadata": {
+      "title": "Arri\u00e8re-plans et bordures",
+      "slug": "Apprendre/CSS/Building_blocks/Backgrounds_and_borders",
+      "translationof": "Learn/CSS/Building_blocks/Backgrounds_and_borders"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1897,14 +1086,45 @@
     "metadata": {
       "title": "Sizing items in CSS",
       "slug": "Apprendre/CSS/Building_blocks/Sizing_items_in_CSS",
-      "locale": "fr",
-      "parent": {
-        "slug": "Learn/CSS/Building_blocks/Sizing_items_in_CSS",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/CSS/Building_blocks/Sizing_items_in_CSS"
     },
-    "leaf": true,
-    "_checked": 1583161444
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "ca",
+    "slug": "Apprendre/CSS/Building_blocks/Selectors/S\u00e9lecteurs_d_atrribut",
+    "metadata": {
+      "title": "S\u00e9lecteurs d'attribut",
+      "slug": "Apprendre/CSS/Building_blocks/Selectors/S\u00e9lecteurs_d_atrribut",
+      "translationof": "Learn/CSS/Building_blocks/Selectors/Attribute_selectors"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Apprendre/CSS/Building_blocks/Selectors/Pseudo-classes_et_pseudo-\u00e9l\u00e9ments",
+    "metadata": {
+      "title": "Pseudo-classes et pseudo-\u00e9l\u00e9ments",
+      "slug": "Apprendre/CSS/Building_blocks/Selectors/Pseudo-classes_et_pseudo-\u00e9l\u00e9ments",
+      "translationof": "Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements"
+    },
+    "leaf": true
+  },
+  {
+    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
+    "locale": "fr",
+    "guessed": "en",
+    "slug": "Apprendre/CSS/CSS_layout/Exemples_pratiques_de_positionnement",
+    "metadata": {
+      "title": "Exemples pratiques de positionnement",
+      "slug": "Apprendre/CSS/CSS_layout/Exemples_pratiques_de_positionnement",
+      "translationof": "Learn/CSS/CSS_layout/Practical_positioning_examples"
+    },
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1914,31 +1134,9 @@
     "metadata": {
       "title": "Testez vos comp\u00e9tences : Flexbox",
       "slug": "Apprendre/CSS/CSS_layout/Flexbox_skills",
-      "locale": "fr",
-      "parent": {
-        "slug": "Learn/CSS/CSS_layout/Flexbox_skills",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/CSS/CSS_layout/Flexbox_skills"
     },
-    "leaf": true,
-    "_checked": 1583353839
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
-    "locale": "fr",
-    "guessed": "UNKNOWN",
-    "slug": "Apprendre/Coder-scripter",
-    "metadata": {
-      "title": "Coder et scripter",
-      "slug": "Apprendre/Coder-scripter",
-      "locale": "fr",
-      "parent": {
-        "slug": "Learn/Coding-Scripting",
-        "locale": "en-US"
-      }
-    },
-    "leaf": true,
-    "_checked": 1583160946
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
@@ -1948,30 +1146,20 @@
     "metadata": {
       "title": "Index",
       "slug": "Apprendre/Index",
-      "locale": "fr",
-      "parent": {
-        "slug": "Learn/Index",
-        "locale": "en-US"
-      }
+      "translationof": "Learn/Index"
     },
-    "leaf": true,
-    "_checked": 1583160753
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fr",
     "locale": "fr",
     "guessed": "en",
-    "slug": "NSPR_build_instructions",
+    "slug": "Apprendre/a11y/WAI-ARIA_basics",
     "metadata": {
-      "title": "NSPR build instructions",
-      "slug": "NSPR_build_instructions",
-      "locale": "fr",
-      "parent": {
-        "slug": "Mozilla/Projects/NSPR/NSPR_build_instructions",
-        "locale": "en-US"
-      }
+      "title": "Les bases de WAI-ARIA",
+      "slug": "Apprendre/a11y/WAI-ARIA_basics",
+      "translationof": "Learn/Accessibility/WAI-ARIA_basics"
     },
-    "leaf": true,
-    "_checked": 1583160955
+    "leaf": true
   }
 ]

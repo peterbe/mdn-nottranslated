@@ -46,22 +46,45 @@ function download(uri) {
   });
 }
 
-function downloadMetadata(locale, slug) {
-  let uri = `/api/v1/doc/${locale}/${slug}`;
+async function downloadRevisions(locale, slug) {
+  let uri = `/${locale}/docs/${slug}$history`;
   let u = baseUrl + uri;
-  let parsed = url.parse(u);
-
-  console.log("FETCH METADATA:", u, encodeURI(u));
-  return fetch(encodeURI(u)).then(r => {
-    if (!r.ok) {
-      console.log("THROW:", r.status);
-      throw new Error(r.status);
+  console.log("FETCH $HISTORY:", u, encodeURI(u));
+  const r = await fetch(encodeURI(u));
+  if (!r.ok) {
+    console.log("THROW:", r.status);
+    throw new Error(r.status);
+  }
+  const html = await r.text();
+  // console.log(html);
+  const $ = cheerio.load(html);
+  const revisions = [];
+  $("ul.revision-list li").each((i, li) => {
+    if (revisions.length < 10) {
+      const creator = $(".revision-list-creator a", li).text();
+      const date = $(".revision-list-date time", li).attr("datetime");
+      revisions.push({ creator, date });
     }
-    return r.json();
   });
+  return revisions;
 }
 
-app.get("/api/v0/about", (req, res) => {
+async function downloadMetadata(locale, slug) {
+  let uri = `/api/v1/doc/${locale}/${slug}`;
+  let u = baseUrl + uri;
+  // let parsed = url.parse(u);
+
+  console.log("FETCH METADATA:", u, encodeURI(u));
+  const r = await fetch(encodeURI(u));
+  if (!r.ok) {
+    console.log("THROW:", r.status);
+    throw new Error(r.status);
+  }
+  const apiMetadata = await r.json();
+  return apiMetadata;
+}
+
+app.get("/api/v0/about", async (req, res) => {
   let { slug, locale } = req.query;
   if (!slug) {
     return res.status(400).send("no ?slug=...");
@@ -69,18 +92,48 @@ app.get("/api/v0/about", (req, res) => {
   if (!locale) {
     return res.status(400).send("no ?locale=...");
   }
-  downloadMetadata(locale, slug)
-    .then(data => {
-      res.json(data);
-    })
-    .catch(ex => {
-      console.error("Failed to fetch or download", ex.toString());
-      if (ex.toString().includes("404")) {
-        res.status(404).send(`Page not found ${locale}/${slug}`);
-      } else {
-        res.status(500).send(ex.toString());
-      }
+  try {
+    const data = await downloadMetadata(locale, slug);
+    res.json(data);
+  } catch (ex) {
+    console.error("Failed to fetch or download", ex.toString());
+    if (ex.toString().includes("404")) {
+      res.status(404).send(`Page not found ${locale}/${slug}`);
+    } else {
+      res.status(500).send(ex.toString());
+    }
+  }
+});
+
+app.get("/api/v0/revisions", async (req, res) => {
+  let { slug, locale, translationof } = req.query;
+  if (!slug) {
+    return res.status(400).send("no ?slug=...");
+  }
+  if (!locale) {
+    return res.status(400).send("no ?locale=...");
+  }
+
+  try {
+    const revisions = await downloadRevisions(locale, slug);
+    let enUSRevisions = [];
+    if (translationof) {
+      enUSRevisions = await downloadRevisions("en-US", translationof);
+    }
+    res.json({
+      revisions,
+      enUSRevisions
     });
+  } catch (ex) {
+    console.error("Failed to fetch or download", ex.toString());
+    if (ex.toString().includes("404")) {
+      res.status(404).send(`Page not found ${locale}/${slug}`);
+    } else {
+      console.error(ex);
+
+      res.status(500).send(ex.toString());
+    }
+  }
 });
 
 app.get("/api/v0/preview", (req, res) => {
@@ -110,6 +163,17 @@ app.get("/api/v0/preview", (req, res) => {
           console.log("SRC!!:", el.attribs["src"]);
         }
       });
+
+      const sampleInteractiveExample = $(
+        "<div><h2>SAMPLE<br/>INTERACTIVE<br/>EXAMPLE<br/>RIGHT HERE</h2></div>"
+      )
+        .css("border", "2px solid #666")
+        .css("min-width", "700px")
+        .css("height", "250px")
+        .css("min-height", "250px")
+        .css("text-align", "center")
+        .css("margin-bottom", "25px");
+      $("iframe.interactive").replaceWith(sampleInteractiveExample);
       res.send($.html().trim());
     })
     .catch(ex => {
