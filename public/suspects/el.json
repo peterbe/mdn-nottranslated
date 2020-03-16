@@ -21,7 +21,8 @@
       "slug": "Learn/Common_questions/\u03a4\u03b9_\u03b5\u03af\u03bd\u03b1\u03b9_\u03bf\u03b9_\u03c5\u03c0\u03b5\u03c1\u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03b9",
       "translationof": "Learn/Common_questions/What_are_hyperlinks"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368568
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -57,7 +58,8 @@
       "slug": "Learn/HTML/Forms/\u0395\u03c0\u03b9\u03ba\u03cd\u03c1\u03c9\u03c3\u03b7_\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd_\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2",
       "translationof": "Learn/Forms/Form_validation"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368573
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -81,7 +83,8 @@
       "slug": "Web/CSS",
       "translationof": "Web/CSS"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368569
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -105,7 +108,8 @@
       "slug": "Web/API/Service_Worker_API",
       "translationof": "Web/API/Service_Worker_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368572
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -141,7 +145,8 @@
       "slug": "Web/Tutorials",
       "translationof": "Web/Tutorials"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368576
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -189,7 +194,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Array",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368571
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -201,7 +207,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Set",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Set"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368567
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -237,6 +244,7 @@
       "slug": "Glossary/\u0394\u03b5\u03af\u03ba\u03c4\u03b7\u03c2",
       "translationof": "Glossary/Index"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368575
   }
 ]

@@ -153,7 +153,8 @@
       "slug": "Web/JavaScript/Datastrukturer",
       "translationof": "Web/JavaScript/Data_structures"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370306
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -177,7 +178,8 @@
       "slug": "Web/JavaScript/Reference/Operators",
       "translationof": "Web/JavaScript/Reference/Operators"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370312
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -201,7 +203,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects",
       "translationof": "Web/JavaScript/Reference/Global_Objects"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370313
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -213,7 +216,8 @@
       "slug": "Web/JavaScript/Reference/Functions",
       "translationof": "Web/JavaScript/Reference/Functions"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370308
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -237,7 +241,8 @@
       "slug": "Glossary/Bandwidth",
       "translationof": "Glossary/Bandwidth"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370310
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -249,6 +254,7 @@
       "slug": "Glossary/IP_Adress",
       "translationof": "Glossary/IP_Address"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370309
   }
 ]

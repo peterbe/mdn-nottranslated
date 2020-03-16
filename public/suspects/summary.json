@@ -5,9 +5,9 @@
       "English": "Arabic",
       "native": "عربي"
     },
-    "count": 127,
+    "count": 126,
     "file": "ar.json",
-    "leafs": 79,
+    "leafs": 78,
     "inception": 127
   },
   {
@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 131,
+    "count": 127,
     "file": "bn.json",
-    "leafs": 94,
+    "leafs": 90,
     "inception": 131
   },
   {
@@ -27,9 +27,9 @@
       "English": "Bulgarian",
       "native": "Български"
     },
-    "count": 31,
+    "count": 22,
     "file": "bg.json",
-    "leafs": 12,
+    "leafs": 3,
     "inception": 31
   },
   {
@@ -82,9 +82,9 @@
       "English": "Dutch",
       "native": "Nederlands"
     },
-    "count": 112,
+    "count": 108,
     "file": "nl.json",
-    "leafs": 65,
+    "leafs": 61,
     "inception": 112
   },
   {
@@ -93,9 +93,9 @@
       "English": "Finnish",
       "native": "suomi"
     },
-    "count": 25,
+    "count": 23,
     "file": "fi.json",
-    "leafs": 14,
+    "leafs": 12,
     "inception": 25
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 257,
+    "count": 247,
     "file": "de.json",
-    "leafs": 176,
+    "leafs": 166,
     "inception": 257
   },
   {
@@ -181,9 +181,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 169,
+    "count": 147,
     "file": "it.json",
-    "leafs": 107,
+    "leafs": 85,
     "inception": 169
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 712,
+    "count": 705,
     "file": "ko.json",
-    "leafs": 579,
+    "leafs": 572,
     "inception": 712
   },
   {
@@ -247,9 +247,9 @@
       "English": "Polish",
       "native": "Polski"
     },
-    "count": 276,
+    "count": 257,
     "file": "pl.json",
-    "leafs": 207,
+    "leafs": 188,
     "inception": 276
   },
   {
@@ -258,9 +258,9 @@
       "English": "Portuguese (Brazilian)",
       "native": "Português (do Brasil)"
     },
-    "count": 427,
+    "count": 414,
     "file": "pt-br.json",
-    "leafs": 333,
+    "leafs": 320,
     "inception": 427
   },
   {

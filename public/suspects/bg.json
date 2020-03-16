@@ -63,30 +63,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
     "locale": "bg",
     "guessed": "en",
-    "slug": "Web/CSS/computed_value",
-    "metadata": {
-      "title": "\u0418\u0437\u0447\u0438\u0441\u043b\u0435\u043d\u0430 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442",
-      "slug": "Web/CSS/computed_value",
-      "translationof": "Web/CSS/computed_value"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
-    "slug": "Web/CSS/position",
-    "metadata": {
-      "title": "position",
-      "slug": "Web/CSS/position",
-      "translationof": "Web/CSS/position"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
     "slug": "Web/CSS/CSS_Positioning",
     "metadata": {
       "title": "CSS Positioning",
@@ -99,37 +75,14 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
     "locale": "bg",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
-    "metadata": {
-      "title": "\u0414\u0430 \u0440\u0430\u0437\u0431\u0435\u0440\u0435\u043c CSS z-index",
-      "slug": "Web/CSS/CSS_Positioning/Understanding_z_index",
-      "translationof": "Web/CSS/CSS_Positioning/Understanding_z_index"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
     "slug": "Web/HTML/Element/i",
     "metadata": {
       "title": "<i>",
       "slug": "Web/HTML/Element/i",
       "translationof": "Web/HTML/Element/i"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/button",
-    "metadata": {
-      "title": "<button>: The Button element",
-      "slug": "Web/HTML/Element/button",
-      "translationof": "Web/HTML/Element/button"
-    },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371871
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
@@ -165,7 +118,8 @@
       "slug": "Web/HTTP/Status/302",
       "translationof": "Web/HTTP/Status/302"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371865
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
@@ -178,30 +132,6 @@
       "translationof": "Web/HTTP/Headers"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "vi",
-    "slug": "Web/HTTP/Headers/Cache-Control",
-    "metadata": {
-      "title": "Cache-Control",
-      "slug": "Web/HTTP/Headers/Cache-Control",
-      "translationof": "Web/HTTP/Headers/Cache-Control"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
-    "slug": "Web/HTTP/CSP",
-    "metadata": {
-      "title": "Content Security Policy (CSP)",
-      "slug": "Web/HTTP/CSP",
-      "translationof": "Web/HTTP/CSP"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
@@ -219,18 +149,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
     "locale": "bg",
     "guessed": "en",
-    "slug": "Web/API/XMLHttpRequest",
-    "metadata": {
-      "title": "XMLHttpRequest",
-      "slug": "Web/API/XMLHttpRequest",
-      "translationof": "Web/API/XMLHttpRequest"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guide",
     "metadata": {
       "title": "\u0420\u044a\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e JavaScript",
@@ -243,37 +161,14 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
     "locale": "bg",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
-    "metadata": {
-      "title": "\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
-      "slug": "Web/JavaScript/Guide/\u0424\u0443\u043d\u043a\u0446\u0438\u0438",
-      "translationof": "Web/JavaScript/Guide/Functions"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guide/Using_promises",
     "metadata": {
       "title": "Using Promises",
       "slug": "Web/JavaScript/Guide/Using_promises",
       "translationof": "Web/JavaScript/Guide/Using_promises"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",
-    "locale": "bg",
-    "guessed": "en",
-    "slug": "Web/JavaScript/A_re-introd\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435_\u0432_JavaScriptuction_to_JavaScript",
-    "metadata": {
-      "title": "\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 JavaScript (JS \u0440\u044a\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e)",
-      "slug": "Web/JavaScript/A_re-introd\u0412\u044a\u0432\u0435\u0434\u0435\u043d\u0438\u0435_\u0432_JavaScriptuction_to_JavaScript",
-      "translationof": "Web/JavaScript/A_re-introduction_to_JavaScript"
-    },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371867
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bg",

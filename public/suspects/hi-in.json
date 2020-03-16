@@ -57,7 +57,8 @@
       "slug": "Web/JavaScript/Reference/Operators/\u0911\u092a\u0930\u0947\u091f\u0930_\u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915\u0924\u093e",
       "translationof": "Web/JavaScript/Reference/Operators/Operator_Precedence"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368636
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hi-in",
@@ -81,6 +82,7 @@
       "slug": "Glossary/\u0907\u0902\u091f\u0930\u0928\u0947\u091f",
       "translationof": "Glossary/Internet"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584368637
   }
 ]

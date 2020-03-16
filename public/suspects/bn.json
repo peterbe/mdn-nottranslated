@@ -21,7 +21,8 @@
       "slug": "Learn/How_to_contribute",
       "translationof": "Learn/How_to_contribute"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371301
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -69,7 +70,8 @@
       "slug": "Learn/Getting_started_with_the_web/JavaScript_basics",
       "translationof": "Learn/Getting_started_with_the_web/JavaScript_basics"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371310
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -81,7 +83,8 @@
       "slug": "Learn/Getting_started_with_the_web/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u098f\u09b0_\u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
       "translationof": "Learn/Getting_started_with_the_web/HTML_basics"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369067
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -117,7 +120,8 @@
       "slug": "Learn/HTML/Howto/Use_JavaScript_within_a_webpage",
       "translationof": "Learn/HTML/Howto/Use_JavaScript_within_a_webpage"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370065
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -141,7 +145,8 @@
       "slug": "Learn/JavaScript/First_steps/Math",
       "translationof": "Learn/JavaScript/First_steps/Math"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369071
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -153,7 +158,8 @@
       "slug": "Learn/JavaScript/First_steps/Variables",
       "translationof": "Learn/JavaScript/First_steps/Variables"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370079
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -165,7 +171,8 @@
       "slug": "Learn/Infrastructure",
       "translationof": "Learn/Infrastructure"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370905
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -189,7 +196,8 @@
       "slug": "Tools/Page_Inspector",
       "translationof": "Tools/Page_Inspector"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370069
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -201,7 +209,8 @@
       "slug": "Tools/\u099f\u09c1\u09b2\u09b8_\u099f\u09c1\u09b2\u09ac\u0995\u09cd\u09b8",
       "translationof": "Tools/Tools_Toolbox"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371587
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -213,7 +222,8 @@
       "slug": "Tools/\u0995\u09c0\u09ac\u09cb\u09b0\u09cd\u09a1_\u09b6\u09b0\u09cd\u099f\u0995\u09be\u099f",
       "translationof": "Tools/Keyboard_shortcuts"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370898
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -225,7 +235,8 @@
       "slug": "Tools/Style_Editor",
       "translationof": "Tools/Style_Editor"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370899
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -249,7 +260,8 @@
       "slug": "Tools/Remote_Debugging/Firefox_for_Android",
       "translationof": "Tools/Remote_Debugging/Firefox_for_Android"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370892
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -261,7 +273,8 @@
       "slug": "Tools/Debugger",
       "translationof": "Tools/Debugger"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369078
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -273,7 +286,8 @@
       "slug": "Tools/Web_Console",
       "translationof": "Tools/Web_Console"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369079
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -285,7 +299,8 @@
       "slug": "Tools/Performance",
       "translationof": "Tools/Performance"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371302
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -297,7 +312,8 @@
       "slug": "Tools/\u09b8\u09cd\u0995\u09cd\u09b0\u09cd\u09af\u09be\u099a\u09aa\u09cd\u09af\u09be\u09a1",
       "translationof": "Tools/Scratchpad"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370901
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -309,7 +325,8 @@
       "slug": "Tools/\u09a4\u09cd\u09b0\u09bf\u09ae\u09be\u09a4\u09cd\u09b0\u09bf\u0995_\u09a6\u09b0\u09cd\u09b6\u09a8",
       "translationof": "Tools/3D_View"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369044
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -333,7 +350,8 @@
       "slug": "Web_development/Historical_artifacts_to_avoid",
       "translationof": "Web/Guide/HTML/Obsolete_things_to_avoid"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370887
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -345,7 +363,8 @@
       "slug": "Web_Development/Introduction_to_Web_development",
       "translationof": "Web/Guide/Introduction_to_Web_development"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370883
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -369,7 +388,8 @@
       "slug": "Web/Guide/CSS/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u0997\u09cd\u09b0\u09be\u09a1\u09bf\u09af\u09bc\u09cd\u09af\u09be\u09a8\u09cd\u099f_\u098f\u09b0_\u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
       "translationof": "Web/CSS/CSS_Images/Using_CSS_gradients"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371307
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -381,7 +401,8 @@
       "slug": "Web/Guide/HTML/HTML5_\u09a1\u0995\u09c1\u09ae\u09c7\u09a8\u09cd\u099f\u09c7\u09b0_\u09b8\u09c7\u0995\u09b6\u09a8_\u098f\u09ac\u0982_\u0986\u0989\u099f\u09b2\u09be\u0987\u09a8",
       "translationof": "Web/Guide/HTML/Using_HTML_sections_and_outlines"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370080
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -405,7 +426,8 @@
       "slug": "Web/Guide/HTML/Forms/My_first_HTML_form",
       "translationof": "Learn/Forms/Your_first_form"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369043
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -417,7 +439,8 @@
       "slug": "Web/Guide/HTML/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u09ab\u09b0\u09cd\u09ae",
       "translationof": "Learn/HTML/Forms/HTML5_updates"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369059
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -441,7 +464,8 @@
       "slug": "Web/Guide/HTML/Canvas_tutorial/Basic_usage",
       "translationof": "Web/API/Canvas_API/Tutorial/Basic_usage"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369048
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -477,7 +501,8 @@
       "slug": "Web/Guide/API/DOM/Storage",
       "translationof": "Web/Guide/API/DOM/Storage"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370082
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -501,7 +526,8 @@
       "slug": "Web/Guide/Events/Creating_and_triggering_events",
       "translationof": "Web/Guide/Events/Creating_and_triggering_events"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371314
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -513,7 +539,8 @@
       "slug": "Web/MathML",
       "translationof": "Web/MathML"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370061
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -525,7 +552,8 @@
       "slug": "Web/CSS/\u09b2\u09bf\u0996\u09a8-\u09ac\u09bf\u09a8\u09cd\u09af\u09be\u09b8",
       "translationof": "Web/CSS/text-align"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370070
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -537,7 +565,8 @@
       "slug": "Web/CSS/line-height",
       "translationof": "Web/CSS/line-height"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369050
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -561,7 +590,8 @@
       "slug": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369072
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -585,7 +615,8 @@
       "slug": "Web/CSS/CSS_Transforms/Using_CSS_transforms",
       "translationof": "Web/CSS/CSS_Transforms/Using_CSS_transforms"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370056
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -597,7 +628,8 @@
       "slug": "Web/CSS/Syntax",
       "translationof": "Web/CSS/Syntax"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371588
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -621,7 +653,8 @@
       "slug": "Web/CSS/CSS_Animations/\u09b8\u09bf\u098f\u09b8\u098f\u09b8_\u098f\u09a8\u09bf\u09ae\u09c7\u09b6\u09a8",
       "translationof": "Web/CSS/CSS_Animations/Using_CSS_animations"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371309
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -633,7 +666,8 @@
       "slug": "Web/CSS/Getting_Started/What_is_CSS",
       "translationof": "Web/Guide/CSS/Getting_started/What_is_CSS"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370064
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -645,7 +679,8 @@
       "slug": "Web/CSS/Getting_Started/\u09b2\u09bf\u09b8\u09cd\u09a4",
       "translationof": "Web/Guide/CSS/Getting_started/Lists"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369076
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -657,7 +692,8 @@
       "slug": "Web/CSS/Getting_Started/Cascading_and_inheritance",
       "translationof": "Web/Guide/CSS/Getting_started/Cascading_and_inheritance"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371591
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -669,7 +705,8 @@
       "slug": "Web/CSS/Getting_Started/Boxes",
       "translationof": "Web/Guide/CSS/Getting_started/Boxes"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371303
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -693,7 +730,8 @@
       "slug": "Web/HTML/Block-level_elements",
       "translationof": "Web/HTML/Block-level_elements"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371311
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -705,7 +743,8 @@
       "slug": "Web/HTML/Using_HTML5_audio_and_video",
       "translationof": "Web/Guide/HTML/Using_HTML5_audio_and_video"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370888
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -729,7 +768,8 @@
       "slug": "Web/HTML/Element/title",
       "translationof": "Web/HTML/Element/title"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369057
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -741,7 +781,8 @@
       "slug": "Web/HTML/Element/Input",
       "translationof": "Web/HTML/Element/input"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370903
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -753,7 +794,8 @@
       "slug": "Web/HTML/Element/bdi",
       "translationof": "Web/HTML/Element/bdi"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370880
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -765,7 +807,8 @@
       "slug": "Web/HTML/Element/mark",
       "translationof": "Web/HTML/Element/mark"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369046
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -777,7 +820,8 @@
       "slug": "Web/HTML/Element/style",
       "translationof": "Web/HTML/Element/style"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370066
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -801,7 +845,8 @@
       "slug": "Web/HTML/Element/Img",
       "translationof": "Web/HTML/Element/img"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370884
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -813,7 +858,8 @@
       "slug": "Web/HTML/Element/Heading_Elements",
       "translationof": "Web/HTML/Element/Heading_Elements"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369042
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -825,7 +871,8 @@
       "slug": "Web/HTML/Element/audio",
       "translationof": "Web/HTML/Element/audio"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369061
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -837,7 +884,8 @@
       "slug": "Web/HTML/Element/bgsound",
       "translationof": "Web/HTML/Element/bgsound"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369040
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -849,7 +897,8 @@
       "slug": "Web/HTML/Element/br",
       "translationof": "Web/HTML/Element/br"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370074
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -873,7 +922,8 @@
       "slug": "Web/HTML/microformats",
       "translationof": "Web/HTML/microformats"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370060
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -897,7 +947,8 @@
       "slug": "Web/HTML/Canvas/Drawing_graphics_with_canvas",
       "translationof": "Web/API/Canvas_API/Drawing_graphics_with_canvas"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371585
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -909,7 +960,8 @@
       "slug": "Web/HTML/Attributes",
       "translationof": "Web/HTML/Attributes"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370890
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -921,7 +973,8 @@
       "slug": "Web/HTML/CORS_enabled_image",
       "translationof": "Web/HTML/CORS_enabled_image"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370058
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -945,7 +998,8 @@
       "slug": "Web/HTML/Global_attributes/title",
       "translationof": "Web/HTML/Global_attributes/title"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369053
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -957,7 +1011,8 @@
       "slug": "Web/HTML/Global_attributes/spellcheck",
       "translationof": "Web/HTML/Global_attributes/spellcheck"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370878
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -969,7 +1024,8 @@
       "slug": "Web/HTML/Global_attributes/style",
       "translationof": "Web/HTML/Global_attributes/style"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370072
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -981,7 +1037,8 @@
       "slug": "Web/HTML/Global_attributes/lang",
       "translationof": "Web/HTML/Global_attributes/lang"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371315
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -993,7 +1050,8 @@
       "slug": "Web/HTML/Global_attributes/dropzone",
       "translationof": "Web/HTML/Global_attributes/dropzone"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370891
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1005,7 +1063,8 @@
       "slug": "Web/HTML/Global_attributes/dir",
       "translationof": "Web/HTML/Global_attributes/dir"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369047
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1017,7 +1076,8 @@
       "slug": "Web/HTML/Global_attributes/class",
       "translationof": "Web/HTML/Global_attributes/class"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370895
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1029,7 +1089,8 @@
       "slug": "Web/HTML/Global_attributes/id",
       "translationof": "Web/HTML/Global_attributes/id"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369070
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1041,7 +1102,8 @@
       "slug": "Web/HTML/Controlling_spell_checking_in_HTML_forms",
       "translationof": "Web/HTML/Controlling_spell_checking_in_HTML_forms"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370882
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1053,7 +1115,8 @@
       "slug": "Web/API/WebGL_API",
       "translationof": "Web/API/WebGL_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369063
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1065,7 +1128,8 @@
       "slug": "Web/API/Element",
       "translationof": "Web/API/Element"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370077
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1077,7 +1141,8 @@
       "slug": "Web/API/DOMString",
       "translationof": "Web/API/DOMString"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370063
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1089,7 +1154,8 @@
       "slug": "Web/API/AbstractWorker",
       "translationof": "Web/API/AbstractWorker"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370085
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1113,7 +1179,8 @@
       "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
       "translationof": "Web/API/CSS_Object_Model/Using_dynamic_styling_information"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369069
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1125,7 +1192,8 @@
       "slug": "Web/Tutorials",
       "translationof": "Web/Tutorials"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370084
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1161,7 +1229,8 @@
       "slug": "Web/JavaScript/Guide/Loops_and_iteration",
       "translationof": "Web/JavaScript/Guide/Loops_and_iteration"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371305
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1173,7 +1242,8 @@
       "slug": "Web/JavaScript/Guide/Control_flow_and_error_handling",
       "translationof": "Web/JavaScript/Guide/Control_flow_and_error_handling"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370894
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1185,7 +1255,8 @@
       "slug": "Web/JavaScript/Guide/Regular_Expressions",
       "translationof": "Web/JavaScript/Guide/Regular_Expressions"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369074
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1197,7 +1268,8 @@
       "slug": "Web/JavaScript/Guide/\u09ad\u09c2\u09ae\u09bf\u0995\u09be",
       "translationof": "Web/JavaScript/Guide/Introduction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370057
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1209,7 +1281,8 @@
       "slug": "Web/JavaScript/Guide/Expressions_and_Operators",
       "translationof": "Web/JavaScript/Guide/Expressions_and_Operators"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371313
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1221,7 +1294,8 @@
       "slug": "Web/JavaScript/Guide/Functions",
       "translationof": "Web/JavaScript/Guide/Functions"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369062
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1239,49 +1313,14 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09e9",
-    "metadata": {
-      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09e9 \u098f \u09a8\u09a4\u09c1\u09a8",
-      "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09e9",
-      "translationof": "Web/JavaScript/New_in_JavaScript/1.3"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09ee.\u09eb",
-    "metadata": {
-      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09ee.\u09eb \u098f \u09af\u09be \u09a8\u09a4\u09c1\u09a8",
-      "slug": "Web/JavaScript/New_in_JavaScript/\u09e7.\u09ee.\u09eb",
-      "translationof": "Web/JavaScript/New_in_JavaScript/1.8.5"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/1.2",
-    "metadata": {
-      "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09e7.\u09e8 \u098f \u09a8\u09a4\u09c1\u09a8",
-      "slug": "Web/JavaScript/New_in_JavaScript/1.2",
-      "translationof": "Web/JavaScript/New_in_JavaScript/1.2"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
     "slug": "Web/JavaScript/JavaScript_technologies_overview",
     "metadata": {
       "title": "\u099c\u09be\u09ad\u09be\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u09aa\u09cd\u09b0\u09af\u09c1\u0995\u09cd\u09a4\u09bf\u09b0 \u09b8\u0982\u0995\u09cd\u09b7\u09bf\u09aa\u09cd\u09a4 \u09ac\u09bf\u09ac\u09b0\u09a3",
       "slug": "Web/JavaScript/JavaScript_technologies_overview",
       "translationof": "Web/JavaScript/JavaScript_technologies_overview"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370055
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1293,7 +1332,8 @@
       "slug": "Web/JavaScript/\u09b6\u09c7\u09b2",
       "translationof": "Web/JavaScript/Shells"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369065
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1305,7 +1345,8 @@
       "slug": "Web/JavaScript/About_JavaScript",
       "translationof": "Web/JavaScript/About_JavaScript"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370081
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1317,19 +1358,8 @@
       "slug": "Web/JavaScript/Memory_Management",
       "translationof": "Web/JavaScript/Memory_Management"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "UNKNOWN",
-    "slug": "Web/JavaScript/Index",
-    "metadata": {
-      "title": "Index",
-      "slug": "Web/JavaScript/Index",
-      "translationof": "Web/JavaScript/Index"
-    },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369051
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1365,7 +1395,8 @@
       "slug": "Web/JavaScript/Reference/Operators/this",
       "translationof": "Web/JavaScript/Reference/Operators/this"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370073
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1377,7 +1408,8 @@
       "slug": "Web/JavaScript/Reference/Operators/new.target",
       "translationof": "Web/JavaScript/Reference/Operators/new.target"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371300
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1389,7 +1421,8 @@
       "slug": "Web/JavaScript/Reference/About",
       "translationof": "Web/JavaScript/Reference/About"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370886
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1413,7 +1446,8 @@
       "slug": "Web/JavaScript/Reference/statements/switch",
       "translationof": "Web/JavaScript/Reference/Statements/switch"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369058
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1437,7 +1471,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Symbol",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Symbol"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370076
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1461,7 +1496,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/String",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584371306
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1473,7 +1509,8 @@
       "slug": "Web/JavaScript/Reference/Functions",
       "translationof": "Web/JavaScript/Reference/Functions"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369055
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1485,7 +1522,8 @@
       "slug": "Web/JavaScript/Getting_Started",
       "translationof": "Web/JavaScript/Getting_Started"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369066
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1509,7 +1547,8 @@
       "slug": "Web/Reference/API",
       "translationof": "Web/Reference/API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370902
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1533,7 +1572,8 @@
       "slug": "Glossary/First-class_Function",
       "translationof": "Glossary/First-class_Function"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370896
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1557,7 +1597,8 @@
       "slug": "DOM/DOM_Reference/Introduction",
       "translationof": "Web/API/Document_Object_Model/Introduction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584369075
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1569,6 +1610,7 @@
       "slug": "\u0993\u09af\u09bc\u09c7\u09ac\u098f\u09aa\u09bf\u0986\u0987",
       "translationof": "WebAPI"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584370879
   }
 ]
