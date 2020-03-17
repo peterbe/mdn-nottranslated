@@ -137,9 +137,9 @@
       "English": "Hebrew",
       "native": "עברית"
     },
-    "count": 66,
+    "count": 57,
     "file": "he.json",
-    "leafs": 39,
+    "leafs": 30,
     "inception": 95
   },
   {
@@ -159,9 +159,9 @@
       "English": "Hungarian",
       "native": "magyar"
     },
-    "count": 47,
+    "count": 36,
     "file": "hu.json",
-    "leafs": 24,
+    "leafs": 13,
     "inception": 47
   },
   {
