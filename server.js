@@ -5,6 +5,7 @@ const express = require("express");
 const Sentry = require("@sentry/node");
 const cheerio = require("cheerio");
 const fetch = require("node-fetch");
+const onHeaders = require("on-headers");
 require("dotenv").config();
 
 const app = express();
@@ -24,6 +25,16 @@ app.use(
     // https://expressjs.com/en/4x/api.html#express.static
   })
 );
+
+// Set Cache-Control for successes
+app.use((req, res, next) => {
+  onHeaders(res, function() {
+    if (res.statusCode === 200 || res.statusCode === 404) {
+      this.setHeader("Cache-Control", "public,max-age=300");
+    }
+  });
+  next();
+});
 
 const PORT = JSON.parse(process.env.PORT || "5000");
 const HOST = "0.0.0.0";
@@ -63,7 +74,11 @@ async function downloadRevisions(locale, slug) {
     if (revisions.length < 10) {
       const creator = $(".revision-list-creator a", li).text();
       const date = $(".revision-list-date time", li).attr("datetime");
-      revisions.push({ creator, date });
+      const revisionHref = $(".revision-list-date a", li)
+        .attr("href")
+        .split("/");
+      const id = revisionHref[revisionHref.length - 1];
+      revisions.push({ creator, date, id });
     }
   });
   return revisions;
@@ -94,6 +109,7 @@ app.get("/api/v0/about", async (req, res) => {
   }
   try {
     const data = await downloadMetadata(locale, slug);
+    console.log("SENDING JSON");
     res.json(data);
   } catch (ex) {
     console.error("Failed to fetch or download", ex.toString());

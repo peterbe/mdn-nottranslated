@@ -8,6 +8,7 @@ import {
   useLocation,
   useHistory
 } from "react-router-dom";
+import useSWR from "swr";
 import formatDistance from "date-fns/formatDistance";
 import parseISO from "date-fns/parseISO";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
@@ -587,31 +588,6 @@ function PreviewIframeModal({
   gotoPrevious,
   ignore
 }) {
-  const [revisions, setRevisions] = useState(null);
-  const [revisionsLoadingError, setRevisionsLoadingError] = useState(null);
-  useEffect(() => {
-    let sp = new URLSearchParams();
-    sp.set("locale", suspect.locale);
-    sp.set("slug", suspect.slug);
-    if (suspect.metadata.translationof) {
-      sp.set("translationof", suspect.metadata.translationof);
-    }
-    fetch(`/api/v0/revisions?${sp.toString()}`)
-      .then(r => {
-        if (r.ok) {
-          r.json().then(data => {
-            setRevisionsLoadingError(null);
-            setRevisions(data);
-          });
-        } else {
-          throw new Error(`${r.status} on ${r.url}`);
-        }
-      })
-      .catch(ex => {
-        setRevisionsLoadingError(ex);
-      });
-  }, [suspect.locale, suspect.slug, suspect.metadata.translationof]);
-
   let { metadata } = suspect;
   let title = metadata.title;
 
@@ -712,17 +688,15 @@ function PreviewIframeModal({
             </div>
           </div>
           <div>
-            {revisionsLoadingError && (
-              <article className="message is-danger">
-                <div className="message-body">
-                  <p>Unable to load revisions. </p>
-                  <pre>{revisionsLoadingError.toString()}</pre>
-                </div>
-              </article>
+            <ShowRevisions suspect={suspect} />
+            {/* {!revisions && !revisionsLoadingError && (
+              <p>
+                <i>Loading revision history...</i>
+              </p>
             )}
             {revisions && !revisionsLoadingError && (
               <ShowRevisions revisions={revisions} suspect={suspect} />
-            )}
+            )} */}
           </div>
         </footer>
       </div>
@@ -730,18 +704,57 @@ function PreviewIframeModal({
   );
 }
 
-function ShowRevisions({ revisions, suspect }) {
+function ShowRevisions({ suspect }) {
+  let sp = new URLSearchParams();
+  sp.set("locale", suspect.locale);
+  sp.set("slug", suspect.slug);
+  if (suspect.metadata.translationof) {
+    sp.set("translationof", suspect.metadata.translationof);
+  }
+  let apiUrl = `/api/v0/revisions?${sp.toString()}`;
+  const { data, error } = useSWR(
+    apiUrl,
+    url => {
+      return fetch(url).then(r => {
+        if (!r.ok) {
+          throw new Error(`${r.status} on ${url}`);
+        }
+        return r.json();
+      });
+    },
+    { revalidateOnFocus: false }
+  );
+
+  if (error) {
+    return (
+      <div className="revisions">
+        <article className="message is-danger">
+          <div className="message-body">
+            <p>Unable to load revisions. </p>
+            <pre>{error.toString()}</pre>
+          </div>
+        </article>
+      </div>
+    );
+  } else if (!data) {
+    return (
+      <div className="revisions">
+        <p>Loading revision history...</p>
+      </div>
+    );
+  }
+
   let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
   let wikiHistoryUrl = `https://wiki.developer.mozilla.org${uri}$history`;
   let enUSUri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
   let enUSWikiHistoryUrl = `https://wiki.developer.mozilla.org${enUSUri}$history`;
 
   let guessedAge = null;
-  if (revisions.revisions.length && revisions.enUSRevisions.length) {
-    let firsts = revisions.revisions
+  if (data.revisions.length && data.enUSRevisions.length) {
+    let firsts = data.revisions
       .filter(r => r.creator !== "mdnwebdocs-bot")
       .map(r => r.date);
-    let firstEnUss = revisions.enUSRevisions
+    let firstEnUss = data.enUSRevisions
       .filter(r => r.creator !== "mdnwebdocs-bot")
       .map(r => r.date);
     if (firsts.length && firstEnUss.length) {
@@ -760,8 +773,8 @@ function ShowRevisions({ revisions, suspect }) {
             </a>
           </h5>
           <ul>
-            {revisions.revisions.map(revision => (
-              <li key={revision.date}>
+            {data.revisions.map(revision => (
+              <li key={revision.id}>
                 {revision.date.replace(/\.\d+/, "")} by {revision.creator}
               </li>
             ))}
@@ -778,8 +791,8 @@ function ShowRevisions({ revisions, suspect }) {
             </a>
           </h5>
           <ul>
-            {revisions.enUSRevisions.map(revision => (
-              <li key={revision.date}>
+            {data.enUSRevisions.map(revision => (
+              <li key={revision.id}>
                 {revision.date.replace(/\.\d+/, "")} by {revision.creator}
               </li>
             ))}
