@@ -707,7 +707,8 @@
       "slug": "Web/API/NavigatorID.userAgent",
       "translationof": "Web/API/NavigatorID/userAgent"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455329
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -1302,7 +1303,8 @@
       "slug": "Glossary/Algoritme",
       "translationof": "Glossary/Algorithm"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455328
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",

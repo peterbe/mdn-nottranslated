@@ -309,7 +309,8 @@
       "slug": "Tools/Add-ons",
       "translationof": "Tools/Add-ons"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455415
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -334,7 +335,8 @@
       "slug": "Tools/Remote_Debugging/Firefox_for_Android",
       "translationof": "Tools/Remote_Debugging/Firefox_for_Android"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455414
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -519,7 +521,8 @@
       "slug": "Web/CSS/flex-direction",
       "translationof": "Web/CSS/flex-direction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455407
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -883,7 +886,8 @@
       "slug": "Web/API/URLUtils/href",
       "translationof": "Web/API/HTMLHyperlinkElementUtils/href"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455406
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -1299,18 +1303,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guida/Working_with_Objects",
-    "metadata": {
-      "title": "Working with objects",
-      "slug": "Web/JavaScript/Guida/Working_with_Objects",
-      "translationof": "Web/JavaScript/Guide/Working_with_Objects"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "Riferimento JavaScript",
@@ -1341,7 +1333,8 @@
       "slug": "Web/JavaScript/Reference/Operators/Operatori_bti",
       "translationof": "Web/JavaScript/Reference/Operators/Bitwise_Operators"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455412
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -1516,7 +1509,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/getSeconds",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/getSeconds"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455410
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -1790,17 +1784,6 @@
       "translationof": "Web/API/WebSockets_API"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "brending",
-    "metadata": {
-      "title": "brending",
-      "slug": "brending"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",

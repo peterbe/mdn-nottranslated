@@ -137,9 +137,9 @@
       "English": "Hebrew",
       "native": "עברית"
     },
-    "count": 95,
+    "count": 66,
     "file": "he.json",
-    "leafs": 68,
+    "leafs": 39,
     "inception": 95
   },
   {
@@ -181,9 +181,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 147,
+    "count": 145,
     "file": "it.json",
-    "leafs": 85,
+    "leafs": 83,
     "inception": 169
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 705,
+    "count": 704,
     "file": "ko.json",
-    "leafs": 572,
+    "leafs": 571,
     "inception": 712
   },
   {
@@ -247,9 +247,9 @@
       "English": "Polish",
       "native": "Polski"
     },
-    "count": 257,
+    "count": 256,
     "file": "pl.json",
-    "leafs": 188,
+    "leafs": 187,
     "inception": 276
   },
   {

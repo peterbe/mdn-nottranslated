@@ -168,7 +168,8 @@
       "slug": "Learn/HTML/Tables/Basicos",
       "translationof": "Learn/HTML/Tables/Basics"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455388
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -305,7 +306,8 @@
       "slug": "Learn/HTML/Introducao_ao_HTML/Formatacao_avancada_texto",
       "translationof": "Learn/HTML/Introduction_to_HTML/Advanced_text_formatting"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455379
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -580,7 +582,8 @@
       "slug": "Tools/Consola_do_navegador",
       "translationof": "Tools/Browser_Console"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455387
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -618,7 +621,8 @@
       "slug": "Tools/Inspetor_de_armazenamento",
       "translationof": "Tools/Storage_Inspector"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455380
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -903,7 +907,8 @@
       "slug": "Tools/Scratchpad",
       "translationof": "Tools/Scratchpad"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455398
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -915,7 +920,8 @@
       "slug": "Tools/atalhos_de_teclado",
       "translationof": "Tools/Keyboard_shortcuts"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455396
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1169,7 +1175,8 @@
       "slug": "Web/SVG/Tutorial/SVG_na_Introducao_HTML",
       "translationof": "Web/SVG/Tutorial/SVG_In_HTML_Introduction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455394
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1219,7 +1226,8 @@
       "slug": "Web/SVG/Namespaces_Crash_Course/Exemplo",
       "translationof": "Web/SVG/Namespaces_Crash_Course/Example"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455402
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1328,7 +1336,8 @@
       "slug": "Web/XPath",
       "translationof": "Web/XPath"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455383
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1377,7 +1386,8 @@
       "slug": "Web/CSS/CSS_Box_Model/Introducao_modelo_caixa_CSS",
       "translationof": "Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455384
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1479,7 +1489,8 @@
       "slug": "Web/CSS/CSS_Flexible_Box_Layout/ordenacao_dos_itens_flex",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455397
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1517,7 +1528,8 @@
       "slug": "Web/CSS/CSS_Flexible_Box_Layout/rela\u00e7\u00e3o_do_flexbox_com_outros_m\u00e9todos_de_layout",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Relationship_of_Flexbox_to_Other_Layout_Methods"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455376
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1529,7 +1541,8 @@
       "slug": "Web/CSS/CSS_Flexible_Box_Layout/retrocompatibilidade_do_fexbox",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Backwards_Compatibility_of_Flexbox"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455389
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1679,7 +1692,8 @@
       "slug": "Web/CSS/border-spacing",
       "translationof": "Web/CSS/border-spacing"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455375
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -1979,7 +1993,8 @@
       "slug": "Web/HTML/Elemento/progress",
       "translationof": "Web/HTML/Element/progress"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455377
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -2584,7 +2599,8 @@
       "slug": "Web/API/API_de_Armazenamento_da_Web",
       "translationof": "Web/API/Web_Storage_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455401
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -2771,7 +2787,8 @@
       "slug": "Web/API/API_do_Estado_da_Bateria",
       "translationof": "Web/API/Battery_Status_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455392
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -2979,7 +2996,8 @@
       "slug": "Web/JavaScript/Reference/Funcionalidades_obsoletas",
       "translationof": "Web/JavaScript/Reference/Deprecated_and_obsolete_features"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455390
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -3409,7 +3427,8 @@
       "slug": "WebAssembly/C_para_wasm",
       "translationof": "WebAssembly/C_to_wasm"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455381
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -3447,7 +3466,8 @@
       "slug": "WebAssembly/Carregar_executar_codigo_WebAssembly",
       "translationof": "WebAssembly/Loading_and_running"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455385
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -3471,7 +3491,8 @@
       "slug": "Gloss\u00e1rio/Navegador",
       "translationof": "Glossary/Browser"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455393
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",
@@ -3521,7 +3542,8 @@
       "slug": "Gloss\u00e1rio/linhas_de_grelha",
       "translationof": "Glossary/Grid_Lines"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584455400
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",

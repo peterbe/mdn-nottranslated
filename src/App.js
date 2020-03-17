@@ -8,7 +8,6 @@ import {
   useLocation,
   useHistory
 } from "react-router-dom";
-// import { formatDistance, subDays } from 'date-fns'
 import formatDistance from "date-fns/formatDistance";
 import parseISO from "date-fns/parseISO";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
@@ -17,6 +16,39 @@ import "./index.scss";
 const TAGLINE = "Actually not translated on MDN?";
 
 const SUBSET_LENGTH = 25;
+
+const IGNORE_MAX_SECONDS = 60 * 60 * 24 * 3; // 72 hours
+
+function getIgnored(locale) {
+  let allIgnored = JSON.parse(localStorage.getItem("ignored") || "{}");
+  let ignored = allIgnored[locale] || {};
+  let filtered = false;
+  let checked = {};
+  let now = new Date().getTime();
+  Object.entries(ignored).forEach(([slug, ts]) => {
+    if (now - ts > IGNORE_MAX_SECONDS * 1000) {
+      filtered = true;
+    } else {
+      checked[slug] = ts;
+    }
+  });
+  if (filtered) {
+    allIgnored[locale] = checked;
+    console.warn(
+      "Updating the localStorage(ignored) because some were too old"
+    );
+    localStorage.setItem("ignored", JSON.stringify(allIgnored));
+  }
+  return checked;
+}
+
+function setIgnored(locale, slug) {
+  let allIgnored = JSON.parse(localStorage.getItem("ignored") || "{}");
+  let ignored = allIgnored[locale] || {};
+  ignored[slug] = new Date().getTime();
+  allIgnored[locale] = ignored;
+  localStorage.setItem("ignored", JSON.stringify(allIgnored));
+}
 
 function App() {
   let [allSuspects, setAllSuspects] = useState(null);
@@ -224,6 +256,8 @@ function Locale({ allSuspects, loading }) {
   let [currentSuspect, setCurrentSuspect] = useState(null);
   let { locale } = useParams();
 
+  let [ignoredCount, setIgnoredCount] = useState(0);
+
   useEffect(() => {
     let thisLocale = null;
     if (allSuspects) {
@@ -279,7 +313,11 @@ function Locale({ allSuspects, loading }) {
 
   useEffect(() => {
     if (suspects) {
-      let subset = [...suspects];
+      let ignored = getIgnored(locale);
+      let subset = suspects.filter(suspect => {
+        return !(suspect.slug in ignored);
+      });
+      let ignoredCount = suspects.length - subset.length;
       subset.sort((a, b) => {
         if (a.leaf === b.leaf) {
           if (Math.random() > 0.5) {
@@ -300,8 +338,9 @@ function Locale({ allSuspects, loading }) {
         }
       });
       setSuspectsSubset(subset.slice(0, SUBSET_LENGTH));
+      setIgnoredCount(ignoredCount);
     }
-  }, [suspects, seed]);
+  }, [suspects, seed, locale]);
 
   // useEffect(() => {
   //   if (suspectsSubset && currentLocation.hash && !currentSuspect) {
@@ -424,6 +463,7 @@ function Locale({ allSuspects, loading }) {
         <ShowSuspects
           suspects={suspects}
           subset={suspectsSubset}
+          ignoredCount={ignoredCount}
           showPreview={showPreview}
           refreshSubset={() => {
             setSeed(Math.random());
@@ -438,19 +478,34 @@ function Locale({ allSuspects, loading }) {
           close={() => {
             setCurrentSuspect(null);
           }}
+          ignore={suspect => {
+            setIgnored(locale, suspect.slug);
+            gotoNextSuspect();
+          }}
         />
       )}
     </div>
   );
 }
 
-function ShowSuspects({ suspects, subset, showPreview, refreshSubset }) {
+function ShowSuspects({
+  suspects,
+  subset,
+  showPreview,
+  refreshSubset,
+  ignoredCount
+}) {
   const { pathname } = useLocation();
   const currentUrl = pathname;
 
   return (
     <div>
       <h3>There are {suspects.length} suspects in this locale</h3>
+      {!!ignoredCount && (
+        <p>
+          <b>{ignoredCount} suspects have been ignored by you.</b>
+        </p>
+      )}
       <p>
         Showing you {SUBSET_LENGTH} randomly selected ones.
         <br />
@@ -525,7 +580,13 @@ function LeafStatus({ leaf }) {
   );
 }
 
-function PreviewIframeModal({ suspect, close, gotoNext, gotoPrevious }) {
+function PreviewIframeModal({
+  suspect,
+  close,
+  gotoNext,
+  gotoPrevious,
+  ignore
+}) {
   const [revisions, setRevisions] = useState(null);
   const [revisionsLoadingError, setRevisionsLoadingError] = useState(null);
   useEffect(() => {
@@ -613,8 +674,12 @@ function PreviewIframeModal({ suspect, close, gotoNext, gotoPrevious }) {
             </div>
             <div className="column">
               <div className="buttons">
-                <button className="button" onClick={close}>
-                  Close
+                <button
+                  className="button is-link"
+                  onClick={() => ignore(suspect)}
+                  title="YOU ignore this suspect for 72 hours"
+                >
+                  Ignore
                 </button>{" "}
                 <a
                   className="button is-primary "
@@ -682,7 +747,6 @@ function ShowRevisions({ revisions, suspect }) {
     if (firsts.length && firstEnUss.length) {
       let first = firsts[0];
       let enUs = firstEnUss[0];
-      console.log({ first: parseISO(first), enUs: parseISO(enUs) });
       guessedAge = formatDistance(parseISO(first), parseISO(enUs));
     }
   }
