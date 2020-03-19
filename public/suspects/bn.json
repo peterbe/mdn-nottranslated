@@ -326,7 +326,7 @@
       "translationof": "Tools/3D_View"
     },
     "leaf": true,
-    "_checked": 1584369044
+    "_checked": 1584638427
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -465,7 +465,7 @@
       "translationof": "Web/API/Canvas_API/Tutorial/Basic_usage"
     },
     "leaf": true,
-    "_checked": 1584369048
+    "_checked": 1584639013
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -554,19 +554,6 @@
     },
     "leaf": true,
     "_checked": 1584370070
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
-    "slug": "Web/CSS/line-height",
-    "metadata": {
-      "title": "\u09b2\u09be\u0987\u09a8-\u09b9\u09be\u0987\u099f",
-      "slug": "Web/CSS/line-height",
-      "translationof": "Web/CSS/line-height"
-    },
-    "leaf": true,
-    "_checked": 1584369050
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -769,7 +756,7 @@
       "translationof": "Web/HTML/Element/title"
     },
     "leaf": true,
-    "_checked": 1584369057
+    "_checked": 1584639425
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -808,7 +795,7 @@
       "translationof": "Web/HTML/Element/mark"
     },
     "leaf": true,
-    "_checked": 1584369046
+    "_checked": 1584638428
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -999,7 +986,7 @@
       "translationof": "Web/HTML/Global_attributes/title"
     },
     "leaf": true,
-    "_checked": 1584369053
+    "_checked": 1584639422
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1064,7 +1051,7 @@
       "translationof": "Web/HTML/Global_attributes/dir"
     },
     "leaf": true,
-    "_checked": 1584369047
+    "_checked": 1584638430
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1359,7 +1346,7 @@
       "translationof": "Web/JavaScript/Memory_Management"
     },
     "leaf": true,
-    "_checked": 1584369051
+    "_checked": 1584639016
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1510,7 +1497,7 @@
       "translationof": "Web/JavaScript/Reference/Functions"
     },
     "leaf": true,
-    "_checked": 1584369055
+    "_checked": 1584639424
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",

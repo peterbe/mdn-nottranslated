@@ -261,7 +261,8 @@
       "slug": "\u0406\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0438/chernetka-Scratchpad",
       "translationof": "Tools/Scratchpad"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584638121
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
@@ -493,7 +494,8 @@
       "slug": "Web/CSS/\u041c\u043e\u0434\u0435\u043b\u044c_\u0432\u0456\u0437\u0443\u0430\u043b\u044c\u043d\u043e\u0433\u043e_\u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f",
       "translationof": "Web/CSS/Visual_formatting_model"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584638120
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
@@ -1178,7 +1180,8 @@
       "slug": "Web/API/Console/dir",
       "translationof": "Web/API/Console/dir"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584638119
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",

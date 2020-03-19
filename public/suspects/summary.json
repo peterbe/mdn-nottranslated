@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 127,
+    "count": 126,
     "file": "bn.json",
-    "leafs": 90,
+    "leafs": 89,
     "inception": 131
   },
   {
@@ -60,9 +60,9 @@
       "English": "Chinese (Simplified)",
       "native": "中文 (简体)"
     },
-    "count": 1473,
+    "count": 1471,
     "file": "zh-cn.json",
-    "leafs": 1233,
+    "leafs": 1231,
     "inception": 1473
   },
   {
@@ -71,9 +71,9 @@
       "English": "Chinese (Traditional)",
       "native": "正體中文 (繁體)"
     },
-    "count": 544,
+    "count": 536,
     "file": "zh-tw.json",
-    "leafs": 426,
+    "leafs": 418,
     "inception": 544
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 247,
+    "count": 242,
     "file": "de.json",
-    "leafs": 166,
+    "leafs": 161,
     "inception": 257
   },
   {
@@ -181,9 +181,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 145,
+    "count": 143,
     "file": "it.json",
-    "leafs": 83,
+    "leafs": 81,
     "inception": 169
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 704,
+    "count": 703,
     "file": "ko.json",
-    "leafs": 571,
+    "leafs": 570,
     "inception": 712
   },
   {
@@ -247,9 +247,9 @@
       "English": "Polish",
       "native": "Polski"
     },
-    "count": 256,
+    "count": 255,
     "file": "pl.json",
-    "leafs": 187,
+    "leafs": 186,
     "inception": 276
   },
   {
@@ -258,9 +258,9 @@
       "English": "Portuguese (Brazilian)",
       "native": "Português (do Brasil)"
     },
-    "count": 414,
+    "count": 407,
     "file": "pt-br.json",
-    "leafs": 320,
+    "leafs": 313,
     "inception": 427
   },
   {
@@ -291,9 +291,9 @@
       "English": "Spanish",
       "native": "Español"
     },
-    "count": 413,
+    "count": 412,
     "file": "es.json",
-    "leafs": 302,
+    "leafs": 301,
     "inception": 413
   },
   {
@@ -302,9 +302,9 @@
       "English": "Swedish",
       "native": "Svenska"
     },
-    "count": 21,
+    "count": 17,
     "file": "sv-se.json",
-    "leafs": 6,
+    "leafs": 2,
     "inception": 21
   },
   {

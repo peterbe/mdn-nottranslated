@@ -147,19 +147,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/JavaScript/Datastrukturer",
-    "metadata": {
-      "title": "JavaScript datatyper och datastrukturer",
-      "slug": "Web/JavaScript/Datastrukturer",
-      "translationof": "Web/JavaScript/Data_structures"
-    },
-    "leaf": true,
-    "_checked": 1584455445
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "JavaScript reference",
@@ -172,19 +159,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
     "locale": "sv-SE",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators",
-    "metadata": {
-      "title": "Expressions and operators",
-      "slug": "Web/JavaScript/Reference/Operators",
-      "translationof": "Web/JavaScript/Reference/Operators"
-    },
-    "leaf": true,
-    "_checked": 1584455450
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Classes",
     "metadata": {
       "title": "Classes",
@@ -192,32 +166,6 @@
       "translationof": "Web/JavaScript/Reference/Classes"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects",
-    "metadata": {
-      "title": "Standard built-in objects",
-      "slug": "Web/JavaScript/Reference/Global_Objects",
-      "translationof": "Web/JavaScript/Reference/Global_Objects"
-    },
-    "leaf": true,
-    "_checked": 1584455451
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
-    "locale": "sv-SE",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Functions",
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Reference/Functions",
-      "translationof": "Web/JavaScript/Reference/Functions"
-    },
-    "leaf": true,
-    "_checked": 1584455446
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -242,7 +190,7 @@
       "translationof": "Glossary/Bandwidth"
     },
     "leaf": true,
-    "_checked": 1584455449
+    "_checked": 1584638027
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/sv-se",
@@ -255,6 +203,6 @@
       "translationof": "Glossary/IP_Address"
     },
     "leaf": true,
-    "_checked": 1584455448
+    "_checked": 1584638026
   }
 ]
