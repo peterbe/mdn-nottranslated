@@ -465,7 +465,8 @@
       "slug": "Tools/Page_Inspector/How_to/Trabalho_Com_Anima\u00e7oes",
       "translationof": "Tools/Page_Inspector/How_to/Work_with_animations"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737373
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -492,18 +493,6 @@
     },
     "leaf": true,
     "_checked": 1584639430
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
-    "locale": "pt-BR",
-    "guessed": "en",
-    "slug": "Tools/Tools_Toolbox",
-    "metadata": {
-      "title": "Ferramentas",
-      "slug": "Tools/Tools_Toolbox",
-      "translationof": "Tools/Tools_Toolbox"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -640,7 +629,8 @@
       "slug": "CSS/Usando_caixas_flexiveis_css",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737367
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -1666,7 +1656,8 @@
       "slug": "Web/CSS/transition-timing-function",
       "translationof": "Web/CSS/transition-timing-function"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737366
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -2405,7 +2396,8 @@
       "slug": "Web/HTML/Element/article",
       "translationof": "Web/HTML/Element/article"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737369
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -2656,7 +2648,8 @@
       "slug": "Web/HTTP/HTTP",
       "translationof": "Web/HTTP/Caching"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737371
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -2970,7 +2963,8 @@
       "slug": "Web/API/Beacon_API",
       "translationof": "Web/API/Beacon_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737365
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -3987,7 +3981,8 @@
       "slug": "Web/JavaScript/Reference/Operators/delete",
       "translationof": "Web/JavaScript/Reference/Operators/delete"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737364
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -4520,7 +4515,8 @@
       "slug": "Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement",
       "translationof": "Web/JavaScript/Reference/Errors/Missing_semicolon_before_statement"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737362
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",

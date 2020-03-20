@@ -173,7 +173,8 @@
       "slug": "Learn/JavaScript/First_steps/lustige_geschichten_generator",
       "translationof": "Learn/JavaScript/First_steps/Silly_story_generator"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737098
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -351,7 +352,8 @@
       "slug": "Tools/Add-ons",
       "translationof": "Tools/Add-ons"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737097
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -483,18 +485,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Tools/Eyedropper",
-    "metadata": {
-      "title": "Eyedropper",
-      "slug": "Tools/Eyedropper",
-      "translationof": "Tools/Eyedropper"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Tools/Performance",
     "metadata": {
       "title": "Performance",
@@ -513,7 +503,8 @@
       "slug": "Tools/Migrating_from_Firebug",
       "translationof": "Tools/Migrating_from_Firebug"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737099
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -626,7 +617,8 @@
       "slug": "Web/SVG/Element/image",
       "translationof": "Web/SVG/Element/image"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737102
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -764,7 +756,8 @@
       "slug": "Web/MathML/Element/msubsup",
       "translationof": "Web/MathML/Element/msubsup"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737727
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -838,7 +831,8 @@
       "slug": "Web/CSS/linear-gradient",
       "translationof": "Web/CSS/linear-gradient"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737108
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -912,7 +906,8 @@
       "slug": "Web/CSS/box-decoration-break",
       "translationof": "Web/CSS/box-decoration-break"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737728
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1013,7 +1008,8 @@
       "slug": "Web/CSS/image-rendering",
       "translationof": "Web/CSS/image-rendering"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737731
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1271,7 +1267,8 @@
       "slug": "Web/HTML/Attributes",
       "translationof": "Web/HTML/Attributes"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737729
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1459,7 +1456,8 @@
       "slug": "Web/HTTP/Status/402",
       "translationof": "Web/HTTP/Status/402"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737104
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1655,7 +1653,8 @@
       "slug": "Web/API/File/File",
       "translationof": "Web/API/File/File"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737107
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2041,18 +2040,6 @@
       "translationof": "Web/API/Window"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/Window/scrollY",
-    "metadata": {
-      "title": "Window.scrollY",
-      "slug": "Web/API/Window/scrollY",
-      "translationof": "Web/API/Window/scrollY"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2454,18 +2441,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/JavaScript/Neu_in_JavaScript/ECMAScript_2015_support_in_Mozilla",
-    "metadata": {
-      "title": "ECMAScript 2015 support in Mozilla",
-      "slug": "Web/JavaScript/Neu_in_JavaScript/ECMAScript_2015_support_in_Mozilla",
-      "translationof": "Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Fehler",
     "metadata": {
       "title": "JavaScript Fehler Referenz",
@@ -2652,7 +2627,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Number/NaN"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737724
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2805,7 +2781,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Object/__defineGetter__",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object/__defineGetter__"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737105
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2917,7 +2894,8 @@
       "slug": "Web/JavaScript/Vergleiche_auf_Gleichheit_und_deren_Verwendung",
       "translationof": "Web/JavaScript/Equality_comparisons_and_sameness"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737723
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",

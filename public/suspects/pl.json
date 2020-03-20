@@ -52,18 +52,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
     "locale": "pl",
     "guessed": "en",
-    "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
-    "metadata": {
-      "title": "Co jest w g\u0142owie? Metadane w HTML",
-      "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
-      "translationof": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
-    "locale": "pl",
-    "guessed": "en",
     "slug": "Learn/HTML/Howto",
     "metadata": {
       "title": "Use HTML to solve common problems",
@@ -1613,7 +1601,8 @@
       "slug": "Web/API/DynamicsCompressorNode",
       "translationof": "Web/API/DynamicsCompressorNode"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737776
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
@@ -2145,7 +2134,8 @@
       "slug": "Web/JavaScript/Referencje/Obiekty/Date/toLocaleTimeString",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737775
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
@@ -2389,7 +2379,8 @@
       "slug": "Web/JavaScript/Referencje/Obiekty/Map/keys",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Map/keys"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737305
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",
@@ -2543,7 +2534,8 @@
       "slug": "Web/JavaScript/Referencje/Obiekty/String/fontsize",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/fontsize"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584737773
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pl",

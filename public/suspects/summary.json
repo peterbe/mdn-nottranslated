@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 126,
+    "count": 125,
     "file": "bn.json",
-    "leafs": 89,
+    "leafs": 88,
     "inception": 131
   },
   {
@@ -71,9 +71,9 @@
       "English": "Chinese (Traditional)",
       "native": "正體中文 (繁體)"
     },
-    "count": 536,
+    "count": 534,
     "file": "zh-tw.json",
-    "leafs": 418,
+    "leafs": 416,
     "inception": 544
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 242,
+    "count": 239,
     "file": "de.json",
-    "leafs": 161,
+    "leafs": 158,
     "inception": 257
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 703,
+    "count": 698,
     "file": "ko.json",
-    "leafs": 570,
+    "leafs": 565,
     "inception": 712
   },
   {
@@ -247,9 +247,9 @@
       "English": "Polish",
       "native": "Polski"
     },
-    "count": 255,
+    "count": 254,
     "file": "pl.json",
-    "leafs": 186,
+    "leafs": 185,
     "inception": 276
   },
   {
@@ -258,9 +258,9 @@
       "English": "Portuguese (Brazilian)",
       "native": "Português (do Brasil)"
     },
-    "count": 407,
+    "count": 406,
     "file": "pt-br.json",
-    "leafs": 313,
+    "leafs": 312,
     "inception": 427
   },
   {
@@ -269,9 +269,9 @@
       "English": "Portuguese (Portugal)",
       "native": "Português (Europeu)"
     },
-    "count": 296,
+    "count": 295,
     "file": "pt-pt.json",
-    "leafs": 224,
+    "leafs": 223,
     "inception": 296
   },
   {
@@ -291,9 +291,9 @@
       "English": "Spanish",
       "native": "Español"
     },
-    "count": 412,
+    "count": 411,
     "file": "es.json",
-    "leafs": 301,
+    "leafs": 300,
     "inception": 413
   },
   {
