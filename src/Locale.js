@@ -116,11 +116,9 @@ export function Locale({ allSuspects, loading }) {
   const history = useHistory();
 
   useEffect(() => {
-    console.log({ currentSuspect, pathname });
     if (currentSuspect) {
       const correctPath = `/${locale}/${currentSuspect.slug}`;
       if (pathname !== correctPath) {
-        // history.replace(correctPath);
         history.push(correctPath);
       }
     } else if (!slug) {

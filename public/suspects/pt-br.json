@@ -61,7 +61,8 @@
       "slug": "Learn/CSS/CSS_layout/Layout_de_varias_colunas",
       "translationof": "Learn/CSS/CSS_layout/Multiple-column_Layout"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765216
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -135,7 +136,8 @@
       "slug": "Learn/Common_questions/Como_voce_hospeda_seu_site_Google_App_Engine",
       "translationof": "Learn/Common_questions/How_do_you_host_your_website_on_Google_App_Engine"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765207
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -592,7 +594,8 @@
       "slug": "Tools/Eyedropper",
       "translationof": "Tools/Eyedropper"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765203
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -1095,7 +1098,8 @@
       "slug": "Web/CSS/grid-template-areas",
       "translationof": "Web/CSS/grid-template-areas"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765212
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -3193,7 +3197,8 @@
       "slug": "Web/API/MessagePort/postMessage",
       "translationof": "Web/API/MessagePort/postMessage"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765220
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -3731,7 +3736,8 @@
       "slug": "Web/API/Background_Tasks_API",
       "translationof": "Web/API/Background_Tasks_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765206
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -3882,7 +3888,8 @@
       "slug": "Web/XSLT",
       "translationof": "Web/XSLT"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765205
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -3932,7 +3939,8 @@
       "slug": "Web/JavaScript/Suporte_ao_ECMAScript_6_na_Mozilla",
       "translationof": "Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765208
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -4224,7 +4232,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/uneval",
       "translationof": "Web/JavaScript/Reference/Global_Objects/uneval"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765211
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -4325,7 +4334,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/ReferenceError",
       "translationof": "Web/JavaScript/Reference/Global_Objects/ReferenceError"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765214
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -4806,7 +4816,8 @@
       "slug": "DOM/Referencia_do_DOM/Introdu\u00e7\u00e3o",
       "translationof": "Web/API/Document_Object_Model/Introduction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765201
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -4856,7 +4867,8 @@
       "slug": "Glossario/Stacking_context",
       "translationof": "Glossary/Stacking_context"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765217
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -5087,30 +5099,6 @@
       "translationof": "Games/Techniques/Control_mechanisms"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
-    "locale": "pt-BR",
-    "guessed": "en",
-    "slug": "Games/Techniques/Control_mechanisms/controles_com_mouse_e_teclado",
-    "metadata": {
-      "title": "Controles com mouse e teclado",
-      "slug": "Games/Techniques/Control_mechanisms/controles_com_mouse_e_teclado",
-      "translationof": "Games/Techniques/Control_mechanisms/Desktop_with_mouse_and_keyboard"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
-    "locale": "pt-BR",
-    "guessed": "en",
-    "slug": "Games/Techniques/Tilemaps",
-    "metadata": {
-      "title": "No\u00e7\u00f5es de tile e tilemaps",
-      "slug": "Games/Techniques/Tilemaps",
-      "translationof": "Games/Techniques/Tilemaps"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",

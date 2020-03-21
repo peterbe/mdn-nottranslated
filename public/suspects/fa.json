@@ -36,7 +36,7 @@
       "translationof": "Learn/Getting_started_with_the_web/Dealing_with_files"
     },
     "leaf": true,
-    "_checked": 1584737466
+    "_checked": 1584765405
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -74,7 +74,7 @@
       "translationof": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML"
     },
     "leaf": true,
-    "_checked": 1584639408
+    "_checked": 1584765397
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -175,7 +175,7 @@
       "translationof": "Web_Development"
     },
     "leaf": true,
-    "_checked": 1584737477
+    "_checked": 1584765422
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -212,7 +212,7 @@
       "translationof": "Web/SVG/Tutorial/Introduction"
     },
     "leaf": true,
-    "_checked": 1584639410
+    "_checked": 1584765398
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -263,7 +263,7 @@
       "translationof": "Web/CSS/::cue"
     },
     "leaf": true,
-    "_checked": 1584639327
+    "_checked": 1584765389
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -390,7 +390,7 @@
       "translationof": "Web/CSS/margin-new"
     },
     "leaf": true,
-    "_checked": 1584737474
+    "_checked": 1584765419
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -416,20 +416,7 @@
       "translationof": "Web/HTML/Applying_color"
     },
     "leaf": true,
-    "_checked": 1584737472
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
-    "locale": "fa",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/html",
-    "metadata": {
-      "title": "<html>: The HTML Document / Root element",
-      "slug": "Web/HTML/Element/html",
-      "translationof": "Web/HTML/Element/html"
-    },
-    "leaf": true,
-    "_checked": 1584639329
+    "_checked": 1584765414
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -481,7 +468,7 @@
       "translationof": "Web/API/notification"
     },
     "leaf": true,
-    "_checked": 1584737473
+    "_checked": 1584765417
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -532,7 +519,7 @@
       "translationof": "Web/API/MediaTrackConstraints"
     },
     "leaf": true,
-    "_checked": 1584737465
+    "_checked": 1584765404
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -557,7 +544,7 @@
       "translationof": "Web/API/Node/insertBefore"
     },
     "leaf": true,
-    "_checked": 1584639417
+    "_checked": 1584765402
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -621,7 +608,7 @@
       "translationof": "Web/JavaScript/Guide/Control_flow_and_error_handling"
     },
     "leaf": true,
-    "_checked": 1584639331
+    "_checked": 1584765395
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -634,7 +621,7 @@
       "translationof": "Web/JavaScript/Guide/Introduction"
     },
     "leaf": true,
-    "_checked": 1584639326
+    "_checked": 1584765385
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -647,7 +634,7 @@
       "translationof": "Web/JavaScript/Guide/Functions"
     },
     "leaf": true,
-    "_checked": 1584737469
+    "_checked": 1584765409
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -660,7 +647,7 @@
       "translationof": "Web/JavaScript/Inheritance_and_the_prototype_chain"
     },
     "leaf": true,
-    "_checked": 1584639412
+    "_checked": 1584765400
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -735,7 +722,7 @@
       "translationof": "Web/JavaScript/Reference/Statements/for...in"
     },
     "leaf": true,
-    "_checked": 1584737470
+    "_checked": 1584765413
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -784,7 +771,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array/Reduce"
     },
     "leaf": true,
-    "_checked": 1584737476
+    "_checked": 1584765420
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",
@@ -849,7 +836,7 @@
       "translationof": "Web/HTML/Attributes"
     },
     "leaf": true,
-    "_checked": 1584639330
+    "_checked": 1584765394
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fa",

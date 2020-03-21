@@ -1778,7 +1778,8 @@
       "slug": "Web/CSS/grid-auto-columns",
       "translationof": "Web/CSS/grid-auto-columns"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765145
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1855,7 +1856,8 @@
       "slug": "Web/CSS/clip-path",
       "translationof": "Web/CSS/clip-path"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765152
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1930,7 +1932,8 @@
       "slug": "Web/CSS/border-style",
       "translationof": "Web/CSS/border-style"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765143
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -2346,7 +2349,8 @@
       "slug": "Web/HTTP/Headers/Content-Type",
       "translationof": "Web/HTTP/Headers/Content-Type"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765150
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -3484,18 +3488,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/API/ServiceWorkerRegistration/showNotification",
-    "metadata": {
-      "title": "ServiceWorkerRegistration.showNotification()",
-      "slug": "Web/API/ServiceWorkerRegistration/showNotification",
-      "translationof": "Web/API/ServiceWorkerRegistration/showNotification"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/API/Headers",
     "metadata": {
       "title": "Headers",
@@ -4202,7 +4194,8 @@
       "slug": "Web/JavaScript/Referencia/Objetos_globales/Proxy",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Proxy"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1584765149
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4974,18 +4967,6 @@
     },
     "leaf": true,
     "_checked": 1584737340
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Glossary/Falsy",
-    "metadata": {
-      "title": "Falsy",
-      "slug": "Glossary/Falsy",
-      "translationof": "Glossary/Falsy"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",

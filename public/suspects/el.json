@@ -22,7 +22,7 @@
       "translationof": "Learn/Common_questions/What_are_hyperlinks"
     },
     "leaf": true,
-    "_checked": 1584737583
+    "_checked": 1584765165
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -59,7 +59,7 @@
       "translationof": "Learn/Forms/Form_validation"
     },
     "leaf": true,
-    "_checked": 1584737588
+    "_checked": 1584765171
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -84,7 +84,7 @@
       "translationof": "Web/CSS"
     },
     "leaf": true,
-    "_checked": 1584737584
+    "_checked": 1584765168
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -97,19 +97,6 @@
       "translationof": "Web/API"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
-    "slug": "Web/API/Service_Worker_API",
-    "metadata": {
-      "title": "Service Worker API",
-      "slug": "Web/API/Service_Worker_API",
-      "translationof": "Web/API/Service_Worker_API"
-    },
-    "leaf": true,
-    "_checked": 1584737587
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -146,7 +133,7 @@
       "translationof": "Web/Tutorials"
     },
     "leaf": true,
-    "_checked": 1584737591
+    "_checked": 1584765174
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
@@ -201,19 +188,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
     "locale": "el",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-    "metadata": {
-      "title": "Set",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Set"
-    },
-    "leaf": true,
-    "_checked": 1584737581
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/el",
-    "locale": "el",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Functions",
     "metadata": {
       "title": "Functions",
@@ -245,6 +219,6 @@
       "translationof": "Glossary/Index"
     },
     "leaf": true,
-    "_checked": 1584737590
+    "_checked": 1584765172
   }
 ]

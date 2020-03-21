@@ -1096,19 +1096,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/API/WebGL_API",
-    "metadata": {
-      "title": "WebGL",
-      "slug": "Web/API/WebGL_API",
-      "translationof": "Web/API/WebGL_API"
-    },
-    "leaf": true,
-    "_checked": 1584369063
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
     "slug": "Web/API/Element",
     "metadata": {
       "title": "Element",
@@ -1282,7 +1269,7 @@
       "translationof": "Web/JavaScript/Guide/Functions"
     },
     "leaf": true,
-    "_checked": 1584369062
+    "_checked": 1584765160
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
@@ -1320,7 +1307,7 @@
       "translationof": "Web/JavaScript/Shells"
     },
     "leaf": true,
-    "_checked": 1584369065
+    "_checked": 1584765163
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
