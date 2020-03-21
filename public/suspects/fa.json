@@ -569,7 +569,7 @@
       "slug": "Web/API/Blob",
       "translationof": "Web/API/Blob"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584639420
   },
   {
@@ -796,7 +796,7 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Function",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Function"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584737468
   },
   {
@@ -822,7 +822,7 @@
       "slug": "Web/JavaScript/Reference/Functions",
       "translationof": "Web/JavaScript/Reference/Functions"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584737488
   },
   {
@@ -835,7 +835,7 @@
       "slug": "Web/JavaScript/Reference/Errors",
       "translationof": "Web/JavaScript/Reference/Errors"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584737901
   },
   {
@@ -873,7 +873,7 @@
       "slug": "Server-sent_events",
       "translationof": "Web/API/Server-sent_events"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584737490
   },
   {

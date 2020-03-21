@@ -1645,7 +1645,7 @@
       "slug": "Web/CSS/layout_de_grelha_css",
       "translationof": "Web/CSS/CSS_Grid_Layout"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584368977
   },
   {
@@ -2433,7 +2433,7 @@
       "slug": "Web/API/AudioNode",
       "translationof": "Web/API/AudioNode"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584369007
   },
   {
@@ -2458,7 +2458,7 @@
       "slug": "Web/API/WebGLRenderingContext",
       "translationof": "Web/API/WebGLRenderingContext"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584370365
   },
   {
@@ -3733,7 +3733,7 @@
       "slug": "Games/Tutorials/2D_breakout_game_Phaser",
       "translationof": "Games/Tutorials/2D_breakout_game_Phaser"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584370359
   },
   {

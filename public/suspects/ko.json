@@ -7287,7 +7287,7 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/tan",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/tan"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7636,7 +7636,7 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty"
     },
-    "leaf": true
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",

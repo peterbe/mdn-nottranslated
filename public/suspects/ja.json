@@ -4115,7 +4115,7 @@
       "slug": "Web/API/XPathResult",
       "translationof": "Web/API/XPathResult"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -8465,7 +8465,7 @@
       "title": "About",
       "slug": "About"
     },
-    "leaf": true
+    "leaf": false
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",

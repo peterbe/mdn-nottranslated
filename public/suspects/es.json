@@ -3700,7 +3700,7 @@
       "slug": "Web/API/RTCPeerConnection",
       "translationof": "Web/API/RTCPeerConnection"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584638895
   },
   {

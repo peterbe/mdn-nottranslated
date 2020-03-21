@@ -308,7 +308,7 @@
       "slug": "Web/CSS/CSS_Images",
       "translationof": "Web/CSS/CSS_Images"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584371086
   },
   {
@@ -459,7 +459,7 @@
       "slug": "Web/Progressive_web_apps",
       "translationof": "Web/Progressive_web_apps"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584369372
   },
   {
@@ -619,7 +619,7 @@
       "slug": "Web/API/WebGL_API/Tutorial",
       "translationof": "Web/API/WebGL_API/Tutorial"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584369374
   },
   {
@@ -720,7 +720,7 @@
       "slug": "Web/API/Worker",
       "translationof": "Web/API/Worker"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584370779
   },
   {

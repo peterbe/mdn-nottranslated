@@ -120,7 +120,7 @@
       "slug": "Learn/Server-side/Django",
       "translationof": "Learn/Server-side/Django"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584368776
   },
   {
@@ -3092,7 +3092,7 @@
       "slug": "Narz\u0119dzia/Debugger/How_to",
       "translationof": "Tools/Debugger/How_to"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584638715
   },
   {
@@ -3131,7 +3131,7 @@
       "slug": "Narz\u0119dzia/Web_Console",
       "translationof": "Tools/Web_Console"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584639594
   },
   {

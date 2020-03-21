@@ -411,7 +411,7 @@
       "slug": "Web/API/FileReader",
       "translationof": "Web/API/FileReader"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584370654
   },
   {
@@ -1158,7 +1158,7 @@
       "slug": "\u00d6\u011fren/CSS/CSS_layout",
       "translationof": "Learn/CSS/CSS_layout"
     },
-    "leaf": true,
+    "leaf": false,
     "_checked": 1584370636
   },
   {

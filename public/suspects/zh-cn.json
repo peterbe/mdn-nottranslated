@@ -10710,7 +10710,7 @@
       "slug": "Web/API/WEBGL_lose_context",
       "translationof": "Web/API/WEBGL_lose_context"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -12355,7 +12355,7 @@
       "slug": "Web/API/\u8bed\u97f3\u8bc6\u522b",
       "translationof": "Web/API/SpeechRecognition"
     },
-    "leaf": false
+    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -17976,6 +17976,6 @@
       "slug": "Localization",
       "translationof": "Glossary/Localization"
     },
-    "leaf": true
+    "leaf": false
   }
 ]
