@@ -167,8 +167,9 @@ app.get("/api/v0/preview", (req, res) => {
         'link[rel="alternative"],section.newsletter-container, ' +
           "main .full-width-row-container, div.metadata, " +
           "aside.document-toc-container,div.mdn-wiki-notice, " +
-          "div.newsletter-box"
+          "div.newsletter-box, #toc, #wiki-left, div.document-actions"
       ).remove();
+      $("<style>#wiki-content{float:none}</style>").appendTo($("head"));
       $('link[rel="stylesheet"]').each((i, el) => {
         el.attribs["href"] = baseUrl + el.attribs["href"];
       });
