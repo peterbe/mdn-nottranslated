@@ -48,3 +48,26 @@ $input-shadow: none;
     font-size: 80%;
   }
 }
+
+
+section {
+  padding-top: 0;
+
+  div.hero-body {
+    padding: 15px;
+  }
+}
+
+
+div.container.locales {
+  .title {
+    margin-top: 20px;
+  }
+}
+
+div.container.locale {
+  .title {
+    margin-top: 0;
+    margin-bottom: 3px;
+  }
+}

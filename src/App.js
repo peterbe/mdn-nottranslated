@@ -133,8 +133,8 @@ function Home({ allSuspects, loading }) {
     document.title = TAGLINE;
   }, []);
   return (
-    <Container>
-      <h3>Pick Your Locale</h3>
+    <Container className="locales">
+      <h2 className="title">Pick Your Locale</h2>
       {loading && <p>Loading list of locales...</p>}
       {allSuspects && !allSuspects.length && <h3>It's empty!</h3>}
       {allSuspects && allSuspects.length && (

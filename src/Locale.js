@@ -17,8 +17,6 @@ export function Locale({ allSuspects, loading }) {
   let [loadingError, setLoadingError] = useState(null);
   let [seed, setSeed] = useState(Math.random());
 
-  // const currentLocation = useLocation();
-  // const history = useHistory();
   let [currentSuspect, setCurrentSuspect] = useState(null);
   let { locale, slug } = useParams();
 
@@ -129,21 +127,6 @@ export function Locale({ allSuspects, loading }) {
     }
   }, [locale, currentSuspect, history, pathname, slug]);
 
-  // useEffect(() => {
-  //   if (currentSuspect) {
-  //     if (currentLocation.hash !== `#${currentSuspect.slug}`) {
-  //       // console.log("Hash needs to update!");
-  //       // history.replace(`#${currentSuspect.slug}`);
-  //       history.replace({ hash: currentSuspect.slug });
-  //     }
-  //   } else if (currentLocation.hash) {
-  //     // console.log("Hash needs to be removed");
-  //     // history.push(`#neither`);
-  //     // console.log(window.document.location);
-  //     history.replace({ hash: "" });
-  //   }
-  // }, [currentSuspect, currentLocation, history]);
-
   useEffect(() => {
     if (suspects) {
       let ignored = getIgnored(locale);
@@ -175,28 +158,10 @@ export function Locale({ allSuspects, loading }) {
     }
   }, [suspects, seed, locale]);
 
-  // useEffect(() => {
-  //   if (suspectsSubset && currentLocation.hash && !currentSuspect) {
-  //     console.log(
-  //       "DRAW FOR HASH?!",
-  //       currentLocation.hash,
-  //       suspectsSubset.map(s => s.slug)
-  //     );
-  //     if (
-  //       suspectsSubset.map(s => `#${s.slug}`).includes(currentLocation.hash)
-  //     ) {
-  //       setCurrentSuspect(
-  //         suspectsSubset.find(s => currentLocation.hash === `#${s.slug}`)
-  //       );
-  //     }
-  //   }
-  //   }, [suspectsSubset, currentLocation.hash, currentSuspect]);
-
   function gotoNextSuspect() {
     let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
     if (index + 1 === suspectsSubset.length) {
       setSeed(Math.random());
-      // setCurrentSuspect(suspectsSubset[0]);
     } else {
       let nextIndex = (index + 1) % suspectsSubset.length;
       setCurrentSuspect(suspectsSubset[nextIndex]);
@@ -228,10 +193,6 @@ export function Locale({ allSuspects, loading }) {
     };
   });
 
-  // function showPreview(suspect) {
-  //   setCurrentSuspect(suspect);
-  // }
-
   let thisLocale = null;
   if (allSuspects) {
     for (let l of allSuspects) {
@@ -244,11 +205,13 @@ export function Locale({ allSuspects, loading }) {
   return (
     <div>
       {thisLocale && (
-        <Container>
-          <h1 className="title">
-            {thisLocale.language.English} / {thisLocale.language.native} (
-            {locale})
-          </h1>
+        <Container className="locale">
+          <div>
+            <h1 className="title">
+              {thisLocale.language.English} / {thisLocale.language.native} (
+              {locale})
+            </h1>
+          </div>
         </Container>
       )}
       {loadingError && <h4>Loading error; {loadingError}</h4>}
@@ -433,7 +396,14 @@ function LeafStatus({ leaf }) {
   );
 }
 
-function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
+function ShowSuspect({
+  suspect,
+  locale,
+  // close,
+  gotoNext,
+  gotoPrevious,
+  ignore
+}) {
   let { metadata } = suspect;
   let title = metadata.title;
 
@@ -468,20 +438,6 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
       <div className="columns">
         <div className="column is-one-third">
           <p>
-            <LeafStatus leaf={suspect.leaf} />{" "}
-            <a href={editUrl} target="_blank" rel="noopener noreferrer">
-              Edit in Wiki
-            </a>
-            ,{" "}
-            <a href={viewUrl} target="_blank" rel="noopener noreferrer">
-              View on MDN
-            </a>
-            <br />
-            <small>
-              {suspect.locale} / {metadata.slug}
-            </small>
-          </p>
-          <div>
             <a
               className="button is-primary "
               target="_blank"
@@ -494,11 +450,20 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
                 }, 100);
               }}
             >
-              Start deleting on Wiki
+              <b>Start deleting on Wiki</b>
             </a>{" "}
-            <a href={`/${locale}`} className="button" onClick={close}>
+            {/* <a href={`/${locale}`} className="button" onClick={close}>
               Close
+            </a>{" "} */}
+            <a
+              href={`/${locale}`}
+              className="button is-info"
+              onClick={ignore}
+              title="YOU ignore this suspect for 72 hours"
+            >
+              Ignore
             </a>{" "}
+            &nbsp;{" "}
             <button
               className="button"
               onClick={() => {
@@ -515,7 +480,11 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
             >
               Next
             </button>{" "}
-          </div>
+            <br />
+          </p>
+          <p title={`Locale: ${suspect.locale}; Slug: ${metadata.slug}`}>
+            <code>{metadata.slug}</code>
+          </p>
         </div>
         <div className="column">
           <ShowRevisions suspect={suspect} />
@@ -580,6 +549,7 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
 }
 
 function ShowRevisions({ suspect }) {
+  const [showAll, setShowAll] = useState(false);
   let sp = new URLSearchParams();
   sp.set("locale", suspect.locale);
   sp.set("slug", suspect.slug);
@@ -638,6 +608,15 @@ function ShowRevisions({ suspect }) {
       guessedAge = formatDistance(parseISO(first), parseISO(enUs));
     }
   }
+
+  const MAX_SHOW_REVISIONS = 3;
+
+  let revisions = showAll
+    ? data.revisions
+    : data.revisions.slice(0, MAX_SHOW_REVISIONS);
+  let enUSRevisions = showAll
+    ? data.enUSRevisions
+    : data.enUSRevisions.slice(0, MAX_SHOW_REVISIONS);
   return (
     <div className="revisions columns">
       <div className="column is-one-third">
@@ -651,11 +630,24 @@ function ShowRevisions({ suspect }) {
           </a>
         </h5>
         <ul>
-          {data.revisions.map(revision => (
+          {revisions.map(revision => (
             <li key={revision.id}>
               {revision.date.replace(/\.\d+/, "")} by {revision.creator}
             </li>
           ))}
+          {data.revisions.length > MAX_SHOW_REVISIONS && (
+            <li>
+              <a
+                href="#revisions"
+                onClick={event => {
+                  event.preventDefault();
+                  setShowAll(!showAll);
+                }}
+              >
+                {showAll ? "Hide most" : `Show all (${data.revisions.length})`}
+              </a>
+            </li>
+          )}
         </ul>
       </div>
       <div className="column is-one-third">
@@ -669,11 +661,26 @@ function ShowRevisions({ suspect }) {
           </a>
         </h5>
         <ul>
-          {data.enUSRevisions.map(revision => (
+          {enUSRevisions.map(revision => (
             <li key={revision.id}>
               {revision.date.replace(/\.\d+/, "")} by {revision.creator}
             </li>
           ))}
+          {data.enUSRevisions.length > MAX_SHOW_REVISIONS && (
+            <li>
+              <a
+                href="#revisions"
+                onClick={event => {
+                  event.preventDefault();
+                  setShowAll(!showAll);
+                }}
+              >
+                {showAll
+                  ? "Hide most"
+                  : `Show all (${data.enUSRevisions.length})`}
+              </a>
+            </li>
+          )}
         </ul>
       </div>
     </div>

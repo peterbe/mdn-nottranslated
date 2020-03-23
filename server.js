@@ -41,6 +41,8 @@ const HOST = "0.0.0.0";
 const baseUrl =
   process.env.MDN_BASE_URL || "https://wiki.developer.mozilla.org";
 
+const MAX_REVISIONS = 25;
+
 function download(uri) {
   let u = baseUrl + uri;
   let parsed = url.parse(u);
@@ -67,11 +69,10 @@ async function downloadRevisions(locale, slug) {
     throw new Error(r.status);
   }
   const html = await r.text();
-  // console.log(html);
   const $ = cheerio.load(html);
   const revisions = [];
   $("ul.revision-list li").each((i, li) => {
-    if (revisions.length < 10) {
+    if (revisions.length < MAX_REVISIONS) {
       const creator = $(".revision-list-creator a", li).text();
       const date = $(".revision-list-date time", li).attr("datetime");
       const revisionHref = $(".revision-list-date a", li)
