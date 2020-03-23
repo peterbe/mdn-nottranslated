@@ -267,6 +267,10 @@ export function Locale({ allSuspects, loading }) {
               gotoPrevious={gotoPreviousSuspect}
               // showPreview={showPreview}
               setCurrentSuspect={setCurrentSuspect}
+              getStarted={() => {
+                // console.log(suspectsSubset);
+                setCurrentSuspect(suspectsSubset[0]);
+              }}
               refreshSubset={() => {
                 setSeed(Math.random());
               }}
@@ -331,7 +335,8 @@ function ShowSuspects({
   // showPreview,
   // suspect,
   setCurrentSuspect,
-  refreshSubset,
+  getStarted,
+  // refreshSubset,
   ignoredCount
 }) {
   let { locale } = useParams();
@@ -350,13 +355,22 @@ function ShowSuspects({
         Review one at a time and ask yourself{" "}
         <i>"Is this page still mostly all English?"</i>
       </p>
-      {suspects.length > subset.length && (
+      <p className="has-text-centered">
+        <button
+          className="button is-primary is-large"
+          type="button"
+          onClick={getStarted}
+        >
+          Get started!
+        </button>
+      </p>
+      {/* {suspects.length > subset.length && (
         <p>
           <button className="button" type="button" onClick={refreshSubset}>
             Refresh subset
           </button>
         </p>
-      )}
+      )} */}
       {subset.map(suspect => {
         let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
         let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
@@ -430,10 +444,18 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
   sp.set("uri", uri);
   let src = `/api/v0/preview?${sp.toString()}`;
 
-  let parentSp = new URLSearchParams();
-  let parentUri = `/en-US/docs/${metadata.translationof}`;
-  parentSp.set("uri", parentUri);
-  let parentSrc = `/api/v0/preview?${parentSp.toString()}`;
+  let parentSrc;
+  let parentEditUrl;
+  let parentViewUrl;
+  if (metadata.translationof) {
+    let parentSp = new URLSearchParams();
+    let parentUri = `/en-US/docs/${metadata.translationof}`;
+    parentSp.set("uri", parentUri);
+    parentSrc = `/api/v0/preview?${parentSp.toString()}`;
+
+    parentEditUrl = `https://wiki.developer.mozilla.org${parentUri}/$edit`;
+    parentViewUrl = `https://developer.mozilla.org${parentUri}`;
+  }
 
   let wikiUrl = "https://wiki.developer.mozilla.org" + uri;
   let deleteUrl =
@@ -500,155 +522,62 @@ function ShowSuspect({ suspect, locale, close, gotoNext, gotoPrevious }) {
         </div>
       </div>
 
-      {/* <div className="columns">
-        <div className="column is-four-fifths">
-          <iframe src={src} title={title} width={"100%"} height={800}></iframe>
-        </div>
-        <div className="column">
-          <ShowRevisions suspect={suspect} />
-        </div>
-      </div> */}
       <div className="columns">
         <div className="column is-half">
-          <h4>This page (what we might delete)</h4>
-          <iframe src={src} title={title} width={"100%"} height={800}></iframe>
+          <h4>
+            This page (what we might delete) &mdash;{" "}
+            <a href={editUrl} target="_blank" rel="noopener noreferrer">
+              Edit in Wiki
+            </a>
+            ,{" "}
+            <a href={viewUrl} target="_blank" rel="noopener noreferrer">
+              View on MDN
+            </a>
+          </h4>
+          <iframe src={src} title={title} width={"100%"} height={900}></iframe>
         </div>
         <div className="column is-half">
-          <h4>Parent page (the fallback page)</h4>
-          <iframe
-            src={parentSrc}
-            title={title}
-            width={"100%"}
-            height={800}
-          ></iframe>
+          <h4>
+            Parent page (the fallback page)
+            {parentEditUrl && parentViewUrl && (
+              <span>
+                &mdash;{" "}
+                <a
+                  href={parentEditUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Edit in Wiki
+                </a>
+                ,{" "}
+                <a
+                  href={parentViewUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View on MDN
+                </a>
+              </span>
+            )}
+          </h4>
+
+          {parentSrc ? (
+            <iframe
+              src={parentSrc}
+              title={title}
+              width={"100%"}
+              height={900}
+            ></iframe>
+          ) : (
+            <p>
+              <i>Parent page does not exist</i>
+            </p>
+          )}
         </div>
       </div>
     </div>
   );
 }
-
-// function PreviewIframeModal({
-//   suspect,
-//   close,
-//   gotoNext,
-//   gotoPrevious,
-//   ignore
-// }) {
-//   let { metadata } = suspect;
-//   let title = metadata.title;
-
-//   let uri = `/${suspect.locale}/docs/${metadata.slug}`;
-//   let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
-//   let viewUrl = `https://developer.mozilla.org${uri}`;
-//   let sp = new URLSearchParams();
-//   sp.set("uri", uri);
-//   let src = `/api/v0/preview?${sp.toString()}`;
-
-//   let wikiUrl = "https://wiki.developer.mozilla.org" + uri;
-//   let deleteUrl =
-//     wikiUrl +
-//     "$delete?reason=" +
-//     encodeURIComponent("It was never fully translated from English.");
-//   return (
-//     <div className="modal is-active">
-//       <div className="modal-background"></div>
-//       <div className="modal-card">
-//         <header className="modal-card-head">
-//           <p className="modal-card-title">
-//             <LeafStatus leaf={suspect.leaf} />{" "}
-//             <a href={editUrl} target="_blank" rel="noopener noreferrer">
-//               Edit in Wiki
-//             </a>
-//             ,{" "}
-//             <a href={viewUrl} target="_blank" rel="noopener noreferrer">
-//               View on MDN
-//             </a>
-//             <br />
-//             <small style={{ fontSize: "80%" }}>
-//               {suspect.locale} / {metadata.slug}
-//             </small>
-//           </p>
-//           <button
-//             className="delete"
-//             aria-label="close"
-//             onClick={close}
-//           ></button>
-//         </header>
-//         <section className="modal-card-body">
-//           <iframe src={src} title={title} width={1200} height={800}></iframe>
-//         </section>
-//         <footer className="modal-card-foot">
-//           <div className="columns">
-//             <div className="column">
-//               <p>
-//                 {suspect.lastModifiedError ? (
-//                   <b>
-//                     Error fetching last modified ({suspect.lastModifiedError})
-//                   </b>
-//                 ) : suspect.lastModified ? (
-//                   <span>
-//                     <b>Last modified</b> {suspect.lastModified}
-//                   </span>
-//                 ) : (
-//                   <small>fetching last modified...</small>
-//                 )}
-//               </p>
-//             </div>
-//             <div className="column">
-//               <div className="buttons">
-//                 <button
-//                   className="button is-link"
-//                   onClick={() => ignore(suspect)}
-//                   title="YOU ignore this suspect for 72 hours"
-//                 >
-//                   Ignore
-//                 </button>{" "}
-//                 <a
-//                   className="button is-primary "
-//                   target="_blank"
-//                   rel="noopener noreferrer"
-//                   href={deleteUrl}
-//                   disabled={!suspect.lastModified}
-//                   onClick={() => {
-//                     setTimeout(() => {
-//                       gotoNext();
-//                     }, 100);
-//                   }}
-//                 >
-//                   Start deleting on Wiki
-//                 </a>{" "}
-//               </div>
-//             </div>
-//             <div className="column">
-//               <div
-//                 className="buttons"
-//                 title="Tip: You can navigate with the keyboard ⬅ and ➡ and ␛"
-//               >
-//                 <button className="button" onClick={gotoPrevious}>
-//                   Prev
-//                 </button>{" "}
-//                 <button className="button" onClick={gotoNext}>
-//                   Next
-//                 </button>{" "}
-//               </div>
-//             </div>
-//           </div>
-//           <div>
-//             <ShowRevisions suspect={suspect} />
-//             {/* {!revisions && !revisionsLoadingError && (
-//                 <p>
-//                   <i>Loading revision history...</i>
-//                 </p>
-//               )}
-//               {revisions && !revisionsLoadingError && (
-//                 <ShowRevisions revisions={revisions} suspect={suspect} />
-//               )} */}
-//           </div>
-//         </footer>
-//       </div>
-//     </div>
-//   );
-// }
 
 function ShowRevisions({ suspect }) {
   let sp = new URLSearchParams();
@@ -692,7 +621,7 @@ function ShowRevisions({ suspect }) {
 
   let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
   let wikiHistoryUrl = `https://wiki.developer.mozilla.org${uri}$history`;
-  let enUSUri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
+  let enUSUri = `/en-US/docs/${suspect.metadata.translationof}`;
   let enUSWikiHistoryUrl = `https://wiki.developer.mozilla.org${enUSUri}$history`;
 
   let guessedAge = null;

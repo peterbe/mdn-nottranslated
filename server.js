@@ -50,7 +50,7 @@ function download(uri) {
   console.log("FETCH HTML:", u, encodeURI(u));
   return fetch(encodeURI(u)).then(r => {
     if (!r.ok) {
-      console.log("THROW:", r.status);
+      console.log("THROW:", r.status, "on", uri);
       throw new Error(r.status);
     }
     return r.text();
@@ -176,9 +176,18 @@ app.get("/api/v0/preview", (req, res) => {
       $("img[src]").each((i, el) => {
         if (el.attribs["src"].startsWith("/")) {
           el.attribs["src"] = baseUrl + el.attribs["src"];
-        } else {
+        } else if (!el.attribs["src"].includes("://")) {
           console.log("SRC!!:", el.attribs["src"]);
         }
+      });
+      $('link[rel="preload"], link[rel="alternate"]').remove();
+      $("style").each((i, el) => {
+        let content = $(el).html();
+        content = content.replace(
+          /url\(\//g,
+          "url(https://wiki.developer.mozilla.org/"
+        );
+        $(el).text(content);
       });
 
       const sampleInteractiveExample = $(
