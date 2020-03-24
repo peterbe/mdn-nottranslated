@@ -4,12 +4,13 @@ import random
 import sys
 import time
 from pathlib import Path
+from collections import defaultdict
 
 import requests
 
 SLEEP = 1
 
-def check_locale(json_file, limit=40):
+def check_locale(json_file, limit=40, slugs=None):
     state_file = f'/tmp/update-notfound.{json_file.name}.log'
 
     previous_slugs_done = []
@@ -24,7 +25,14 @@ def check_locale(json_file, limit=40):
     with open(json_file) as f:
         suspects = json.load(f)
 
-    subset = [x for x in suspects if x['slug'] not in previous_slugs_done]
+    subset = []
+    for suspect in suspects:
+        if suspect['slug'] in previous_slugs_done:
+            continue
+        if slugs and suspect['slug'] not in slugs:
+            continue
+        subset.append(suspect)
+
     print(f"{len(subset)} suspects")
     random.shuffle(subset)
 
@@ -71,18 +79,30 @@ def check_locale(json_file, limit=40):
             f.write(f'{slug}\n')
 
 
-def run(locales=None, limit=10):
-    state_file = '/tmp/update-notfound.log'
+def run(locales=None, limit=10, logfile=None):
+    only = None
+    if logfile:
+        only = defaultdict(list)
+        with open(logfile) as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith('#'):
+                    continue
+                locale, slug= line.split('\t')[:2]
+                only[locale].append(slug)
+
     folder = Path('public/suspects')
     folders = []
 
     previous_folder_names = []
-    try:
-        with open(state_file) as f:
-            for line in f:
-                previous_folder_names.append(line.strip())
-    except FileNotFoundError:
-        pass
+    state_file = '/tmp/update-notfound.log'
+    if not logfile:
+        try:
+            with open(state_file) as f:
+                for line in f:
+                    previous_folder_names.append(line.strip())
+        except FileNotFoundError:
+            pass
 
     for fn in folder.iterdir():
         if fn.name == 'summary.json' or fn.name == 'inception.json':
@@ -90,6 +110,9 @@ def run(locales=None, limit=10):
 
         if locales:
             if fn.name.split('.json')[0] not in locales:
+                continue
+        elif only:
+            if fn.name.split('.json')[0] not in only:
                 continue
         else:
             if fn.name in previous_folder_names:
@@ -104,9 +127,13 @@ def run(locales=None, limit=10):
     done_folder_names = []
     for folder in folders[:limit]:
         print("FOLDER:", folder.name)
-        check_locale(folder)
+        slugs = None
+        if only:
+            slugs = only[folder.name.split('.json')[0]]
+        check_locale(folder, slugs=slugs)
         done_folder_names.append(folder.name)
-    if not locales:
+
+    if not locales and not logfile:
         with open(state_file, 'w') as f:
             for foldername in done_folder_names:
                 f.write(f'{foldername}\n')
@@ -125,13 +152,17 @@ def get_parser():
         type=int,
         default=10,
     )
+    parser.add_argument(
+        "--logfile",
+        help="logfile full of deletion logs",
+    )
     return parser
 
 
 def main():
     parser = get_parser()
     args = parser.parse_args()
-    run(locales=args.locales, limit=args.limit)
+    run(locales=args.locales, limit=args.limit, logfile=args.logfile)
 
 if __name__ == "__main__":
     sys.exit(main())

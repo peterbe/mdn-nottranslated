@@ -669,19 +669,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Tools/\ub2e8\ucd95\ud0a4",
-    "metadata": {
-      "title": "\ubaa8\ub4e0 \ub2e8\ucd95\ud0a4",
-      "slug": "Tools/\ub2e8\ucd95\ud0a4",
-      "translationof": "Tools/Keyboard_shortcuts"
-    },
-    "leaf": true,
-    "_checked": 1584371025
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
     "slug": "Tools/How_to",
     "metadata": {
       "title": "How to",
@@ -4802,19 +4789,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/API/SVGSVGElement",
-    "metadata": {
-      "title": "SVGSVGElement",
-      "slug": "Web/API/SVGSVGElement",
-      "translationof": "Web/API/SVGSVGElement"
-    },
-    "leaf": true,
-    "_checked": 1584371051
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
     "slug": "Web/API/AnimationEvent/animationName",
     "metadata": {
       "title": "AnimationEvent.animationName",
@@ -6108,17 +6082,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Obsolete_Pages/Core_JavaScript_1.5_Guide/Writing_a_Regular_Expression_Pattern",
-    "metadata": {
-      "title": "Writing a Regular Expression Pattern",
-      "slug": "Web/JavaScript/Guide/Obsolete_Pages/Core_JavaScript_1.5_Guide/Writing_a_Regular_Expression_Pattern"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guide/Obsolete_Pages/Core_JavaScript_1.5_Guide/Operators/Comparison_Operators",
     "metadata": {
       "title": "Comparison Operators",
@@ -6248,19 +6211,6 @@
     },
     "leaf": true,
     "_checked": 1584765454
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/1.7",
-    "metadata": {
-      "title": "New in JavaScript 1.7",
-      "slug": "Web/JavaScript/New_in_JavaScript/1.7",
-      "translationof": "Web/JavaScript/New_in_JavaScript/1.7"
-    },
-    "leaf": true,
-    "_checked": 1584371046
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",

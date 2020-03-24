@@ -191,32 +191,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Tools/Web_Console/Helpers",
-    "metadata": {
-      "title": "Web Console Helpers",
-      "slug": "Tools/Web_Console/Helpers",
-      "translationof": "Tools/Web_Console/Helpers"
-    },
-    "leaf": true,
-    "_checked": 1584370037
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
-    "metadata": {
-      "title": "Een website met geblokkeerde gemengde inhoud in orde maken",
-      "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
-      "translationof": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content"
-    },
-    "leaf": true,
-    "_checked": 1584370021
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Plugins/Roadmap",
     "metadata": {
       "title": "Plugin Roadmap for Firefox",
@@ -588,19 +562,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
-    "metadata": {
-      "title": "Gebruik maken van XMLHttpRequest",
-      "slug": "Web/API/XMLHttpRequest/Using_XMLHttpRequest",
-      "translationof": "Web/API/XMLHttpRequest/Using_XMLHttpRequest"
-    },
-    "leaf": true,
-    "_checked": 1584369352
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Web/API/WebGL_API",
     "metadata": {
       "title": "WebGL",
@@ -801,19 +762,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Functions",
-    "metadata": {
-      "title": "Functions",
-      "slug": "Web/JavaScript/Guide/Functions",
-      "translationof": "Web/JavaScript/Guide/Functions"
-    },
-    "leaf": true,
-    "_checked": 1584370782
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guide/Reguliere_Expressies",
     "metadata": {
       "title": "Reguliere Expressies",
@@ -822,19 +770,6 @@
     },
     "leaf": true,
     "_checked": 1584370784
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript",
-    "metadata": {
-      "title": "New in JavaScript",
-      "slug": "Web/JavaScript/New_in_JavaScript",
-      "translationof": "Web/JavaScript/New_in_JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1584370034
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -1011,32 +946,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
-    "metadata": {
-      "title": "Object.prototype.toString()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/toString",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Object/toString"
-    },
-    "leaf": true,
-    "_checked": 1584370033
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-    "metadata": {
-      "title": "Object.defineProperty()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty"
-    },
-    "leaf": true,
-    "_checked": 1584370019
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
