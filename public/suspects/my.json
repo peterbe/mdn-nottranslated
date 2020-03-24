@@ -22,20 +22,7 @@
       "translationof": "Learn/CSS"
     },
     "leaf": true,
-    "_checked": 1584737095
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
-    "slug": "Learn/Getting_started_with_the_web",
-    "metadata": {
-      "title": "Getting started with the Web",
-      "slug": "Learn/Getting_started_with_the_web",
-      "translationof": "Learn/Getting_started_with_the_web"
-    },
-    "leaf": true,
-    "_checked": 1584737084
+    "_checked": 1585013754
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -60,19 +47,6 @@
       "translationof": "Learn/Forms"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
-    "slug": "Learn/HTML/Forms/The_native_form_widgets",
-    "metadata": {
-      "title": "The native form widgets",
-      "slug": "Learn/HTML/Forms/The_native_form_widgets",
-      "translationof": "Learn/Forms/Basic_native_form_controls"
-    },
-    "leaf": true,
-    "_checked": 1584737093
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -109,7 +83,7 @@
       "translationof": "Learn/JavaScript/First_steps/Useful_string_methods"
     },
     "leaf": true,
-    "_checked": 1584737086
+    "_checked": 1585013745
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -122,7 +96,7 @@
       "translationof": "Learn/JavaScript/First_steps/Arrays"
     },
     "leaf": true,
-    "_checked": 1584737083
+    "_checked": 1585013742
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -147,7 +121,7 @@
       "translationof": "Web/Guide"
     },
     "leaf": true,
-    "_checked": 1584737090
+    "_checked": 1585013749
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -172,7 +146,7 @@
       "translationof": "Web/CSS/CSS_Transitions"
     },
     "leaf": true,
-    "_checked": 1584737088
+    "_checked": 1585013746
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -185,7 +159,7 @@
       "translationof": "Web/HTML"
     },
     "leaf": true,
-    "_checked": 1584737094
+    "_checked": 1585013753
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -222,7 +196,7 @@
       "translationof": "Web/JavaScript/Guide/Introduction"
     },
     "leaf": true,
-    "_checked": 1584737089
+    "_checked": 1585013747
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
@@ -235,6 +209,6 @@
       "translationof": "Web/JavaScript/Guide/Regular_Expressions"
     },
     "leaf": true,
-    "_checked": 1584737092
+    "_checked": 1585013750
   }
 ]

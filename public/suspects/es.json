@@ -732,17 +732,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Referencia_cruzada_de_elementos_HTML",
-    "metadata": {
-      "title": "Referencia cruzada de elementos HTML",
-      "slug": "Referencia_cruzada_de_elementos_HTML"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/SVG/Tutorial/Tools_for_SVG",
     "metadata": {
       "title": "Tools for SVG",
@@ -1603,7 +1592,8 @@
       "slug": "Web/CSS/-moz-outline-radius-topright",
       "translationof": "Web/CSS/-moz-outline-radius-topright"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585013735
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1869,7 +1859,8 @@
       "slug": "Web/CSS/:-moz-user-disabled",
       "translationof": "Web/CSS/:-moz-user-disabled"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585013738
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -2337,7 +2328,8 @@
       "slug": "Web/HTTP/Headers/Set-Cookie",
       "translationof": "Web/HTTP/Headers/Set-Cookie"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585013741
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4592,7 +4584,8 @@
       "slug": "Web/JavaScript/Referencia/Objetos_globales/String/localeCompare",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/localeCompare"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585013739
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -5153,17 +5146,5 @@
     },
     "leaf": true,
     "_checked": 1584368805
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Web_Audio_API/Visualizations_with_Web_Audio_API",
-    "metadata": {
-      "title": "Visualizaciones con la API de Web Audio",
-      "slug": "Web_Audio_API/Visualizations_with_Web_Audio_API",
-      "translationof": "Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API"
-    },
-    "leaf": true
   }
 ]

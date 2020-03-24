@@ -77,19 +77,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Learn/Getting_started_with_the_web/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u098f\u09b0_\u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
-    "metadata": {
-      "title": "\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2 \u098f\u09b0 \u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
-      "slug": "Learn/Getting_started_with_the_web/\u098f\u0987\u099a\u099f\u09bf\u098f\u09ae\u098f\u09b2_\u098f\u09b0_\u09ae\u09c2\u09b2\u09b8\u09c2\u09a4\u09cd\u09b0",
-      "translationof": "Learn/Getting_started_with_the_web/HTML_basics"
-    },
-    "leaf": true,
-    "_checked": 1584369067
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
     "slug": "Learn/HTML",
     "metadata": {
       "title": "HTML",
@@ -1147,19 +1134,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
     "locale": "bn",
     "guessed": "en",
-    "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
-    "metadata": {
-      "title": "\u09a1\u09be\u09df\u09a8\u09be\u09ae\u09bf\u0995 \u09b8\u09cd\u099f\u09be\u0987\u09b2\u09bf\u0982 \u09a4\u09a5\u09cd\u09af \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0",
-      "slug": "Web/API/CSS_Object_Model/Using_dynamic_styling_information",
-      "translationof": "Web/API/CSS_Object_Model/Using_dynamic_styling_information"
-    },
-    "leaf": true,
-    "_checked": 1584369069
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",
-    "locale": "bn",
-    "guessed": "en",
     "slug": "Web/Tutorials",
     "metadata": {
       "title": "\u099f\u09bf\u0989\u099f\u09cb\u09b0\u09bf\u09df\u09be\u09b2",
@@ -1484,7 +1458,7 @@
       "translationof": "Web/JavaScript/Getting_Started"
     },
     "leaf": true,
-    "_checked": 1584369066
+    "_checked": 1585014184
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/bn",

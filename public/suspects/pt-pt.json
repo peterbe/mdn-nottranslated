@@ -895,7 +895,8 @@
       "slug": "Tools/Desempenho/Arvore_de_Chamada",
       "translationof": "Tools/Performance/Call_Tree"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585013928
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-pt",

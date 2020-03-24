@@ -58,7 +58,7 @@
       "translationof": "Web/CSS/CSS_Grid_Layout"
     },
     "leaf": true,
-    "_checked": 1584764898
+    "_checked": 1585014034
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -107,7 +107,7 @@
       "translationof": "Web/Guide/API"
     },
     "leaf": true,
-    "_checked": 1584764879
+    "_checked": 1585014021
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -168,20 +168,7 @@
       "translationof": "Web/API/XMLHttpRequest/Using_XMLHttpRequest"
     },
     "leaf": true,
-    "_checked": 1584764885
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
-    "locale": "hu",
-    "guessed": "en",
-    "slug": "Web/API/XMLHttpRequest/responseType",
-    "metadata": {
-      "title": "XMLHttpRequest.responseType",
-      "slug": "Web/API/XMLHttpRequest/responseType",
-      "translationof": "Web/API/XMLHttpRequest/responseType"
-    },
-    "leaf": true,
-    "_checked": 1584764902
+    "_checked": 1585014024
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -218,7 +205,7 @@
       "translationof": "Web/API/Worker"
     },
     "leaf": true,
-    "_checked": 1584764883
+    "_checked": 1585014023
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -236,32 +223,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
     "locale": "hu",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Grammar_and_types",
-    "metadata": {
-      "title": "Grammar and types",
-      "slug": "Web/JavaScript/Guide/Grammar_and_types",
-      "translationof": "Web/JavaScript/Guide/Grammar_and_types"
-    },
-    "leaf": true,
-    "_checked": 1584764887
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
-    "locale": "hu",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Regular_Expressions",
-    "metadata": {
-      "title": "Regul\u00e1ris kifejez\u00e9sek",
-      "slug": "Web/JavaScript/Guide/Regular_Expressions",
-      "translationof": "Web/JavaScript/Guide/Regular_Expressions"
-    },
-    "leaf": true,
-    "_checked": 1584764901
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
-    "locale": "hu",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guide/Bevezet\u00e9s",
     "metadata": {
       "title": "Bevezet\u00e9s",
@@ -269,20 +230,7 @@
       "translationof": "Web/JavaScript/Guide/Introduction"
     },
     "leaf": true,
-    "_checked": 1584764892
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
-    "locale": "hu",
-    "guessed": "en",
-    "slug": "Web/JavaScript/A_JavaScriptrol",
-    "metadata": {
-      "title": "A JavaScriptr\u0151l",
-      "slug": "Web/JavaScript/A_JavaScriptrol",
-      "translationof": "Web/JavaScript/About_JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1584764895
+    "_checked": 1585014028
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -319,7 +267,7 @@
       "translationof": "Web/JavaScript/Reference/Statements/try...catch"
     },
     "leaf": true,
-    "_checked": 1584764878
+    "_checked": 1585014020
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -356,7 +304,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array/sort"
     },
     "leaf": true,
-    "_checked": 1584764896
+    "_checked": 1585014032
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -369,7 +317,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Function"
     },
     "leaf": true,
-    "_checked": 1584764893
+    "_checked": 1585014030
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
@@ -382,7 +330,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String"
     },
     "leaf": true,
-    "_checked": 1584764888
+    "_checked": 1585014027
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/hu",
