@@ -71,9 +71,9 @@
       "English": "Chinese (Traditional)",
       "native": "正體中文 (繁體)"
     },
-    "count": 534,
+    "count": 533,
     "file": "zh-tw.json",
-    "leafs": 416,
+    "leafs": 415,
     "inception": 544
   },
   {
@@ -82,9 +82,9 @@
       "English": "Dutch",
       "native": "Nederlands"
     },
-    "count": 101,
+    "count": 95,
     "file": "nl.json",
-    "leafs": 50,
+    "leafs": 44,
     "inception": 112
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 239,
+    "count": 233,
     "file": "de.json",
-    "leafs": 159,
+    "leafs": 153,
     "inception": 257
   },
   {
@@ -181,9 +181,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 143,
+    "count": 129,
     "file": "it.json",
-    "leafs": 80,
+    "leafs": 66,
     "inception": 169
   },
   {
@@ -192,9 +192,9 @@
       "English": "Japanese",
       "native": "日本語"
     },
-    "count": 772,
+    "count": 767,
     "file": "ja.json",
-    "leafs": 651,
+    "leafs": 646,
     "inception": 772
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 687,
+    "count": 686,
     "file": "ko.json",
-    "leafs": 554,
+    "leafs": 553,
     "inception": 712
   },
   {
@@ -236,9 +236,9 @@
       "English": "Persian",
       "native": "فارسی"
     },
-    "count": 69,
+    "count": 64,
     "file": "fa.json",
-    "leafs": 44,
+    "leafs": 39,
     "inception": 70
   },
   {
@@ -258,9 +258,9 @@
       "English": "Portuguese (Brazilian)",
       "native": "Português (do Brasil)"
     },
-    "count": 402,
+    "count": 400,
     "file": "pt-br.json",
-    "leafs": 307,
+    "leafs": 305,
     "inception": 427
   },
   {
@@ -313,9 +313,9 @@
       "English": "Thai",
       "native": "ไทย"
     },
-    "count": 21,
+    "count": 19,
     "file": "th.json",
-    "leafs": 4,
+    "leafs": 2,
     "inception": 42
   },
   {
@@ -335,9 +335,9 @@
       "English": "Ukrainian",
       "native": "Українська"
     },
-    "count": 142,
+    "count": 139,
     "file": "uk.json",
-    "leafs": 90,
+    "leafs": 87,
     "inception": 142
   },
   {

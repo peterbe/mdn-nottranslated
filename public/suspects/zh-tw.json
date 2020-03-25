@@ -983,7 +983,8 @@
       "title": "Web development",
       "slug": "Web_development"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146271
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2120,7 +2121,8 @@
       "slug": "Web/HTTP/Methods/POST",
       "translationof": "Web/HTTP/Methods/POST"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146269
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2209,7 +2211,8 @@
       "slug": "Web/HTTP/Status/418_I_m_a_teapot",
       "translationof": "Web/HTTP/Status/418"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146273
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2694,18 +2697,6 @@
     },
     "leaf": true,
     "_checked": 1585073912
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
-    "locale": "zh-TW",
-    "guessed": "en",
-    "slug": "Web/API/TreeWalker",
-    "metadata": {
-      "title": "TreeWalker",
-      "slug": "Web/API/TreeWalker",
-      "translationof": "Web/API/TreeWalker"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -4834,7 +4825,8 @@
       "slug": "Web/JavaScript/New_in_JavaScript/1.4",
       "translationof": "Web/JavaScript/New_in_JavaScript/1.4"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146268
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -5310,7 +5302,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Array/flat",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array/flat"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146270
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -6000,7 +5993,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Promise/prototype"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146266
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -6050,7 +6044,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/String/prototype",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/prototype"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146265
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",

@@ -22,7 +22,8 @@
     "react-icons": "3.9.0",
     "react-router-dom": "5.1.2",
     "react-scripts": "3.4.1",
-    "swr": "0.1.18"
+    "swr": "0.1.18",
+    "throttle-debounce": "2.1.0"
   },
   "scripts": {
     "server": "nodemon server.js",
@@ -30,7 +31,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "summorize-suspects": "node bin/summorize-suspects.js public/suspects"
+    "summarize-suspects": "node bin/summarize-suspects.js public/suspects"
   },
   "eslintConfig": {
     "extends": "react-app"

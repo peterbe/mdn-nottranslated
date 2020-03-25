@@ -1,9 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { Link, useParams, useLocation, useHistory } from "react-router-dom";
 import useSWR from "swr";
 import formatDistance from "date-fns/formatDistance";
 import parseISO from "date-fns/parseISO";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
+import { throttle } from "throttle-debounce";
 
 import { TAGLINE, Container } from "./Common";
 
@@ -404,6 +405,35 @@ function ShowSuspect({
   gotoPrevious,
   ignore
 }) {
+  let iFrameRef = useRef();
+  let parentIFrameRef = useRef();
+
+  useEffect(() => {
+    function updateOtherIFrame(iframe, y) {
+      iframe.contentWindow.scrollTo({
+        top: y,
+        left: 0,
+        behavior: "smooth"
+      });
+    }
+
+    let updateOtherIFrameThrottled = throttle(100, updateOtherIFrame);
+    if (iFrameRef.current && parentIFrameRef.current) {
+      iFrameRef.current.addEventListener("load", () => {
+        iFrameRef.current.contentDocument.addEventListener(
+          "scroll",
+          () => {
+            updateOtherIFrameThrottled(
+              parentIFrameRef.current,
+              iFrameRef.current.contentWindow.scrollY
+            );
+          },
+          false
+        );
+      });
+    }
+  }, [suspect.metadata.slug]);
+
   let { metadata } = suspect;
   let title = metadata.title;
 
@@ -455,14 +485,14 @@ function ShowSuspect({
             {/* <a href={`/${locale}`} className="button" onClick={close}>
               Close
             </a>{" "} */}
-            <a
-              href={`/${locale}`}
+            <button
+              type="button"
               className="button is-info"
               onClick={ignore}
               title="YOU ignore this suspect for 72 hours"
             >
               Ignore
-            </a>{" "}
+            </button>{" "}
             &nbsp;{" "}
             <button
               className="button"
@@ -503,7 +533,13 @@ function ShowSuspect({
               View on MDN
             </a>
           </h4>
-          <iframe src={src} title={title} width={"100%"} height={900}></iframe>
+          <iframe
+            ref={iFrameRef}
+            src={src}
+            title={title}
+            width={"100%"}
+            height={900}
+          ></iframe>
         </div>
         <div className="column is-half">
           <h4>
@@ -532,6 +568,7 @@ function ShowSuspect({
 
           {parentSrc ? (
             <iframe
+              ref={parentIFrameRef}
               src={parentSrc}
               title={title}
               width={"100%"}

@@ -21,7 +21,8 @@
       "slug": "Learn/CSS/Building_blocks/Werten_Einheiten",
       "translationof": "Learn/CSS/Building_blocks/Values_and_units"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146127
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -212,7 +213,8 @@
       "slug": "Learn/Server-side/Erste_Schritte/Introduction",
       "translationof": "Learn/Server-side/First_steps/Introduction"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146121
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -467,19 +469,6 @@
     },
     "leaf": true,
     "_checked": 1584368651
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Tools/Profiler",
-    "metadata": {
-      "title": "JavaScript Profiler",
-      "slug": "Tools/Profiler",
-      "translationof": "Tools/Profiler"
-    },
-    "leaf": true,
-    "_checked": 1584370679
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -769,7 +758,8 @@
       "slug": "Web/CSS/will-change",
       "translationof": "Web/CSS/will-change"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146123
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1118,19 +1108,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/HTML/Element/Input/image",
-    "metadata": {
-      "title": "<input type=\"image\">",
-      "slug": "Web/HTML/Element/Input/image",
-      "translationof": "Web/HTML/Element/input/image"
-    },
-    "leaf": true,
-    "_checked": 1584638697
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/HTML/Element/Input/button",
     "metadata": {
       "title": "<input type =\"button\">",
@@ -1318,7 +1295,8 @@
       "slug": "Web/HTML/Globale_Attribute/data-*",
       "translationof": "Web/HTML/Global_attributes/data-*"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146126
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1647,19 +1625,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/File/File",
-    "metadata": {
-      "title": "File.File()",
-      "slug": "Web/API/File/File",
-      "translationof": "Web/API/File/File"
-    },
-    "leaf": true,
-    "_checked": 1584737107
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/File/lastModifiedDate",
     "metadata": {
       "title": "File.lastModifiedDate",
@@ -1851,7 +1816,8 @@
       "slug": "Web/API/KeyboardEvent/keyCode",
       "translationof": "Web/API/KeyboardEvent/keyCode"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146119
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1965,19 +1931,6 @@
     },
     "leaf": true,
     "_checked": 1584368656
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/BroadcastChannel",
-    "metadata": {
-      "title": "BroadcastChannel",
-      "slug": "Web/API/BroadcastChannel",
-      "translationof": "Web/API/BroadcastChannel"
-    },
-    "leaf": true,
-    "_checked": 1584638688
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2286,18 +2239,6 @@
     },
     "leaf": true,
     "_checked": 1584368648
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/Tutorials",
-    "metadata": {
-      "title": "Tutorials",
-      "slug": "Web/Tutorials",
-      "translationof": "Web/Tutorials"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2653,20 +2594,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Number/isInteger",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Number/isInteger"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/ReferenceError",
-    "metadata": {
-      "title": "ReferenceError",
-      "slug": "Web/JavaScript/Reference/Global_Objects/ReferenceError",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/ReferenceError"
-    },
     "leaf": true,
-    "_checked": 1584369391
+    "_checked": 1585146122
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2769,7 +2698,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object/propertyIsEnumerable"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146125
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",

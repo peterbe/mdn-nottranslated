@@ -1673,7 +1673,8 @@
       "slug": "Web/CSS/inheritance",
       "translationof": "Web/CSS/inheritance"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146164
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -1940,7 +1941,8 @@
       "slug": "Web/CSS/CSS_Columns",
       "translationof": "Web/CSS/CSS_Columns"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146167
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -2426,7 +2428,8 @@
       "slug": "Web/HTML/Element/Heading_Elements",
       "translationof": "Web/HTML/Element/Heading_Elements"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146169
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -2617,7 +2620,8 @@
       "slug": "Web/HTTP/Status/203",
       "translationof": "Web/HTTP/Status/203"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146163
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -3917,7 +3921,8 @@
       "slug": "Web/API/ServiceWorkerRegistration/showNotification",
       "translationof": "Web/API/ServiceWorkerRegistration/showNotification"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146170
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -4603,7 +4608,8 @@
       "slug": "Web/API/Event/type",
       "translationof": "Web/API/Event/type"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146168
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -5607,7 +5613,8 @@
       "slug": "HTML/HTML5/Constraint_validation",
       "translationof": "Web/Guide/HTML/HTML5/Constraint_validation"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146165
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",

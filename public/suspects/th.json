@@ -15,19 +15,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/th",
     "locale": "th",
     "guessed": "en",
-    "slug": "Learn/CSS/Basic_text_styling_in_CSS",
-    "metadata": {
-      "title": "Basic text styling in CSS",
-      "slug": "Learn/CSS/Basic_text_styling_in_CSS",
-      "translationof": "Learn/CSS/Basic_text_styling_in_CSS"
-    },
-    "leaf": true,
-    "_checked": 1585013890
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/th",
-    "locale": "th",
-    "guessed": "en",
     "slug": "Learn/HTML",
     "metadata": {
       "title": "HTML",
@@ -144,19 +131,6 @@
       "translationof": "Web/HTTP/Status"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/th",
-    "locale": "th",
-    "guessed": "en",
-    "slug": "Web/HTTP/Gecko_user_agent_string_reference",
-    "metadata": {
-      "title": "Gecko user agent string reference",
-      "slug": "Web/HTTP/Gecko_user_agent_string_reference",
-      "translationof": "Web/HTTP/Headers/User-Agent/Firefox"
-    },
-    "leaf": true,
-    "_checked": 1585013891
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/th",

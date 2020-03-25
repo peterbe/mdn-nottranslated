@@ -852,7 +852,8 @@
       "slug": "Web/Guide/HTML/Canvas_tutorial/Applying_styles_and_colors",
       "translationof": "Web/API/Canvas_API/Tutorial/Applying_styles_and_colors"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146242
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
@@ -2007,18 +2008,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
     "locale": "pt-BR",
     "guessed": "en",
-    "slug": "Web/CSS/user-select",
-    "metadata": {
-      "title": "user-select",
-      "slug": "Web/CSS/user-select",
-      "translationof": "Web/CSS/user-select"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
-    "locale": "pt-BR",
-    "guessed": "en",
     "slug": "Web/CSS/::first-letter",
     "metadata": {
       "title": "::first-letter (:first-letter)",
@@ -2661,18 +2650,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
     "locale": "pt-BR",
     "guessed": "en",
-    "slug": "Web/HTTP/Range_requests",
-    "metadata": {
-      "title": "HTTP range requests",
-      "slug": "Web/HTTP/Range_requests",
-      "translationof": "Web/HTTP/Range_requests"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",
-    "locale": "pt-BR",
-    "guessed": "en",
     "slug": "Web/HTTP/CORS/Errors",
     "metadata": {
       "title": "CORS errors",
@@ -2920,7 +2897,8 @@
       "slug": "Web/API/NavigatorLanguage/languages",
       "translationof": "Web/API/NavigatorLanguage/languages"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146238
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",

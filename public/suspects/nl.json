@@ -101,19 +101,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
-    "guessed": "en",
-    "slug": "Tools/Prestaties",
-    "metadata": {
-      "title": "Prestaties",
-      "slug": "Tools/Prestaties",
-      "translationof": "Tools/Performance"
-    },
-    "leaf": true,
-    "_checked": 1584370786
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
     "guessed": "af",
     "slug": "Tools/Page_Inspector",
     "metadata": {
@@ -400,19 +387,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
-    "guessed": "af",
-    "slug": "Web/HTML/Element/hr",
-    "metadata": {
-      "title": "hr",
-      "slug": "Web/HTML/Element/hr",
-      "translationof": "Web/HTML/Element/hr"
-    },
-    "leaf": true,
-    "_checked": 1584370792
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
     "guessed": "en",
     "slug": "Web/HTML/Element/aside",
     "metadata": {
@@ -495,19 +469,6 @@
       "translationof": "Web/HTTP/CORS/Errors"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/API/XMLDocument",
-    "metadata": {
-      "title": "XMLDocument",
-      "slug": "Web/API/XMLDocument",
-      "translationof": "Web/API/XMLDocument"
-    },
-    "leaf": true,
-    "_checked": 1584370029
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -632,19 +593,6 @@
       "translationof": "Web/API/CSSStyleSheet"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "af",
-    "slug": "Web/API/CSSStyleSheet/deleteRule",
-    "metadata": {
-      "title": "CSSStyleSheet.deleteRule()",
-      "slug": "Web/API/CSSStyleSheet/deleteRule",
-      "translationof": "Web/API/CSSStyleSheet/deleteRule"
-    },
-    "leaf": true,
-    "_checked": 1584369354
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -989,19 +937,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operatoren/Destructuring_assignment",
-    "metadata": {
-      "title": "Destructuring assignment",
-      "slug": "Web/JavaScript/Reference/Operatoren/Destructuring_assignment",
-      "translationof": "Web/JavaScript/Reference/Operators/Destructuring_assignment"
-    },
-    "leaf": true,
-    "_checked": 1584370787
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Functions",
     "metadata": {
       "title": "Functions",
@@ -1175,19 +1110,6 @@
     },
     "leaf": true,
     "_checked": 1584371085
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "af",
-    "slug": "Glossary/jpeg",
-    "metadata": {
-      "title": "JPEG",
-      "slug": "Glossary/jpeg",
-      "translationof": "Glossary/jpeg"
-    },
-    "leaf": true,
-    "_checked": 1584371077
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",

@@ -53,19 +53,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
     "guessed": "en",
-    "slug": "Learn/Common_questions/Thinking_before_coding",
-    "metadata": {
-      "title": "\u042f\u043a \u043f\u043e\u0447\u0430\u0442\u0438 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u044f\u0442\u0438 \u0441\u0432\u0456\u0439 \u0432\u0435\u0431\u0441\u0430\u0439\u0442?",
-      "slug": "Learn/Common_questions/Thinking_before_coding",
-      "translationof": "Learn/Common_questions/Thinking_before_coding"
-    },
-    "leaf": true,
-    "_checked": 1584371000
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
-    "locale": "uk",
-    "guessed": "en",
     "slug": "Learn/HTML/Forms",
     "metadata": {
       "title": "\u0424\u043e\u0440\u043c\u0443\u043b\u044f\u0440\u0438 HTML",
@@ -212,19 +199,6 @@
       "translationof": "Tools/Page_Inspector/How_to"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
-    "locale": "uk",
-    "guessed": "en",
-    "slug": "Tools/Page_Inspector/How_to/Examine_grid_layouts",
-    "metadata": {
-      "title": "CSS Grid Inspector: Examine grid layouts",
-      "slug": "Tools/Page_Inspector/How_to/Examine_grid_layouts",
-      "translationof": "Tools/Page_Inspector/How_to/Examine_grid_layouts"
-    },
-    "leaf": true,
-    "_checked": 1584369644
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
@@ -548,19 +522,6 @@
     },
     "leaf": true,
     "_checked": 1584370489
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
-    "locale": "uk",
-    "guessed": "en",
-    "slug": "Web/HTML/\u0415\u043b\u0435\u043c\u0435\u043d\u0442/a",
-    "metadata": {
-      "title": "<a>",
-      "slug": "Web/HTML/\u0415\u043b\u0435\u043c\u0435\u043d\u0442/a",
-      "translationof": "Web/HTML/Element/a"
-    },
-    "leaf": true,
-    "_checked": 1584370485
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",

@@ -531,7 +531,8 @@
       "slug": "Learn/Server-side/Django/Models",
       "translationof": "Learn/Server-side/Django/Models"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146190
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -1299,7 +1300,8 @@
       "slug": "Web/Guide/AJAX/Other_Resources",
       "translationof": "Web/Guide/AJAX/Other_Resources"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146211
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -1651,7 +1653,8 @@
       "slug": "Web/XPath/Functions/true",
       "translationof": "Web/XPath/Functions/true"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146194
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -1715,18 +1718,6 @@
     },
     "leaf": true,
     "_checked": 1584764992
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
-    "locale": "ja",
-    "guessed": "en",
-    "slug": "Web/CSS/cross-fade",
-    "metadata": {
-      "title": "cross-fade()",
-      "slug": "Web/CSS/cross-fade",
-      "translationof": "Web/CSS/cross-fade"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -2288,18 +2279,6 @@
       "translationof": "Web/CSS/filter"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
-    "locale": "ja",
-    "guessed": "en",
-    "slug": "Web/CSS/text-underline-position",
-    "metadata": {
-      "title": "text-underline-position",
-      "slug": "Web/CSS/text-underline-position",
-      "translationof": "Web/CSS/text-underline-position"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -2894,7 +2873,8 @@
       "slug": "Web/HTTP/Configuring_servers_for_Ogg_media",
       "translationof": "Web/HTTP/Configuring_servers_for_Ogg_media"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146208
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -3238,19 +3218,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
     "locale": "ja",
     "guessed": "en",
-    "slug": "Web/API/WebRTC_API/Overview",
-    "metadata": {
-      "title": "WebRTC API\u306e\u6982\u8981",
-      "slug": "Web/API/WebRTC_API/Overview",
-      "translationof": "Web/API/WebRTC_API/Overview"
-    },
-    "leaf": true,
-    "_checked": 1584639037
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
-    "locale": "ja",
-    "guessed": "en",
     "slug": "Web/API/Performance_Timeline",
     "metadata": {
       "title": "\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u30bf\u30a4\u30e0\u30e9\u30a4\u30f3",
@@ -3547,7 +3514,8 @@
       "slug": "Web/API/WebGLRenderingContext/clearDepth",
       "translationof": "Web/API/WebGLRenderingContext/clearDepth"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146192
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -4079,7 +4047,8 @@
       "slug": "Web/API/Element/getAttributeNodeNS",
       "translationof": "Web/API/Element/getAttributeNodeNS"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146191
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -4601,7 +4570,8 @@
       "slug": "Web/API/PerformanceTiming",
       "translationof": "Web/API/PerformanceTiming"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146205
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -4838,7 +4808,8 @@
       "slug": "Web/API/CustomElementRegistry/define",
       "translationof": "Web/API/CustomElementRegistry/define"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146202
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -5096,18 +5067,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
     "locale": "ja",
     "guessed": "en",
-    "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
-    "metadata": {
-      "title": "RTCPeerConnection()",
-      "slug": "Web/API/RTCPeerConnection/RTCPeerConnection",
-      "translationof": "Web/API/RTCPeerConnection/RTCPeerConnection"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
-    "locale": "ja",
-    "guessed": "en",
     "slug": "Web/API/Storage_Access_API",
     "metadata": {
       "title": "Storage Access API",
@@ -5202,7 +5161,8 @@
       "slug": "Web/API/Node/normalize",
       "translationof": "Web/API/Node/normalize"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146206
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -5513,7 +5473,8 @@
       "slug": "Web/API/IDBDatabase/objectStoreNames",
       "translationof": "Web/API/IDBDatabase/objectStoreNames"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146200
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -5867,20 +5828,8 @@
       "slug": "Web/API/Console/dir",
       "translationof": "Web/API/Console/dir"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
-    "locale": "ja",
-    "guessed": "en",
-    "slug": "Web/API/console/timeLog",
-    "metadata": {
-      "title": "Console.timeLog()",
-      "slug": "Web/API/console/timeLog",
-      "translationof": "Web/API/Console/timeLog"
-    },
     "leaf": true,
-    "_checked": 1584737407
+    "_checked": 1585146187
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -5980,7 +5929,8 @@
       "slug": "Web/XSLT/Transforming_XML_with_XSLT/For_Further_Reading",
       "translationof": "Web/XSLT/Transforming_XML_with_XSLT/For_Further_Reading"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146213
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -6042,7 +5992,8 @@
       "title": "\u4ee3\u5165\u6f14\u7b97\u5b50",
       "slug": "Web/JavaScript/Guide/Operators/Assignment_Operators"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146210
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -6526,7 +6477,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Array/entries",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array/entries"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146195
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -6742,7 +6694,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/setUTCSeconds"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146204
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -6793,7 +6746,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/setFullYear",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/setFullYear"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146197
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -6883,7 +6837,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/getMilliseconds",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/getMilliseconds"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146201
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -7232,7 +7187,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146209
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -8709,7 +8665,8 @@
       "title": "about:mozilla - \u30b3\u30fc\u30c9\u30d5\u30ea\u30fc\u30ba\u3001\u30de\u30fc\u30b1\u30c3\u30c8\u30b7\u30a7\u30a2\u3001Canvas 3D \u306a\u3069\u306a\u3069",
       "slug": "DevNews/20071203"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146189
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
@@ -9359,7 +9316,8 @@
       "slug": "Glossary/CalDAV",
       "translationof": "Glossary/CalDAV"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585146198
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ja",
