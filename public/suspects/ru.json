@@ -1578,19 +1578,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
     "locale": "ru",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Shapes",
-    "metadata": {
-      "title": "CSS-\u0444\u0438\u0433\u0443\u0440\u044b",
-      "slug": "Web/CSS/CSS_Shapes",
-      "translationof": "Web/CSS/CSS_Shapes"
-    },
-    "leaf": true,
-    "_checked": 1584370122
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
     "slug": "Web/CSS/align-self",
     "metadata": {
       "title": "align-self",
@@ -1777,19 +1764,6 @@
     },
     "leaf": true,
     "_checked": 1584369318
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
-    "slug": "Web/CSS/caption-side",
-    "metadata": {
-      "title": "caption-side",
-      "slug": "Web/CSS/caption-side",
-      "translationof": "Web/CSS/caption-side"
-    },
-    "leaf": true,
-    "_checked": 1584736977
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -3194,19 +3168,6 @@
     },
     "leaf": true,
     "_checked": 1584737668
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
-    "slug": "Web/API/WebGLRenderingContext/vertexAttribPointer",
-    "metadata": {
-      "title": "WebGLRenderingContext.vertexAttribPointer()",
-      "slug": "Web/API/WebGLRenderingContext/vertexAttribPointer",
-      "translationof": "Web/API/WebGLRenderingContext/vertexAttribPointer"
-    },
-    "leaf": true,
-    "_checked": 1584370121
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",

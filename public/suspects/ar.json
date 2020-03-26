@@ -128,19 +128,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Learn/HTML/Forms/How_to_build_custom_form_controls",
-    "metadata": {
-      "title": "How to build custom form controls",
-      "slug": "Learn/HTML/Forms/How_to_build_custom_form_controls",
-      "translationof": "Learn/Forms/How_to_build_custom_form_controls"
-    },
-    "leaf": true,
-    "_checked": 1584369984
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Learn/HTML/Forms/Sending_and_retrieving_form_data",
     "metadata": {
       "title": "\u0627\u0631\u0633\u0627\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0646\u0645\u0648\u0630\u062c",
@@ -205,19 +192,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
-    "metadata": {
-      "title": "What\u2019s in the head? Metadata in HTML",
-      "slug": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
-      "translationof": "Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML"
-    },
-    "leaf": true,
-    "_checked": 1584368160
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Learn/HTML/Introduction_to_HTML/Getting_started",
     "metadata": {
       "title": "\u0627\u0628\u062f\u0621 \u0645\u0639 HTML",
@@ -252,19 +226,6 @@
     },
     "leaf": true,
     "_checked": 1584369991
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "Learn/JavaScript/First_steps/What_is_JavaScript",
-    "metadata": {
-      "title": "\u0645\u0627\u0647\u064a \u0627\u0644\u062c\u0627\u0641\u0627\u0633\u0643\u0631\u0628\u062a\u061f",
-      "slug": "Learn/JavaScript/First_steps/What_is_JavaScript",
-      "translationof": "Learn/JavaScript/First_steps/What_is_JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1584370465
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
@@ -362,19 +323,6 @@
       "translationof": "Web/SVG/Attribute"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "Web/SVG/Attribute/text-anchor",
-    "metadata": {
-      "title": "text-anchor",
-      "slug": "Web/SVG/Attribute/text-anchor",
-      "translationof": "Web/SVG/Attribute/text-anchor"
-    },
-    "leaf": true,
-    "_checked": 1584368146
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
@@ -531,19 +479,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Web/HTTP/Status/200",
-    "metadata": {
-      "title": "200 OK",
-      "slug": "Web/HTTP/Status/200",
-      "translationof": "Web/HTTP/Status/200"
-    },
-    "leaf": true,
-    "_checked": 1584368876
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Web/HTTP/Basics_of_HTTP",
     "metadata": {
       "title": "Basics of HTTP",
@@ -611,19 +546,6 @@
       "translationof": "Web/API/Document"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "Web/API/NavigatorLanguage.languages",
-    "metadata": {
-      "title": "NavigatorLanguage.languages",
-      "slug": "Web/API/NavigatorLanguage.languages",
-      "translationof": "Web/API/NavigatorLanguage/languages"
-    },
-    "leaf": true,
-    "_checked": 1584370466
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
@@ -802,19 +724,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/\u062d\u0630\u0641",
-    "metadata": {
-      "title": "delete \u062f\u0627\u0644\u0629",
-      "slug": "Web/JavaScript/Reference/Operators/\u062d\u0630\u0641",
-      "translationof": "Web/JavaScript/Reference/Operators/delete"
-    },
-    "leaf": true,
-    "_checked": 1584368150
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Classes",
     "metadata": {
       "title": "Classes",
@@ -839,19 +748,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Statements/function",
-    "metadata": {
-      "title": "function",
-      "slug": "Web/JavaScript/Reference/Statements/function",
-      "translationof": "Web/JavaScript/Reference/Statements/function"
-    },
-    "leaf": true,
-    "_checked": 1584368167
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects",
     "metadata": {
       "title": "Standard built-in objects",
@@ -871,19 +767,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Array"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Array/push",
-    "metadata": {
-      "title": "Array.prototype.push()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Array/push",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Array/push"
-    },
-    "leaf": true,
-    "_checked": 1584368883
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
@@ -963,19 +846,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
-    "metadata": {
-      "title": "JSON.stringify()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/JSON/stringify",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/JSON/stringify"
-    },
-    "leaf": true,
-    "_checked": 1584368888
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Object",
     "metadata": {
       "title": "Object",
@@ -1037,19 +907,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
     "locale": "ar",
     "guessed": "en",
-    "slug": "Web/\u0645\u0631\u062c\u0639./API",
-    "metadata": {
-      "title": "Web API reference",
-      "slug": "Web/\u0645\u0631\u062c\u0639./API",
-      "translationof": "Web/Reference/API"
-    },
-    "leaf": true,
-    "_checked": 1584368882
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
     "slug": "HTML/Element/headings_elements",
     "metadata": {
       "title": "<h1>\u2013<h6>: \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646",
@@ -1058,45 +915,6 @@
     },
     "leaf": true,
     "_checked": 1584368172
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "HTML/Element/i",
-    "metadata": {
-      "title": "<i>",
-      "slug": "HTML/Element/i",
-      "translationof": "Web/HTML/Element/i"
-    },
-    "leaf": true,
-    "_checked": 1584368870
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "HTML/Element/hr",
-    "metadata": {
-      "title": "<hr>",
-      "slug": "HTML/Element/hr",
-      "translationof": "Web/HTML/Element/hr"
-    },
-    "leaf": true,
-    "_checked": 1584368159
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",
-    "locale": "ar",
-    "guessed": "en",
-    "slug": "HTML/Element/main",
-    "metadata": {
-      "title": "<main>",
-      "slug": "HTML/Element/main",
-      "translationof": "Web/HTML/Element/main"
-    },
-    "leaf": true,
-    "_checked": 1584368176
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ar",

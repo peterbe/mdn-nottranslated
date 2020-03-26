@@ -194,19 +194,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Learn/Accessibility/was_ist_barrierefreiheit",
-    "metadata": {
-      "title": "Was ist Barrierefreiheit",
-      "slug": "Learn/Accessibility/was_ist_barrierefreiheit",
-      "translationof": "Learn/Accessibility/What_is_accessibility"
-    },
-    "leaf": true,
-    "_checked": 1584369384
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Learn/Server-side/Erste_Schritte/Introduction",
     "metadata": {
       "title": "Einf\u00fchrung auf der Serverseite",
@@ -253,19 +240,6 @@
     },
     "leaf": true,
     "_checked": 1584370686
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Tools/Settings",
-    "metadata": {
-      "title": "Einstellungen",
-      "slug": "Tools/Settings",
-      "translationof": "Tools/Settings"
-    },
-    "leaf": true,
-    "_checked": 1584370291
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -335,19 +309,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Tools/Web_Audio_Editor",
-    "metadata": {
-      "title": "Web Audio Editor",
-      "slug": "Tools/Web_Audio_Editor",
-      "translationof": "Tools/Web_Audio_Editor"
-    },
-    "leaf": true,
-    "_checked": 1584370688
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Tools/Add-ons",
     "metadata": {
       "title": "Add-ons",
@@ -407,18 +368,6 @@
     },
     "leaf": true,
     "_checked": 1584368664
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE_clone",
-    "metadata": {
-      "title": "Debugging Firefox for Android with WebIDE",
-      "slug": "Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE_clone"
-    },
-    "leaf": true,
-    "_checked": 1584370277
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -595,19 +544,6 @@
     },
     "leaf": true,
     "_checked": 1584370292
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/SVG/Element/image",
-    "metadata": {
-      "title": "image",
-      "slug": "Web/SVG/Element/image",
-      "translationof": "Web/SVG/Element/image"
-    },
-    "leaf": true,
-    "_checked": 1584737102
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1428,19 +1364,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/HTTP/Status/402",
-    "metadata": {
-      "title": "402 Payment Required",
-      "slug": "Web/HTTP/Status/402",
-      "translationof": "Web/HTTP/Status/402"
-    },
-    "leaf": true,
-    "_checked": 1584737104
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/HTTP/Basics_of_HTTP",
     "metadata": {
       "title": "Basics of HTTP",
@@ -1521,19 +1444,6 @@
       "translationof": "Web/API/GlobalEventHandlers"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/WebVR_API",
-    "metadata": {
-      "title": "WebVR API",
-      "slug": "Web/API/WebVR_API",
-      "translationof": "Web/API/WebVR_API"
-    },
-    "leaf": true,
-    "_checked": 1584638682
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1620,19 +1530,6 @@
       "translationof": "Web/API/File"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/File/lastModifiedDate",
-    "metadata": {
-      "title": "File.lastModifiedDate",
-      "slug": "Web/API/File/lastModifiedDate",
-      "translationof": "Web/API/File/lastModifiedDate"
-    },
-    "leaf": true,
-    "_checked": 1584369401
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1860,19 +1757,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/Document/execCommand",
-    "metadata": {
-      "title": "Document.execCommand()",
-      "slug": "Web/API/Document/execCommand",
-      "translationof": "Web/API/Document/execCommand"
-    },
-    "leaf": true,
-    "_checked": 1584638988
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/ChildNode",
     "metadata": {
       "title": "ChildNode",
@@ -1892,19 +1776,6 @@
       "translationof": "Web/API/URL"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/DataTransfer",
-    "metadata": {
-      "title": "DataTransfer",
-      "slug": "Web/API/DataTransfer",
-      "translationof": "Web/API/DataTransfer"
-    },
-    "leaf": true,
-    "_checked": 1584370671
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1943,19 +1814,6 @@
       "translationof": "Web/API/AudioContext"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/AudioContext/createMediaElementSource",
-    "metadata": {
-      "title": "AudioContext.createMediaElementSource()",
-      "slug": "Web/API/AudioContext/createMediaElementSource",
-      "translationof": "Web/API/AudioContext/createMediaElementSource"
-    },
-    "leaf": true,
-    "_checked": 1584639317
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2189,19 +2047,6 @@
     },
     "leaf": true,
     "_checked": 1584638981
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/Blob/size",
-    "metadata": {
-      "title": "File.size",
-      "slug": "Web/API/Blob/size",
-      "translationof": "Web/API/Blob/size"
-    },
-    "leaf": true,
-    "_checked": 1584370692
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2862,19 +2707,6 @@
       "translationof": "Web/Accessibility/Understanding_WCAG/Perceivable"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast",
-    "metadata": {
-      "title": "Color contrast",
-      "slug": "Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast",
-      "translationof": "Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast"
-    },
-    "leaf": true,
-    "_checked": 1584369381
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
