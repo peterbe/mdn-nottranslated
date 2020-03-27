@@ -60,9 +60,9 @@
       "English": "Chinese (Simplified)",
       "native": "中文 (简体)"
     },
-    "count": 1471,
+    "count": 1466,
     "file": "zh-cn.json",
-    "leafs": 1232,
+    "leafs": 1227,
     "inception": 1473
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 220,
+    "count": 216,
     "file": "de.json",
-    "leafs": 140,
+    "leafs": 136,
     "inception": 257
   },
   {
@@ -170,9 +170,9 @@
       "English": "Indonesian",
       "native": "Bahasa Indonesia"
     },
-    "count": 147,
+    "count": 129,
     "file": "id.json",
-    "leafs": 103,
+    "leafs": 85,
     "inception": 147
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 685,
+    "count": 683,
     "file": "ko.json",
-    "leafs": 552,
+    "leafs": 550,
     "inception": 712
   },
   {

@@ -1031,7 +1031,8 @@
       "slug": "Web/CSS/-webkit-mask-clip",
       "translationof": "Web/CSS/-webkit-mask-clip"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326356
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -1555,7 +1556,8 @@
       "slug": "Web/CSS/:-moz-broken",
       "translationof": "Web/CSS/:-moz-broken"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326084
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",

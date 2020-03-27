@@ -294,7 +294,8 @@
       "slug": "Learn/Tools_and_testing/Cross_browser_testing/JavaScript",
       "translationof": "Learn/Tools_and_testing/Cross_browser_testing/JavaScript"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326449
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -478,7 +479,8 @@
       "title": "Debugging Firefox for Android with WebIDE",
       "slug": "Tools/Remote_Debugging/Debugging_Firefox_for_Android_with_WebIDE_clone"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326480
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -527,7 +529,8 @@
       "slug": "Tools/Profiler",
       "translationof": "Tools/Profiler"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326454
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -576,7 +579,8 @@
       "slug": "Tools/Migrating_from_Firebug",
       "translationof": "Tools/Migrating_from_Firebug"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326460
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -625,18 +629,6 @@
       "title": "Firefox\u5bf9SVG 1.1\u7684\u652f\u6301",
       "slug": "Web/SVG/SVG_1.1_Support_in_Firefox",
       "translationof": "Web/SVG/SVG_1.1_Support_in_Firefox"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
-    "locale": "zh-CN",
-    "guessed": "en",
-    "slug": "Web/SVG/Attribute/in2",
-    "metadata": {
-      "title": "in2",
-      "slug": "Web/SVG/Attribute/in2",
-      "translationof": "Web/SVG/Attribute/in2"
     },
     "leaf": true
   },
@@ -1442,7 +1434,8 @@
       "slug": "Web/CSS/backface-visibility",
       "translationof": "Web/CSS/backface-visibility"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326455
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -1612,7 +1605,8 @@
       "slug": "Web/CSS/mask-mode",
       "translationof": "Web/CSS/mask-mode"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326476
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -1898,7 +1892,8 @@
       "slug": "Web/CSS/CSS_Flexible_Box_Layout/\u5f39\u6027\u76d2\u5b50\u4e0e\u5176\u4ed6\u5e03\u5c40\u65b9\u6cd5\u7684\u8054\u7cfb",
       "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Relationship_of_Flexbox_to_Other_Layout_Methods"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326223
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2143,7 +2138,8 @@
       "slug": "Web/CSS/background-blend-mode",
       "translationof": "Web/CSS/background-blend-mode"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326593
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2167,7 +2163,8 @@
       "slug": "Web/CSS/flex-grow",
       "translationof": "Web/CSS/flex-grow"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326600
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2192,7 +2189,8 @@
       "slug": "Web/CSS/CSS_Background_and_Borders/\u5706\u89d2\u8fb9\u6846\u53d1\u751f\u5668",
       "translationof": "Web/CSS/CSS_Background_and_Borders/Border-radius_generator"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326218
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2290,7 +2288,8 @@
       "slug": "Web/CSS/page-break-before",
       "translationof": "Web/CSS/page-break-before"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326562
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2867,7 +2866,8 @@
       "slug": "Web/CSS/margin-left",
       "translationof": "Web/CSS/margin-left"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326447
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -2916,7 +2916,8 @@
       "slug": "Web/CSS/column-rule-width",
       "translationof": "Web/CSS/column-rule-width"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326605
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3001,7 +3002,8 @@
       "slug": "Web/CSS/page-break-inside",
       "translationof": "Web/CSS/page-break-inside"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326588
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3247,7 +3249,8 @@
       "slug": "Web/CSS/align-items",
       "translationof": "Web/CSS/align-items"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326590
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3271,7 +3274,8 @@
       "slug": "Web/CSS/-moz-user-input",
       "translationof": "Web/CSS/-moz-user-input"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326252
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3530,7 +3534,8 @@
       "slug": "Web/CSS/flex-flow",
       "translationof": "Web/CSS/flex-flow"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326594
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3579,7 +3584,8 @@
       "slug": "Web/CSS/columns",
       "translationof": "Web/CSS/columns"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326596
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3639,7 +3645,8 @@
       "slug": "Web/CSS/outline-style",
       "translationof": "Web/CSS/outline-style"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326477
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3700,7 +3707,8 @@
       "slug": "Web/CSS/image-rendering",
       "translationof": "Web/CSS/image-rendering"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326461
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -3761,7 +3769,8 @@
       "slug": "Web/CSS/page-break-after",
       "translationof": "Web/CSS/page-break-after"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326597
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -4424,7 +4433,8 @@
       "slug": "Web/HTML/Element/Input/tel",
       "translationof": "Web/HTML/Element/input/tel"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326236
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -4748,7 +4758,8 @@
       "slug": "Web/HTML/Element/time",
       "translationof": "Web/HTML/Element/time"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326580
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -4760,7 +4771,8 @@
       "slug": "Web/HTML/Element/Heading_Elements",
       "translationof": "Web/HTML/Element/Heading_Elements"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326568
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5008,7 +5020,8 @@
       "slug": "Web/HTML/Global_attributes/itemprop",
       "translationof": "Web/HTML/Global_attributes/itemprop"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326451
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5044,7 +5057,8 @@
       "slug": "Web/Progressive_web_apps/Network_independent",
       "translationof": "Web/Progressive_web_apps/Network_independent"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326456
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5116,7 +5130,8 @@
       "slug": "Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_(PAC)_file",
       "translationof": "Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_(PAC)_file"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326573
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5214,7 +5229,8 @@
       "slug": "Web/HTTP/Status/401",
       "translationof": "Web/HTTP/Status/401"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326246
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5338,7 +5354,8 @@
       "slug": "Web/HTTP/Status/451",
       "translationof": "Web/HTTP/Status/451"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326251
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5437,7 +5454,8 @@
       "slug": "Web/HTTP/Headers/Content-Type",
       "translationof": "Web/HTTP/Headers/Content-Type"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326585
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5523,7 +5541,8 @@
       "slug": "Web/HTTP/Headers/Access-Control-Allow-Headers",
       "translationof": "Web/HTTP/Headers/Access-Control-Allow-Headers"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326465
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -5968,7 +5987,8 @@
       "slug": "Web/HTTP/Headers/Content-Location",
       "translationof": "Web/HTTP/Headers/Content-Location"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326564
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -6435,7 +6455,8 @@
       "slug": "Web/API/GlobalEventHandlers/onloadstart",
       "translationof": "Web/API/GlobalEventHandlers/onloadstart"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326216
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -6547,7 +6568,8 @@
       "slug": "Web/API/GlobalEventHandlers/ondragleave",
       "translationof": "Web/API/GlobalEventHandlers/ondragleave"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326478
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -6990,7 +7012,8 @@
       "slug": "Web/API/WebRTC_API/Connectivity",
       "translationof": "Web/API/WebRTC_API/Connectivity"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326257
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -7702,7 +7725,8 @@
       "slug": "Web/API/WebGLRenderingContext/isShader",
       "translationof": "Web/API/WebGLRenderingContext/isShader"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326601
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -7775,7 +7799,8 @@
       "slug": "Web/API/WebGLRenderingContext/createBuffer",
       "translationof": "Web/API/WebGLRenderingContext/createBuffer"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326463
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8000,7 +8025,8 @@
       "slug": "Web/API/WebGLRenderingContext/bindBuffer",
       "translationof": "Web/API/WebGLRenderingContext/bindBuffer"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326247
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8075,7 +8101,8 @@
       "slug": "Web/API/WebGLRenderingContext/isContextLost",
       "translationof": "Web/API/WebGLRenderingContext/isContextLost"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326457
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8087,7 +8114,8 @@
       "slug": "Web/API/WebGLRenderingContext/useProgram",
       "translationof": "Web/API/WebGLRenderingContext/useProgram"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326469
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8272,7 +8300,8 @@
       "slug": "Web/API/AudioBuffer/copyFromChannel",
       "translationof": "Web/API/AudioBuffer/copyFromChannel"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326571
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8370,7 +8399,8 @@
       "slug": "Web/API/notification/onclose",
       "translationof": "Web/API/Notification/onclose"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326221
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8480,7 +8510,8 @@
       "slug": "Web/API/StyleSheet/title",
       "translationof": "Web/API/StyleSheet/title"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326592
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8639,7 +8670,8 @@
       "slug": "Web/API/DocumentOrShadowRoot/elementFromPoint",
       "translationof": "Web/API/DocumentOrShadowRoot/elementFromPoint"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326481
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8663,7 +8695,8 @@
       "slug": "Web/API/NavigatorID/platform",
       "translationof": "Web/API/NavigatorID/platform"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326232
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8807,7 +8840,8 @@
       "slug": "Web/API/HTMLBodyElement",
       "translationof": "Web/API/HTMLBodyElement"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326240
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8868,7 +8902,8 @@
       "slug": "Web/API/XMLHttpRequest/load_event",
       "translationof": "Web/API/XMLHttpRequest/load_event"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326468
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -8966,7 +9001,8 @@
       "slug": "Web/API/WebGL_API/By_example/Color_masking",
       "translationof": "Web/API/WebGL_API/By_example/Color_masking"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326572
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -9015,7 +9051,8 @@
       "slug": "Web/API/Body/arrayBuffer",
       "translationof": "Web/API/Body/arrayBuffer"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326589
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -9344,7 +9381,8 @@
       "slug": "Web/API/Element/className",
       "translationof": "Web/API/Element/className"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326224
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -9870,18 +9908,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
     "locale": "zh-CN",
     "guessed": "en",
-    "slug": "Web/API/Document/lastStyleSheetSet",
-    "metadata": {
-      "title": "document.lastStyleSheetSet",
-      "slug": "Web/API/Document/lastStyleSheetSet",
-      "translationof": "Web/API/Document/lastStyleSheetSet"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
-    "locale": "zh-CN",
-    "guessed": "en",
     "slug": "Web/API/Document/dragend_event",
     "metadata": {
       "title": "dragend",
@@ -10110,7 +10136,8 @@
       "slug": "Web/API/Document/createNodeIterator",
       "translationof": "Web/API/Document/createNodeIterator"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326473
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -10504,7 +10531,8 @@
       "slug": "Web/API/ResizeObserver/unobserve",
       "translationof": "Web/API/ResizeObserver/unobserve"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326214
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -10553,7 +10581,8 @@
       "slug": "Web/API/HTMLImageElement/srcset",
       "translationof": "Web/API/HTMLImageElement/srcset"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326464
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -10626,7 +10655,8 @@
       "slug": "Web/API/Touch_events/Using_Touch_Events",
       "translationof": "Web/API/Touch_events/Using_Touch_Events"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326446
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -10809,7 +10839,8 @@
       "slug": "Web/API/HTML_Drag_and_Drop_API/Recommended_drag_types",
       "translationof": "Web/API/HTML_Drag_and_Drop_API/Recommended_drag_types"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326603
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -11128,7 +11159,8 @@
       "slug": "Web/API/FileRequest",
       "translationof": "Web/API/FileRequest"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326233
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -11213,7 +11245,8 @@
       "slug": "Web/API/Headers/entries",
       "translationof": "Web/API/Headers/entries"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326582
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -11225,7 +11258,8 @@
       "slug": "Web/API/Headers/delete",
       "translationof": "Web/API/Headers/delete"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326450
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -11816,7 +11850,8 @@
       "slug": "Web/API/MediaStream/clone",
       "translationof": "Web/API/MediaStream/clone"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326579
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -12330,7 +12365,8 @@
       "slug": "Web/API/Request/url",
       "translationof": "Web/API/Request/url"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326226
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -12367,7 +12403,8 @@
       "slug": "Web/API/Request/method",
       "translationof": "Web/API/Request/method"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326575
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -12922,7 +12959,8 @@
       "slug": "Web/API/DOMImplementation/hasFeature",
       "translationof": "Web/API/DOMImplementation/hasFeature"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326565
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13119,7 +13157,8 @@
       "slug": "Web/API/Worker/postMessage",
       "translationof": "Web/API/Worker/postMessage"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326239
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13252,7 +13291,8 @@
       "slug": "Web/API/HTMLMediaElement/canplaythrough_event",
       "translationof": "Web/API/HTMLMediaElement/canplaythrough_event"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326249
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13276,7 +13316,8 @@
       "slug": "Web/API/HTMLMediaElement/onerror",
       "translationof": "Web/API/HTMLMediaElement/onerror"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326229
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13448,19 +13489,8 @@
       "slug": "Web/API/Range/Range",
       "translationof": "Web/API/Range/Range"
     },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
-    "locale": "zh-CN",
-    "guessed": "en",
-    "slug": "Web/API/Range/\u521b\u5efa\u4e0a\u4e0b\u6587\u7247\u6bb5",
-    "metadata": {
-      "title": "Range.createContextualFragment()",
-      "slug": "Web/API/Range/\u521b\u5efa\u4e0a\u4e0b\u6587\u7247\u6bb5",
-      "translationof": "Web/API/Range/createContextualFragment"
-    },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326220
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13510,7 +13540,8 @@
       "slug": "Web/API/Performance/measure",
       "translationof": "Web/API/Performance/measure"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326586
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13754,7 +13785,8 @@
       "slug": "Web/API/Force_Touch_events",
       "translationof": "Web/API/Force_Touch_events"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326570
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13924,7 +13956,8 @@
       "slug": "Web/API/IDBDatabase/createObjectStore",
       "translationof": "Web/API/IDBDatabase/createObjectStore"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326598
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -13961,7 +13994,8 @@
       "slug": "Web/API/WebGLSync",
       "translationof": "Web/API/WebGLSync"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326459
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14071,7 +14105,8 @@
       "slug": "Web/API/HTMLTableElement/rows",
       "translationof": "Web/API/HTMLTableElement/rows"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326237
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14205,7 +14240,8 @@
       "slug": "Web/API/TypeInfo",
       "translationof": "Web/API/TypeInfo"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326483
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14289,7 +14325,8 @@
       "slug": "Web/API/Console/countReset",
       "translationof": "Web/API/Console/countReset"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326472
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14301,7 +14338,8 @@
       "slug": "Web/API/Console/groupEnd",
       "translationof": "Web/API/Console/groupEnd"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326584
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14608,7 +14646,8 @@
       "slug": "Web/JavaScript/Microsoft_Extensions/ActiveXObject",
       "translationof": "Web/JavaScript/Microsoft_Extensions/ActiveXObject"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326235
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14766,7 +14805,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/WeakMap/get",
       "translationof": "Web/JavaScript/Reference/Global_Objects/WeakMap/get"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326470
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14839,7 +14879,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/BigInt/asIntN",
       "translationof": "Web/JavaScript/Reference/Global_Objects/BigInt/asIntN"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326255
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -14851,7 +14892,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/GeneratorFunction/prototype",
       "translationof": "Web/JavaScript/Reference/Global_Objects/GeneratorFunction/prototype"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326577
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -15122,7 +15164,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/DataView/setUint32",
       "translationof": "Web/JavaScript/Reference/Global_Objects/DataView/setUint32"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326242
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -15543,7 +15586,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/getFullYear",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/getFullYear"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326254
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -15692,7 +15736,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/setMilliseconds",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/setMilliseconds"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326474
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -15962,7 +16007,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Atomics/add",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Atomics/add"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326217
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -16123,7 +16169,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/\u53cd\u53cc\u66f2\u4f59\u5f26\u503c",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/acosh"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326576
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -16356,7 +16403,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Map/set",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Map/set"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326245
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -16368,7 +16416,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/BigUint64Array",
       "translationof": "Web/JavaScript/Reference/Global_Objects/BigUint64Array"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326567
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -16554,7 +16603,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView",
       "translationof": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326230
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -17167,7 +17217,8 @@
       "slug": "Web/Events/afterprint",
       "translationof": "Web/API/Window/afterprint_event"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326563
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -17468,18 +17519,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
     "locale": "zh-CN",
     "guessed": "en",
-    "slug": "Glossary/Type_coercion",
-    "metadata": {
-      "title": "Type coercion",
-      "slug": "Glossary/Type_coercion",
-      "translationof": "Glossary/Type_coercion"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
-    "locale": "zh-CN",
-    "guessed": "en",
     "slug": "Glossary/Microsoft_Internet_Explorer",
     "metadata": {
       "title": "Microsoft Internet Explorer",
@@ -17756,7 +17795,8 @@
       "slug": "Glossary/ECMAScript",
       "translationof": "Glossary/ECMAScript"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326581
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -18011,7 +18051,8 @@
       "slug": "Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js",
       "translationof": "Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_Three.js"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326258
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
@@ -18047,18 +18088,6 @@
       "title": "3D \u78b0\u649e\u68c0\u6d4b",
       "slug": "Games/Techniques/3D_collision_detection",
       "translationof": "Games/Techniques/3D_collision_detection"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-cn",
-    "locale": "zh-CN",
-    "guessed": "en",
-    "slug": "Games/Techniques/WebRTC_data_channels",
-    "metadata": {
-      "title": "WebRTC data channels",
-      "slug": "Games/Techniques/WebRTC_data_channels",
-      "translationof": "Games/Techniques/WebRTC_data_channels"
     },
     "leaf": true
   },

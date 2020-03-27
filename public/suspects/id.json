@@ -221,32 +221,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Learn/Server-side/Django/skeleton_website",
-    "metadata": {
-      "title": "Django Tutorial Part 2: Creating a skeleton website",
-      "slug": "Learn/Server-side/Django/skeleton_website",
-      "translationof": "Learn/Server-side/Django/skeleton_website"
-    },
-    "leaf": true,
-    "_checked": 1584370556
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Settings",
-    "metadata": {
-      "title": "Settings",
-      "slug": "Tools/Settings",
-      "translationof": "Tools/Settings"
-    },
-    "leaf": true,
-    "_checked": 1584370542
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Tools/about:debugging",
     "metadata": {
       "title": "about:debugging",
@@ -374,19 +348,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Tools/Remote_Debugging/Thunderbird",
-    "metadata": {
-      "title": "Remotely debugging Thunderbird",
-      "slug": "Tools/Remote_Debugging/Thunderbird",
-      "translationof": "Tools/Remote_Debugging/Thunderbird"
-    },
-    "leaf": true,
-    "_checked": 1584369958
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Tools/Debugger",
     "metadata": {
       "title": "Debugger",
@@ -394,19 +355,6 @@
       "translationof": "Tools/Debugger"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Debugger/Settings",
-    "metadata": {
-      "title": "Settings",
-      "slug": "Tools/Debugger/Settings",
-      "translationof": "Tools/Debugger/Settings"
-    },
-    "leaf": true,
-    "_checked": 1584369973
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -445,19 +393,6 @@
     },
     "leaf": true,
     "_checked": 1584369965
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Web_Console/Bantuan",
-    "metadata": {
-      "title": "Bantuan Konsol Web",
-      "slug": "Tools/Web_Console/Bantuan",
-      "translationof": "Tools/Web_Console/Helpers"
-    },
-    "leaf": true,
-    "_checked": 1584369961
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -857,19 +792,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web",
-    "metadata": {
-      "title": "Identifying resources on the Web",
-      "slug": "Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web",
-      "translationof": "Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web"
-    },
-    "leaf": true,
-    "_checked": 1584368125
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/HTTP/CORS",
     "metadata": {
       "title": "Cross-Origin Resource Sharing (CORS)",
@@ -1023,19 +945,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/API/ImageData",
-    "metadata": {
-      "title": "ImageData",
-      "slug": "Web/API/ImageData",
-      "translationof": "Web/API/ImageData"
-    },
-    "leaf": true,
-    "_checked": 1584369968
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/API/Storage",
     "metadata": {
       "title": "Storage",
@@ -1162,19 +1071,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/Tutorials",
-    "metadata": {
-      "title": "Tutorials",
-      "slug": "Web/Tutorials",
-      "translationof": "Web/Tutorials"
-    },
-    "leaf": true,
-    "_checked": 1584368113
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/New_in_JavaScript",
     "metadata": {
       "title": "New in JavaScript",
@@ -1182,19 +1078,6 @@
       "translationof": "Web/JavaScript/New_in_JavaScript"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/New_in_JavaScript/1.6",
-    "metadata": {
-      "title": "New in JavaScript 1.6",
-      "slug": "Web/JavaScript/New_in_JavaScript/1.6",
-      "translationof": "Web/JavaScript/New_in_JavaScript/1.6"
-    },
-    "leaf": true,
-    "_checked": 1584368118
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1246,19 +1129,6 @@
       "translationof": "Web/JavaScript/Guide"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Panduan/Kontrol_Aliran_dan_Penanganan_Error",
-    "metadata": {
-      "title": "Kontrol Aliran dan Penanganan Error",
-      "slug": "Web/JavaScript/Panduan/Kontrol_Aliran_dan_Penanganan_Error",
-      "translationof": "Web/JavaScript/Guide/Control_flow_and_error_handling"
-    },
-    "leaf": true,
-    "_checked": 1584369151
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1430,19 +1300,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Statements/let",
-    "metadata": {
-      "title": "let",
-      "slug": "Web/JavaScript/Reference/Statements/let",
-      "translationof": "Web/JavaScript/Reference/Statements/let"
-    },
-    "leaf": true,
-    "_checked": 1584369951
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Statements/block",
     "metadata": {
       "title": "block",
@@ -1555,19 +1412,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Number",
-    "metadata": {
-      "title": "Number",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Number",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Number"
-    },
-    "leaf": true,
-    "_checked": 1584369955
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Map",
     "metadata": {
       "title": "Map",
@@ -1643,19 +1487,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/String/quote",
-    "metadata": {
-      "title": "String.prototype.quote()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/String/quote",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/String/quote"
-    },
-    "leaf": true,
-    "_checked": 1584368096
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Set",
     "metadata": {
       "title": "Set",
@@ -1688,19 +1519,6 @@
       "translationof": "Web/JavaScript/Reference/Functions"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
-    "metadata": {
-      "title": "Arrow functions",
-      "slug": "Web/JavaScript/Reference/Functions/Arrow_functions",
-      "translationof": "Web/JavaScript/Reference/Functions/Arrow_functions"
-    },
-    "leaf": true,
-    "_checked": 1584370553
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1755,19 +1573,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "HTML/HTML5/Introduction_to_HTML5",
-    "metadata": {
-      "title": "Perkenalan HTML5",
-      "slug": "HTML/HTML5/Introduction_to_HTML5",
-      "translationof": "Web/Guide/HTML/HTML5/Introduction_to_HTML5"
-    },
-    "leaf": true,
-    "_checked": 1584368094
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Pengembangan_Web",
     "metadata": {
       "title": "Pengembangan Web",
@@ -1776,32 +1581,6 @@
     },
     "leaf": true,
     "_checked": 1584369971
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Applying_SVG_effects_to_HTML_content",
-    "metadata": {
-      "title": "Applying SVG effects to HTML content",
-      "slug": "Applying_SVG_effects_to_HTML_content",
-      "translationof": "Web/SVG/Applying_SVG_effects_to_HTML_content"
-    },
-    "leaf": true,
-    "_checked": 1584369956
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Mobile/Mobile_Web_Development",
-    "metadata": {
-      "title": "Mobile Web Development",
-      "slug": "Mobile/Mobile_Web_Development",
-      "translationof": "Web/Guide/Mobile"
-    },
-    "leaf": true,
-    "_checked": 1584369162
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1851,18 +1630,5 @@
       "translationof": "Games/Techniques"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Games/Techniques/Control_mechanisms",
-    "metadata": {
-      "title": "Implementing game control mechanisms",
-      "slug": "Games/Techniques/Control_mechanisms",
-      "translationof": "Games/Techniques/Control_mechanisms"
-    },
-    "leaf": true,
-    "_checked": 1584368108
   }
 ]

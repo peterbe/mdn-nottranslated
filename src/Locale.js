@@ -160,6 +160,12 @@ export function Locale({ allSuspects, loading }) {
   }, [suspects, seed, locale]);
 
   function gotoNextSuspect() {
+    if (!suspectsSubset.length) {
+      // Probably because you've ignored them all!
+      setCurrentSuspect(null);
+      history.push(`/${locale}`);
+      return;
+    }
     let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
     if (index + 1 === suspectsSubset.length) {
       setSeed(Math.random());
@@ -252,8 +258,9 @@ export function Locale({ allSuspects, loading }) {
             history.replace(`/${locale}`);
             setCurrentSuspect(null);
           }}
-          ignore={suspect => {
-            setIgnored(locale, suspect.slug);
+          ignore={event => {
+            event.preventDefault();
+            setIgnored(currentSuspect.locale, currentSuspect.slug);
             gotoNextSuspect();
           }}
         />
@@ -313,28 +320,31 @@ function ShowSuspects({
           <b>{ignoredCount} suspects have been ignored by you.</b>
         </p>
       )}
-      <p>
-        Showing you {SUBSET_LENGTH} randomly selected ones.
-        <br />
-        Review one at a time and ask yourself{" "}
-        <i>"Is this page still mostly all English?"</i>
-      </p>
-      <p className="has-text-centered">
-        <button
-          className="button is-primary is-large"
-          type="button"
-          onClick={getStarted}
-        >
-          Get started!
-        </button>
-      </p>
-      {/* {suspects.length > subset.length && (
-        <p>
-          <button className="button" type="button" onClick={refreshSubset}>
-            Refresh subset
-          </button>
+
+      {!ignoredCount || ignoredCount < suspects.length ? (
+        <div>
+          <p>
+            Showing you {SUBSET_LENGTH} randomly selected ones.
+            <br />
+            Review one at a time and ask yourself{" "}
+            <i>"Is this page still mostly all English?"</i>
+          </p>
+          <p className="has-text-centered">
+            <button
+              className="button is-primary is-large"
+              type="button"
+              onClick={getStarted}
+            >
+              Get started!
+            </button>
+          </p>
+        </div>
+      ) : (
+        <p className="has-text-centered">
+          <Link to="/">Pick another language</Link>
         </p>
-      )} */}
+      )}
+
       {subset.map(suspect => {
         let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
         let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
@@ -504,6 +514,7 @@ function ShowSuspect({
             </button>{" "}
             <button
               className="button"
+              title="You might be better off using the 'Ignore' button"
               onClick={() => {
                 gotoNext();
               }}

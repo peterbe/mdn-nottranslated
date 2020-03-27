@@ -458,7 +458,8 @@
       "slug": "Learn/Server-side/Express_Nodejs/forms/Create_BookInstance_form",
       "translationof": "Learn/Server-side/Express_Nodejs/forms/Create_BookInstance_form"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326120
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2519,7 +2520,8 @@
       "slug": "Web/API/Clients",
       "translationof": "Web/API/Clients"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326117
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2770,7 +2772,8 @@
       "slug": "Web/API/NavigatorOnLine/Online_and_offline_events",
       "translationof": "Web/API/NavigatorOnLine/Online_and_offline_events"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326542
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -3242,7 +3245,8 @@
       "slug": "Web/API/KeyboardEvent/KeyboardEvent",
       "translationof": "Web/API/KeyboardEvent/KeyboardEvent"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326113
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -3609,7 +3613,8 @@
       "slug": "Web/API/CustomEvent/CustomEvent",
       "translationof": "Web/API/CustomEvent/CustomEvent"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326543
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -4434,7 +4439,8 @@
       "slug": "Web/API/HTMLElement/lang",
       "translationof": "Web/API/HTMLElement/lang"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326112
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -4789,7 +4795,8 @@
       "slug": "Web/JavaScript/New_in_JavaScript/1.1",
       "translationof": "Web/JavaScript/New_in_JavaScript/1.1"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326116
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -4813,7 +4820,8 @@
       "slug": "Web/JavaScript/New_in_JavaScript/1.8.5",
       "translationof": "Web/JavaScript/New_in_JavaScript/1.8.5"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326121
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -5727,7 +5735,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Number/isFinite",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Number/isFinite"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326114
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -5968,7 +5977,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Promise/then",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Promise/then"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585326119
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
