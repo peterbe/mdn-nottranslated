@@ -579,32 +579,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Tools/Web_Console/Ayuda",
-    "metadata": {
-      "title": "Ayuda Consola Web",
-      "slug": "Tools/Web_Console/Ayuda",
-      "translationof": "Tools/Web_Console/Helpers"
-    },
-    "leaf": true,
-    "_checked": 1584370406
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Tools/Web_Console/el_interprete_de_linea_de_comando",
-    "metadata": {
-      "title": "El interprete de linea de comando",
-      "slug": "Tools/Web_Console/el_interprete_de_linea_de_comando",
-      "translationof": "Tools/Web_Console/The_command_line_interpreter"
-    },
-    "leaf": true,
-    "_checked": 1584371433
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Tools/Web_Console/Console_messages",
     "metadata": {
       "title": "Consola de mensajes",
@@ -2058,19 +2032,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/HTML/Elemento/input/search",
-    "metadata": {
-      "title": "<input type=\"search\">",
-      "slug": "Web/HTML/Elemento/input/search",
-      "translationof": "Web/HTML/Element/input/search"
-    },
-    "leaf": true,
-    "_checked": 1584371100
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/HTML/Elemento/input/email",
     "metadata": {
       "title": "<input type=\"email\">",
@@ -2092,19 +2053,6 @@
     },
     "leaf": true,
     "_checked": 1584371435
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "pt",
-    "slug": "Web/HTML/Elemento/q",
-    "metadata": {
-      "title": "q",
-      "slug": "Web/HTML/Elemento/q",
-      "translationof": "Web/HTML/Element/q"
-    },
-    "leaf": true,
-    "_checked": 1584639007
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4183,19 +4131,6 @@
     },
     "leaf": true,
     "_checked": 1584455308
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objetos_globales/TypeError",
-    "metadata": {
-      "title": "TypeError",
-      "slug": "Web/JavaScript/Referencia/Objetos_globales/TypeError",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/TypeError"
-    },
-    "leaf": true,
-    "_checked": 1584371436
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",

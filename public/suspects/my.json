@@ -76,32 +76,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
     "locale": "my",
     "guessed": "en",
-    "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
-    "metadata": {
-      "title": "\u1021\u101e\u102f\u1036\u1038\u1019\u103b\u102c\u1038\u101e\u1031\u102c string method \u1019\u103b\u102c\u1038",
-      "slug": "Learn/JavaScript/First_steps/Useful_string_methods",
-      "translationof": "Learn/JavaScript/First_steps/Useful_string_methods"
-    },
-    "leaf": true,
-    "_checked": 1585326391
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
-    "slug": "Learn/JavaScript/First_steps/Arrays",
-    "metadata": {
-      "title": "Arrays",
-      "slug": "Learn/JavaScript/First_steps/Arrays",
-      "translationof": "Learn/JavaScript/First_steps/Arrays"
-    },
-    "leaf": true,
-    "_checked": 1585326389
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
     "slug": "Web",
     "metadata": {
       "title": "Web developers \u1014\u1004\u1039\u1037 \u1014\u100a\u1039\u1038\u1015\u100a\u102c \u1019\u103b\u102c",
@@ -152,19 +126,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
     "locale": "my",
     "guessed": "en",
-    "slug": "Web/HTML",
-    "metadata": {
-      "title": "HTML",
-      "slug": "Web/HTML",
-      "translationof": "Web/HTML"
-    },
-    "leaf": true,
-    "_checked": 1585326398
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
     "slug": "Web/JavaScript",
     "metadata": {
       "title": "JavaScript",
@@ -184,31 +145,5 @@
       "translationof": "Web/JavaScript/Guide"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Introduction",
-    "metadata": {
-      "title": "\u1019\u102d\u1010\u103a\u1006\u1000\u103a",
-      "slug": "Web/JavaScript/Guide/Introduction",
-      "translationof": "Web/JavaScript/Guide/Introduction"
-    },
-    "leaf": true,
-    "_checked": 1585326393
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/my",
-    "locale": "my",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Regular_Expressions",
-    "metadata": {
-      "title": "Regular Expressions",
-      "slug": "Web/JavaScript/Guide/Regular_Expressions",
-      "translationof": "Web/JavaScript/Guide/Regular_Expressions"
-    },
-    "leaf": true,
-    "_checked": 1585326396
   }
 ]

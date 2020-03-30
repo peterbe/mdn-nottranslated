@@ -220,32 +220,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
-    "guessed": "af",
-    "slug": "Web/CSS/transform-style",
-    "metadata": {
-      "title": "transform-style",
-      "slug": "Web/CSS/transform-style",
-      "translationof": "Web/CSS/transform-style"
-    },
-    "leaf": true,
-    "_checked": 1584369371
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/CSS/image-rendering",
-    "metadata": {
-      "title": "image-rendering",
-      "slug": "Web/CSS/image-rendering",
-      "translationof": "Web/CSS/image-rendering"
-    },
-    "leaf": true,
-    "_checked": 1584370040
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
     "guessed": "en",
     "slug": "Web/Security",
     "metadata": {
@@ -405,19 +379,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Web/API/Plugin",
-    "metadata": {
-      "title": "Plugin",
-      "slug": "Web/API/Plugin",
-      "translationof": "Web/API/Plugin"
-    },
-    "leaf": true,
-    "_checked": 1584370780
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Web/API/Element",
     "metadata": {
       "title": "Element",
@@ -504,19 +465,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "Web/API/Clipboard",
-    "metadata": {
-      "title": "Clipboard",
-      "slug": "Web/API/Clipboard",
-      "translationof": "Web/API/Clipboard"
-    },
-    "leaf": true,
-    "_checked": 1584370038
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Web/JavaScript",
     "metadata": {
       "title": "JavaScript",
@@ -549,19 +497,6 @@
     },
     "leaf": true,
     "_checked": 1584370784
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Equality_comparisons_and_sameness",
-    "metadata": {
-      "title": "Equality comparisons and sameness",
-      "slug": "Web/JavaScript/Equality_comparisons_and_sameness",
-      "translationof": "Web/JavaScript/Equality_comparisons_and_sameness"
-    },
-    "leaf": true,
-    "_checked": 1584369350
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
@@ -713,32 +648,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
-    "guessed": "af",
-    "slug": "Web/JavaScript/Reference/Errors/Unexpected_type",
-    "metadata": {
-      "title": "TypeError: \"x\" is (not) \"y\"",
-      "slug": "Web/JavaScript/Reference/Errors/Unexpected_type",
-      "translationof": "Web/JavaScript/Reference/Errors/Unexpected_type"
-    },
-    "leaf": true,
-    "_checked": 1584369356
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
-    "metadata": {
-      "title": "SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead",
-      "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
-      "translationof": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma"
-    },
-    "leaf": true,
-    "_checked": 1584370025
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
     "guessed": "en",
     "slug": "Web/Events",
     "metadata": {
@@ -760,32 +669,6 @@
     },
     "leaf": true,
     "_checked": 1584370022
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Using_the_W3C_DOM_Level_1_Core",
-    "metadata": {
-      "title": "Using the W3C DOM Level 1 Core",
-      "slug": "Using_the_W3C_DOM_Level_1_Core",
-      "translationof": "Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core"
-    },
-    "leaf": true,
-    "_checked": 1584370023
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
-    "slug": "Building_an_Extension",
-    "metadata": {
-      "title": "Building an extension",
-      "slug": "Building_an_Extension",
-      "translationof": "Building_an_Extension"
-    },
-    "leaf": true,
-    "_checked": 1584371075
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",

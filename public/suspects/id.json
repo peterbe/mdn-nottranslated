@@ -41,19 +41,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Learn/JavaScript/Building_blocks/Build_your_own_function",
-    "metadata": {
-      "title": "Build your own function",
-      "slug": "Learn/JavaScript/Building_blocks/Build_your_own_function",
-      "translationof": "Learn/JavaScript/Building_blocks/Build_your_own_function"
-    },
-    "leaf": true,
-    "_checked": 1584369950
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Learn/JavaScript/Objects/Basics",
     "metadata": {
       "title": "JavaScript object basics",
@@ -75,19 +62,6 @@
     },
     "leaf": true,
     "_checked": 1584369979
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Learn/JavaScript/First_steps/Percikan_pertama",
-    "metadata": {
-      "title": "Sebuah Percikan Pertama Ke Dalam JavaScript",
-      "slug": "Learn/JavaScript/First_steps/Percikan_pertama",
-      "translationof": "Learn/JavaScript/First_steps/A_first_splash"
-    },
-    "leaf": true,
-    "_checked": 1584368122
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -156,19 +130,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Learn/Server-side/First_steps/Web_frameworks",
-    "metadata": {
-      "title": "Server-side web frameworks",
-      "slug": "Learn/Server-side/First_steps/Web_frameworks",
-      "translationof": "Learn/Server-side/First_steps/Web_frameworks"
-    },
-    "leaf": true,
-    "_checked": 1584369954
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Learn/Server-side/Django/pengaturan_sistem_pengembangan_berbasis_django",
     "metadata": {
       "title": "Pengaturan development environment Django",
@@ -216,31 +177,6 @@
     },
     "leaf": true,
     "_checked": 1584370541
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/about:debugging",
-    "metadata": {
-      "title": "about:debugging",
-      "slug": "Tools/about:debugging",
-      "translationof": "Tools/about:debugging"
-    },
-    "leaf": true,
-    "_checked": 1584368105
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Remote_Debugging_clone",
-    "metadata": {
-      "title": "Remote Debugging",
-      "slug": "Tools/Remote_Debugging_clone"
-    },
-    "leaf": true,
-    "_checked": 1584369179
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -310,19 +246,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Tools/Browser_Console",
-    "metadata": {
-      "title": "Browser Console",
-      "slug": "Tools/Browser_Console",
-      "translationof": "Tools/Browser_Console"
-    },
-    "leaf": true,
-    "_checked": 1584370550
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Tools/Remote_Debugging",
     "metadata": {
       "title": "Remote Debugging",
@@ -355,19 +278,6 @@
       "translationof": "Tools/Debugger"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Profiler",
-    "metadata": {
-      "title": "JavaScript Profiler",
-      "slug": "Tools/Profiler",
-      "translationof": "Tools/Profiler"
-    },
-    "leaf": true,
-    "_checked": 1584370540
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -410,19 +320,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Security/InsecurePasswords",
-    "metadata": {
-      "title": "InsecurePasswords",
-      "slug": "Security/InsecurePasswords",
-      "translationof": "Web/Security/Insecure_passwords"
-    },
-    "leaf": true,
-    "_checked": 1584369170
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Security/MixedContent",
     "metadata": {
       "title": "Mixed Content",
@@ -443,19 +340,6 @@
     },
     "leaf": true,
     "_checked": 1584370544
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/SVG",
-    "metadata": {
-      "title": "SVG",
-      "slug": "Web/SVG",
-      "translationof": "Web/SVG"
-    },
-    "leaf": true,
-    "_checked": 1584369155
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -612,58 +496,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/CSS/flex",
-    "metadata": {
-      "title": "flex",
-      "slug": "Web/CSS/flex",
-      "translationof": "Web/CSS/flex"
-    },
-    "leaf": true,
-    "_checked": 1584369962
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/CSS/Reference",
-    "metadata": {
-      "title": "CSS reference",
-      "slug": "Web/CSS/Reference",
-      "translationof": "Web/CSS/Reference"
-    },
-    "leaf": true,
-    "_checked": 1584370545
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/input",
-    "metadata": {
-      "title": "<indonesia>",
-      "slug": "Web/HTML/Element/input",
-      "translationof": "Web/HTML/Element/input"
-    },
-    "leaf": true,
-    "_checked": 1584369183
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/body",
-    "metadata": {
-      "title": "<body>",
-      "slug": "Web/HTML/Element/body",
-      "translationof": "Web/HTML/Element/body"
-    },
-    "leaf": true,
-    "_checked": 1584368084
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/HTML/Element/html",
     "metadata": {
       "title": "<html>: Dokumen HTML / Elemen root",
@@ -685,19 +517,6 @@
     },
     "leaf": true,
     "_checked": 1584370548
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/canvas",
-    "metadata": {
-      "title": "<canvas>",
-      "slug": "Web/HTML/Element/canvas",
-      "translationof": "Web/HTML/Element/canvas"
-    },
-    "leaf": true,
-    "_checked": 1584369153
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -817,19 +636,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/API/SpeechSynthesis/getVoices",
-    "metadata": {
-      "title": "SpeechSynthesis.getVoices()",
-      "slug": "Web/API/SpeechSynthesis/getVoices",
-      "translationof": "Web/API/SpeechSynthesis/getVoices"
-    },
-    "leaf": true,
-    "_checked": 1584368103
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/API/SpeechSynthesis/onvoiceschanged",
     "metadata": {
       "title": "Kk",
@@ -863,19 +669,6 @@
     },
     "leaf": true,
     "_checked": 1584369169
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/API/WebSocket",
-    "metadata": {
-      "title": "WebSocket",
-      "slug": "Web/API/WebSocket",
-      "translationof": "Web/API/WebSocket"
-    },
-    "leaf": true,
-    "_checked": 1584371358
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1020,19 +813,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/API/DOMUserData",
-    "metadata": {
-      "title": "DOMUserData",
-      "slug": "Web/API/DOMUserData",
-      "translationof": "Web/API/DOMUserData"
-    },
-    "leaf": true,
-    "_checked": 1584368112
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/API/Canvas_API",
     "metadata": {
       "title": "Canvas API",
@@ -1147,19 +927,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Panduan/Fungsi",
-    "metadata": {
-      "title": "Fungsi",
-      "slug": "Web/JavaScript/Panduan/Fungsi",
-      "translationof": "Web/JavaScript/Guide/Functions"
-    },
-    "leaf": true,
-    "_checked": 1584369952
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Panduan/Numbers_and_dates",
     "metadata": {
       "title": "Numbers and dates",
@@ -1249,19 +1016,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/void",
-    "metadata": {
-      "title": "void operator",
-      "slug": "Web/JavaScript/Reference/Operators/void",
-      "translationof": "Web/JavaScript/Reference/Operators/void"
-    },
-    "leaf": true,
-    "_checked": 1584369159
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Conditional_Operator",
     "metadata": {
       "title": "Operasional Kondisi (ternary)",
@@ -1282,19 +1036,6 @@
       "translationof": "Web/JavaScript/Reference/Statements"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Statements/label",
-    "metadata": {
-      "title": "label",
-      "slug": "Web/JavaScript/Reference/Statements/label",
-      "translationof": "Web/JavaScript/Reference/Statements/label"
-    },
-    "leaf": true,
-    "_checked": 1584368098
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1474,32 +1215,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
-    "metadata": {
-      "title": "Promise.prototype",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Promise/prototype",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Promise/prototype"
-    },
-    "leaf": true,
-    "_checked": 1584370552
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-    "metadata": {
-      "title": "Set",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Set"
-    },
-    "leaf": true,
-    "_checked": 1584368095
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Error",
     "metadata": {
       "title": "Error",
@@ -1531,19 +1246,6 @@
       "translationof": "Web/JavaScript/Reference/Errors"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Getting_Started",
-    "metadata": {
-      "title": "Pengenalan Javascript (dalam tutorial)",
-      "slug": "Web/JavaScript/Getting_Started",
-      "translationof": "Web/JavaScript/Getting_Started"
-    },
-    "leaf": true,
-    "_checked": 1584369974
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",

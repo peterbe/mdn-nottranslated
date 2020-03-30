@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 99,
+    "count": 66,
     "file": "bn.json",
-    "leafs": 62,
+    "leafs": 29,
     "inception": 131
   },
   {
@@ -38,9 +38,9 @@
       "English": "Burmese",
       "native": "မြန်မာဘာသာ"
     },
-    "count": 17,
+    "count": 12,
     "file": "my.json",
-    "leafs": 8,
+    "leafs": 3,
     "inception": 19
   },
   {
@@ -82,9 +82,9 @@
       "English": "Dutch",
       "native": "Nederlands"
     },
-    "count": 74,
+    "count": 65,
     "file": "nl.json",
-    "leafs": 23,
+    "leafs": 14,
     "inception": 112
   },
   {
@@ -170,9 +170,9 @@
       "English": "Indonesian",
       "native": "Bahasa Indonesia"
     },
-    "count": 129,
+    "count": 106,
     "file": "id.json",
-    "leafs": 85,
+    "leafs": 62,
     "inception": 147
   },
   {
@@ -291,9 +291,9 @@
       "English": "Spanish",
       "native": "Español"
     },
-    "count": 375,
+    "count": 370,
     "file": "es.json",
-    "leafs": 263,
+    "leafs": 258,
     "inception": 413
   },
   {
