@@ -65,19 +65,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Learn/CSS/First_steps",
-    "metadata": {
-      "title": "CSS first steps",
-      "slug": "Learn/CSS/First_steps",
-      "translationof": "Learn/CSS/First_steps"
-    },
-    "leaf": true,
-    "_checked": 1584369722
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Learn/Common_questions",
     "metadata": {
       "title": "Common questions",
@@ -122,19 +109,6 @@
       "translationof": "Learn/Forms"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Learn/HTML/Forms/Form_validation",
-    "metadata": {
-      "title": "Form data validation",
-      "slug": "Learn/HTML/Forms/Form_validation",
-      "translationof": "Learn/Forms/Form_validation"
-    },
-    "leaf": true,
-    "_checked": 1584368705
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -354,19 +328,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Tools/Network_Monitor/Performance_Analysis",
-    "metadata": {
-      "title": "Performance Analysis",
-      "slug": "Tools/Network_Monitor/Performance_Analysis",
-      "translationof": "Tools/Network_Monitor/Performance_Analysis"
-    },
-    "leaf": true,
-    "_checked": 1584369729
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Tools/Page_Inspector",
     "metadata": {
       "title": "Page Inspector",
@@ -375,19 +336,6 @@
     },
     "leaf": true,
     "_checked": 1584370862
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Tools/Tools_Toolbox",
-    "metadata": {
-      "title": "H\u1ed9p D\u1ee5ng C\u1ee5",
-      "slug": "Tools/Tools_Toolbox",
-      "translationof": "Tools/Tools_Toolbox"
-    },
-    "leaf": true,
-    "_checked": 1584368708
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -482,19 +430,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/Guide/HTML/Content_categories",
-    "metadata": {
-      "title": "Content  categories",
-      "slug": "Web/Guide/HTML/Content_categories",
-      "translationof": "Web/Guide/HTML/Content_categories"
-    },
-    "leaf": true,
-    "_checked": 1584638053
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/Guide/API",
     "metadata": {
       "title": "H\u01b0\u1edbng d\u1eabn Web APIs",
@@ -528,19 +463,6 @@
     },
     "leaf": true,
     "_checked": 1584638060
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/CSS/letter-spacing",
-    "metadata": {
-      "title": "letter-spacing",
-      "slug": "Web/CSS/letter-spacing",
-      "translationof": "Web/CSS/letter-spacing"
-    },
-    "leaf": true,
-    "_checked": 1584369737
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -617,19 +539,6 @@
     },
     "leaf": true,
     "_checked": 1584369717
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/CSS/At-rule",
-    "metadata": {
-      "title": "At-rule",
-      "slug": "Web/CSS/At-rule",
-      "translationof": "Web/CSS/At-rule"
-    },
-    "leaf": true,
-    "_checked": 1584369726
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -723,19 +632,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/HTTP/Access_control_CORS",
-    "metadata": {
-      "title": "HTTP access control (CORS)",
-      "slug": "Web/HTTP/Access_control_CORS",
-      "translationof": "Web/HTTP/CORS"
-    },
-    "leaf": true,
-    "_checked": 1584368719
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/HTTP/Headers",
     "metadata": {
       "title": "HTTP headers",
@@ -743,19 +639,6 @@
       "translationof": "Web/HTTP/Headers"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/HTTP/Headers/Accept-Encoding",
-    "metadata": {
-      "title": "Accept-Encoding",
-      "slug": "Web/HTTP/Headers/Accept-Encoding",
-      "translationof": "Web/HTTP/Headers/Accept-Encoding"
-    },
-    "leaf": true,
-    "_checked": 1584455372
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -780,19 +663,6 @@
       "translationof": "Web/API/EventSource"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/API/WebVTT_API",
-    "metadata": {
-      "title": "Web Video Text Tracks Format (WebVTT)",
-      "slug": "Web/API/WebVTT_API",
-      "translationof": "Web/API/WebVTT_API"
-    },
-    "leaf": true,
-    "_checked": 1584368711
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -894,19 +764,6 @@
     },
     "leaf": true,
     "_checked": 1584368704
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/API/URL",
-    "metadata": {
-      "title": "URL",
-      "slug": "Web/API/URL",
-      "translationof": "Web/API/URL"
-    },
-    "leaf": true,
-    "_checked": 1584368732
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -1073,19 +930,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/JavaScript/About_JavaScript",
-    "metadata": {
-      "title": "About JavaScript",
-      "slug": "Web/JavaScript/About_JavaScript",
-      "translationof": "Web/JavaScript/About_JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1584368701
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference",
     "metadata": {
       "title": "JavaScript reference",
@@ -1118,19 +962,6 @@
     },
     "leaf": true,
     "_checked": 1584370870
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/function*",
-    "metadata": {
-      "title": "function* expression",
-      "slug": "Web/JavaScript/Reference/Operators/function*",
-      "translationof": "Web/JavaScript/Reference/Operators/function*"
-    },
-    "leaf": true,
-    "_checked": 1584370872
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -1403,19 +1234,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Math/round",
-    "metadata": {
-      "title": "Math.round()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Math/round",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Math/round"
-    },
-    "leaf": true,
-    "_checked": 1584368725
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Number/NaN",
     "metadata": {
       "title": "Number.NaN",
@@ -1462,19 +1280,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
-    "metadata": {
-      "title": "Object.values()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/values",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Object/values"
-    },
-    "leaf": true,
-    "_checked": 1584370866
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",

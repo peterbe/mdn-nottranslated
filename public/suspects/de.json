@@ -150,7 +150,8 @@
       "slug": "Learn/JavaScript/First_steps/Was_ist_JavaScript",
       "translationof": "Learn/JavaScript/First_steps/What_is_JavaScript"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585661209
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -343,19 +344,6 @@
     },
     "leaf": true,
     "_checked": 1584368649
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Tools/netzwerkanalyse/toolbar",
-    "metadata": {
-      "title": "Network monitor toolbar",
-      "slug": "Tools/netzwerkanalyse/toolbar",
-      "translationof": "Tools/Network_Monitor/toolbar"
-    },
-    "leaf": true,
-    "_checked": 1584639321
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1042,19 +1030,6 @@
     },
     "leaf": true,
     "_checked": 1584368661
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/meta",
-    "metadata": {
-      "title": "<meta>",
-      "slug": "Web/HTML/Element/meta",
-      "translationof": "Web/HTML/Element/meta"
-    },
-    "leaf": true,
-    "_checked": 1584638973
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",

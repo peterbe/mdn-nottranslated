@@ -1902,7 +1902,8 @@
       "slug": "Web/CSS/grid-template-rows",
       "translationof": "Web/CSS/grid-template-rows"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585661252
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/pt-br",

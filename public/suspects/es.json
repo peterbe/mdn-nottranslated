@@ -1595,7 +1595,8 @@
       "slug": "Web/CSS/color_value",
       "translationof": "Web/CSS/color_value"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585661378
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
