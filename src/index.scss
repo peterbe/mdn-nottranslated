@@ -71,3 +71,16 @@ div.container.locale {
     margin-bottom: 3px;
   }
 }
+
+
+div.delete-counter {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  min-width: 120px;
+  h5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 350%;
+  }
+}

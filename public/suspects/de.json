@@ -2133,18 +2133,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/JavaScript/Aufz\u00e4hlbarkeit_und_Zugeh\u00f6rigkeit_von_Eigenschaften",
-    "metadata": {
-      "title": "Aufz\u00e4hlbarkeit und Zugeh\u00f6rigkeit von Eigenschaften",
-      "slug": "Web/JavaScript/Aufz\u00e4hlbarkeit_und_Zugeh\u00f6rigkeit_von_Eigenschaften",
-      "translationof": "Web/JavaScript/Enumerability_and_ownership_of_properties"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/JavaScript/Neu_in_JavaScript",
     "metadata": {
       "title": "Neu in JavaScript",

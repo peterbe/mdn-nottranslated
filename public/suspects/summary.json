@@ -60,9 +60,9 @@
       "English": "Chinese (Simplified)",
       "native": "中文 (简体)"
     },
-    "count": 1466,
+    "count": 1464,
     "file": "zh-cn.json",
-    "leafs": 1227,
+    "leafs": 1225,
     "inception": 1473
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 214,
+    "count": 213,
     "file": "de.json",
-    "leafs": 134,
+    "leafs": 133,
     "inception": 257
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 683,
+    "count": 682,
     "file": "ko.json",
-    "leafs": 550,
+    "leafs": 549,
     "inception": 712
   },
   {

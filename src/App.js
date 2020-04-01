@@ -9,7 +9,12 @@ import {
 import "./index.scss";
 
 import { Locale } from "./Locale";
-import { TAGLINE, Container } from "./Common";
+import {
+  TAGLINE,
+  Container,
+  getTodayDeleteButtonClicks,
+  getDeleteButtonClicks
+} from "./Common";
 
 function App() {
   let [allSuspects, setAllSuspects] = useState(null);
@@ -33,7 +38,7 @@ function App() {
     <Router>
       <div>
         <Head />
-
+        <DeleteCounter />
         <section className="section">
           <Switch>
             <Route path="/about">
@@ -244,10 +249,115 @@ function About() {
 
       <p>
         At the moment, this web app is just for <i>highlighting</i> which
-        documents are not translated. To do something about it, you need to
+        documents are not translated. To do something about it, you need to`
         create an account on <code>wiki.developer.mozilla.org</code> and
         complete the translation. Perhaps this can change in the future.
       </p>
     </Container>
+  );
+}
+
+function DeleteCounter() {
+  const [showModal, setShowModal] = useState(false);
+  const [count, setCount] = useState(getTodayDeleteButtonClicks());
+  let location = useLocation();
+
+  function keyboardHandler(event) {
+    if (showModal && event.code === "Escape") {
+      setShowModal(false);
+    }
+  }
+
+  useEffect(() => {
+    document.addEventListener("keydown", keyboardHandler);
+    return () => {
+      document.removeEventListener("keydown", keyboardHandler);
+    };
+  });
+
+  useEffect(() => {
+    setCount(getTodayDeleteButtonClicks());
+  }, [location.pathname]);
+
+  if (count === null) {
+    return null;
+  }
+
+  let deleteClicks = [];
+  if (showModal) {
+    const memory = getDeleteButtonClicks();
+    const keys = Object.keys(memory);
+    keys.sort();
+    keys.forEach(key => {
+      deleteClicks.push({
+        date: key,
+        count: memory[key]
+      });
+    });
+  }
+  const title =
+    'Number of times you\'ve clicked the "Start deleting on Wiki" TODAY';
+  return (
+    <>
+      {showModal && (
+        <div className="modal is-active">
+          <div className="modal-background"></div>
+          <div className="modal-content">
+            <div className="box">
+              <div className="content">
+                <p>
+                  <strong>
+                    Today, you have clicked to delete {count} times.
+                  </strong>
+                  <br />
+                </p>
+                <p>
+                  Every time you click the
+                  <br />
+                  <button className="button is-primary is-small" type="button">
+                    Start deleting on Wiki
+                  </button>
+                  <br />
+                  button, it increments a counter per every 24 hours.
+                </p>
+                {deleteClicks && (
+                  <ul>
+                    {deleteClicks.map(day => {
+                      return (
+                        <li key={day.date}>
+                          <b>{day.date}</b> <i>{day.count} clicks</i>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                )}
+              </div>
+            </div>
+          </div>
+          <button
+            className="modal-close is-large"
+            aria-label="close"
+            onClick={event => {
+              event.preventDefault();
+              setShowModal(false);
+            }}
+          ></button>
+        </div>
+      )}
+
+      <div
+        className="box delete-counter"
+        title={title}
+        onClick={() => {
+          setShowModal(true);
+        }}
+      >
+        <article className="media">
+          <div className="media-content">
+            <h5>{count}</h5>
+          </div>
+        </article>
+      </div>
+    </>
   );
 }

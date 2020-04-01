@@ -225,7 +225,8 @@
       "slug": "Learn/HTML/Introduction_to_HTML/Debugging_HTML",
       "translationof": "Learn/HTML/Introduction_to_HTML/Debugging_HTML"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761599
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -482,7 +483,8 @@
       "slug": "Learn/JavaScript/First_steps/Arrays",
       "translationof": "Learn/JavaScript/First_steps/Arrays"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761595
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -951,7 +953,8 @@
       "slug": "Web/SVG/Attribute/viewBox",
       "translationof": "Web/SVG/Attribute/viewBox"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738961
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1238,7 +1241,8 @@
       "slug": "Web/CSS/CSS_\uc120\ud0dd\uc790",
       "translationof": "Web/CSS/CSS_Selectors"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738964
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1468,7 +1472,8 @@
       "slug": "Web/CSS/border-top-color",
       "translationof": "Web/CSS/border-top-color"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739150
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1583,7 +1588,8 @@
       "slug": "Web/CSS/letter-spacing",
       "translationof": "Web/CSS/letter-spacing"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739118
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -1878,7 +1884,8 @@
       "slug": "Web/CSS/filter-function/contrast",
       "translationof": "Web/CSS/filter-function/contrast"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739154
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2172,7 +2179,8 @@
       "slug": "Web/CSS/padding-left",
       "translationof": "Web/CSS/padding-left"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739107
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2401,7 +2409,8 @@
       "slug": "Web/CSS/resolved_value",
       "translationof": "Web/CSS/resolved_value"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738958
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2949,7 +2958,8 @@
       "slug": "Web/HTML/Element/Shadow",
       "translationof": "Web/HTML/Element/shadow"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739109
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -2986,7 +2996,8 @@
       "slug": "Web/HTML/Element/element",
       "translationof": "Web/HTML/Element/element"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739149
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3691,7 +3702,8 @@
       "slug": "Web/HTTP/Status/403",
       "translationof": "Web/HTTP/Status/403"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739153
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3742,7 +3754,8 @@
       "slug": "Web/HTTP/Headers/Content-Range",
       "translationof": "Web/HTTP/Headers/Content-Range"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761598
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3806,7 +3819,8 @@
       "slug": "Web/HTTP/Headers/Keep-Alive",
       "translationof": "Web/HTTP/Headers/Keep-Alive"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738974
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3843,7 +3857,8 @@
       "slug": "Web/HTTP/Headers/Content-Security-Policy/img-src",
       "translationof": "Web/HTTP/Headers/Content-Security-Policy/img-src"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738972
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -3945,7 +3960,8 @@
       "slug": "Web/HTTP/Headers/Content-Location",
       "translationof": "Web/HTTP/Headers/Content-Location"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738969
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4233,7 +4249,8 @@
       "slug": "Web/API/DocumentFragment",
       "translationof": "Web/API/DocumentFragment"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738965
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4309,7 +4326,8 @@
       "slug": "Web/API/WindowEventHandlers/onhashchange",
       "translationof": "Web/API/WindowEventHandlers/onhashchange"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739106
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4562,7 +4580,8 @@
       "slug": "Web/API/Encoding_API",
       "translationof": "Web/API/Encoding_API"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738975
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4574,7 +4593,8 @@
       "slug": "Web/API/Streams_API/\ucee8\uc149",
       "translationof": "Web/API/Streams_API/Concepts"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739114
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4586,7 +4606,8 @@
       "slug": "Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests",
       "translationof": "Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761600
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5003,7 +5024,8 @@
       "slug": "Web/API/Document/anchors",
       "translationof": "Web/API/Document/anchors"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739157
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5216,7 +5238,8 @@
       "slug": "Web/API/MediaTrackConstraints",
       "translationof": "Web/API/MediaTrackConstraints"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738966
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5291,7 +5314,8 @@
       "slug": "Web/API/MutationObserver",
       "translationof": "Web/API/MutationObserver"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739144
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5354,7 +5378,8 @@
       "slug": "Web/API/Window/pageYOffset",
       "translationof": "Web/API/Window/pageYOffset"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739147
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5657,7 +5682,8 @@
       "slug": "Web/API/Node/insertBefore",
       "translationof": "Web/API/Node/insertBefore"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738957
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5682,7 +5708,8 @@
       "slug": "Web/API/Node/replaceChild",
       "translationof": "Web/API/Node/replaceChild"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739110
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -5782,7 +5809,8 @@
       "slug": "Web/API/Performance/now",
       "translationof": "Web/API/Performance/now"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738962
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6369,7 +6397,8 @@
       "slug": "Web/JavaScript/Reference/Operators/await",
       "translationof": "Web/JavaScript/Reference/Operators/await"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738970
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6381,7 +6410,8 @@
       "slug": "Web/JavaScript/Reference/Operators/Legacy_generator_function",
       "translationof": "Web/JavaScript/Reference/Operators/Legacy_generator_function"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739111
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6614,7 +6644,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/decodeURIComponent",
       "translationof": "Web/JavaScript/Reference/Global_Objects/decodeURIComponent"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761603
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6727,7 +6758,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Intl",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Intl"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739113
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6778,7 +6810,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/TypedArray/reverse",
       "translationof": "Web/JavaScript/Reference/Global_Objects/TypedArray/reverse"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739156
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6880,7 +6913,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Date/prototype",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Date/prototype"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585761596
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -6957,7 +6991,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Reflect/getPrototypeOf",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Reflect/getPrototypeOf"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739119
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7020,7 +7055,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Atomics",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Atomics"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738973
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7096,7 +7132,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/LOG10E",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/LOG10E"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739151
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7172,7 +7209,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/tanh",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/tanh"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739158
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7338,7 +7376,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738968
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7709,7 +7748,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView",
       "translationof": "Web/JavaScript/Reference/Global_Objects/ArrayBuffer/isView"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738960
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7772,7 +7812,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Promise/allSettled",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Promise/allSettled"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739117
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7887,7 +7928,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/toLowerCase"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739121
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7990,7 +8032,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/String/replace",
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/replace"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739115
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8067,7 +8110,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Set/size",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Set/size"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739146
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8468,7 +8512,8 @@
       "slug": "Glossary/Semantics",
       "translationof": "Glossary/Semantics"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738977
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8559,18 +8604,6 @@
       "translationof": "Glossary/Block"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
-    "slug": "XSLTProcessor",
-    "metadata": {
-      "title": "XSLTProcessor",
-      "slug": "XSLTProcessor",
-      "translationof": "XSLTProcessor"
-    },
-    "leaf": true
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",

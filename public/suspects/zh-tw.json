@@ -2470,7 +2470,8 @@
       "slug": "Web/API/ValidityState",
       "translationof": "Web/API/ValidityState"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739059
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -2660,7 +2661,8 @@
       "slug": "Web/API/Response",
       "translationof": "Web/API/Response"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738935
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -5701,7 +5703,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/floor",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/floor"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738934
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -6352,7 +6355,8 @@
       "slug": "Web/JavaScript/Reference/Errors/Redeclared_parameter",
       "translationof": "Web/JavaScript/Reference/Errors/Redeclared_parameter"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739060
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -6549,7 +6553,8 @@
       "title": "Core JavaScript 1.5 \u6b63\u898f\u8868\u9054\u5f0f\u7684\u5efa\u7acb",
       "slug": "Core_JavaScript_1.5_\u6b63\u898f\u8868\u9054\u5f0f\u7684\u5efa\u7acb"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585738936
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
@@ -6789,6 +6794,7 @@
       "slug": "DOM_Levels",
       "translationof": "DOM_Levels"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1585739193
   }
 ]

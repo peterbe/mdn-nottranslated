@@ -6,7 +6,7 @@ import parseISO from "date-fns/parseISO";
 import { FaLeaf, FaExclamationTriangle } from "react-icons/fa";
 import { throttle } from "throttle-debounce";
 
-import { TAGLINE, Container } from "./Common";
+import { TAGLINE, Container, incrementTodayDeleteButtonClicks } from "./Common";
 
 const SUBSET_LENGTH = 25;
 const IGNORE_MAX_SECONDS = 60 * 60 * 24 * 3; // 72 hours
@@ -183,9 +183,14 @@ export function Locale({ allSuspects, loading }) {
 
   function keyboardHandler(event) {
     if (currentSuspect) {
-      if (event.code === "Escape") {
-        setCurrentSuspect(null);
-      } else if (event.code === "ArrowRight") {
+      // if (event.code === "Escape") {
+      //   setCurrentSuspect(null);
+      // } else if (event.code === "ArrowRight") {
+      //   gotoNextSuspect();
+      // } else if (event.code === "ArrowLeft") {
+      //   gotoPreviousSuspect();
+      // }
+      if (event.code === "ArrowRight") {
         gotoNextSuspect();
       } else if (event.code === "ArrowLeft") {
         gotoPreviousSuspect();
@@ -235,10 +240,8 @@ export function Locale({ allSuspects, loading }) {
               ignoredCount={ignoredCount}
               gotoNext={gotoNextSuspect}
               gotoPrevious={gotoPreviousSuspect}
-              // showPreview={showPreview}
               setCurrentSuspect={setCurrentSuspect}
               getStarted={() => {
-                // console.log(suspectsSubset);
                 setCurrentSuspect(suspectsSubset[0]);
               }}
               refreshSubset={() => {
@@ -485,6 +488,7 @@ function ShowSuspect({
               href={deleteUrl}
               disabled={!suspect.lastModified}
               onClick={() => {
+                incrementTodayDeleteButtonClicks();
                 setTimeout(() => {
                   gotoNext();
                 }, 100);
@@ -492,9 +496,6 @@ function ShowSuspect({
             >
               <b>Start deleting on Wiki</b>
             </a>{" "}
-            {/* <a href={`/${locale}`} className="button" onClick={close}>
-              Close
-            </a>{" "} */}
             <button
               type="button"
               className="button is-info"
