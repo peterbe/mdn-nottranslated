@@ -22,7 +22,7 @@
       "translationof": "Learn/JavaScript/First_steps"
     },
     "leaf": true,
-    "_checked": 1585738844
+    "_checked": 1586029787
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -64,19 +64,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
     "locale": "fi",
     "guessed": "en",
-    "slug": "Web/Guide/Events/Media_events",
-    "metadata": {
-      "title": "Media events",
-      "slug": "Web/Guide/Events/Media_events",
-      "translationof": "Web/Guide/Events/Media_events"
-    },
-    "leaf": true,
-    "_checked": 1585738836
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
-    "locale": "fi",
-    "guessed": "en",
     "slug": "Web/HTML",
     "metadata": {
       "title": "HTML: HyperText Markup Language",
@@ -101,45 +88,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
     "locale": "fi",
     "guessed": "en",
-    "slug": "Web/HTML/Element/footer",
-    "metadata": {
-      "title": "<footer>",
-      "slug": "Web/HTML/Element/footer",
-      "translationof": "Web/HTML/Element/footer"
-    },
-    "leaf": true,
-    "_checked": 1585738843
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
-    "locale": "fi",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/article",
-    "metadata": {
-      "title": "<article>: Artikkelin sis\u00e4lt\u00f6elementti",
-      "slug": "Web/HTML/Element/article",
-      "translationof": "Web/HTML/Element/article"
-    },
-    "leaf": true,
-    "_checked": 1585738846
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
-    "locale": "fi",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/header",
-    "metadata": {
-      "title": "<header>",
-      "slug": "Web/HTML/Element/header",
-      "translationof": "Web/HTML/Element/header"
-    },
-    "leaf": true,
-    "_checked": 1585738840
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
-    "locale": "fi",
-    "guessed": "en",
     "slug": "Web/HTTP",
     "metadata": {
       "title": "HTTP",
@@ -147,7 +95,7 @@
       "translationof": "Web/HTTP"
     },
     "leaf": true,
-    "_checked": 1585738839
+    "_checked": 1586029782
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -172,7 +120,7 @@
       "translationof": "Web/API/WebGL_API"
     },
     "leaf": true,
-    "_checked": 1585738851
+    "_checked": 1586029794
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -185,7 +133,7 @@
       "translationof": "Web/API/Window"
     },
     "leaf": true,
-    "_checked": 1585738850
+    "_checked": 1586029793
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -198,7 +146,7 @@
       "translationof": "Web/Reference"
     },
     "leaf": true,
-    "_checked": 1585738848
+    "_checked": 1586029792
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -210,7 +158,7 @@
       "slug": "Teemat"
     },
     "leaf": true,
-    "_checked": 1585738841
+    "_checked": 1586029785
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -235,7 +183,7 @@
       "translationof": "Web/API/Canvas_API"
     },
     "leaf": true,
-    "_checked": 1585738837
+    "_checked": 1586029781
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",
@@ -260,7 +208,7 @@
       "translationof": "Web/API/Navigator/productSub"
     },
     "leaf": true,
-    "_checked": 1585738847
+    "_checked": 1586029790
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/fi",

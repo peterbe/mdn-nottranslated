@@ -3492,7 +3492,8 @@
       "slug": "Web/API/MediaQueryList",
       "translationof": "Web/API/MediaQueryList"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1586030339
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/zh-tw",
