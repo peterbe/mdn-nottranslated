@@ -6,7 +6,7 @@
     "@sentry/node": "5.15.4",
     "@testing-library/jest-dom": "^5.3.0",
     "@testing-library/react": "^10.0.2",
-    "@testing-library/user-event": "^10.0.0",
+    "@testing-library/user-event": "^10.0.1",
     "bulma": "0.8.1",
     "cheerio": "1.0.0-rc.3",
     "date-fns": "2.11.1",
