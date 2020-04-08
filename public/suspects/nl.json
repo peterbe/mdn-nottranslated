@@ -661,19 +661,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
     "locale": "nl",
     "guessed": "en",
-    "slug": "WebSockets",
-    "metadata": {
-      "title": "WebSockets",
-      "slug": "WebSockets",
-      "translationof": "Web/API/WebSockets_API"
-    },
-    "leaf": true,
-    "_checked": 1584370022
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/nl",
-    "locale": "nl",
-    "guessed": "en",
     "slug": "Glossary",
     "metadata": {
       "title": "Woordenlijst",

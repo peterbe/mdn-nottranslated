@@ -5,9 +5,9 @@
       "English": "Arabic",
       "native": "عربي"
     },
-    "count": 79,
+    "count": 67,
     "file": "ar.json",
-    "leafs": 31,
+    "leafs": 19,
     "inception": 127
   },
   {
@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 49,
+    "count": 45,
     "file": "bn.json",
-    "leafs": 12,
+    "leafs": 8,
     "inception": 131
   },
   {
@@ -49,9 +49,9 @@
       "English": "Catalan",
       "native": "Català"
     },
-    "count": 41,
+    "count": 35,
     "file": "ca.json",
-    "leafs": 17,
+    "leafs": 11,
     "inception": 41
   },
   {
@@ -82,9 +82,9 @@
       "English": "Dutch",
       "native": "Nederlands"
     },
-    "count": 65,
+    "count": 64,
     "file": "nl.json",
-    "leafs": 14,
+    "leafs": 13,
     "inception": 112
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 213,
+    "count": 198,
     "file": "de.json",
-    "leafs": 133,
+    "leafs": 118,
     "inception": 257
   },
   {
@@ -181,9 +181,9 @@
       "English": "Italian",
       "native": "Italiano"
     },
-    "count": 114,
+    "count": 103,
     "file": "it.json",
-    "leafs": 51,
+    "leafs": 40,
     "inception": 169
   },
   {
@@ -214,9 +214,9 @@
       "English": "Korean",
       "native": "한국어"
     },
-    "count": 681,
+    "count": 674,
     "file": "ko.json",
-    "leafs": 548,
+    "leafs": 541,
     "inception": 712
   },
   {
@@ -280,9 +280,9 @@
       "English": "Russian",
       "native": "Русский"
     },
-    "count": 451,
+    "count": 445,
     "file": "ru.json",
-    "leafs": 357,
+    "leafs": 351,
     "inception": 461
   },
   {
@@ -324,9 +324,9 @@
       "English": "Turkish",
       "native": "Türkçe"
     },
-    "count": 114,
+    "count": 97,
     "file": "tr.json",
-    "leafs": 73,
+    "leafs": 56,
     "inception": 114
   },
   {
@@ -335,9 +335,9 @@
       "English": "Ukrainian",
       "native": "Українська"
     },
-    "count": 139,
+    "count": 138,
     "file": "uk.json",
-    "leafs": 87,
+    "leafs": 86,
     "inception": 142
   },
   {

@@ -793,19 +793,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
     "locale": "ru",
     "guessed": "en",
-    "slug": "Tools/Browser_Toolbox",
-    "metadata": {
-      "title": "Browser Toolbox",
-      "slug": "Tools/Browser_Toolbox",
-      "translationof": "Tools/Browser_Toolbox"
-    },
-    "leaf": true,
-    "_checked": 1584638579
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
     "slug": "Tools/Web_Console/Opening_the_Web_Console",
     "metadata": {
       "title": "Opening the Web Console",
@@ -3075,19 +3062,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
     "locale": "ru",
     "guessed": "en",
-    "slug": "Web/API/TreeWalker",
-    "metadata": {
-      "title": "TreeWalker",
-      "slug": "Web/API/TreeWalker",
-      "translationof": "Web/API/TreeWalker"
-    },
-    "leaf": true,
-    "_checked": 1584371258
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
     "slug": "Web/API/File/Using_files_from_web_applications",
     "metadata": {
       "title": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432 \u0432 \u0432\u0435\u0431 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445",
@@ -3720,19 +3694,6 @@
       "translationof": "Web/API/URL"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
-    "slug": "Web/API/URL/revokeObjectURL",
-    "metadata": {
-      "title": "URL.revokeObjectURL()",
-      "slug": "Web/API/URL/revokeObjectURL",
-      "translationof": "Web/API/URL/revokeObjectURL"
-    },
-    "leaf": true,
-    "_checked": 1584369295
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
@@ -4771,19 +4732,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
     "locale": "ru",
     "guessed": "en",
-    "slug": "Web/API/MouseEvent/altKey",
-    "metadata": {
-      "title": "MouseEvent.altKey",
-      "slug": "Web/API/MouseEvent/altKey",
-      "translationof": "Web/API/MouseEvent/altKey"
-    },
-    "leaf": true,
-    "_checked": 1584638575
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
     "slug": "Web/WebAPI",
     "metadata": {
       "title": "WebAPI",
@@ -5730,30 +5678,5 @@
     },
     "leaf": true,
     "_checked": 1584369298
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
-    "slug": "Creating_OpenSearch_plugins_for_Firefox",
-    "metadata": {
-      "title": "Creating OpenSearch plugins for Firefox",
-      "slug": "Creating_OpenSearch_plugins_for_Firefox",
-      "translationof": "Web/OpenSearch"
-    },
-    "leaf": true,
-    "_checked": 1584369302
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ru",
-    "locale": "ru",
-    "guessed": "en",
-    "slug": "\u041f\u043b\u0430\u0433\u0438\u043d\u044b",
-    "metadata": {
-      "title": "\u041f\u043b\u0430\u0433\u0438\u043d\u044b",
-      "slug": "\u041f\u043b\u0430\u0433\u0438\u043d\u044b"
-    },
-    "leaf": true,
-    "_checked": 1584639198
   }
 ]

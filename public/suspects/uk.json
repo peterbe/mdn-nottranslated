@@ -1086,19 +1086,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
     "locale": "uk",
     "guessed": "en",
-    "slug": "Web/API/WindowOrWorkerGlobalScope/setInterval",
-    "metadata": {
-      "title": "WindowOrWorkerGlobalScope.setInterval()",
-      "slug": "Web/API/WindowOrWorkerGlobalScope/setInterval",
-      "translationof": "Web/API/WindowOrWorkerGlobalScope/setInterval"
-    },
-    "leaf": true,
-    "_checked": 1584371004
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/uk",
-    "locale": "uk",
-    "guessed": "en",
     "slug": "Web/API/Blob",
     "metadata": {
       "title": "Blob",

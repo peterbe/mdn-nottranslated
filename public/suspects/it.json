@@ -188,19 +188,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Tools/about:debugging",
-    "metadata": {
-      "title": "about:debugging",
-      "slug": "Tools/about:debugging",
-      "translationof": "Tools/about:debugging"
-    },
-    "leaf": true,
-    "_checked": 1584369338
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Tools/Page_Inspector",
     "metadata": {
       "title": "Page Inspector",
@@ -235,19 +222,6 @@
     },
     "leaf": true,
     "_checked": 1584368184
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Tools/Remote_Debugging/Firefox_for_Android",
-    "metadata": {
-      "title": "Remotely debuggingFirefox for Android",
-      "slug": "Tools/Remote_Debugging/Firefox_for_Android",
-      "translationof": "Tools/Remote_Debugging/Firefox_for_Android"
-    },
-    "leaf": true,
-    "_checked": 1584455414
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -401,32 +375,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/CSS/Syntax",
-    "metadata": {
-      "title": "Sintassi",
-      "slug": "Web/CSS/Syntax",
-      "translationof": "Web/CSS/Syntax"
-    },
-    "leaf": true,
-    "_checked": 1584369342
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/CSS/user-select",
-    "metadata": {
-      "title": "user-select",
-      "slug": "Web/CSS/user-select",
-      "translationof": "Web/CSS/user-select"
-    },
-    "leaf": true,
-    "_checked": 1584371471
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/HTML/Using_HTML5_audio_and_video",
     "metadata": {
       "title": "Utilizzare audio e video di HTML5",
@@ -478,19 +426,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/HTML/Element/picture",
-    "metadata": {
-      "title": "<picture>: The Picture element",
-      "slug": "Web/HTML/Element/picture",
-      "translationof": "Web/HTML/Element/picture"
-    },
-    "leaf": true,
-    "_checked": 1584370316
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/HTML/Element/script",
     "metadata": {
       "title": "<script>",
@@ -499,19 +434,6 @@
     },
     "leaf": true,
     "_checked": 1584370332
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/button",
-    "metadata": {
-      "title": "<button>",
-      "slug": "Web/HTML/Element/button",
-      "translationof": "Web/HTML/Element/button"
-    },
-    "leaf": true,
-    "_checked": 1584369339
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -537,19 +459,6 @@
       "translationof": "Web/HTML/Global_attributes"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/HTML/Inline_elements",
-    "metadata": {
-      "title": "Componenti sulla stessa riga",
-      "slug": "Web/HTML/Inline_elements",
-      "translationof": "Web/HTML/Inline_elements"
-    },
-    "leaf": true,
-    "_checked": 1584368207
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -922,19 +831,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/JavaScript/Typed_arrays",
-    "metadata": {
-      "title": "JavaScript typed arrays",
-      "slug": "Web/JavaScript/Typed_arrays",
-      "translationof": "Web/JavaScript/Typed_arrays"
-    },
-    "leaf": true,
-    "_checked": 1584368197
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/JavaScript/Language_Resources",
     "metadata": {
       "title": "JavaScript language resources",
@@ -985,19 +881,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/Operatori_bti",
-    "metadata": {
-      "title": "Operatori binari",
-      "slug": "Web/JavaScript/Reference/Operators/Operatori_bti",
-      "translationof": "Web/JavaScript/Reference/Operators/Bitwise_Operators"
-    },
-    "leaf": true,
-    "_checked": 1584455412
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Operators/Operator_Precedence",
     "metadata": {
       "title": "Operator precedence",
@@ -1031,32 +914,6 @@
       "translationof": "Web/JavaScript/Reference/Statements"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Statements/funzioni",
-    "metadata": {
-      "title": "Dichiarazione di funzioni",
-      "slug": "Web/JavaScript/Reference/Statements/funzioni",
-      "translationof": "Web/JavaScript/Reference/Statements/function"
-    },
-    "leaf": true,
-    "_checked": 1584369331
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/WeakMap",
-    "metadata": {
-      "title": "WeakMap",
-      "slug": "Web/JavaScript/Reference/Global_Objects/WeakMap",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/WeakMap"
-    },
-    "leaf": true,
-    "_checked": 1584638859
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",

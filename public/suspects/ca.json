@@ -82,7 +82,7 @@
       "translationof": "Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"
     },
     "leaf": true,
-    "_checked": 1586030142
+    "_checked": 1586363085
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -95,7 +95,7 @@
       "translationof": "Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"
     },
     "leaf": true,
-    "_checked": 1586030145
+    "_checked": 1586363087
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -113,19 +113,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Flexible_Box_Layout/Utilitzar_model_flexible_caixes_CSS",
-    "metadata": {
-      "title": "Utilitzar el model de caixes flexible de CSS",
-      "slug": "Web/CSS/CSS_Flexible_Box_Layout/Utilitzar_model_flexible_caixes_CSS",
-      "translationof": "Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes"
-    },
-    "leaf": true,
-    "_checked": 1586030126
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Web/CSS/At-rule",
     "metadata": {
       "title": "At-rule",
@@ -133,7 +120,7 @@
       "translationof": "Web/CSS/At-rule"
     },
     "leaf": true,
-    "_checked": 1586030147
+    "_checked": 1586363088
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -146,7 +133,7 @@
       "translationof": "Web/HTML/Element/noembed"
     },
     "leaf": true,
-    "_checked": 1586030135
+    "_checked": 1586363079
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -207,7 +194,7 @@
       "translationof": "Web/API/Window/sidebar"
     },
     "leaf": true,
-    "_checked": 1586030141
+    "_checked": 1586363084
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -225,32 +212,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Regular_Expressions",
-    "metadata": {
-      "title": "Regular Expressions",
-      "slug": "Web/JavaScript/Guide/Regular_Expressions",
-      "translationof": "Web/JavaScript/Guide/Regular_Expressions"
-    },
-    "leaf": true,
-    "_checked": 1586030131
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Guide/Treballar_amb_Objectes",
-    "metadata": {
-      "title": "Treballar amb Objectes",
-      "slug": "Web/JavaScript/Guide/Treballar_amb_Objectes",
-      "translationof": "Web/JavaScript/Guide/Working_with_Objects"
-    },
-    "leaf": true,
-    "_checked": 1586030144
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Classes",
     "metadata": {
       "title": "Classes",
@@ -263,32 +224,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
     "locale": "ca",
     "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/Promesa",
-    "metadata": {
-      "title": "Promesa",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/Promesa",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Promise"
-    },
-    "leaf": true,
-    "_checked": 1586030134
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/TypeError",
-    "metadata": {
-      "title": "TypeError",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/TypeError",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/TypeError"
-    },
-    "leaf": true,
-    "_checked": 1586030129
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objectes_globals/String/italics",
     "metadata": {
       "title": "String.prototype.italics()",
@@ -296,7 +231,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/italics"
     },
     "leaf": true,
-    "_checked": 1586030125
+    "_checked": 1586363076
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -309,7 +244,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/small"
     },
     "leaf": true,
-    "_checked": 1586030139
+    "_checked": 1586363083
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -322,7 +257,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/sup"
     },
     "leaf": true,
-    "_checked": 1586030149
+    "_checked": 1586363090
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -347,7 +282,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/fixed"
     },
     "leaf": true,
-    "_checked": 1586030137
+    "_checked": 1586363080
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -360,20 +295,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/String/bold"
     },
     "leaf": true,
-    "_checked": 1586030132
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
-    "locale": "ca",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objectes_globals/String/strike",
-    "metadata": {
-      "title": "String.prototype.strike()",
-      "slug": "Web/JavaScript/Referencia/Objectes_globals/String/strike",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/String/strike"
-    },
-    "leaf": true,
-    "_checked": 1586030029
+    "_checked": 1586363077
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",
@@ -386,7 +308,7 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Error/columnNumber"
     },
     "leaf": true,
-    "_checked": 1586030138
+    "_checked": 1586363081
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ca",

@@ -2,18 +2,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
-    "guessed": "pt",
-    "slug": "NPP_HandleEvent",
-    "metadata": {
-      "title": "NPP HandleEvent",
-      "slug": "NPP_HandleEvent"
-    },
-    "leaf": true,
-    "_checked": 1585235665
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
     "guessed": "en",
     "slug": "How_to_Build_an_XPCOM_Component_in_Javascript",
     "metadata": {
@@ -1542,19 +1530,6 @@
     },
     "leaf": true,
     "_checked": 1586030168
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
-    "slug": "Web/CSS/animation-name",
-    "metadata": {
-      "title": "animation-name",
-      "slug": "Web/CSS/animation-name",
-      "translationof": "Web/CSS/animation-name"
-    },
-    "leaf": true,
-    "_checked": 1584369909
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -4067,19 +4042,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
-    "guessed": "en",
-    "slug": "Web/HTTP/CSP",
-    "metadata": {
-      "title": "\ucf58\ud150\uce20 \ubcf4\uc548 \uc815\ucc45 (CSP)",
-      "slug": "Web/HTTP/CSP",
-      "translationof": "Web/HTTP/CSP"
-    },
-    "leaf": true,
-    "_checked": 1584455215
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
     "guessed": "UNKNOWN",
     "slug": "Web/HTTP/Index",
     "metadata": {
@@ -5758,18 +5720,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
-    "guessed": "la",
-    "slug": "Web/API/HTMLMediaElement/loadedmetadata_event",
-    "metadata": {
-      "title": "HTMLMediaElement:  loadedmetadata \uc774\ubca4\ud2b8\ub294",
-      "slug": "Web/API/HTMLMediaElement/loadedmetadata_event",
-      "translationof": "Web/API/HTMLMediaElement/loadedmetadata_event"
-    },
-    "leaf": true
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
     "guessed": "ca",
     "slug": "Web/API/HTMLMediaElement/canplaythrough_event",
     "metadata": {
@@ -7333,7 +7283,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/sinh",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/sinh"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1586363120
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -7605,19 +7556,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/WebAssembly"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance/prototype",
-    "metadata": {
-      "title": "WebAssembly.Instance.prototype",
-      "slug": "Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance/prototype",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance/prototype"
-    },
-    "leaf": true,
-    "_checked": 1584369932
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
@@ -8188,19 +8126,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
     "locale": "ko",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
-    "metadata": {
-      "title": "SyntaxError: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead",
-      "slug": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma",
-      "translationof": "Web/JavaScript/Reference/Errors/Deprecated_source_map_pragma"
-    },
-    "leaf": true,
-    "_checked": 1584370712
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Errors/Not_a_function",
     "metadata": {
       "title": "TypeError: \"x\" is not a function",
@@ -8247,19 +8172,6 @@
     },
     "leaf": true,
     "_checked": 1584455233
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
-    "locale": "ko",
-    "guessed": "en",
-    "slug": "Web/Events/beforeunload",
-    "metadata": {
-      "title": "beforeunload",
-      "slug": "Web/Events/beforeunload",
-      "translationof": "Web/API/Window/beforeunload_event"
-    },
-    "leaf": true,
-    "_checked": 1584369945
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",

@@ -426,19 +426,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Tools/Migrating_from_Firebug",
-    "metadata": {
-      "title": "Migrating from Firebug",
-      "slug": "Tools/Migrating_from_Firebug",
-      "translationof": "Tools/Migrating_from_Firebug"
-    },
-    "leaf": true,
-    "_checked": 1584737099
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Tools/Barrierefreiheits_inspektor",
     "metadata": {
       "title": "Barrierefreiheitsinspektor",
@@ -919,19 +906,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/CSS/Syntax",
-    "metadata": {
-      "title": "Syntax",
-      "slug": "Web/CSS/Syntax",
-      "translationof": "Web/CSS/Syntax"
-    },
-    "leaf": true,
-    "_checked": 1584370304
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/CSS/@font-face",
     "metadata": {
       "title": "@font-face",
@@ -1035,45 +1009,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/HTML/Element/audio",
-    "metadata": {
-      "title": "<audio>",
-      "slug": "Web/HTML/Element/audio",
-      "translationof": "Web/HTML/Element/audio"
-    },
-    "leaf": true,
-    "_checked": 1584369388
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/button",
-    "metadata": {
-      "title": "<button>",
-      "slug": "Web/HTML/Element/button",
-      "translationof": "Web/HTML/Element/button"
-    },
-    "leaf": true,
-    "_checked": 1584638977
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/span",
-    "metadata": {
-      "title": "<span>",
-      "slug": "Web/HTML/Element/span",
-      "translationof": "Web/HTML/Element/span"
-    },
-    "leaf": true,
-    "_checked": 1584368642
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/HTML/Element/link",
     "metadata": {
       "title": "<link>",
@@ -1095,19 +1030,6 @@
     },
     "leaf": true,
     "_checked": 1584639313
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/wbr",
-    "metadata": {
-      "title": "<wbr>",
-      "slug": "Web/HTML/Element/wbr",
-      "translationof": "Web/HTML/Element/wbr"
-    },
-    "leaf": true,
-    "_checked": 1584369390
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1228,19 +1150,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/Progressive_web_apps/Introduction",
-    "metadata": {
-      "title": "Einf\u00fchrung in Progressive Web Apps",
-      "slug": "Web/Progressive_web_apps/Introduction",
-      "translationof": "Web/Progressive_web_apps/Introduction"
-    },
-    "leaf": true,
-    "_checked": 1584639323
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/Web_Components/Using_custom_elements",
     "metadata": {
       "title": "Benutzerdefinierte Elemente",
@@ -1261,19 +1170,6 @@
       "translationof": "Web/HTTP"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTTP/Content_negotiation",
-    "metadata": {
-      "title": "Content negotiation",
-      "slug": "Web/HTTP/Content_negotiation",
-      "translationof": "Web/HTTP/Content_negotiation"
-    },
-    "leaf": true,
-    "_checked": 1584370677
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1672,19 +1568,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/KeyboardEvent/charCode",
-    "metadata": {
-      "title": "KeyboardEvent.charCode",
-      "slug": "Web/API/KeyboardEvent/charCode",
-      "translationof": "Web/API/KeyboardEvent/charCode"
-    },
-    "leaf": true,
-    "_checked": 1584368643
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/AnimationEvent",
     "metadata": {
       "title": "AnimationEvent",
@@ -1728,19 +1611,6 @@
       "translationof": "Web/API/URL"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/RTCDataChannel",
-    "metadata": {
-      "title": "RTCDataChannel",
-      "slug": "Web/API/RTCDataChannel",
-      "translationof": "Web/API/RTCDataChannel"
-    },
-    "leaf": true,
-    "_checked": 1584638676
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1880,19 +1750,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/WindowTimers/setInterval",
-    "metadata": {
-      "title": "WindowTimers.setInterval()",
-      "slug": "Web/API/WindowTimers/setInterval",
-      "translationof": "Web/API/WindowOrWorkerGlobalScope/setInterval"
-    },
-    "leaf": true,
-    "_checked": 1584368640
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/RTCPeerConnection",
     "metadata": {
       "title": "RTCPeerConnection",
@@ -2004,19 +1861,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/Web_Audio_API",
-    "metadata": {
-      "title": "Web Audio API",
-      "slug": "Web/API/Web_Audio_API",
-      "translationof": "Web/API/Web_Audio_API"
-    },
-    "leaf": true,
-    "_checked": 1585326539
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
     "metadata": {
       "title": "Using the Web Storage API",
@@ -2050,19 +1894,6 @@
     },
     "leaf": true,
     "_checked": 1585326132
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/Barrierefreiheit/ARIA/How_to_file_ARIA-related_bugs",
-    "metadata": {
-      "title": "How to file ARIA-related bugs",
-      "slug": "Web/Barrierefreiheit/ARIA/How_to_file_ARIA-related_bugs",
-      "translationof": "Web/Accessibility/ARIA/How_to_file_ARIA-related_bugs"
-    },
-    "leaf": true,
-    "_checked": 1584370691
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2480,19 +2311,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
-    "metadata": {
-      "title": "Object.defineProperties()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Object/defineProperties"
-    },
-    "leaf": true,
-    "_checked": 1584370283
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
     "metadata": {
       "title": "Object.defineProperty()",
@@ -2648,19 +2466,6 @@
       "translationof": "DragDrop"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "DragDrop/Drag_and_Drop",
-    "metadata": {
-      "title": "Ziehen und Ablegen",
-      "slug": "DragDrop/Drag_and_Drop",
-      "translationof": "Web/API/HTML_Drag_and_Drop_API"
-    },
-    "leaf": true,
-    "_checked": 1584369413
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
