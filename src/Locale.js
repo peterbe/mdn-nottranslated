@@ -25,7 +25,7 @@ export function Locale({ allSuspects, loading }) {
 
   useEffect(() => {
     if (!currentSuspect && slug && suspects) {
-      const foundCurrentSuspect = suspects.find(s => s.slug === slug);
+      const foundCurrentSuspect = suspects.find((s) => s.slug === slug);
       if (!foundCurrentSuspect) {
         throw new Error("Work harder!");
       }
@@ -39,14 +39,14 @@ export function Locale({ allSuspects, loading }) {
       if (!(currentSuspect.lastModified || currentSuspect.lastModifiedError)) {
         fetch(
           `/api/v0/about?locale=${currentSuspect.locale}&slug=${currentSuspect.slug}`
-        ).then(r => {
+        ).then((r) => {
           if (r.ok) {
-            r.json().then(data => {
+            r.json().then((data) => {
               if (!dismounted && data.documentData?.lastModified) {
                 setCurrentSuspect(
                   Object.assign(
                     {
-                      lastModified: data.documentData.lastModified
+                      lastModified: data.documentData.lastModified,
                     },
                     currentSuspect
                   )
@@ -58,7 +58,7 @@ export function Locale({ allSuspects, loading }) {
               setCurrentSuspect(
                 Object.assign(
                   {
-                    lastModifiedError: r.status
+                    lastModifiedError: r.status,
                   },
                   currentSuspect
                 )
@@ -95,16 +95,16 @@ export function Locale({ allSuspects, loading }) {
       if (allSuspects) {
         setLocaleLoading(true);
         fetch(`/suspects/${locale}.json`)
-          .then(r => {
+          .then((r) => {
             setLocaleLoading(false);
             if (!r.ok) {
               throw new Error(r.statusText);
             }
-            r.json().then(documents => {
+            r.json().then((documents) => {
               setSuspects(documents);
             });
           })
-          .catch(er => {
+          .catch((er) => {
             setLoadingError(er.toString());
           });
       }
@@ -131,7 +131,7 @@ export function Locale({ allSuspects, loading }) {
   useEffect(() => {
     if (suspects) {
       let ignored = getIgnored(locale);
-      let subset = suspects.filter(suspect => {
+      let subset = suspects.filter((suspect) => {
         return !(suspect.slug in ignored);
       });
       let ignoredCount = suspects.length - subset.length;
@@ -166,7 +166,7 @@ export function Locale({ allSuspects, loading }) {
       history.push(`/${locale}`);
       return;
     }
-    let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
+    let index = suspectsSubset.findIndex((s) => s.slug === currentSuspect.slug);
     if (index + 1 === suspectsSubset.length) {
       setSeed(Math.random());
     } else {
@@ -176,7 +176,7 @@ export function Locale({ allSuspects, loading }) {
   }
 
   function gotoPreviousSuspect() {
-    let index = suspectsSubset.findIndex(s => s.slug === currentSuspect.slug);
+    let index = suspectsSubset.findIndex((s) => s.slug === currentSuspect.slug);
     let nextIndex = index === 0 ? suspectsSubset.length - 1 : index - 1;
     setCurrentSuspect(suspectsSubset[nextIndex]);
   }
@@ -256,12 +256,12 @@ export function Locale({ allSuspects, loading }) {
           suspect={currentSuspect}
           gotoNext={gotoNextSuspect}
           gotoPrevious={gotoPreviousSuspect}
-          close={event => {
+          close={(event) => {
             event.preventDefault();
             history.replace(`/${locale}`);
             setCurrentSuspect(null);
           }}
-          ignore={event => {
+          ignore={(event) => {
             event.preventDefault();
             setIgnored(currentSuspect.locale, currentSuspect.slug);
             gotoNextSuspect();
@@ -311,7 +311,7 @@ function ShowSuspects({
   setCurrentSuspect,
   getStarted,
   // refreshSubset,
-  ignoredCount
+  ignoredCount,
 }) {
   let { locale } = useParams();
 
@@ -348,7 +348,7 @@ function ShowSuspects({
         </p>
       )}
 
-      {subset.map(suspect => {
+      {subset.map((suspect) => {
         let uri = `/${suspect.locale}/docs/${suspect.metadata.slug}`;
         let editUrl = `https://wiki.developer.mozilla.org${uri}/$edit`;
         let viewUrl = `https://developer.mozilla.org${uri}`;
@@ -363,7 +363,7 @@ function ShowSuspects({
                 <Link
                   to={`/${locale}/${suspect.metadata.slug}`}
                   title="Click to inspect further"
-                  onClick={event => {
+                  onClick={(event) => {
                     setCurrentSuspect(suspect);
                     event.preventDefault();
                   }}
@@ -416,7 +416,7 @@ function ShowSuspect({
   // close,
   gotoNext,
   gotoPrevious,
-  ignore
+  ignore,
 }) {
   let iFrameRef = useRef();
   let parentIFrameRef = useRef();
@@ -426,7 +426,7 @@ function ShowSuspect({
       iframe.contentWindow.scrollTo({
         top: y,
         left: 0,
-        behavior: "smooth"
+        behavior: "smooth",
       });
     }
 
@@ -608,8 +608,8 @@ function ShowRevisions({ suspect }) {
   let apiUrl = `/api/v0/revisions?${sp.toString()}`;
   const { data, error } = useSWR(
     apiUrl,
-    url => {
-      return fetch(url).then(r => {
+    (url) => {
+      return fetch(url).then((r) => {
         if (!r.ok) {
           throw new Error(`${r.status} on ${url}`);
         }
@@ -646,11 +646,11 @@ function ShowRevisions({ suspect }) {
   let guessedAge = null;
   if (data.revisions.length && data.enUSRevisions.length) {
     let firsts = data.revisions
-      .filter(r => r.creator !== "mdnwebdocs-bot")
-      .map(r => r.date);
+      .filter((r) => r.creator !== "mdnwebdocs-bot")
+      .map((r) => r.date);
     let firstEnUss = data.enUSRevisions
-      .filter(r => r.creator !== "mdnwebdocs-bot")
-      .map(r => r.date);
+      .filter((r) => r.creator !== "mdnwebdocs-bot")
+      .map((r) => r.date);
     if (firsts.length && firstEnUss.length) {
       let first = firsts[0];
       let enUs = firstEnUss[0];
@@ -679,7 +679,7 @@ function ShowRevisions({ suspect }) {
           </a>
         </h5>
         <ul>
-          {revisions.map(revision => (
+          {revisions.map((revision) => (
             <li key={revision.id}>
               {revision.date.replace(/\.\d+/, "")} by {revision.creator}
             </li>
@@ -688,7 +688,7 @@ function ShowRevisions({ suspect }) {
             <li>
               <a
                 href="#revisions"
-                onClick={event => {
+                onClick={(event) => {
                   event.preventDefault();
                   setShowAll(!showAll);
                 }}
@@ -710,7 +710,7 @@ function ShowRevisions({ suspect }) {
           </a>
         </h5>
         <ul>
-          {enUSRevisions.map(revision => (
+          {enUSRevisions.map((revision) => (
             <li key={revision.id}>
               {revision.date.replace(/\.\d+/, "")} by {revision.creator}
             </li>
@@ -719,7 +719,7 @@ function ShowRevisions({ suspect }) {
             <li>
               <a
                 href="#revisions"
-                onClick={event => {
+                onClick={(event) => {
                   event.preventDefault();
                   setShowAll(!showAll);
                 }}

@@ -4,7 +4,7 @@ import {
   Switch,
   Route,
   Link,
-  useLocation
+  useLocation,
 } from "react-router-dom";
 import "./index.scss";
 
@@ -13,7 +13,7 @@ import {
   TAGLINE,
   Container,
   getTodayDeleteButtonClicks,
-  getDeleteButtonClicks
+  getDeleteButtonClicks,
 } from "./Common";
 
 function App() {
@@ -21,14 +21,14 @@ function App() {
   let [loading, setLoading] = useState(false);
   useEffect(() => {
     setLoading(true);
-    fetch("/suspects/summary.json").then(r => {
+    fetch("/suspects/summary.json").then((r) => {
       setLoading(false);
       if (!r.ok) {
         console.error("Can't load the suspects/summary.json file!");
 
         throw new Error(r.statusText);
       }
-      r.json().then(summary => {
+      r.json().then((summary) => {
         setAllSuspects(summary);
       });
     });
@@ -174,7 +174,7 @@ function ShowAllSuspects({ allSuspects }) {
           </tr>
         </thead>
         <tbody>
-          {allSuspects.map(suspect => {
+          {allSuspects.map((suspect) => {
             return (
               <tr key={suspect.code}>
                 <td>
@@ -288,10 +288,10 @@ function DeleteCounter() {
     const memory = getDeleteButtonClicks();
     const keys = Object.keys(memory);
     keys.sort();
-    keys.forEach(key => {
+    keys.forEach((key) => {
       deleteClicks.push({
         date: key,
-        count: memory[key]
+        count: memory[key],
       });
     });
   }
@@ -322,7 +322,7 @@ function DeleteCounter() {
                 </p>
                 {deleteClicks && (
                   <ul>
-                    {deleteClicks.map(day => {
+                    {deleteClicks.map((day) => {
                       return (
                         <li key={day.date}>
                           <b>{day.date}</b> <i>{day.count} clicks</i>
@@ -337,7 +337,7 @@ function DeleteCounter() {
           <button
             className="modal-close is-large"
             aria-label="close"
-            onClick={event => {
+            onClick={(event) => {
               event.preventDefault();
               setShowModal(false);
             }}

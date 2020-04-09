@@ -14,7 +14,7 @@ const root = process.argv[2];
 const files = fs.readdirSync(root);
 
 const inception = {};
-JSON.parse(fs.readFileSync(path.join(root, "inception.json"))).forEach(l => {
+JSON.parse(fs.readFileSync(path.join(root, "inception.json"))).forEach((l) => {
   inception[l.code] = l.count;
 });
 
@@ -32,14 +32,14 @@ for (const file of files) {
     }
     const content = JSON.parse(fs.readFileSync(path.join(root, file)));
     const count = content.length;
-    const leafs = content.filter(x => x.leaf).length;
+    const leafs = content.filter((x) => x.leaf).length;
     all.push({
       code,
       language,
       count,
       file,
       leafs,
-      inception: inception[code]
+      inception: inception[code],
     });
   }
 }

@@ -28,7 +28,7 @@ app.use(
 
 // Set Cache-Control for successes
 app.use((req, res, next) => {
-  onHeaders(res, function() {
+  onHeaders(res, function () {
     if (res.statusCode === 200 || res.statusCode === 404) {
       this.setHeader("Cache-Control", "public,max-age=300");
     }
@@ -50,7 +50,7 @@ function download(uri) {
     throw new Error("getting too nervous about the uri");
   }
   console.log("FETCH HTML:", u, encodeURI(u));
-  return fetch(encodeURI(u)).then(r => {
+  return fetch(encodeURI(u)).then((r) => {
     if (!r.ok) {
       console.log("THROW:", r.status, "on", uri);
       throw new Error(r.status);
@@ -139,7 +139,7 @@ app.get("/api/v0/revisions", async (req, res) => {
     }
     res.json({
       revisions,
-      enUSRevisions
+      enUSRevisions,
     });
   } catch (ex) {
     console.error("Failed to fetch or download", ex.toString());
@@ -159,7 +159,7 @@ app.get("/api/v0/preview", (req, res) => {
     return res.status(400).send("no ?uri=...");
   }
   download(uri)
-    .then(rawHtml => {
+    .then((rawHtml) => {
       let $ = cheerio.load(rawHtml);
       $(
         "script, div.sidebar, div.global-notice, header, footer, meta"
@@ -203,7 +203,7 @@ app.get("/api/v0/preview", (req, res) => {
       $("iframe.interactive").replaceWith(sampleInteractiveExample);
       res.send($.html().trim());
     })
-    .catch(ex => {
+    .catch((ex) => {
       console.error("Failed to fetch or download", ex.toString());
       if (ex.toString().includes("404")) {
         res.status(404).send(`Page not found ${uri}`);

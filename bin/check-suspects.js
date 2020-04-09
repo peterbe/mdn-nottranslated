@@ -17,7 +17,7 @@ const files = fs.readdirSync(root);
 files.sort((a, b) => (Math.random() > 0.5 ? -1 : 1));
 
 files
-  .filter(file => {
+  .filter((file) => {
     // return file.includes("sv");
     return (
       file.endsWith(".json") &&
@@ -25,7 +25,7 @@ files
     );
   })
   .slice(0, 3)
-  .forEach(file => {
+  .forEach((file) => {
     // const code = file.replace(".json", "").toLowerCase();
 
     // const language = LANGUAGES[code];
@@ -34,7 +34,7 @@ files
     // }
     let suspectFile = path.join(root, file);
     originalContent = JSON.parse(fs.readFileSync(suspectFile));
-    const content = originalContent.filter(x => x.leaf && !x.notFound);
+    const content = originalContent.filter((x) => x.leaf && !x.notFound);
     content.sort((a, b) => (Math.random() > 0.5 ? -1 : 1));
 
     let checked = {};
@@ -42,7 +42,7 @@ files
     function checkNext() {
       if (checksDone >= 10 || checksDone >= content.length) {
         console.log("Let's stop there for", file);
-        let newOriginalContent = originalContent.map(suspect => {
+        let newOriginalContent = originalContent.map((suspect) => {
           if (suspect.slug in checked) {
             suspect.notFound = checked[suspect.slug];
           }
@@ -58,7 +58,7 @@ files
 
       let wikiUrl = `https://wiki.developer.mozilla.org/${suspect.locale}/docs/${suspect.slug}`;
       console.log("Checking", wikiUrl);
-      fetch(encodeURI(wikiUrl), { method: "HEAD" }).then(response => {
+      fetch(encodeURI(wikiUrl), { method: "HEAD" }).then((response) => {
         if (!response.ok) {
           if (response.status === 404) {
             console.log("IT HAS ALREADY BEEN DELETED!!", wikiUrl);
