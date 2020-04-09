@@ -54,7 +54,7 @@
   "devDependencies": {
     "bundlesize": "0.18.0",
     "gh-pages": "2.2.0",
-    "husky": "4.2.4",
+    "husky": "4.2.5",
     "nodemon": "2.0.3",
     "prettier": "2.0.4",
     "pretty-quick": "2.0.1"
