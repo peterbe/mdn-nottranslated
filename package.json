@@ -31,7 +31,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "summarize-suspects": "node bin/summarize-suspects.js public/suspects"
+    "summarize-suspects": "node bin/summarize-suspects.js public/suspects",
+    "lint": "yarn prettier-check",
+    "prettier-check": "prettier --check '**/*.{js,json,scss,html}'",
+    "prettier-format": "prettier --write '**/*.{js,json,scss,html}'"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -50,6 +53,14 @@
   },
   "devDependencies": {
     "gh-pages": "2.2.0",
-    "nodemon": "2.0.2"
+    "husky": "4.2.3",
+    "nodemon": "2.0.2",
+    "prettier": "2.0.4",
+    "pretty-quick": "2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged && yarn install --ignore-scripts"
+    }
   }
 }

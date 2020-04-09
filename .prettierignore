@@ -1,0 +1,12 @@
+# Backup files
+*~
+# exclude these files
+Dockerfile
+Procfile
+#content/_all-titles.json
+# exclude these directories
+/build/
+/public/suspects/
+
+# Misc files to ignore
+/src/serviceWorker.js
