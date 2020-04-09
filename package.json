@@ -52,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "bundlesize": "0.18.0",
     "gh-pages": "2.2.0",
     "husky": "4.2.3",
     "nodemon": "2.0.3",
