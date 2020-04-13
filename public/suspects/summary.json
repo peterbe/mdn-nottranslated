@@ -170,9 +170,9 @@
       "English": "Indonesian",
       "native": "Bahasa Indonesia"
     },
-    "count": 106,
+    "count": 92,
     "file": "id.json",
-    "leafs": 62,
+    "leafs": 48,
     "inception": 147
   },
   {
@@ -203,9 +203,9 @@
       "English": "Kabyle",
       "native": "Taqbaylit"
     },
-    "count": 52,
+    "count": 48,
     "file": "kab.json",
-    "leafs": 36,
+    "leafs": 32,
     "inception": 52
   },
   {
@@ -346,9 +346,9 @@
       "English": "Vietnamese",
       "native": "Tiếng Việt"
     },
-    "count": 114,
+    "count": 110,
     "file": "vi.json",
-    "leafs": 64,
+    "leafs": 60,
     "inception": 129
   }
 ]

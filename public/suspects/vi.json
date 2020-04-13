@@ -367,19 +367,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Security/MixedContent",
-    "metadata": {
-      "title": "Mixed Content",
-      "slug": "Security/MixedContent",
-      "translationof": "Web/Security/Mixed_content"
-    },
-    "leaf": true,
-    "_checked": 1584370876
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/SVG",
     "metadata": {
       "title": "SVG",
@@ -463,19 +450,6 @@
     },
     "leaf": true,
     "_checked": 1584638060
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/CSS/background-color",
-    "metadata": {
-      "title": "background-color",
-      "slug": "Web/CSS/background-color",
-      "translationof": "Web/CSS/background-color"
-    },
-    "leaf": true,
-    "_checked": 1584369742
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
@@ -1183,19 +1157,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
     "locale": "vi",
     "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
-    "metadata": {
-      "title": "Function.prototype.apply()",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Function/apply",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Function/apply"
-    },
-    "leaf": true,
-    "_checked": 1584455368
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
     "slug": "Web/JavaScript/Reference/Global_Objects/Math",
     "metadata": {
       "title": "Math",
@@ -1356,19 +1317,6 @@
     },
     "leaf": true,
     "_checked": 1584370860
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",
-    "locale": "vi",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-    "metadata": {
-      "title": "Set",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Set",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Set"
-    },
-    "leaf": true,
-    "_checked": 1584368734
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/vi",

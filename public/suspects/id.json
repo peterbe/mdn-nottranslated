@@ -92,19 +92,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Learn/Server-side/Express_Nodejs",
-    "metadata": {
-      "title": "Express Web Framework (Node.js/JavaScript)",
-      "slug": "Learn/Server-side/Express_Nodejs",
-      "translationof": "Learn/Server-side/Express_Nodejs"
-    },
-    "leaf": true,
-    "_checked": 1584369978
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Learn/Server-side/First_steps",
     "metadata": {
       "title": "Server-side website programming first steps",
@@ -138,19 +125,6 @@
     },
     "leaf": true,
     "_checked": 1584371359
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Learn/Server-side/Django/Tutorial_local_library_website",
-    "metadata": {
-      "title": "Django Tutorial: The Local Library website",
-      "slug": "Learn/Server-side/Django/Tutorial_local_library_website",
-      "translationof": "Learn/Server-side/Django/Tutorial_local_library_website"
-    },
-    "leaf": true,
-    "_checked": 1584368099
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -207,19 +181,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Tools/Network_Monitor",
-    "metadata": {
-      "title": "Network Monitor",
-      "slug": "Tools/Network_Monitor",
-      "translationof": "Tools/Network_Monitor"
-    },
-    "leaf": true,
-    "_checked": 1584368085
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Tools/Accessibility_inspector",
     "metadata": {
       "title": "Accessibility Inspector",
@@ -228,19 +189,6 @@
     },
     "leaf": true,
     "_checked": 1584371356
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Tools/Tools_Toolbox",
-    "metadata": {
-      "title": "Toolbox",
-      "slug": "Tools/Tools_Toolbox",
-      "translationof": "Tools/Tools_Toolbox"
-    },
-    "leaf": true,
-    "_checked": 1584369975
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -295,19 +243,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Tools/Web_Console/Opening_the_Web_Console",
-    "metadata": {
-      "title": "Opening the Web Console",
-      "slug": "Tools/Web_Console/Opening_the_Web_Console",
-      "translationof": "Tools/Web_Console/Opening_the_Web_Console"
-    },
-    "leaf": true,
-    "_checked": 1584369965
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Security",
     "metadata": {
       "title": "Security",
@@ -332,19 +267,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
-    "metadata": {
-      "title": "How to fix a with blocked mixed content",
-      "slug": "Security/MixedContent/How_to_fix_website_with_mixed_content",
-      "translationof": "Web/Security/Mixed_content/How_to_fix_website_with_mixed_content"
-    },
-    "leaf": true,
-    "_checked": 1584370544
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/Guide/CSS/Getting_started",
     "metadata": {
       "title": "Getting started with CSS",
@@ -352,19 +274,6 @@
       "translationof": "Web/Guide/CSS/Getting_started"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/Guide/CSS/Getting_started/Cascading_and_inheritance",
-    "metadata": {
-      "title": "Cascading and inheritance",
-      "slug": "Web/Guide/CSS/Getting_started/Cascading_and_inheritance",
-      "translationof": "Web/Guide/CSS/Getting_started/Cascading_and_inheritance"
-    },
-    "leaf": true,
-    "_checked": 1584371362
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -522,32 +431,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/HTML/Element/data",
-    "metadata": {
-      "title": "<data>",
-      "slug": "Web/HTML/Element/data",
-      "translationof": "Web/HTML/Element/data"
-    },
-    "leaf": true,
-    "_checked": 1584368091
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/tt",
-    "metadata": {
-      "title": "<tt>",
-      "slug": "Web/HTML/Element/tt",
-      "translationof": "Web/HTML/Element/tt"
-    },
-    "leaf": true,
-    "_checked": 1584368124
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/HTML/Element/base",
     "metadata": {
       "title": "<base>",
@@ -556,19 +439,6 @@
     },
     "leaf": true,
     "_checked": 1584369174
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/Progressive_web_apps",
-    "metadata": {
-      "title": "Progressive web apps",
-      "slug": "Web/Progressive_web_apps",
-      "translationof": "Web/Progressive_web_apps"
-    },
-    "leaf": true,
-    "_checked": 1584369980
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -713,19 +583,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
     "locale": "id",
     "guessed": "en",
-    "slug": "Web/API/AnalyserNode",
-    "metadata": {
-      "title": "AnalyserNode",
-      "slug": "Web/API/AnalyserNode",
-      "translationof": "Web/API/AnalyserNode"
-    },
-    "leaf": true,
-    "_checked": 1584370557
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
     "slug": "Web/API/Document",
     "metadata": {
       "title": "Document",
@@ -783,19 +640,6 @@
       "translationof": "Web/API/Window"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/API/DOMHighResTimeStamp",
-    "metadata": {
-      "title": "DOMHighResTimeStamp",
-      "slug": "Web/API/DOMHighResTimeStamp",
-      "translationof": "Web/API/DOMHighResTimeStamp"
-    },
-    "leaf": true,
-    "_checked": 1584369157
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -909,19 +753,6 @@
       "translationof": "Web/JavaScript/Guide"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Panduan/Expressions_and_Operators",
-    "metadata": {
-      "title": "Expressions and operators",
-      "slug": "Web/JavaScript/Panduan/Expressions_and_Operators",
-      "translationof": "Web/JavaScript/Guide/Expressions_and_Operators"
-    },
-    "leaf": true,
-    "_checked": 1584371363
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
@@ -1172,19 +1003,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/Object"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/id",
-    "locale": "id",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
-    "metadata": {
-      "title": "Object.prototype",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Object/prototype",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Object/prototype"
-    },
-    "leaf": true,
-    "_checked": 1584368088
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/id",

@@ -22,7 +22,7 @@
       "translationof": "Tools/Network_Monitor"
     },
     "leaf": true,
-    "_checked": 1586363045
+    "_checked": 1586791838
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -35,7 +35,7 @@
       "translationof": "Tools/Page_Inspector"
     },
     "leaf": true,
-    "_checked": 1586363031
+    "_checked": 1586791824
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -48,7 +48,7 @@
       "translationof": "Tools/Web_Console"
     },
     "leaf": true,
-    "_checked": 1586363033
+    "_checked": 1586791826
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -74,7 +74,7 @@
       "translationof": "Tools/Performance"
     },
     "leaf": true,
-    "_checked": 1586363021
+    "_checked": 1586791814
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -99,7 +99,7 @@
       "translationof": "Web/SVG"
     },
     "leaf": true,
-    "_checked": 1586363040
+    "_checked": 1586791833
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -124,7 +124,7 @@
       "translationof": "Web/Guide/Graphics"
     },
     "leaf": true,
-    "_checked": 1586363051
+    "_checked": 1586791843
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -137,7 +137,7 @@
       "translationof": "Web/MathML"
     },
     "leaf": true,
-    "_checked": 1586363039
+    "_checked": 1586791831
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -188,7 +188,7 @@
       "translationof": "Web/HTTP"
     },
     "leaf": true,
-    "_checked": 1586363041
+    "_checked": 1586791834
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -201,7 +201,7 @@
       "translationof": "Web/Accessibility"
     },
     "leaf": true,
-    "_checked": 1586363049
+    "_checked": 1586791842
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -214,19 +214,6 @@
       "translationof": "Web/API"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
-    "locale": "kab",
-    "guessed": "en",
-    "slug": "Web/API/Canvas_API",
-    "metadata": {
-      "title": "Canvas API",
-      "slug": "Web/API/Canvas_API",
-      "translationof": "Web/API/Canvas_API"
-    },
-    "leaf": true,
-    "_checked": 1586363137
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -264,7 +251,7 @@
       "translationof": "Web/JavaScript/Guide"
     },
     "leaf": true,
-    "_checked": 1586363028
+    "_checked": 1586791821
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -326,7 +313,7 @@
       "translationof": "Learn/Getting_started_with_the_web/HTML_basics"
     },
     "leaf": true,
-    "_checked": 1586363030
+    "_checked": 1586791823
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -376,7 +363,7 @@
       "translationof": "Glossary/SVG"
     },
     "leaf": true,
-    "_checked": 1586363032
+    "_checked": 1586791825
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -389,7 +376,7 @@
       "translationof": "Glossary/Abstraction"
     },
     "leaf": true,
-    "_checked": 1586363131
+    "_checked": 1586791844
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -402,7 +389,7 @@
       "translationof": "Glossary/CSS"
     },
     "leaf": true,
-    "_checked": 1586363047
+    "_checked": 1586791839
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -415,7 +402,7 @@
       "translationof": "Glossary/Responsive_web_design"
     },
     "leaf": true,
-    "_checked": 1586363024
+    "_checked": 1586791817
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -428,7 +415,7 @@
       "translationof": "Glossary/HTML"
     },
     "leaf": true,
-    "_checked": 1586363042
+    "_checked": 1586791835
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -454,7 +441,7 @@
       "translationof": "Glossary/XML"
     },
     "leaf": true,
-    "_checked": 1586363048
+    "_checked": 1586791840
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -472,32 +459,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
     "locale": "kab",
-    "guessed": "en",
-    "slug": "Glossary/JavaScript",
-    "metadata": {
-      "title": "JavaScript",
-      "slug": "Glossary/JavaScript",
-      "translationof": "Glossary/JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1586363022
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
-    "locale": "kab",
-    "guessed": "en",
-    "slug": "Glossary/Accessibility",
-    "metadata": {
-      "title": "Tanekcumt",
-      "slug": "Glossary/Accessibility",
-      "translationof": "Glossary/Accessibility"
-    },
-    "leaf": true,
-    "_checked": 1586363132
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
-    "locale": "kab",
     "guessed": "fi",
     "slug": "Glossary/aneggaf",
     "metadata": {
@@ -505,7 +466,7 @@
       "slug": "Glossary/aneggaf"
     },
     "leaf": true,
-    "_checked": 1586363035
+    "_checked": 1586791828
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -518,7 +479,7 @@
       "translationof": "Glossary/AJAX"
     },
     "leaf": true,
-    "_checked": 1586363044
+    "_checked": 1586791836
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -543,7 +504,7 @@
       "translationof": "Games/Examples"
     },
     "leaf": true,
-    "_checked": 1586363023
+    "_checked": 1586791816
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -568,7 +529,7 @@
       "translationof": "Games/Tools/Engines_and_tools"
     },
     "leaf": true,
-    "_checked": 1586363026
+    "_checked": 1586791819
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -593,7 +554,7 @@
       "translationof": "Games/Tutorials/2D_breakout_game_Phaser"
     },
     "leaf": true,
-    "_checked": 1586363027
+    "_checked": 1586791820
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -630,20 +591,7 @@
       "translationof": "Games/Techniques/3D_on_the_web/Basic_theory"
     },
     "leaf": true,
-    "_checked": 1586363037
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
-    "locale": "kab",
-    "guessed": "en",
-    "slug": "Games/Techniques/2D_collision_detection",
-    "metadata": {
-      "title": "Tifin n amberrez 2D",
-      "slug": "Games/Techniques/2D_collision_detection",
-      "translationof": "Games/Techniques/2D_collision_detection"
-    },
-    "leaf": true,
-    "_checked": 1586363144
+    "_checked": 1586791830
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/kab",
@@ -656,6 +604,6 @@
       "translationof": "Games/Techniques/3D_collision_detection"
     },
     "leaf": true,
-    "_checked": 1586363036
+    "_checked": 1586791829
   }
 ]
