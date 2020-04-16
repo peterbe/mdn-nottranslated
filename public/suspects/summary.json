@@ -16,9 +16,9 @@
       "English": "Bengali",
       "native": "বাংলা"
     },
-    "count": 45,
+    "count": 41,
     "file": "bn.json",
-    "leafs": 8,
+    "leafs": 4,
     "inception": 131
   },
   {
@@ -60,9 +60,9 @@
       "English": "Chinese (Simplified)",
       "native": "中文 (简体)"
     },
-    "count": 1458,
+    "count": 1457,
     "file": "zh-cn.json",
-    "leafs": 1219,
+    "leafs": 1218,
     "inception": 1473
   },
   {
@@ -115,9 +115,9 @@
       "English": "German",
       "native": "Deutsch"
     },
-    "count": 198,
+    "count": 188,
     "file": "de.json",
-    "leafs": 118,
+    "leafs": 108,
     "inception": 257
   },
   {

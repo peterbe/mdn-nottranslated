@@ -105,19 +105,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
-    "metadata": {
-      "title": "Bilder in HTML",
-      "slug": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
-      "translationof": "Learn/HTML/Multimedia_and_embedding/Images_in_HTML"
-    },
-    "leaf": true,
-    "_checked": 1584638989
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Learn/JavaScript/Objects/JSON",
     "metadata": {
       "title": "Arbeiten mit JSON",
@@ -234,19 +221,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Learn/Tools_and_testing/Cross_browser_testing/JavaScript",
-    "metadata": {
-      "title": "Mit h\u00e4ufigen JavaScript Problemen umgehen",
-      "slug": "Learn/Tools_and_testing/Cross_browser_testing/JavaScript",
-      "translationof": "Learn/Tools_and_testing/Cross_browser_testing/JavaScript"
-    },
-    "leaf": true,
-    "_checked": 1584370686
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Tools/Web_Konsole",
     "metadata": {
       "title": "Web-Konsole",
@@ -344,19 +318,6 @@
     },
     "leaf": true,
     "_checked": 1584368649
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Tools/Deprecated_tools",
-    "metadata": {
-      "title": "Deprecated tools",
-      "slug": "Tools/Deprecated_tools",
-      "translationof": "Tools/Deprecated_tools"
-    },
-    "leaf": true,
-    "_checked": 1584368664
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -778,19 +739,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
-    "metadata": {
-      "title": "Grundkonzept des Grid Layouts",
-      "slug": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout",
-      "translationof": "Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout"
-    },
-    "leaf": true,
-    "_checked": 1584638687
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/CSS/box-decoration-break",
     "metadata": {
       "title": "box-decoration-break",
@@ -906,19 +854,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/CSS/@font-face",
-    "metadata": {
-      "title": "@font-face",
-      "slug": "Web/CSS/@font-face",
-      "translationof": "Web/CSS/@font-face"
-    },
-    "leaf": true,
-    "_checked": 1584368644
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/CSS/CSS_Animations",
     "metadata": {
       "title": "CSS Animations",
@@ -952,19 +887,6 @@
     },
     "leaf": true,
     "_checked": 1584369409
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/HTML/Using_HTML5_audio_and_video",
-    "metadata": {
-      "title": "Using HTML5 audio and video",
-      "slug": "Web/HTML/Using_HTML5_audio_and_video",
-      "translationof": "Web/Guide/HTML/Using_HTML5_audio_and_video"
-    },
-    "leaf": true,
-    "_checked": 1584370681
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -1641,19 +1563,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/AudioContext/createAnalyser",
-    "metadata": {
-      "title": "AudioContext.createAnalyser()",
-      "slug": "Web/API/AudioContext/createAnalyser",
-      "translationof": "Web/API/BaseAudioContext/createAnalyser"
-    },
-    "leaf": true,
-    "_checked": 1584639318
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/HTMLFormElement",
     "metadata": {
       "title": "HTMLFormElement",
@@ -1799,19 +1708,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
     "locale": "de",
     "guessed": "en",
-    "slug": "Web/API/HTMLMediaElement",
-    "metadata": {
-      "title": "HTMLMediaElement",
-      "slug": "Web/API/HTMLMediaElement",
-      "translationof": "Web/API/HTMLMediaElement"
-    },
-    "leaf": true,
-    "_checked": 1584370290
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
     "slug": "Web/API/Range",
     "metadata": {
       "title": "Range",
@@ -1856,19 +1752,6 @@
       "translationof": "Web/API/Event"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
-    "metadata": {
-      "title": "Using the Web Storage API",
-      "slug": "Web/API/Web_Storage_API/Using_the_Web_Storage_API",
-      "translationof": "Web/API/Web_Storage_API/Using_the_Web_Storage_API"
-    },
-    "leaf": true,
-    "_checked": 1584368648
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
@@ -2008,19 +1891,6 @@
     },
     "leaf": true,
     "_checked": 1584639314
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
-    "locale": "de",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/WeakMap",
-    "metadata": {
-      "title": "WeakMap",
-      "slug": "Web/JavaScript/Reference/Global_Objects/WeakMap",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/WeakMap"
-    },
-    "leaf": true,
-    "_checked": 1584638984
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/de",
