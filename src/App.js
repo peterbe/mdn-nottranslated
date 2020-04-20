@@ -6,6 +6,7 @@ import {
   Link,
   useLocation,
 } from "react-router-dom";
+import useSWR from "swr";
 import "./index.scss";
 
 import { Locale } from "./Locale";
@@ -17,22 +18,17 @@ import {
 } from "./Common";
 
 function App() {
-  let [allSuspects, setAllSuspects] = useState(null);
-  let [loading, setLoading] = useState(false);
-  useEffect(() => {
-    setLoading(true);
-    fetch("/suspects/summary.json").then((r) => {
-      setLoading(false);
+  const { data, error } = useSWR("/suspects/summary.json", (url) => {
+    return fetch(url).then((r) => {
       if (!r.ok) {
-        console.error("Can't load the suspects/summary.json file!");
-
-        throw new Error(r.statusText);
+        throw new Error(`${r.status} on ${url}`);
       }
-      r.json().then((summary) => {
-        setAllSuspects(summary);
-      });
+      return r.json();
     });
-  }, []);
+  });
+  // Better names
+  const allSuspects = data || null;
+  const loading = !data && !error;
 
   return (
     <Router>
@@ -40,6 +36,11 @@ function App() {
         <Head />
         <DeleteCounter />
         <section className="section">
+          {error && (
+            <Container>
+              <ShowSummaryError error={error} />
+            </Container>
+          )}
           <Switch>
             <Route path="/about">
               <About />
@@ -81,6 +82,16 @@ function App() {
 }
 
 export default App;
+
+function ShowSummaryError({ error }) {
+  return (
+    <div className="notification is-danger is-light">
+      <h3>Data loading error</h3>
+      <p>An error occurred loading the summary JSON data</p>
+      <pre>{error.toString()}</pre>
+    </div>
+  );
+}
 
 function NoMatch() {
   return (
@@ -137,6 +148,9 @@ function Home({ allSuspects, loading }) {
   useEffect(() => {
     document.title = TAGLINE;
   }, []);
+  if (!allSuspects) {
+    return null;
+  }
   return (
     <Container className="locales">
       <h2 className="title">Pick Your Locale</h2>
