@@ -41,6 +41,11 @@ function App() {
               <ShowSummaryError error={error} />
             </Container>
           )}
+          {!error && !data && (
+            <Container>
+              <h5>Loading list of locales...</h5>
+            </Container>
+          )}
           <Switch>
             <Route path="/about">
               <About />
