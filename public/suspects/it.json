@@ -214,19 +214,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Tools/Blocco_per_gli_appunti",
-    "metadata": {
-      "title": "Blocco per gli appunti",
-      "slug": "Tools/Blocco_per_gli_appunti",
-      "translationof": "Tools/Scratchpad"
-    },
-    "leaf": true,
-    "_checked": 1584368184
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Tools/Debugger/How_to",
     "metadata": {
       "title": "How to",
@@ -375,19 +362,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/HTML/Using_HTML5_audio_and_video",
-    "metadata": {
-      "title": "Utilizzare audio e video di HTML5",
-      "slug": "Web/HTML/Using_HTML5_audio_and_video",
-      "translationof": "Web/Guide/HTML/Using_HTML5_audio_and_video"
-    },
-    "leaf": true,
-    "_checked": 1584369326
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/HTML/Element/iframe",
     "metadata": {
       "title": "<iframe>",
@@ -408,32 +382,6 @@
       "translationof": "Web/HTML/Element/input"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/input/button",
-    "metadata": {
-      "title": "<input type=\"button\">",
-      "slug": "Web/HTML/Element/input/button",
-      "translationof": "Web/HTML/Element/input/button"
-    },
-    "leaf": true,
-    "_checked": 1584370321
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/HTML/Element/script",
-    "metadata": {
-      "title": "<script>",
-      "slug": "Web/HTML/Element/script",
-      "translationof": "Web/HTML/Element/script"
-    },
-    "leaf": true,
-    "_checked": 1584370332
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -496,19 +444,6 @@
       "translationof": "Web/HTTP/Status"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/HTTP/Autenticazione",
-    "metadata": {
-      "title": "Autenticazione HTTP",
-      "slug": "Web/HTTP/Autenticazione",
-      "translationof": "Web/HTTP/Authentication"
-    },
-    "leaf": true,
-    "_checked": 1584638864
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -818,32 +753,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
     "locale": "it",
     "guessed": "en",
-    "slug": "Web/JavaScript/Strutture_dati",
-    "metadata": {
-      "title": "JavaScript tipi e strutture dati",
-      "slug": "Web/JavaScript/Strutture_dati",
-      "translationof": "Web/JavaScript/Data_structures"
-    },
-    "leaf": true,
-    "_checked": 1584638377
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Language_Resources",
-    "metadata": {
-      "title": "JavaScript language resources",
-      "slug": "Web/JavaScript/Language_Resources",
-      "translationof": "Web/JavaScript/Language_Resources"
-    },
-    "leaf": true,
-    "_checked": 1584368186
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
     "slug": "Web/JavaScript/Guida/Espressioni_Regolari",
     "metadata": {
       "title": "Espressioni regolari",
@@ -876,19 +785,6 @@
       "translationof": "Web/JavaScript/Reference/Operators"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Operators/Operator_Precedence",
-    "metadata": {
-      "title": "Operator precedence",
-      "slug": "Web/JavaScript/Reference/Operators/Operator_Precedence",
-      "translationof": "Web/JavaScript/Reference/Operators/Operator_Precedence"
-    },
-    "leaf": true,
-    "_checked": 1584368218
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
@@ -1153,19 +1049,6 @@
       "translationof": "Web/JavaScript/Reference/Global_Objects/JSON"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/it",
-    "locale": "it",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Reference/Global_Objects/Boolean",
-    "metadata": {
-      "title": "Boolean",
-      "slug": "Web/JavaScript/Reference/Global_Objects/Boolean",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Boolean"
-    },
-    "leaf": true,
-    "_checked": 1584368198
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/it",

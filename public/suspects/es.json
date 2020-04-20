@@ -259,19 +259,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Learn/Server-side/Express_Nodejs/forms",
-    "metadata": {
-      "title": "Express Tutorial Parte 5: Trabajando con Formularios",
-      "slug": "Learn/Server-side/Express_Nodejs/forms",
-      "translationof": "Learn/Server-side/Express_Nodejs/forms"
-    },
-    "leaf": true,
-    "_checked": 1584370857
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Learn/Server-side/Express_Nodejs/mongoose",
     "metadata": {
       "title": "Express Tutorial 3: Utilizando bases de datos (con Mongoose)",
@@ -821,19 +808,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/Accesibilidad/Un_vistazo_a_la_accesibilidad_de_aplicaciones_web_y_widgets",
-    "metadata": {
-      "title": "Un vistazo a la accesibilidad de aplicaciones web y widgets",
-      "slug": "Web/Accesibilidad/Un_vistazo_a_la_accesibilidad_de_aplicaciones_web_y_widgets",
-      "translationof": "Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets"
-    },
-    "leaf": true,
-    "_checked": 1584638890
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/MathML/Authoring",
     "metadata": {
       "title": "Redacci\u00f3n de MathML",
@@ -866,19 +840,6 @@
       "translationof": "Web/MathML/Examples"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "it",
-    "slug": "Web/XPath/Ejes/self",
-    "metadata": {
-      "title": "self",
-      "slug": "Web/XPath/Ejes/self",
-      "translationof": "Web/XPath/Axes/self"
-    },
-    "leaf": true,
-    "_checked": 1584638891
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -2098,19 +2059,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/Web_Components/Usando_custom_elements",
-    "metadata": {
-      "title": "Usando custom elements",
-      "slug": "Web/Web_Components/Usando_custom_elements",
-      "translationof": "Web/Web_Components/Using_custom_elements"
-    },
-    "leaf": true,
-    "_checked": 1584639506
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/Web_Components/Using_shadow_DOM",
     "metadata": {
       "title": "Usando shadow DOM",
@@ -2981,19 +2929,6 @@
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
     "guessed": "en",
-    "slug": "Web/API/Document/createEvent",
-    "metadata": {
-      "title": "document.createEvent",
-      "slug": "Web/API/Document/createEvent",
-      "translationof": "Web/API/Document/createEvent"
-    },
-    "leaf": true,
-    "_checked": 1584370843
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
     "slug": "Web/API/Document/evaluate",
     "metadata": {
       "title": "Document.evaluate()",
@@ -3238,18 +3173,6 @@
     },
     "leaf": true,
     "_checked": 1584369490
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "UNKNOWN",
-    "slug": "Web/API/Window/navigator/geolocation",
-    "metadata": {
-      "title": "geolocation",
-      "slug": "Web/API/Window/navigator/geolocation"
-    },
-    "leaf": true,
-    "_checked": 1584370418
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -3510,19 +3433,6 @@
       "translationof": "Web/API/CanvasRenderingContext2D"
     },
     "leaf": false
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Web/API/Page_Visibility_API",
-    "metadata": {
-      "title": "Page Visibility API",
-      "slug": "Web/API/Page_Visibility_API",
-      "translationof": "Web/API/Page_Visibility_API"
-    },
-    "leaf": true,
-    "_checked": 1584639528
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4007,19 +3917,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "ca",
-    "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/parseInt",
-    "metadata": {
-      "title": "Number.parseInt()",
-      "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/parseInt",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Number/parseInt"
-    },
-    "leaf": true,
-    "_checked": 1584455315
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
     "guessed": "en",
     "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/parseFloat",
     "metadata": {
@@ -4029,19 +3926,6 @@
     },
     "leaf": true,
     "_checked": 1584638898
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/toLocaleString",
-    "metadata": {
-      "title": "Number.prototype.toLocaleString()",
-      "slug": "Web/JavaScript/Referencia/Objetos_globales/Number/toLocaleString",
-      "translationof": "Web/JavaScript/Reference/Global_Objects/Number/toLocaleString"
-    },
-    "leaf": true,
-    "_checked": 1584371115
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
@@ -4487,30 +4371,6 @@
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
     "locale": "es",
-    "guessed": "pt",
-    "slug": "Mobile",
-    "metadata": {
-      "title": "M\u00f3vil",
-      "slug": "Mobile"
-    },
-    "leaf": true,
-    "_checked": 1584368779
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "Sample",
-    "metadata": {
-      "title": "Sample",
-      "slug": "Sample"
-    },
-    "leaf": true,
-    "_checked": 1584368786
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
     "guessed": "en",
     "slug": "Glossary/DTD",
     "metadata": {
@@ -4533,19 +4393,6 @@
     },
     "leaf": true,
     "_checked": 1584737340
-  },
-  {
-    "folder": "/Users/peterbe/stumptown-renderer/content/files/es",
-    "locale": "es",
-    "guessed": "en",
-    "slug": "DOM/Eventos_t\u00e1ctiles",
-    "metadata": {
-      "title": "Eventos t\u00e1ctiles",
-      "slug": "DOM/Eventos_t\u00e1ctiles",
-      "translationof": "Web/Guide/Events/Touch_events_(Mozilla_experimental)"
-    },
-    "leaf": true,
-    "_checked": 1584371449
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/es",

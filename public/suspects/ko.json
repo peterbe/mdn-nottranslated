@@ -7245,7 +7245,8 @@
       "slug": "Web/JavaScript/Reference/Global_Objects/Math/LN2",
       "translationof": "Web/JavaScript/Reference/Global_Objects/Math/LN2"
     },
-    "leaf": true
+    "leaf": true,
+    "_checked": 1587410775
   },
   {
     "folder": "/Users/peterbe/stumptown-renderer/content/files/ko",
