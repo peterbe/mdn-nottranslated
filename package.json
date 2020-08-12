@@ -23,7 +23,7 @@
     "react-router-dom": "5.2.0",
     "react-scripts": "3.4.2",
     "swr": "0.2.3",
-    "throttle-debounce": "2.2.1"
+    "throttle-debounce": "2.3.0"
   },
   "scripts": {
     "server": "nodemon server.js",
